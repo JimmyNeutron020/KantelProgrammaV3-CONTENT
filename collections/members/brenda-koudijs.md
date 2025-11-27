@@ -2,7 +2,7 @@
 id: 72ccdf95-4d0a-4134-a8a0-01e21850d596
 blueprint: member
 title: 'Brenda Koudijs'
-avatar: brenda-image.png
-updated_by: 702c0b57-b698-494d-a1a0-ce8a9ac5d5fd
-updated_at: 1762293880
+avatar: members/brendalacht.jpeg
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1764269514
 ---
