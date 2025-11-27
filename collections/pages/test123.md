@@ -74,7 +74,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - img_2454-2.jpg
+        - brand/img_2454.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -138,7 +138,7 @@ page_builder:
           video_link: null
           preview_image: null
           images:
-            - screenshot-2025-02-01-at-16.50.41.png
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -205,7 +205,7 @@ page_builder:
           video_link: null
           preview_image: null
           images:
-            - screenshot-2025-02-01-at-16.50.10.png
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -484,72 +484,12 @@ page_builder:
                   button_layout: link
                   button_colour: orange
   -
-    id: mibrlubm
-    heading_size: S
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Bekend van'
-    show_tag: false
-    logos:
-      -
-        id: mibrm68x
-        logo_image: flair-logo.svg
-        type: logo
-        enabled: true
-      -
-        id: mibrno15
-        logo_image: download-(1).png
-        type: logo
-        enabled: true
-      -
-        id: mibrnmnn
-        logo_image: metro-logo-zwart.svg
-        type: logo
-        enabled: true
-      -
-        id: mibrnl4u
-        logo_image: rtl4_2023.svg.png
-        type: logo
-        enabled: true
-      -
-        id: mibrnk2s
-        logo_image: oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        type: logo
-        enabled: true
-      -
-        id: mibrniis
-        logo_image: screenshot-2025-11-23-at-14.45.09.png
-        type: logo
-        enabled: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: FeaturedMedia
-    enabled: true
-    color: '#ffffff'
-  -
     id: m7ylis1b
     media:
       video: true
       autoplay_video: true
       video_link: 'https://vimeo.com/996074037'
-      preview_image: img_2454-2.jpg
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
       images: {  }
       show_swiper_controls: null
       autoplay: true
@@ -634,7 +574,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - 231128-paul-en-chantal-_77834.jpg
+        - brand/231128-paul-en-chantal-_77834-(1).jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1028,7 +968,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - fotofolies-x-kantelprogramma_live-95.jpg
+        - community/fotofolies-x-kantelprogramma_live-95.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1168,7 +1108,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1397,5 +1337,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1763907300
+updated_at: 1764269387
 ---
