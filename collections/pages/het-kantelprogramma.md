@@ -11,9 +11,9 @@ page_builder:
       video: false
       autoplay_video: true
       video_link: 'https://vimeo.com/1126170387'
-      preview_image: screenshot-2025-11-07-at-10.27.47.png
+      preview_image: null
       images:
-        - fotofolies-x-kantelprogramma-paul-en-chantal-118-(1).jpg
+        - brand/fotofolies-x-kantelprogramma_live-13.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -476,6 +476,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
     tag_text: Member
-updated_by: 702c0b57-b698-494d-a1a0-ce8a9ac5d5fd
-updated_at: 1762555707
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1764269597
 ---
