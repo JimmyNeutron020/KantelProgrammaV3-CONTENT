@@ -13,7 +13,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - fotofolies-x-kantelprogramma_live-134.jpg
+        - brand/fotofolies-x-kantelprogramma_live-134.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -67,6 +67,6 @@ page_builder:
       spacing_mobile: standard
     type: FaqList
     enabled: true
-updated_by: 702c0b57-b698-494d-a1a0-ce8a9ac5d5fd
-updated_at: 1762252924
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1764269664
 ---
