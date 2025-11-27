@@ -1,6 +1,5 @@
 ---
 id: f2720161-7a16-4907-bec3-06c4acb05c43
-published: false
 blueprint: blog
 title: 'Blog post 123 (Duplicated) (4)'
 author: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
