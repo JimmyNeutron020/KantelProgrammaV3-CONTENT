@@ -1,0 +1,292 @@
+title: Menu
+data:
+  menu_items_big:
+    -
+      id: mhhuizrn
+      label: 'Shine Sprint'
+      link_type: internal
+      target_blank: false
+      internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
+    -
+      id: mhhuj963
+      label: 'Zorgeloos Zwanger'
+      link_type: external
+      external_link: '#'
+      target_blank: false
+    -
+      id: mhhujxz1
+      label: 'Ratrace Reset'
+      link_type: external
+      external_link: '#'
+      target_blank: false
+    -
+      id: mhhumdbl
+      label: 'Eten dat heelt'
+      link_type: external
+      external_link: '#'
+      target_blank: false
+    -
+      id: mhhummtm
+      label: Resultaten
+      link_type: internal
+      target_blank: false
+      internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
+    -
+      id: mhhun6d0
+      label: Community
+      link_type: external
+      external_link: '#'
+      target_blank: false
+  menu_items_small:
+    -
+      id: mhhuncvp
+      label: Blog
+      link_type: internal
+      target_blank: false
+      internal_link: b91abd03-a45d-4203-af4b-1e8686cee5d9
+    -
+      id: mhhup4lb
+      label: Contact
+      link_type: internal
+      target_blank: false
+      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
+    -
+      id: mhj60l3v
+      label: 'Veelgestelde vragen'
+      link_type: internal
+      target_blank: false
+      internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
+    -
+      id: mhhunphc
+      label: 'Over Chantal & Paul'
+      link_type: external
+      external_link: '#'
+      target_blank: false
+    -
+      id: mhhuo38o
+      label: 'Chantal & Paul in de media'
+      link_type: external
+      external_link: '#'
+      target_blank: false
+    -
+      id: mhj614n6
+      label: Partners
+      link_type: external
+      external_link: '#'
+      target_blank: false
+  show_featured_item: true
+  featured_image: 231128-paul-en-chantal-_77834.jpg
+  heading_size: XS
+  heading:
+    -
+      type: heading
+      attrs:
+        level: 2
+      content:
+        -
+          type: text
+          text: 'Gratis om mee te nemen!'
+  show_tag: true
+  tag_text: "You're welcome!"
+  tag_alignment: right
+  package_cards:
+    -
+      id: mhhv234l
+      icon: 'fa-regular fa-book'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel E-Book'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Direct beschikbaar'
+      label: 'Kantel E-book'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+    -
+      id: mhhv3spg
+      icon: 'fa-regular fa-presentation-screen'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Webinar'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Meerdere data'
+      label: 'Kantel E-book'
+      link: '#'
+      button_layout: standard
+      type: card_item
+      enabled: true
+      link_type: link
+      target_blank: false
+      button_colour: orange
+    -
+      id: mhhv3q6u
+      icon: 'fa-regular fa-eye'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Inzicht'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: '19 november t/m 2 december 2025'
+      label: 'Kantel E-book'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+    -
+      id: mhhv3oxo
+      icon: 'fa-regular fa-person-arrow-up-from-line'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Scan'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Zoomsessie op afspraak'
+      label: 'Kantel E-book'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+    -
+      id: mhhv3nwa
+      icon: 'fa-brands fa-spotify'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Kracht'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Podcast te beluisteren via Spotify'
+      label: 'Kantel E-book'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+    -
+      id: mhhv3mmy
+      icon: 'fa-regular fa-message-lines'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Vragen'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'In je mail'
+      label: 'Kantel E-book'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+  general_info: '© 2025 Kantel Programma. All rights reserved.'
+  social_icons:
+    -
+      id: mhj4f9jf
+      icon: 'fa-brands fa-instagram'
+      link: '#'
+    -
+      id: mhj4feq0
+      icon: 'fa-brands fa-facebook'
+      link: '#'
+    -
+      id: mhj4focg
+      icon: 'fa-regular fa-envelope'
+      link: '#'

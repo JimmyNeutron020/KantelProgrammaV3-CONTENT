@@ -1,0 +1,481 @@
+---
+id: a932636a-55fe-4d95-8489-dbbc91f1cf66
+blueprint: page
+title: 'Het KantelProgramma'
+page_builder:
+  -
+    id: mhkyu2dz
+    full_height: false
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: true
+      video_link: 'https://vimeo.com/1126170387'
+      preview_image: screenshot-2025-11-07-at-10.27.47.png
+      images:
+        - fotofolies-x-kantelprogramma-paul-en-chantal-118-(1).jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: mhkyxgkr
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Het KantelProgramma'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+      -
+        type: set
+        attrs:
+          id: mhl0zyu1
+          values:
+            type: buttons
+            buttons:
+              -
+                id: F8XozxA3
+                label: Prijzen
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: white
+              -
+                id: mhl106o0
+                label: 'Meer informatie'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: standard
+                button_colour: white
+    type: HeroSection
+    enabled: true
+  -
+    id: mhghxx3x
+    heading_size: M
+    show_tag: true
+    packages:
+      -
+        id: mhghymvy
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: Basis
+        show_tag: false
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen 'proeven' of het de hele investering waard is."
+        price: '€ 1.247'
+        show_discount: true
+        discount_price: '€ 999'
+        label: 'Start nu'
+        link_type: link
+        target_blank: false
+        link: '#'
+        button_layout: standard
+        button_colour: orange
+        type: package
+        enabled: true
+        highlight: false
+      -
+        id: mhgi1ohv
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: Compleet
+        show_tag: false
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen 'proeven' of het de hele investering waard is."
+        price: '€ 1.247'
+        show_discount: true
+        discount_price: '€ 999'
+        label: 'Start nu'
+        link_type: link
+        target_blank: false
+        link: '#'
+        button_layout: standard
+        button_colour: orange
+        type: package
+        enabled: true
+        highlight: true
+      -
+        id: mhgi1nf0
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: Connect
+        show_tag: false
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen 'proeven' of het de hele investering waard is."
+        price: '€ 1.247'
+        show_discount: true
+        discount_price: '€ 999'
+        label: 'Start nu'
+        link_type: link
+        target_blank: false
+        link: '#'
+        button_layout: standard
+        button_colour: orange
+        type: package
+        enabled: true
+        highlight: false
+    features:
+      -
+        id: mhghyhct
+        feature_name: 'Bewezen Beter Kantel Methode'
+        package_1: true
+        package_2: true
+        package_3: true
+        type: feature
+        enabled: true
+        package_1_type: check
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhgi0toy
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz1e5e
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz1csp
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz1bq5
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz1axx
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz1a71
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz19ha
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz18pt
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz17w4
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz1613
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz15c4
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz14ni
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz13zt
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz13ba
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz12md
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz11y8
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz117x
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhkz100c
+        feature_name: '7 modules'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: cross
+        package_2_type: check
+        package_3_type: check
+      -
+        id: mhgi1fxw
+        feature_name: '13 modules'
+        package_1: false
+        package_2: true
+        package_3: true
+        type: feature
+        enabled: true
+        package_1_type: text
+        package_2_type: check
+        package_3_type: check
+        package_1_text: 'Tot module 7'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PropositionSection
+    enabled: true
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Shine Sprint'
+    tag_text: "Let's go!"
+    tag_alignment: center
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+  -
+    id: mhl4c1fm
+    heading_size: M
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Our Members'
+    show_tag: true
+    collection_type: members
+    display_mode: all
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
+    tag_text: Member
+updated_by: 702c0b57-b698-494d-a1a0-ce8a9ac5d5fd
+updated_at: 1762555707
+---

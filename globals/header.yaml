@@ -1,0 +1,36 @@
+title: Header
+data:
+  transparent_buttons:
+    -
+      id: mhhtc9gq
+      label: Webinar
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: solid
+      button_colour: white
+    -
+      id: mhhtcrhg
+      label: 'Kantel Inzicht'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: white
+  scrolled_buttons:
+    -
+      id: mhhtda76
+      label: Webinar
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: solid
+      button_colour: orange
+    -
+      id: mhhtdhmf
+      label: 'Kantel Inzicht'
+      link_type: link
+      target_blank: false
+      link: '#'
+      button_layout: standard
+      button_colour: orange
