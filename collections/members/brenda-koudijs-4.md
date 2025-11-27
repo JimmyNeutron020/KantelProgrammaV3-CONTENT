@@ -1,6 +1,5 @@
 ---
 id: 3fa18196-b299-491a-8c92-7a8bc046c5f2
-published: false
 blueprint: member
 title: 'Brenda Koudijs (Duplicated) (4)'
 avatar: members/brendalacht.jpeg
