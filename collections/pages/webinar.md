@@ -598,7 +598,7 @@ page_builder:
                 label: Inschrijven
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#inschrijven-webinar'
                 button_layout: solid
                 button_colour: white
     show_settings: false
@@ -720,6 +720,14 @@ page_builder:
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
                 button_layout: solid
                 button_colour: orange
+              -
+                id: mijh0cx1
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -801,5 +809,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764371023
+updated_at: 1764371154
 ---
