@@ -445,6 +445,29 @@ page_builder:
           -
             type: text
             text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+      -
+        type: set
+        attrs:
+          id: mijhg904
+          values:
+            type: flex_icons
+            flex_icons:
+              -
+                id: mijhgaxy
+                fa_icon: 'fa-regular fa-clock'
+                text: '13 weken'
+              -
+                id: mijhh4j8
+                fa_icon: 'fa-regular fa-heart'
+                text: 'Individueel op maat gemaakt'
+              -
+                id: mijhhpdd
+                fa_icon: 'fa-regular fa-arrow-rotate-left'
+                text: 'Totale reset'
+              -
+                id: mijhj01z
+                fa_icon: 'fa-solid fa-people-pulling'
+                text: 'Online maar niet alleen'
   -
     id: mhl4c1fm
     heading_size: M
@@ -477,5 +500,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764364006
+updated_at: 1764372016
 ---
