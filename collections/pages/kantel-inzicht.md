@@ -1,8 +1,7 @@
 ---
 id: 4dadc8b8-a53e-4bbf-8d95-74dba81adaf8
-published: false
 blueprint: page
-title: 'E-book (Duplicated)'
+title: 'Kantel Inzicht'
 page_builder:
   -
     id: miiyjz79
@@ -60,6 +59,6 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340478
+updated_at: 1764340609
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
