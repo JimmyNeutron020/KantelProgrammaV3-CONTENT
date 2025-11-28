@@ -107,7 +107,7 @@ page_builder:
             content:
               -
                 type: text
-                text: "De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen 'proeven' of het de hele investering waard is."
+                text: 'De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen ‘proeven’ of het de hele investering waard is. Je krijgt 13 weken toegang tot de basis van de Bewezen Beter Kantel Methode.'
         price: '€ 1.247'
         show_discount: true
         discount_price: '€ 999'
@@ -141,10 +141,9 @@ page_builder:
             content:
               -
                 type: text
-                text: "De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen 'proeven' of het de hele investering waard is."
-        price: '€ 1.247'
-        show_discount: true
-        discount_price: '€ 999'
+                text: 'Het complete Kantel Programma, met 13 wekelijkse modules en implementatie in de dagelijkse praktijk. Je krijgt 26 weken toegang tot de complete Bewezen Beter Kantel Methode.'
+        price: '€ 2.247'
+        show_discount: false
         label: 'Start nu'
         link_type: link
         target_blank: false
@@ -175,8 +174,8 @@ page_builder:
             content:
               -
                 type: text
-                text: "De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen 'proeven' of het de hele investering waard is."
-        price: '€ 1.247'
+                text: 'Het complete Kantel Programma mét exclusieve begeleiding. Alles uit Shine Sprint Compleet, plus extra support in live zoomsessies, een gezamenlijke aftrap, een 1-op-1 Kantel Connect sessie met Paul en verlengde persoonlijke support via de Kantel-Kroniek.'
+        price: '€ 4.999'
         show_discount: true
         discount_price: '€ 999'
         label: 'Start nu'
@@ -500,5 +499,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764372016
+updated_at: 1764374259
 ---
