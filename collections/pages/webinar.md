@@ -548,7 +548,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Dit Webinar is voor jou als:'
+                    text: 'Is dit webinar voor jou?'
             show_tag: false
       -
         type: bulletList
@@ -606,7 +606,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Bereid bent om regie en eigenaarschap te nemen over je herstel.'
+                    text: 'Je bent bereid om regie en eigenaarschap te nemen over je herstel.'
           -
             type: listItem
             content:
@@ -624,7 +624,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Geen quick fix zoekt, maar een echte kanteling.'
+                    text: 'Je zoekt geen quick fix, maar een echte kanteling.'
           -
             type: listItem
             content:
@@ -642,7 +642,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Er klaar voor bent om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
+                    text: 'Je bent er klaar voor om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
       -
         type: set
         attrs:
@@ -858,5 +858,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764364821
+updated_at: 1764364960
 ---
