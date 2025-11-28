@@ -121,7 +121,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet. '
+            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang op overleefstand staat. In dit webinar nemen we je mee in een andere kijk op chronische pijn. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten richting een leven met meer vrijheid, plezier en ontspanning in je lijf.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: small
@@ -930,5 +930,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764363420
+updated_at: 1764363659
 ---
