@@ -407,28 +407,22 @@ page_builder:
                     fa_icon: 'fa-regular fa-triangle-exclamation'
                     content:
                       -
-                        type: bulletList
+                        type: paragraph
+                        attrs:
+                          class: null
                         content:
                           -
-                            type: listItem
-                            content:
+                            type: text
+                            text: 'De nummer één reden '
+                          -
+                            type: text
+                            marks:
                               -
-                                type: paragraph
-                                attrs:
-                                  class: null
-                                content:
-                                  -
-                                    type: text
-                                    text: 'De nummer één reden '
-                                  -
-                                    type: text
-                                    marks:
-                                      -
-                                        type: bold
-                                    text: 'waarom 95% van de vrouwen niet van hun bekkenklachten afkomen'
-                                  -
-                                    type: text
-                                    text: ", die zelfs artsen en fysio's niet benoemen."
+                                type: bold
+                            text: 'waarom 95% van de vrouwen niet van hun bekkenklachten afkomen'
+                          -
+                            type: text
+                            text: ", die zelfs artsen en fysio's niet benoemen."
                   -
                     id: mij0uwbb
                     fa_icon: 'fa-regular fa-brain-circuit'
@@ -719,5 +713,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764344117
+updated_at: 1764344146
 ---
