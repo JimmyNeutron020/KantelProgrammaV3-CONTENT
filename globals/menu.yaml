@@ -115,7 +115,7 @@ data:
       label: 'Kantel E-book'
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
       button_layout: standard
       button_colour: orange
       type: card_item
@@ -177,7 +177,7 @@ data:
       label: 'Kantel E-book'
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
       button_layout: standard
       button_colour: orange
       type: card_item
@@ -208,7 +208,7 @@ data:
       label: 'Kantel E-book'
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
       button_layout: standard
       button_colour: orange
       type: card_item
@@ -239,7 +239,7 @@ data:
       label: 'Kantel E-book'
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
       button_layout: standard
       button_colour: orange
       type: card_item
@@ -270,7 +270,7 @@ data:
       label: 'Kantel E-book'
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
       button_layout: standard
       button_colour: orange
       type: card_item
