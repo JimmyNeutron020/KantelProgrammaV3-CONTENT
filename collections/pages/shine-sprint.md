@@ -41,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Het KantelProgramma'
+                    text: 'Shine Sprint'
             show_tag: false
       -
         type: paragraph
@@ -433,7 +433,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Shine Sprint'
+            text: 'Ben jij er klaar voor?'
     tag_text: "Let's go!"
     tag_alignment: center
     content:
@@ -477,5 +477,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340413
+updated_at: 1764364006
 ---
