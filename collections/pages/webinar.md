@@ -564,67 +564,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Als er al te lang overleefd wordt door pijn, spanning of vermoeidheid.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je intuïtief aanvoelt: “Er klopt iets niet… dit kán anders”.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je bent bereid om regie en eigenaarschap te nemen over je herstel.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je zoekt geen quick fix, maar een echte kanteling.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je bent er klaar voor om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
+            text: 'Als er al te lang overleefd wordt door pijn, spanning of vermoeidheid. Je intuïtief aanvoelt: “Er klopt iets niet… dit kán anders”. Je bent bereid om regie en eigenaarschap te nemen over je herstel. Je zoekt geen quick fix, maar een echte kanteling. Je bent er klaar voor om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
       -
         type: paragraph
         attrs:
@@ -855,5 +795,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764365027
+updated_at: 1764365070
 ---
