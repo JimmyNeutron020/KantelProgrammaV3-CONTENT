@@ -312,68 +312,186 @@ page_builder:
                         text: 'In dit webinar ontdek jij:'
                 show_tag: false
           -
-            type: bulletList
+            type: set
+            attrs:
+              id: mij0qs3q
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mij0qxwd
+                    fa_icon: 'fa-regular fa-lightbulb'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'De doorbraakstrategieën die vrouwen zoals jij helpen om weer te kunnen léven met rust, ruimte en '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'vertrouwen in je lichaam'
+                          -
+                            type: text
+                            text: .
+                  -
+                    id: mij0rkd3
+                    fa_icon: 'fa-regular fa-route'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Welke aanpak wél werkt bij bekkenklachten en chronische pijn, zónder nog harder je best te doen of in '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'van behandeling naar behandeling'
+                          -
+                            type: text
+                            text: ' te blijven gaan.'
+                  -
+                    id: mij0seha
+                    fa_icon: 'fa-regular fa-person-rays'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'zelf de regie'
+                          -
+                            type: text
+                            text: ' pakt.'
+                  -
+                    id: mij0sza2
+                    fa_icon: 'fa-regular fa-battery-bolt'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom ‘rust nemen’ niet altijd helpt en wat jij juist nodig hebt om je weer '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'fit en energiek'
+                          -
+                            type: text
+                            text: ' te voelen.'
+                  -
+                    id: mij0tq5d
+                    fa_icon: 'fa-regular fa-triangle-exclamation'
+                    content:
+                      -
+                        type: bulletList
+                        content:
+                          -
+                            type: listItem
+                            content:
+                              -
+                                type: paragraph
+                                attrs:
+                                  class: null
+                                content:
+                                  -
+                                    type: text
+                                    text: 'De nummer één reden '
+                                  -
+                                    type: text
+                                    marks:
+                                      -
+                                        type: bold
+                                    text: 'waarom 95% van de vrouwen niet van hun bekkenklachten afkomen'
+                                  -
+                                    type: text
+                                    text: ", die zelfs artsen en fysio's niet benoemen."
+                  -
+                    id: mij0uwbb
+                    fa_icon: 'fa-regular fa-brain-circuit'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Herstel van chronische pijn is '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'geen medische kwestie.'
+                  -
+                    id: mij0vnr5
+                    fa_icon: 'fa-regular fa-ban'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waar we het totaal niet mee eens zijn: dat vrouwen zich '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'maar moeten neerleggen'
+                          -
+                            type: text
+                            text: ' bij hun klachten omdat er niets te zien is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'De doorbraakstrategieën die vrouwen zoals jij helpen om weer te kunnen léven met rust, ruimte en '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'vertrouwen in je lichaam'
-                      -
-                        type: text
-                        text: .
+                type: text
+                text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
               -
-                type: listItem
-                content:
+                type: text
+                marks:
                   -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Welke aanpak wél werkt bij bekkenklachten en chronische pijn, zónder nog harder je best te doen of in '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'van behandeling naar behandeling'
-                      -
-                        type: text
-                        text: ' te blijven gaan.'
+                    type: bold
+                text: 'zelf de regie'
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'zelf de regie'
-                      -
-                        type: text
-                        text: ' pakt.'
+                type: text
+                text: ' pakt.'
+          -
+            type: bulletList
+            content:
               -
                 type: listItem
                 content:
@@ -702,5 +820,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764343578
+updated_at: 1764344067
 ---
