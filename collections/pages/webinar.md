@@ -152,7 +152,7 @@ page_builder:
               id: mij09b9a
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -164,122 +164,117 @@ page_builder:
                         text: 'Herken je dit?'
                 show_tag: false
           -
-            type: paragraph
+            type: set
             attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡Je bent een jonge moeder, slim, zorgzaam en doet alles om je gezin draaiende te houden… maar'
-              -
-                type: text
-                marks:
+              id: mij0e7w0
+              values:
+                type: icon_list
+                iconlist:
                   -
-                    type: bold
-                text: ' je lichaam protesteert'
-              -
-                type: text
-                text: .
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Artsen zeggen dat er ‘lichamelijk niets mis’ is, maar jij voelt '
-              -
-                type: text
-                marks:
+                    id: mij0e8qb
+                    fa_icon: 'fa-regular fa-person-breastfeeding'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Je bent een jonge moeder, slim, zorgzaam en doet alles om je gezin draaiende te houden… maar'
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: ' je lichaam protesteert'
+                          -
+                            type: text
+                            text: .
                   -
-                    type: bold
-                text: 'dagelijks bekkenpijn, spanning en uitputting'
-              -
-                type: text
-                text: .
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Je hebt '
-              -
-                type: text
-                marks:
+                    id: mij0hhaq
+                    fa_icon: 'fa-regular fa-stethoscope'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Artsen zeggen dat er ‘lichamelijk niets mis’ is, maar jij voelt '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'dagelijks bekkenpijn, spanning en uitputting'
+                          -
+                            type: text
+                            text: .
                   -
-                    type: bold
-                text: 'al zoveel geprobeerd'
-              -
-                type: text
-                text: ', artsen, fysio, voeding, ademhaling , maar het voelt alsof je telkens terug bij af bent.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Je wil verder, maar '
-              -
-                type: text
-                marks:
+                    id: mij0iryx
+                    fa_icon: 'fa-regular fa-arrow-rotate-left'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Je hebt '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'al zoveel geprobeerd'
+                          -
+                            type: text
+                            text: ', artsen, fysio, voeding, ademhaling , maar het voelt alsof je telkens terug bij af bent.'
                   -
-                    type: bold
-                text: twijfelt
-              -
-                type: text
-                text: ': kan ik mijn lijf ooit nog vertrouwen?'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Je verlangt naar '
-              -
-                type: text
-                marks:
+                    id: mij0ji5h
+                    fa_icon: 'fa-regular fa-circle-question'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Je wil verder, maar '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: twijfelt
+                          -
+                            type: text
+                            text: ': kan ik mijn lijf ooit nog vertrouwen?'
                   -
-                    type: bold
-                text: 'vrijheid, plezier en de energie'
-              -
-                type: text
-                text: ' om weer echt moeder, partner en vrouw te zijn.'
-              -
-                type: hardBreak
-              -
-                type: hardBreak
-              -
-                type: text
-                text: 'In dit webinar ontdek je wat wél helpt om echt te herstellen. Zonder harder te trainen of jezelf te pushen, maar juist door te begrijpen wat je lichaam nodig heeft om te kantelen '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'van overleven naar leven'
-              -
-                type: text
-                text: .
+                    id: mij0k7c3
+                    fa_icon: 'fa-regular fa-face-smile-beam'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Je verlangt naar '
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'vrijheid, plezier en de energie'
+                          -
+                            type: text
+                            text: ' om weer echt moeder, partner en vrouw te zijn.'
         type: new_set
         enabled: true
       -
@@ -707,5 +702,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764343151
+updated_at: 1764343578
 ---
