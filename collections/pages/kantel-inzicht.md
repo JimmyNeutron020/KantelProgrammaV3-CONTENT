@@ -41,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: E-book
+                    text: 'Kantel Inzicht'
             show_tag: false
       -
         type: paragraph
@@ -59,6 +59,6 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340609
+updated_at: 1764340623
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
