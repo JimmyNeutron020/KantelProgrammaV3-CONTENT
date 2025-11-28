@@ -791,7 +791,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Wij zijn Paul & Chantal'
+                    text: 'Wij zijn Chantal & Paul'
             show_tag: true
             tag_text: Hallo!
             tag_alignment: right
@@ -834,5 +834,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764346330
+updated_at: 1764346368
 ---
