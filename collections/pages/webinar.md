@@ -309,7 +309,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'In dit webinar ontdek jij:'
+                        text: 'Wat je ontdekt in dit webinar'
                 show_tag: false
           -
             type: set
@@ -713,5 +713,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764344767
+updated_at: 1764344829
 ---
