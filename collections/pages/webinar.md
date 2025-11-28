@@ -758,7 +758,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet'
+            text: 'Schrijf je hieronder in voor het gratis webinar.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -795,5 +795,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764365481
+updated_at: 1764365605
 ---
