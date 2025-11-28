@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je hebt al van alles geprobeerd, maar je bekkenpijn blijft je leven bepalen. In dit gratis webinar ontdek je waarom je klachten niet écht verdwijnen en wat er nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen. Dit alles, zonder nóg harder je best te doen.'
+            text: 'Je hebt al van alles geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
       -
         type: set
         attrs:
@@ -930,5 +930,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764363298
+updated_at: 1764363420
 ---
