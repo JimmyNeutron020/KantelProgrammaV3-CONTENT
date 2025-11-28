@@ -845,8 +845,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
+      spacing_desktop: standard
+      spacing_mobile: standard
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -992,5 +992,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764350852
+updated_at: 1764350929
 ---
