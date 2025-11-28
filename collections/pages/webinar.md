@@ -126,14 +126,14 @@ page_builder:
             text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet. '
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_bottom:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
@@ -932,5 +932,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764362417
+updated_at: 1764362555
 ---
