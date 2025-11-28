@@ -499,13 +499,13 @@ page_builder:
                             text: ' bij hun klachten omdat er niets te zien is.'
         type: new_set
         enabled: true
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -932,5 +932,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764362555
+updated_at: 1764362683
 ---
