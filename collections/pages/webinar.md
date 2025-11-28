@@ -581,6 +581,10 @@ page_builder:
                   class: text-white
             text: 'Dan is dit webinar voor jou.'
       -
+        type: paragraph
+        attrs:
+          class: null
+      -
         type: set
         attrs:
           id: miizuy54
@@ -795,5 +799,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764365636
+updated_at: 1764365821
 ---
