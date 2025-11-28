@@ -551,98 +551,95 @@ page_builder:
                     text: 'Is dit webinar voor jou?'
             show_tag: false
       -
-        type: bulletList
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Als er al te lang overleefd wordt door pijn, spanning of vermoeidheid.'
+                  class: text-white
+            text: 'Als er al te lang overleefd wordt door pijn, spanning of vermoeidheid.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je intuïtief aanvoelt: “Er klopt iets niet… dit kán anders”.'
+                  class: text-white
+            text: 'Je intuïtief aanvoelt: “Er klopt iets niet… dit kán anders”.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je bent bereid om regie en eigenaarschap te nemen over je herstel.'
+                  class: text-white
+            text: 'Je bent bereid om regie en eigenaarschap te nemen over je herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je zoekt geen quick fix, maar een echte kanteling.'
+                  class: text-white
+            text: 'Je zoekt geen quick fix, maar een echte kanteling.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je bent er klaar voor om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
+                  class: text-white
+            text: 'Je bent er klaar voor om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Dan is dit webinar voor jou.'
       -
         type: set
         attrs:
@@ -858,5 +855,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764364960
+updated_at: 1764365027
 ---
