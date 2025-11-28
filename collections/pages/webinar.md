@@ -77,7 +77,9 @@ page_builder:
                   -
                     type: text
                     text: 'Voorgoed afrekenen met chronische bekkenpijn'
-            show_tag: false
+            show_tag: true
+            tag_text: 'Gratis webinar'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -125,5 +127,5 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764341737
+updated_at: 1764341782
 ---
