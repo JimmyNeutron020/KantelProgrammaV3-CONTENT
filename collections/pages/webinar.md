@@ -111,7 +111,7 @@ page_builder:
                 link: '#'
                 button_layout: solid
                 button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -122,8 +122,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
   -
@@ -133,16 +133,16 @@ page_builder:
     show_tag: false
     webinar_id: webinar_script_1
     webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -840,13 +840,13 @@ page_builder:
                 link: '#'
                 button_layout: solid
                 button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -883,7 +883,7 @@ page_builder:
           -
             type: text
             text: 'Lorem ipsum dolor sit amet'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -894,8 +894,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
   -
@@ -903,19 +903,19 @@ page_builder:
     color: '#ffffff'
     webinar_id: webinar_script_2
     webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: WebinarScript
     enabled: true
   -
@@ -976,7 +976,7 @@ page_builder:
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
                 button_layout: solid
                 button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -984,13 +984,13 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764350422
+updated_at: 1764350852
 ---
