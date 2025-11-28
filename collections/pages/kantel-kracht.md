@@ -1,8 +1,7 @@
 ---
 id: 631dd581-8207-4fe0-81e5-2becf841200f
-published: false
 blueprint: page
-title: 'E-book (Duplicated) (2)'
+title: 'Kantel Kracht'
 page_builder:
   -
     id: miiyjz79
@@ -42,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: E-book
+                    text: 'Kantel Kracht'
             show_tag: false
       -
         type: paragraph
@@ -60,6 +59,6 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340478
+updated_at: 1764340706
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
