@@ -758,6 +758,81 @@ page_builder:
       spacing_mobile: standard
     type: ResultsSlider
     enabled: true
+  -
+    id: mij226bb
+    color: '#eb8d7a'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mij24hlb
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Wij zijn Paul & Chantal'
+            show_tag: true
+            tag_text: Hallo!
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
+      -
+        type: set
+        attrs:
+          id: mij25twc
+          values:
+            type: buttons
+            buttons:
+              -
+                id: UUm1HWMz
+                label: 'Meer over ons'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764345984
+updated_at: 1764346196
 ---
