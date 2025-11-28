@@ -36,6 +36,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: Webinar
             show_tag: false
       -
@@ -45,9 +50,14 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Lorem ipsum dolor sit amet'
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340158
+updated_at: 1764340178
 ---
