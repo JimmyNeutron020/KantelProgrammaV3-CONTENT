@@ -126,6 +126,196 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+  -
+    id: miizm3xf
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: miizmsf0
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'In dit gratis webinar ontdek jij:'
+            show_tag: false
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'De doorbraakstrategieën die vrouwen zoals jij helpen om weer te kunnen léven met rust, ruimte en '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'vertrouwen in je lichaam'
+                  -
+                    type: text
+                    text: .
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Welke aanpak wél werkt bij bekkenklachten en chronische pijn, zónder nog harder je best te doen of in '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'van behandeling naar behandeling'
+                  -
+                    type: text
+                    text: ' te blijven gaan.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'zelf de regie'
+                  -
+                    type: text
+                    text: ' pakt.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Waarom ‘rust nemen’ niet altijd helpt en wat jij juist nodig hebt om je weer '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'fit en energiek'
+                  -
+                    type: text
+                    text: ' te voelen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'De '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'nummer één reden'
+                  -
+                    type: text
+                    text: " waarom 95% van de vrouwen niet van hun bekkenklachten afkomen, die zelfs artsen en fysio's niet benoemen."
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Herstel van chronische pijn is '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'geen medische kwestie.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Waar we het totaal niet mee eens zijn: dat vrouwen zich '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'maar moeten neerleggen'
+                  -
+                    type: text
+                    text: ' bij hun klachten omdat er niets te zien is.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764341782
+updated_at: 1764341972
 ---
