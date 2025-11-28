@@ -6,15 +6,15 @@ data:
       label: Webinar
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: solid
       button_colour: white
     -
       id: mhhtcrhg
-      label: 'Kantel Inzicht'
+      label: 'Shine Sprint'
       link_type: link
       target_blank: false
-      link: '#'
+      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
       button_layout: standard
       button_colour: white
   scrolled_buttons:
