@@ -52,6 +52,8 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
@@ -919,5 +921,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764352321
+updated_at: 1764352624
 ---
