@@ -1,7 +1,7 @@
 ---
 id: ee0042c5-3c18-4d61-91a5-85c4de943d0e
 blueprint: page
-title: Test123
+title: Home
 page_builder:
   -
     id: m7xvy4s9
@@ -1337,5 +1337,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764269387
+updated_at: 1764340365
 ---
