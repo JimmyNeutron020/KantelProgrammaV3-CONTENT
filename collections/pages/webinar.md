@@ -714,7 +714,7 @@ page_builder:
     enabled: true
   -
     id: mij1y309
-    heading_size: M
+    heading_size: XS
     heading:
       -
         type: heading
@@ -743,5 +743,5 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764345842
+updated_at: 1764345860
 ---
