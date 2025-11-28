@@ -55,7 +55,30 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Lorem ipsum dolor sit amet'
+            text: 'Wij geloven niet in ‘leren omgaan met pijn’. Wij begeleiden jonge moeders met chronische pijn van overleven naar leven.'
+      -
+        type: set
+        attrs:
+          id: mij5m7qm
+          values:
+            type: buttons
+            buttons:
+              -
+                id: HlRgPtBF
+                label: Inschrijven
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: mij5mkkf
+                label: 'Ontdek meer'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: standard
+                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -87,30 +110,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
-      -
-        type: set
-        attrs:
-          id: miizgkc4
-          values:
-            type: buttons
-            buttons:
-              -
-                id: uKEuxEvB
-                label: 'Ontdek meer'
-                link_type: link
-                target_blank: false
-                link: '#'
-                button_layout: standard
-                button_colour: orange
-              -
-                id: miizh71h
-                label: Inschrijven
-                link_type: link
-                target_blank: false
-                link: '#'
-                button_layout: solid
-                button_colour: orange
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet. '
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -781,146 +781,8 @@ page_builder:
     type: ResultsSlider
     enabled: true
   -
-    id: mij226bb
-    color: '#f7e7de'
-    swap_layout: false
-    media:
-      video: false
-      autoplay_video: false
-      video_link: null
-      preview_image: null
-      images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mij24hlb
-          values:
-            type: heading
-            heading_size: S
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Wij zijn Chantal & Paul'
-            show_tag: true
-            tag_text: Hallo!
-            tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
-      -
-        type: set
-        attrs:
-          id: mij25twc
-          values:
-            type: buttons
-            buttons:
-              -
-                id: UUm1HWMz
-                label: 'Meer over ons'
-                link_type: link
-                target_blank: false
-                link: '#'
-                button_layout: solid
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: QuestionsCtaSection
-    enabled: true
-  -
-    id: mij4lcm2
-    content:
-      -
-        type: set
-        attrs:
-          id: mij4lvbe
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Schrijf je in voor het webinar'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Lorem ipsum dolor sit amet'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
-  -
-    id: mij4m66i
-    color: '#ffffff'
-    webinar_id: webinar_script_2
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: WebinarScript
-    enabled: true
-  -
     id: mij4nb84
-    color: '#f5f5f7'
+    color: '#f7e7de'
     swap_layout: false
     media:
       video: false
@@ -991,6 +853,69 @@ page_builder:
       spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mij4lcm2
+    content:
+      -
+        type: set
+        attrs:
+          id: mij4lvbe
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Schrijf je in voor het webinar'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Lorem ipsum dolor sit amet'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+  -
+    id: mij4m66i
+    color: '#ffffff'
+    webinar_id: webinar_script_2
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: WebinarScript
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764350959
+updated_at: 1764352054
 ---
