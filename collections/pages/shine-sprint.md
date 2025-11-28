@@ -1,7 +1,7 @@
 ---
 id: a932636a-55fe-4d95-8489-dbbc91f1cf66
 blueprint: page
-title: 'Het KantelProgramma'
+title: 'Shine Sprint'
 page_builder:
   -
     id: mhkyu2dz
@@ -477,5 +477,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764269597
+updated_at: 1764340413
 ---
