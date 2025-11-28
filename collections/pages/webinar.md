@@ -316,6 +316,239 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: miizs6hj
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: miizu3u7
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Is dit webinar voor jou?'
+            show_tag: false
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Als er al te lang '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: overleefd
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: ' wordt door pijn, spanning of vermoeidheid.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Je intuïtief aanvoelt: “Er klopt iets niet… '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'dit kán anders'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: ”.
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Bereid bent om '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: regie
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: ' en eigenaarschap te nemen over je herstel.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Geen quick fix'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: ' zoekt, maar een echte kanteling.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Er klaar voor bent om te leven zoals het bedoeld is: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'pijnvrij, fit, energiek'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: ' en vol vertrouwen.'
+      -
+        type: set
+        attrs:
+          id: miizuy54
+          values:
+            type: buttons
+            buttons:
+              -
+                id: rMiRBcgJ
+                label: Inschrijven
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: white
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764342053
+updated_at: 1764342344
 ---
