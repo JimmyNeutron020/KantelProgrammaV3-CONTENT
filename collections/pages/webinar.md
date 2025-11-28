@@ -808,6 +808,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: WebinarScript
     enabled: true
+    anchor_id: inschrijven-webinar-2
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764371154
+updated_at: 1764371219
 ---
