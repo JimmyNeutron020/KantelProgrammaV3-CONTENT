@@ -159,7 +159,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'In dit gratis webinar ontdek jij:'
+                    text: 'In dit webinar ontdek jij:'
             show_tag: false
       -
         type: bulletList
@@ -317,5 +317,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764341972
+updated_at: 1764342007
 ---
