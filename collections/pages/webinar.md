@@ -698,7 +698,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+            text: 'Heb je een vraag over het webinar, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Stuur ons gerust een bericht, geen vraag is gek of te klein. We denken met je mee en helpen je graag verder!'
       -
         type: set
         attrs:
@@ -795,5 +795,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764365070
+updated_at: 1764365481
 ---
