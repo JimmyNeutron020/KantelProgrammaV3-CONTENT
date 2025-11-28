@@ -300,7 +300,7 @@ page_builder:
               id: mij0bqhd
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -468,107 +468,6 @@ page_builder:
                           -
                             type: text
                             text: ' bij hun klachten omdat er niets te zien is.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'zelf de regie'
-              -
-                type: text
-                text: ' pakt.'
-          -
-            type: bulletList
-            content:
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Waarom ‘rust nemen’ niet altijd helpt en wat jij juist nodig hebt om je weer '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'fit en energiek'
-                      -
-                        type: text
-                        text: ' te voelen.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'De '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'nummer één reden'
-                      -
-                        type: text
-                        text: " waarom 95% van de vrouwen niet van hun bekkenklachten afkomen, die zelfs artsen en fysio's niet benoemen."
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Herstel van chronische pijn is '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'geen medische kwestie.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Waar we het totaal niet mee eens zijn: dat vrouwen zich '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'maar moeten neerleggen'
-                      -
-                        type: text
-                        text: ' bij hun klachten omdat er niets te zien is.'
         type: new_set
         enabled: true
     show_settings: false
@@ -820,5 +719,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764344067
+updated_at: 1764344117
 ---
