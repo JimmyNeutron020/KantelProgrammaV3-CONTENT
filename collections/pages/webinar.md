@@ -768,7 +768,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -834,5 +834,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764346224
+updated_at: 1764346330
 ---
