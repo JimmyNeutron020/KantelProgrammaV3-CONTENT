@@ -127,180 +127,337 @@ page_builder:
     type: IntoSection
     enabled: true
   -
-    id: miizm3xf
-    color: '#f7e7de'
-    swap_layout: false
-    media:
-      video: false
-      autoplay_video: false
-      video_link: null
-      preview_image: null
-      images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
+    id: mij08w47
+    items:
       -
-        type: set
-        attrs:
-          id: miizmsf0
-          values:
-            type: heading
-            heading_size: S
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'In dit webinar ontdek jij:'
-            show_tag: false
-      -
-        type: bulletList
+        id: mij08xfy
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          video_link: null
+          preview_image: null
+          images:
+            - brand/fotofolies-x-kantelprogramma_sneak-preview-23.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
         content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
+            type: set
+            attrs:
+              id: mij09b9a
+              values:
+                type: heading
+                heading_size: M
+                heading:
                   -
-                    type: text
-                    text: 'De doorbraakstrategieën die vrouwen zoals jij helpen om weer te kunnen léven met rust, ruimte en '
-                  -
-                    type: text
-                    marks:
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
                       -
-                        type: bold
-                    text: 'vertrouwen in je lichaam'
-                  -
-                    type: text
-                    text: .
+                        type: text
+                        text: 'Herken je dit?'
+                show_tag: false
           -
-            type: listItem
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
+                type: text
+                text: '🧡Je bent een jonge moeder, slim, zorgzaam en doet alles om je gezin draaiende te houden… maar'
+              -
+                type: text
+                marks:
                   -
-                    type: text
-                    text: 'Welke aanpak wél werkt bij bekkenklachten en chronische pijn, zónder nog harder je best te doen of in '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'van behandeling naar behandeling'
-                  -
-                    type: text
-                    text: ' te blijven gaan.'
+                    type: bold
+                text: ' je lichaam protesteert'
+              -
+                type: text
+                text: .
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'zelf de regie'
-                  -
-                    type: text
-                    text: ' pakt.'
+            type: paragraph
+            attrs:
+              class: null
           -
-            type: listItem
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
+                type: text
+                text: '🧡 Artsen zeggen dat er ‘lichamelijk niets mis’ is, maar jij voelt '
+              -
+                type: text
+                marks:
                   -
-                    type: text
-                    text: 'Waarom ‘rust nemen’ niet altijd helpt en wat jij juist nodig hebt om je weer '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'fit en energiek'
-                  -
-                    type: text
-                    text: ' te voelen.'
+                    type: bold
+                text: 'dagelijks bekkenpijn, spanning en uitputting'
+              -
+                type: text
+                text: .
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'De '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'nummer één reden'
-                  -
-                    type: text
-                    text: " waarom 95% van de vrouwen niet van hun bekkenklachten afkomen, die zelfs artsen en fysio's niet benoemen."
+            type: paragraph
+            attrs:
+              class: null
           -
-            type: listItem
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
+                type: text
+                text: '🧡 Je hebt '
+              -
+                type: text
+                marks:
                   -
-                    type: text
-                    text: 'Herstel van chronische pijn is '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'geen medische kwestie.'
+                    type: bold
+                text: 'al zoveel geprobeerd'
+              -
+                type: text
+                text: ', artsen, fysio, voeding, ademhaling , maar het voelt alsof je telkens terug bij af bent.'
           -
-            type: listItem
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: paragraph
-                attrs:
-                  class: null
+                type: text
+                text: '🧡 Je wil verder, maar '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: twijfelt
+              -
+                type: text
+                text: ': kan ik mijn lijf ooit nog vertrouwen?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🧡 Je verlangt naar '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'vrijheid, plezier en de energie'
+              -
+                type: text
+                text: ' om weer echt moeder, partner en vrouw te zijn.'
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'In dit webinar ontdek je wat wél helpt om echt te herstellen. Zonder harder te trainen of jezelf te pushen, maar juist door te begrijpen wat je lichaam nodig heeft om te kantelen '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'van overleven naar leven'
+              -
+                type: text
+                text: .
+        type: new_set
+        enabled: true
+      -
+        id: mij0af3d
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          video_link: null
+          preview_image: null
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mij0bqhd
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'In dit webinar ontdek jij:'
+                show_tag: false
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
                 content:
                   -
-                    type: text
-                    text: 'Waar we het totaal niet mee eens zijn: dat vrouwen zich '
-                  -
-                    type: text
-                    marks:
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
                       -
-                        type: bold
-                    text: 'maar moeten neerleggen'
+                        type: text
+                        text: 'De doorbraakstrategieën die vrouwen zoals jij helpen om weer te kunnen léven met rust, ruimte en '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'vertrouwen in je lichaam'
+                      -
+                        type: text
+                        text: .
+              -
+                type: listItem
+                content:
                   -
-                    type: text
-                    text: ' bij hun klachten omdat er niets te zien is.'
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Welke aanpak wél werkt bij bekkenklachten en chronische pijn, zónder nog harder je best te doen of in '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'van behandeling naar behandeling'
+                      -
+                        type: text
+                        text: ' te blijven gaan.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'zelf de regie'
+                      -
+                        type: text
+                        text: ' pakt.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom ‘rust nemen’ niet altijd helpt en wat jij juist nodig hebt om je weer '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'fit en energiek'
+                      -
+                        type: text
+                        text: ' te voelen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'De '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'nummer één reden'
+                      -
+                        type: text
+                        text: " waarom 95% van de vrouwen niet van hun bekkenklachten afkomen, die zelfs artsen en fysio's niet benoemen."
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Herstel van chronische pijn is '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'geen medische kwestie.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waar we het totaal niet mee eens zijn: dat vrouwen zich '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'maar moeten neerleggen'
+                      -
+                        type: text
+                        text: ' bij hun klachten omdat er niets te zien is.'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -314,7 +471,7 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: QuestionsCtaSection
+    type: AlternatingBlocks
     enabled: true
   -
     id: miizs6hj
@@ -550,5 +707,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764342344
+updated_at: 1764343151
 ---
