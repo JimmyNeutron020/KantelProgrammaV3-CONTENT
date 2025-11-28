@@ -37,8 +37,7 @@ page_builder:
       autoplay_video: false
       video_link: null
       preview_image: null
-      images:
-        - fotofolies-x-kantelprogramma_live-126.jpg
+      images: {  }
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -63,6 +62,6 @@ page_builder:
       spacing_mobile: standard
     type: BlogOverview
     enabled: true
-updated_by: 702c0b57-b698-494d-a1a0-ce8a9ac5d5fd
-updated_at: 1762252883
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1764340390
 ---
