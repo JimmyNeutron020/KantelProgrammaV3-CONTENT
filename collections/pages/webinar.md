@@ -13,7 +13,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - brand/fotofolies-x-kantelprogramma_live-11.jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -50,6 +50,11 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Je hebt al van alles geprobeerd, maar je bekkenpijn blijft je leven bepalen. In dit gratis webinar ontdek je waarom je klachten niet écht verdwijnen en wat er nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen. Dit alles, zonder nóg harder je best te doen.'
       -
         type: set
@@ -925,5 +930,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764362992
+updated_at: 1764363041
 ---
