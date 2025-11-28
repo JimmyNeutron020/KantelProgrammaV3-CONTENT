@@ -68,7 +68,7 @@ page_builder:
                 label: Inschrijven
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#inschrijven-webinar'
                 button_layout: solid
                 button_colour: orange
               -
@@ -76,7 +76,7 @@ page_builder:
                 label: 'Ontdek meer'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#herken-je-dit'
                 button_layout: standard
                 button_colour: white
     type: HeroSection
@@ -137,6 +137,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+    anchor_id: inschrijven-webinar
   -
     id: mij3d05u
     color: '#ffffff'
@@ -512,6 +513,7 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+    anchor_id: herken-je-dit
   -
     id: miizs6hj
     media:
@@ -799,5 +801,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764365821
+updated_at: 1764371023
 ---
