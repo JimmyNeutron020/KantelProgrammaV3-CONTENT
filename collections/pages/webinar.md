@@ -727,6 +727,22 @@ page_builder:
     show_tag: false
     color: '#ffffff'
     use_first_eight: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mij213a0
+          values:
+            type: buttons
+            buttons:
+              -
+                id: MqR3sImi
+                label: 'Bekijk alle resultaten'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: standard
+                button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -743,5 +759,5 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764345879
+updated_at: 1764345984
 ---
