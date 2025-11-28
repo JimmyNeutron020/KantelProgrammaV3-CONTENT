@@ -75,7 +75,6 @@ data:
       external_link: '#'
       target_blank: false
   show_featured_item: true
-  featured_image: 231128-paul-en-chantal-_77834.jpg
   heading_size: XS
   heading:
     -
@@ -144,8 +143,8 @@ data:
             -
               type: text
               text: 'Meerdere data'
-      label: 'Kantel E-book'
-      link: '#'
+      label: 'Kantel Webinar'
+      link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
       type: card_item
       enabled: true
