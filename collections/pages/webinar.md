@@ -58,6 +58,72 @@ page_builder:
             text: 'Lorem ipsum dolor sit amet'
     type: HeroSection
     enabled: true
+  -
+    id: miizf11s
+    content:
+      -
+        type: set
+        attrs:
+          id: miizfbdm
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'In dit gratis webinar ontdek jij:'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+      -
+        type: set
+        attrs:
+          id: miizgkc4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: uKEuxEvB
+                label: 'Ontdek meer'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: standard
+                button_colour: orange
+              -
+                id: miizh71h
+                label: Inschrijven
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764341265
+updated_at: 1764341695
 ---
