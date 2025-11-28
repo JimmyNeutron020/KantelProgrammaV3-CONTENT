@@ -131,7 +131,7 @@ page_builder:
     color: '#ffffff'
     heading_size: M
     show_tag: false
-    webinar_id: mw_asdfjkl
+    webinar_id: webinar_script_1
     webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
     show_settings: false
     inner_spacing_top:
@@ -855,6 +855,69 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mij4lcm2
+    content:
+      -
+        type: set
+        attrs:
+          id: mij4lvbe
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Schrijf je in voor het webinar'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Lorem ipsum dolor sit amet'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: mij4m66i
+    color: '#ffffff'
+    webinar_id: webinar_script_2
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: WebinarScript
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764348274
+updated_at: 1764350324
 ---
