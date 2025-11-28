@@ -70,13 +70,13 @@ page_builder:
             heading_size: M
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 2
                 content:
                   -
                     type: text
-                    text: 'In dit gratis webinar ontdek jij:'
+                    text: 'Voorgoed afrekenen met chronische bekkenpijn'
             show_tag: false
       -
         type: paragraph
@@ -125,5 +125,5 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764341695
+updated_at: 1764341737
 ---
