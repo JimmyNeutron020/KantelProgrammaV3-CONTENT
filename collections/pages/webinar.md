@@ -127,6 +127,28 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mij3d05u
+    color: '#ffffff'
+    heading_size: M
+    show_tag: false
+    webinar_id: mw_asdfjkl
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: WebinarScript
+    enabled: true
+  -
     id: mij08w47
     items:
       -
@@ -834,5 +856,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764346368
+updated_at: 1764348274
 ---
