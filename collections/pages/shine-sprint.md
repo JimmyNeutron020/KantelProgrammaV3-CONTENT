@@ -614,6 +614,8 @@ page_builder:
                   -
                     type: text
                     text: ' met ademhalingstechnieken en mindfulness om stress te verlagen en je lichaam te laten herstellen.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -631,6 +633,8 @@ page_builder:
                   -
                     type: text
                     text: ' dat je helpt ontstekingen te verminderen en je energieniveau te verhogen.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -648,6 +652,8 @@ page_builder:
                   -
                     type: text
                     text: ' om spier- en gewrichtsfunctie te herstellen en pijn te verminderen.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -665,6 +671,8 @@ page_builder:
                   -
                     type: text
                     text: ' om hormonale disbalansen te corrigeren die invloed hebben op je energie en pijnniveau.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -682,6 +690,8 @@ page_builder:
                   -
                     type: text
                     text: ' met technieken om je slaap te optimaliseren, zodat je lichaam beter kan herstellen.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -699,6 +709,8 @@ page_builder:
                   -
                     type: text
                     text: ' om kracht, lenigheid, stabiliteit, coördinatie, mobiliteit en conditie stapje voor stapje veilig op te bouwen.'
+                  -
+                    type: hardBreak
       -
         type: paragraph
         attrs:
@@ -1007,7 +1019,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'En misschien wel het belangrijkst: na de 13 weken van de Shine Sprint valt het niet ineens stil. Je blijft onderdeel van een groep vrouwen die dezelfde kanteling hebben doorgemaakt en die net als jij bewust willen blijven leven, voelen en kiezen. Een warme groep gelijkgestemden die als vangnet blijft bestaan een plek waar je kunt blijven aansluiten, delen en opgeladen worden, ook als het leven weer even schuurt.'
+            text: 'En misschien wel het belangrijkst: na de 13 weken van de Shine Sprint valt het niet ineens stil. Als je er behoefte aan hebt dan blijf je onderdeel van een groep vrouwen die dezelfde kanteling hebben doorgemaakt en die net als jij bewust willen blijven leven, voelen en kiezen. Een warme groep gelijkgestemden die als vangnet blijft bestaan een plek waar je kunt blijven aansluiten, delen en opgeladen worden, ook als het leven weer even schuurt.'
       -
         type: set
         attrs:
@@ -1413,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764424160
+updated_at: 1764424294
 ---
