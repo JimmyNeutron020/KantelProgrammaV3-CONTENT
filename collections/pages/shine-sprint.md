@@ -405,6 +405,215 @@ page_builder:
                 fa_icon: 'fa-solid fa-people-pulling'
                 text: 'Online maar niet alleen'
   -
+    id: mik8d326
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mik8dfw8
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Onze aanpak'
+            show_tag: true
+            tag_text: 'Niet voor doetjes!'
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Maar bovenal geloven wij in ownership.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En daarom is dit traject niet voor iedereen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Het Kantelprogramma is wél voor jou als je:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'bereid bent om veel tijd, aandacht en inzet te investeren in je eigen proces;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'bereid bent om diep te reflecteren, door te zetten en uit je comfortzone te stappen;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'kunt omgaan met stevige feedback en verantwoordelijkheid;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'klaar bent om radicaal leiderschap te nemen over je gezondheid;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'voelt dat je méér bent dan je klachten;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'het vertrouwen durft te herwinnen in je lichaam en je mogelijkheden;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'niet alleen verbetering wilt, maar echt wilt kantelen;'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'niet hoopt op garanties of snelle resultaten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Onze belofte is geen genezing.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Onze belofte is: een fundamenteel nieuw vertrekpunt, waarin jij weer aan het roer staat.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We begeleiden krachtige vrouwen die hun regie terugpakken, omdat het voor deze grote groep vrouwen werkt. Het is geen magische oplossing. Het is een traject waarin je zelf het verschil maakt.'
+      -
+        type: set
+        attrs:
+          id: mik8ekiy
+          values:
+            type: buttons
+            buttons:
+              -
+                id: wT7uPq97
+                label: 'Start nu!'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+  -
     id: mik84ac0
     media:
       video: true
@@ -522,5 +731,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764416840
+updated_at: 1764417153
 ---
