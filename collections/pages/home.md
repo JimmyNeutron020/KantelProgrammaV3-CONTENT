@@ -1226,7 +1226,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Topsport benadering betekent voor ons: jij krijgt dezelfde aandacht en toewijding die we voor een topsporter vanzelfsprekend vinden. Zodat jij je gezien voelt in hoe zwaar het is geweest, en tegelijk een realistische, hoopvolle route krijgt naar meer rust, energie en vertrouwen in je lijf.'
+            text: 'Topsport benadering betekent voor ons: jij krijgt dezelfde aandacht en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we een topsport mentaliteit: bereidheid om te komen opdagen voor jezelf, eerlijk te kijken, te oefenen en vol te houden.'
       -
         type: paragraph
         attrs:
@@ -1291,5 +1291,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764431560
+updated_at: 1764431764
 ---
