@@ -178,7 +178,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Chantal is avontuurlijk en een ervaren leider, mét lef en doorzettingsvermogen. In 2006 winnaar van de ondernemersprijs de Venlose Start en intussen bijna 20 jaar ondernemer. Eerst als oprichter/directeur van een Kinderopvangorganisatie en een Jeugd GGZ praktijk. Deze bedrijven heeft ze begin 2019 verkocht.'
+                text: 'Chantal is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. Ze is al bijna 20 jaar ondernemer: in 2006 won ze de Venlose Start ondernemersprijs en bouwde een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht.'
           -
             type: paragraph
             attrs:
@@ -1345,5 +1345,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764427350
+updated_at: 1764427437
 ---
