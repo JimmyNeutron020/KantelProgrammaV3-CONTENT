@@ -1,7 +1,7 @@
 ---
 id: d81e8a34-e412-443e-b24b-f46726b1d854
 blueprint: page
-title: Webinar
+title: 'Kantel Webinar'
 page_builder:
   -
     id: miiyjz79
@@ -810,5 +810,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764415018
+updated_at: 1764415088
 ---
