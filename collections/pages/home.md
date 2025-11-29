@@ -494,7 +494,7 @@ page_builder:
   -
     id: mikemtis
     color: '#ffffff'
-    heading_size: M
+    heading_size: S
     heading:
       -
         type: heading
@@ -542,13 +542,13 @@ page_builder:
         logo_link: '#'
         type: logo
         enabled: true
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -1411,5 +1411,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764427755
+updated_at: 1764427812
 ---
