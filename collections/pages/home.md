@@ -707,7 +707,7 @@ page_builder:
                 label: 'Persoonlijke vraag'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
                 button_layout: solid
                 button_colour: orange
               -
@@ -715,7 +715,7 @@ page_builder:
                 label: 'Veelgestelde vragen'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
                 button_layout: standard
                 button_colour: orange
     show_settings: true
@@ -782,7 +782,7 @@ page_builder:
         label: Gratis
         link_type: link
         target_blank: false
-        link: '#abc'
+        link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
         button_layout: standard
         button_colour: orange
         type: card_item
@@ -823,7 +823,7 @@ page_builder:
         label: Gratis
         link_type: link
         target_blank: false
-        link: '#abc'
+        link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
         button_layout: standard
         button_colour: orange
         type: card_item
@@ -862,7 +862,7 @@ page_builder:
                 type: text
                 text: 'Direct beschikbaar'
         label: Gratis
-        link: '#abc'
+        link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
         button_layout: standard
         type: card_item
         enabled: true
@@ -905,7 +905,7 @@ page_builder:
         label: Gratis
         link_type: link
         target_blank: false
-        link: '#abc'
+        link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
         button_layout: standard
         button_colour: orange
         type: card_item
@@ -946,7 +946,7 @@ page_builder:
         label: Gratis
         link_type: link
         target_blank: false
-        link: '#abc'
+        link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
         button_layout: standard
         button_colour: orange
         type: card_item
@@ -987,7 +987,7 @@ page_builder:
         label: Gratis
         link_type: link
         target_blank: false
-        link: '#abc'
+        link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
         button_layout: standard
         button_colour: orange
         type: card_item
@@ -1294,5 +1294,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764435071
+updated_at: 1764435364
 ---
