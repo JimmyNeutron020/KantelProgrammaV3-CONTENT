@@ -361,6 +361,88 @@ page_builder:
     type: FeaturedMedia
     enabled: true
   -
+    id: m7ylis1b
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      images: {  }
+      show_swiper_controls: null
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: m7ylj64g
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: '1000+ vrouwen gingen je voor!'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
+      -
+        type: set
+        attrs:
+          id: m7yljr8q
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ckyWOwGl
+                label: 'Bekijk resultaten'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: white
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsCtaSection
+    enabled: true
+  -
     id: m7xzpszo
     content:
       -
@@ -557,88 +639,6 @@ page_builder:
                   target_blank: false
                   button_layout: link
                   button_colour: orange
-  -
-    id: m7ylis1b
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/996074037'
-      preview_image: screenshot-2025-11-24-at-08.51.40.png
-      images: {  }
-      show_swiper_controls: null
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: false
-      sound_control: false
-      fullscreen_control: false
-    content:
-      -
-        type: set
-        attrs:
-          id: m7ylj64g
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: '1000+ vrouwen gingen je voor!'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
-      -
-        type: set
-        attrs:
-          id: m7yljr8q
-          values:
-            type: buttons
-            buttons:
-              -
-                id: ckyWOwGl
-                label: 'Bekijk resultaten'
-                link_type: link
-                target_blank: false
-                link: '#'
-                button_layout: solid
-                button_colour: white
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsCtaSection
-    enabled: true
   -
     id: m7ymrmbz
     color: '#f7e7de'
@@ -1411,5 +1411,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764428064
+updated_at: 1764428319
 ---
