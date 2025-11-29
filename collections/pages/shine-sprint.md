@@ -408,7 +408,7 @@ page_builder:
     id: mik84ac0
     media:
       video: true
-      autoplay_video: false
+      autoplay_video: true
       video_link: 'https://vimeo.com/996074037'
       preview_image: screenshot-2025-11-24-at-08.51.40.png
       images: {  }
@@ -434,6 +434,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: '1250+ vrouwen gingen je voor!'
             show_tag: false
       -
@@ -513,5 +518,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764416767
+updated_at: 1764416800
 ---
