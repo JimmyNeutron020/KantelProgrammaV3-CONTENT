@@ -111,14 +111,6 @@ page_builder:
           -
             type: text
             text: 'Wij ontwikkelden het Kantel Programma. Vanuit onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch revalidatie-instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen, ontwikkelden we een geheel vernieuwde aanpak voor herstel bij chronische bekkenklachten.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Ons werk gaat niet over “leren omgaan met je klachten”, maar over kantelen: van overleven naar weer stralend leven. Met het 13-weekse Kantel Programma helpen we jonge vrouwen stap voor stap hun zenuwstelsel tot rust te brengen, hun lichaam te begrijpen en de regie terug te pakken over hun energie en gezondheid.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -1345,5 +1337,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764426743
+updated_at: 1764426813
 ---
