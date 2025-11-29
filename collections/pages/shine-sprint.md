@@ -457,6 +457,10 @@ page_builder:
                   class: text-white
             text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
       -
+        type: paragraph
+        attrs:
+          class: null
+      -
         type: set
         attrs:
           id: mik866r4
@@ -465,7 +469,7 @@ page_builder:
             buttons:
               -
                 id: JbZyEcgp
-                label: 'Bekijk alle resultaten'
+                label: 'Bekijk resultaten'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -518,5 +522,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764416800
+updated_at: 1764416840
 ---
