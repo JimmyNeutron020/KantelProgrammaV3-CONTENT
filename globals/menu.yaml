@@ -90,37 +90,6 @@ data:
   tag_alignment: right
   package_cards:
     -
-      id: mhhv234l
-      icon: 'fa-regular fa-book'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Kantel E-Book'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Direct beschikbaar'
-      label: 'Kantel E-book'
-      link_type: link
-      target_blank: false
-      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-    -
       id: mhhv3spg
       icon: 'fa-regular fa-presentation-screen'
       heading_size: XS
@@ -151,6 +120,37 @@ data:
       link_type: link
       target_blank: false
       button_colour: orange
+    -
+      id: mhhv234l
+      icon: 'fa-regular fa-book'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel E-Book'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Direct beschikbaar'
+      label: 'Kantel E-book'
+      link_type: link
+      target_blank: false
+      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
     -
       id: mhhv3q6u
       icon: 'fa-regular fa-eye'
