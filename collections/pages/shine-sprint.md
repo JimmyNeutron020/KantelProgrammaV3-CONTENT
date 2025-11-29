@@ -649,7 +649,9 @@ page_builder:
                         attrs:
                           class: text-white
                     text: '1250+ vrouwen gingen je voor!'
-            show_tag: false
+            show_tag: true
+            tag_text: 'Power vrouwen!'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -731,5 +733,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764417153
+updated_at: 1764417325
 ---
