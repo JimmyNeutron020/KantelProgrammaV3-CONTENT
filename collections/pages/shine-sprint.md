@@ -439,7 +439,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Bericht voor jou'
+                        text: 'Een brief aan jou, lieve vrouw'
                 show_tag: false
           -
             type: paragraph
@@ -473,6 +473,18 @@ page_builder:
               -
                 type: text
                 text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. De Shine Sprint is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met pijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Liefs, Chantal & Paul 😘'
+          -
+            type: paragraph
+            attrs:
+              class: null
           -
             type: set
             attrs:
@@ -842,5 +854,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764418197
+updated_at: 1764418796
 ---
