@@ -55,7 +55,7 @@ page_builder:
                 label: 'Start nu'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
                 button_layout: solid
                 button_colour: orange
               -
@@ -63,7 +63,7 @@ page_builder:
                 label: 'Ontdek meer'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#over-chantal-en-paul'
                 button_layout: standard
                 button_colour: white
     type: HeroSection
@@ -126,6 +126,7 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
+    anchor_id: over-chantal-en-paul
   -
     id: m7xyj4a9
     items:
@@ -424,7 +425,7 @@ page_builder:
                 label: 'Bekijk resultaten'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: solid
                 button_colour: white
     show_settings: true
@@ -629,7 +630,7 @@ page_builder:
                   label: 'Start nu'
                   link_type: link
                   target_blank: false
-                  link: '#'
+                  link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
                   button_layout: standard
                   button_colour: orange
                 -
@@ -639,6 +640,7 @@ page_builder:
                   target_blank: false
                   button_layout: link
                   button_colour: orange
+                  link: '#topsport-benadering'
   -
     id: m7ymrmbz
     color: '#f7e7de'
@@ -1155,7 +1157,7 @@ page_builder:
                 label: 'Bekijk alle resultaten'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: standard
                 button_colour: orange
     show_tag: false
@@ -1243,7 +1245,7 @@ page_builder:
                 label: 'Start nu!'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
                 button_layout: standard
                 button_colour: orange
     show_settings: true
@@ -1262,6 +1264,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
     swap_layout: false
+    anchor_id: topsport-benadering
   -
     id: m7yosbje
     show_settings: false
@@ -1291,5 +1294,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764431764
+updated_at: 1764435071
 ---
