@@ -68,7 +68,7 @@ page_builder:
                 label: Prijzen
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#prijzen'
                 button_layout: solid
                 button_colour: white
               -
@@ -76,7 +76,7 @@ page_builder:
                 label: 'Meer informatie'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#brief-aan-jou'
                 button_layout: standard
                 button_colour: white
     type: HeroSection
@@ -498,7 +498,7 @@ page_builder:
                     label: 'Start nu'
                     link_type: link
                     target_blank: false
-                    link: '#'
+                    link: '#prijzen'
                     button_layout: solid
                     button_colour: orange
                   -
@@ -506,7 +506,7 @@ page_builder:
                     label: 'Onze aanpak'
                     link_type: link
                     target_blank: false
-                    link: '#'
+                    link: '#onze-aanpak'
                     button_layout: standard
                     button_colour: orange
         type: new_set
@@ -863,7 +863,7 @@ page_builder:
                 label: 'Start nu!'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#prijzen'
                 button_layout: solid
                 button_colour: orange
     show_settings: false
@@ -1020,7 +1020,7 @@ page_builder:
                 label: 'Start nu'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#prijzen'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -1413,5 +1413,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764423959
+updated_at: 1764424040
 ---
