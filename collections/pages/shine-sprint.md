@@ -50,12 +50,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+            text: 'Je leeft al te lang in de overleefstand door (bekken)pijn en vermoeidheid. Je hebt al zoveel geprobeerd, maar de echte doorbraak blijft uit. De Shine Sprint is het 13-weekse Kantel Programma voor vrouwen die hun leven terug willen en weer willen vertrouwen op hun lichaam en energie.'
       -
         type: set
         attrs:
@@ -380,7 +375,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel en tegelijk voel je dat er méér mogelijk is dan alleen leren omgaan met je klachten. De Shine Sprint vraagt tijd, aandacht en commitment, maar je staat er niet alleen voor: met heldere modules, concrete opdrachten en warme begeleiding help je je lichaam en zenuwstelsel naar een nieuw vertrekpunt waarin jij weer aan het roer staat.'
       -
         type: set
         attrs:
@@ -1230,5 +1225,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764420171
+updated_at: 1764421006
 ---
