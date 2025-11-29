@@ -405,6 +405,171 @@ page_builder:
                 fa_icon: 'fa-solid fa-people-pulling'
                 text: 'Online maar niet alleen'
   -
+    id: mik8s3ym
+    items:
+      -
+        id: mik8s50y
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          video_link: null
+          preview_image: null
+          images:
+            - brand/fotofolies-x-kantelprogramma_live-131.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mik8sr6o
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Is dit voor mij?'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'De Shine Sprint is voor jou als je:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Al van alles hebt geprobeerd, maar de echte doorbraak blijft uit;'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Al te lang met pijn rondloopt in je dagelijkse leven;'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Moe bent van alle losse adviezen en snakt naar helderheid en een totaalbeeld;'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Weer wilt vertrouwen op je lichaam, je energie, je leven;'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Voelt: '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: italic
+                        text: 'ik wil het nu'
+                      -
+                        type: text
+                        text: '. Niet over drie maanden de eerste stap, maar nú;'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Een professionele, intensieve start wilt vanuit een krachtige community.'
+          -
+            type: set
+            attrs:
+              id: mik8u737
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: bMjplvE1
+                    label: 'Start nu'
+                    link_type: link
+                    target_blank: false
+                    link: '#'
+                    button_layout: solid
+                    button_colour: orange
+                  -
+                    id: mik8ufea
+                    label: 'Onze aanpak'
+                    link_type: link
+                    target_blank: false
+                    link: '#'
+                    button_layout: standard
+                    button_colour: orange
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mik8d326
     color: '#f7e7de'
     swap_layout: false
@@ -733,5 +898,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764417325
+updated_at: 1764417888
 ---
