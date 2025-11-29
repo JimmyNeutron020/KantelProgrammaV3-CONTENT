@@ -430,7 +430,7 @@ page_builder:
               id: mik8sr6o
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -439,7 +439,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Is dit voor mij?'
+                        text: 'Bericht voor jou'
                 show_tag: false
           -
             type: paragraph
@@ -450,85 +450,29 @@ page_builder:
                 type: hardBreak
               -
                 type: text
-                text: 'De Shine Sprint is voor jou als je:'
+                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen, en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: '“Is dit het dan… blijft het altijd zo?”'
           -
-            type: bulletList
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Al van alles hebt geprobeerd, maar de echte doorbraak blijft uit;'
+                type: text
+                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Al te lang met pijn rondloopt in je dagelijkse leven;'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Moe bent van alle losse adviezen en snakt naar helderheid en een totaalbeeld;'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Weer wilt vertrouwen op je lichaam, je energie, je leven;'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Voelt: '
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: italic
-                        text: 'ik wil het nu'
-                      -
-                        type: text
-                        text: '. Niet over drie maanden de eerste stap, maar nú;'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Een professionele, intensieve start wilt vanuit een krachtige community.'
+                type: text
+                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. De Shine Sprint is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met pijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
           -
             type: set
             attrs:
@@ -898,5 +842,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764417888
+updated_at: 1764418197
 ---
