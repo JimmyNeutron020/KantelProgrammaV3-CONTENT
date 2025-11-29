@@ -963,7 +963,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wil weten over ons en het Kantel Programma mag je aan ons vragen. Dat kan persoonlijk via de button '
+            text: 'Twijfel je nog of dit traject past bij jouw situatie, of wil je eerst iets met ons delen? Alles wat je wilt weten over ons, de Shine Sprint of het Kantel Programma mag je aan ons vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Heb je een '
           -
             type: text
             marks:
@@ -972,13 +980,18 @@ page_builder:
             text: 'persoonlijke vraag'
           -
             type: text
-            text: '. Wil je weten welke vragen andere vrouwen hadden voordat ze zijn gestart? Kijk dan zeker even bij de '
+            text: ' dan mag je ons rechtstreeks een bericht sturen, helemaal privé.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Wil je weten welke vragen andere vrouwen hadden vóórdat ze startten? Kijk dan even bij de '
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'veelgestelde vragen'
+            text: 'Veelgestelde vragen'
           -
             type: text
             text: .
@@ -1253,5 +1266,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764421803
+updated_at: 1764422267
 ---
