@@ -295,6 +295,72 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mikemtis
+    color: '#ffffff'
+    heading_size: M
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Bekend van'
+    show_tag: false
+    logos:
+      -
+        id: miken3hj
+        logo_image: media/download-(1).png
+        logo_link: '#'
+        type: logo
+        enabled: true
+      -
+        id: mikenzfs
+        logo_image: media/flair-logo.svg
+        logo_link: '#'
+        type: logo
+        enabled: true
+      -
+        id: mikeo52h
+        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
+        logo_link: '#'
+        type: logo
+        enabled: true
+      -
+        id: mikeofyg
+        logo_image: media/rtl4_2023.svg.png
+        logo_link: '#'
+        type: logo
+        enabled: true
+      -
+        id: mikeotwa
+        logo_image: media/metro-logo-zwart.svg
+        logo_link: '#'
+        type: logo
+        enabled: true
+      -
+        id: mikep1tx
+        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
+        logo_link: '#'
+        type: logo
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FeaturedMedia
+    enabled: true
+  -
     id: m7xzpszo
     content:
       -
@@ -1345,5 +1411,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764427437
+updated_at: 1764427711
 ---
