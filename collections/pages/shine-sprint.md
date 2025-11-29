@@ -190,46 +190,49 @@ page_builder:
     features:
       -
         id: mhghyhct
-        feature_name: 'Bewezen Beter Kantel Methode'
+        feature_name: '13 modules'
         package_1: true
         package_2: true
         package_3: true
         type: feature
         enabled: true
-        package_1_type: check
+        package_1_type: text
         package_2_type: check
         package_3_type: check
+        package_1_text: 'Tot module 7'
       -
         id: mhgi0toy
-        feature_name: '7 modules'
+        feature_name: 'Complete Bewezen Beter Kantel Methode'
         package_1: true
         package_2: false
         package_3: false
         type: feature
         enabled: true
-        package_1_type: cross
+        package_1_type: text
         package_2_type: check
         package_3_type: check
+        package_1_text: Basis
       -
         id: mhkz1e5e
-        feature_name: '7 modules'
+        feature_name: 'Direct starten'
         package_1: true
         package_2: false
         package_3: false
         type: feature
         enabled: true
-        package_1_type: cross
+        package_1_type: check
         package_2_type: check
-        package_3_type: check
+        package_3_type: text
+        package_3_text: 'Beperkt aantal plekken, cohort met vaste startdata'
       -
         id: mhkz1csp
-        feature_name: '7 modules'
+        feature_name: 'Wekelijks: KantelVideo, KantelVodcast & KantelKennis'
         package_1: true
         package_2: false
         package_3: false
         type: feature
         enabled: true
-        package_1_type: cross
+        package_1_type: check
         package_2_type: check
         package_3_type: check
       -
@@ -499,5 +502,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764374259
+updated_at: 1764374531
 ---
