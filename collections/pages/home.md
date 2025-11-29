@@ -680,25 +680,19 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wil weten over ons en het Kantel Programma mag je aan ons vragen. Dat kan persoonlijk via de button '
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'persoonlijke vraag'
-          -
-            type: text
-            text: '. Wil je weten welke vragen andere vrouwen hadden voordat ze zijn gestart? Kijk dan zeker even bij de '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'veelgestelde vragen'
-          -
-            type: text
-            text: .
+            text: 'Heb je een persoonlijke vraag, dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
@@ -1403,5 +1397,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764430508
+updated_at: 1764430713
 ---
