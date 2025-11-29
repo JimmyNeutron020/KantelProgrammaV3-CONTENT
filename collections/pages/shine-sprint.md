@@ -585,7 +585,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wat we voor topsporters heel normaal vinden, gunnen we vrouwen met chronische (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel als naar topsport: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een totaalplan voor lichaam én zenuwstelsel.'
+            text: 'Wat we voor topsporters heel normaal vinden, gunnen we vrouwen met chronische (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel met een topsport benadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een totaalplan voor lichaam én zenuwstelsel.'
       -
         type: paragraph
         attrs:
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764424395
+updated_at: 1764424474
 ---
