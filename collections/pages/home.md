@@ -304,7 +304,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Het Kantelprogramma - Shine Sprint'
+                    text: 'Het KantelProgramma - Shine Sprint'
             show_tag: true
             tag_text: 'Niet voor doetjes!'
             tag_alignment: right
@@ -315,7 +315,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
+            text: 'De Shine Sprint is de intensieve start van het Kantel Programma: 13 weken met online modules, zelfreflectie en begeleiding waarin je stap voor stap werkt aan herstel van je lichaam én zenuwstelsel.'
     items:
       -
         id: m7xzqfyb
@@ -460,7 +460,7 @@ page_builder:
           content:
             -
               type: text
-              text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
+              text: 'Met onze geheel vernieuwde aanpak kijken we anders naar herstel: je krijgt een persoonlijk plan dat we benaderen zoals bij topsporters, met oog voor jouw belastbaarheid, én een stevig vangnet van Kantel Coaches en community.'
         -
           type: set
           attrs:
@@ -1337,5 +1337,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764425866
+updated_at: 1764426436
 ---
