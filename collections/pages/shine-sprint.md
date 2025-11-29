@@ -569,7 +569,13 @@ page_builder:
         content:
           -
             type: text
-            text: 'Maar bovenal geloven wij in ownership.'
+            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '“Leer er maar mee leven.”'
       -
         type: paragraph
         attrs:
@@ -577,7 +583,128 @@ page_builder:
         content:
           -
             type: text
-            text: 'En daarom is dit traject niet voor iedereen.'
+            text: 'Wat we voor topsporters heel normaal vinden, gunnen we vrouwen met chronische (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel als naar topsport: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een totaalplan voor lichaam én zenuwstelsel.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je krijgt een volledig persoonlijk plan met interventies die speciaal op jou zijn afgestemd, zoals:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Zenuwstelsel regulatie'
+                  -
+                    type: text
+                    text: ' met ademhalingstechnieken en mindfulness om stress te verlagen en je lichaam te laten herstellen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Voedingsadvies
+                  -
+                    type: text
+                    text: ' dat je helpt ontstekingen te verminderen en je energieniveau te verhogen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Revalidatie
+                  -
+                    type: text
+                    text: ' om spier- en gewrichtsfunctie te herstellen en pijn te verminderen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Hormoonbalans ondersteuning'
+                  -
+                    type: text
+                    text: ' om hormonale disbalansen te corrigeren die invloed hebben op je energie en pijnniveau.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Slaapverbetering
+                  -
+                    type: text
+                    text: ' met technieken om je slaap te optimaliseren, zodat je lichaam beter kan herstellen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Gerichte training'
+                  -
+                    type: text
+                    text: ' om kracht, lenigheid, stabiliteit, coördinatie, mobiliteit en conditie stapje voor stapje veilig op te bouwen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Niet alles tegelijk, maar in een haalbare opbouw, passend bij jouw belastbaarheid en leven. Zodat je niet nóg harder hoeft te vechten, maar slimmer, warmer en doelgerichter voor jezelf gaat zorgen.'
       -
         type: paragraph
         attrs:
@@ -588,7 +715,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Het Kantelprogramma is wél voor jou als je:'
+            text: 'Het Kantelprogramma is voor jou als je:'
       -
         type: bulletList
         content:
@@ -687,7 +814,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Onze belofte is geen genezing.'
+            text: 'Onze belofte is geen wondermiddel.'
       -
         type: paragraph
         attrs:
@@ -704,6 +831,10 @@ page_builder:
           -
             type: text
             text: 'We begeleiden krachtige vrouwen die hun regie terugpakken, omdat het voor deze grote groep vrouwen werkt. Het is geen magische oplossing. Het is een traject waarin je zelf het verschil maakt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
@@ -1265,5 +1396,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764422330
+updated_at: 1764422953
 ---
