@@ -235,18 +235,6 @@ page_builder:
         package_2_type: check
         package_3_type: check
       -
-        id: mhkz1bq5
-        feature_name: 'Opnames van alle live Q&A Zoomsessies'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: text
-        package_2_type: check
-        package_3_type: check
-        package_1_text: 'Tot 6 opnames'
-      -
         id: mhkz1axx
         feature_name: 'Toegang tot álle eerder gestelde vragen van eerdere deelneemsters'
         package_1: true
@@ -301,6 +289,18 @@ page_builder:
         package_1_type: check
         package_2_type: check
         package_3_type: check
+      -
+        id: mhkz1bq5
+        feature_name: 'Opnames van alle live Q&A Zoomsessies'
+        package_1: true
+        package_2: false
+        package_3: false
+        type: feature
+        enabled: true
+        package_1_type: text
+        package_2_type: check
+        package_3_type: check
+        package_1_text: 'Tot 6 opnames'
       -
         id: mhkz1613
         feature_name: '26 weken toegang tot het programma'
@@ -436,5 +436,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764415944
+updated_at: 1764416049
 ---
