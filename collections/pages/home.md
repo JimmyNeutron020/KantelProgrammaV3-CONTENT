@@ -1202,7 +1202,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Maar bovenal geloven wij in ownership.'
+            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven.” Precies zó serieus willen wij ook jóuw klachten nemen. Dat bedoelen we met een topsport benadering.'
       -
         type: paragraph
         attrs:
@@ -1210,7 +1210,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'En daarom is dit traject niet voor iedereen.'
+            text: 'En nee: dat betekent níet dat jij op topsport-niveau moet presteren, extreem fit moet zijn of nóg harder moet knokken. Integendeel. De meeste vrouwen die bij ons komen, zijn juist moe, overbelast en hebben al jaren het gevoel dat ze in de overleefstand staan. Een topsport benadering gaat voor ons over de manier waarop wíj naar jou en je herstel kijken: volledig, zorgvuldig en met respect voor jouw belastbaarheid.'
       -
         type: paragraph
         attrs:
@@ -1218,101 +1218,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Het Kantelprogramma is wél voor jou als je:'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'bereid bent om veel tijd, aandacht en inzet te investeren in je eigen proces;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'bereid bent om diep te reflecteren, door te zetten en uit je comfortzone te stappen;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'kunt omgaan met stevige feedback en verantwoordelijkheid;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'klaar bent om radicaal leiderschap te nemen over je gezondheid;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'voelt dat je méér bent dan je klachten;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'het vertrouwen durft te herwinnen in je lichaam en je mogelijkheden;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'niet alleen verbetering wilt, maar echt wilt kantelen;'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'niet hoopt op garanties of snelle resultaten.'
+            text: 'We doen niet aan symptoombestrijding. Jouw lichaam, zenuwstelsel, energie, hormonen, slaap, voeding, emoties en dagelijkse leven horen bij elkaar. Op basis daarvan maken we een persoonlijk plan, in kleine, haalbare stappen die passen bij jouw leven, met werk, gezin, afspraken en alles wat er al is. Niet met de boodschap dat je “je best maar harder moet doen”, maar juist met meer zachtheid, structuur en duidelijke begeleiding.'
       -
         type: paragraph
         attrs:
@@ -1320,23 +1226,11 @@ page_builder:
         content:
           -
             type: text
-            text: 'Onze belofte is geen genezing.'
+            text: 'Topsport benadering betekent voor ons: jij krijgt dezelfde aandacht en toewijding die we voor een topsporter vanzelfsprekend vinden. Zodat jij je gezien voelt in hoe zwaar het is geweest, en tegelijk een realistische, hoopvolle route krijgt naar meer rust, energie en vertrouwen in je lijf.'
       -
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            text: 'Onze belofte is: een fundamenteel nieuw vertrekpunt, waarin jij weer aan het roer staat.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We begeleiden krachtige vrouwen die hun regie terugpakken, omdat het voor deze grote groep vrouwen werkt. Het is geen magische oplossing. Het is een traject waarin je zelf het verschil maakt.'
       -
         type: set
         attrs:
@@ -1397,5 +1291,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764430713
+updated_at: 1764431560
 ---
