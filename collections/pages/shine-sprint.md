@@ -823,6 +823,56 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
+    id: mik9r3v5
+    content:
+      -
+        type: set
+        attrs:
+          id: mik9ra92
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Kantel Community'
+            show_tag: true
+            tag_text: 'Onze helden!'
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
     id: mhl4c1fm
     heading_size: M
     heading:
@@ -853,6 +903,238 @@ page_builder:
     type: TeamShowcase
     enabled: true
     tag_text: Member
+  -
+    id: mik9sr9q
+    content:
+      -
+        type: set
+        attrs:
+          id: mik9ubnb
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Gratis om mee te nemen!'
+            show_tag: true
+            tag_text: 'Ja echt!'
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+    items:
+      -
+        id: mik9un8e
+        icon: 'fa-regular fa-book'
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel E-Book'
+        show_tag: false
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: 'Kantel E-Book'
+        link_type: link
+        target_blank: false
+        link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+      -
+        id: mik9waxv
+        icon: 'fa-regular fa-presentation-screen'
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Webinar'
+        show_tag: false
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Meerdere data'
+        label: 'Kantel E-Book'
+        link_type: link
+        target_blank: false
+        link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+      -
+        id: mik9w6ti
+        icon: 'fa-regular fa-eye'
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Inzicht'
+        show_tag: false
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '19 november t/m 2 december 2025'
+        label: 'Kantel E-Book'
+        link_type: link
+        target_blank: false
+        link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+      -
+        id: mik9wlam
+        icon: 'fa-regular fa-person-arrow-up-from-line'
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Scan'
+        show_tag: false
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Zoomsessie op afspraak'
+        label: 'Kantel E-Book'
+        link_type: link
+        target_blank: false
+        link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+      -
+        id: mik9wij2
+        icon: 'fa-brands fa-spotify'
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Kracht'
+        show_tag: false
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Podcast te beluisteren via Spotify'
+        label: 'Kantel E-Book'
+        link_type: link
+        target_blank: false
+        link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+      -
+        id: mika1axh
+        icon: 'fa-regular fa-message-lines'
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Vragen'
+        show_tag: false
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In je mail'
+        label: 'Kantel E-Book'
+        link_type: link
+        target_blank: false
+        link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PackageCards
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764418862
+updated_at: 1764419923
 ---
