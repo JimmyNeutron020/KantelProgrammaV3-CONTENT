@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je hebt al van alles geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
+            text: 'Je hebt alles al geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
       -
         type: set
         attrs:
@@ -121,7 +121,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang op overleefstand staat. In dit webinar nemen we je mee in een andere kijk op chronische pijn. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten richting een leven met meer vrijheid, plezier en ontspanning in je lijf.'
+            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang op overleefstand staat. In dit webinar nemen we je mee in een andere kijk op chronische pijn. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten richting een pijnvrij leven met meer vrijheid, plezier en ontspanning in je lijf.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: small
@@ -810,5 +810,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764371461
+updated_at: 1764415018
 ---
