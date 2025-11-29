@@ -170,7 +170,15 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien herken je het wel: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Chantal begrijpt dat als geen ander. Tijdens haar tweede zwangerschap ervaarde ze zelf ernstige bekkeninstabiliteit. Maar ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn – herstel is écht mogelijk.'
+                text: 'Misschien herken je het wel: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Chantal begrijpt dat als geen ander. Tijdens haar tweede zwangerschap ervaarde ze zelf ernstige bekkeninstabiliteit. Maar ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn, herstel is écht mogelijk.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Chantal is avontuurlijk en een ervaren leider, mét lef en doorzettingsvermogen. In 2006 winnaar van de ondernemersprijs de Venlose Start en intussen bijna 20 jaar ondernemer. Eerst als oprichter/directeur van een Kinderopvangorganisatie en een Jeugd GGZ praktijk. Deze bedrijven heeft ze begin 2019 verkocht.'
           -
             type: paragraph
             attrs:
@@ -245,7 +253,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme – meedoen in de ratrace en werken zonder grenzen – werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
+                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme, meedoen in de ratrace en werken zonder grenzen, werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
           -
             type: paragraph
             attrs:
@@ -253,7 +261,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven – zónder chronische pijn.'
+                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven zónder chronische pijn.'
           -
             type: set
             attrs:
@@ -1337,5 +1345,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764426858
+updated_at: 1764427350
 ---
