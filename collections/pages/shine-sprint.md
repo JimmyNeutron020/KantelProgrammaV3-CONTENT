@@ -706,16 +706,26 @@ page_builder:
             type: text
             text: 'Niet alles tegelijk, maar in een haalbare opbouw, passend bij jouw belastbaarheid en leven. Zodat je niet nóg harder hoeft te vechten, maar slimmer, warmer en doelgerichter voor jezelf gaat zorgen.'
       -
+        type: set
+        attrs:
+          id: mikcbzba
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Het Kantelprogramma is voor jou als je:'
+            show_tag: false
+      -
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Het Kantelprogramma is voor jou als je:'
       -
         type: bulletList
         content:
@@ -1396,5 +1406,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764422953
+updated_at: 1764423752
 ---
