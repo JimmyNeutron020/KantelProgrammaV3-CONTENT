@@ -1083,20 +1083,10 @@ page_builder:
             type: text
             marks:
               -
-                type: bold
-              -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Lorem Ipsum'
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            text: 'Maak kennis met de Kantel Community: een warme groep vrouwen die het KantelProgramma hebben afgerond en als vangnet blijft bestaan, een plek waar je kunt blijven aansluiten, delen en opgeladen worden, ook als het leven weer even schuurt. '
       -
         type: set
         attrs:
@@ -1411,5 +1401,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764429723
+updated_at: 1764430395
 ---
