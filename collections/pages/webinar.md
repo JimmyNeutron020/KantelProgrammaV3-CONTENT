@@ -41,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: Webinar
+                    text: 'Kantel Webinar'
             show_tag: false
       -
         type: paragraph
@@ -810,5 +810,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764415088
+updated_at: 1764415115
 ---
