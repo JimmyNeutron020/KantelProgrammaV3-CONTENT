@@ -405,6 +405,83 @@ page_builder:
                 fa_icon: 'fa-solid fa-people-pulling'
                 text: 'Online maar niet alleen'
   -
+    id: mik84ac0
+    media:
+      video: true
+      autoplay_video: false
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      images: {  }
+      show_swiper_controls: null
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: mik85d2w
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '1250+ vrouwen gingen je voor!'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+      -
+        type: set
+        attrs:
+          id: mik866r4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: JbZyEcgp
+                label: 'Bekijk alle resultaten'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: solid
+                button_colour: white
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
+  -
     id: mhl4c1fm
     heading_size: M
     heading:
@@ -436,5 +513,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764416049
+updated_at: 1764416767
 ---
