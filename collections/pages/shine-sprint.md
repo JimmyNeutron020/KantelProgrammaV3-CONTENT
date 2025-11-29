@@ -724,7 +724,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Het Kantelprogramma is voor jou als je:'
+                    text: 'Het KantelProgramma is voor jou als je:'
             show_tag: false
       -
         type: paragraph
@@ -1410,5 +1410,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764423789
+updated_at: 1764423836
 ---
