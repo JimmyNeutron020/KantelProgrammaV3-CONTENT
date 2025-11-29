@@ -851,11 +851,6 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
             text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
     show_settings: false
     inner_spacing_top:
@@ -1235,5 +1230,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764420112
+updated_at: 1764420171
 ---
