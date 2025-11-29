@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je leeft al te lang in de overleefstand door (bekken)pijn en vermoeidheid. Je hebt al zoveel geprobeerd, maar de echte doorbraak blijft uit. De Shine Sprint is het 13-weekse Kantel Programma voor vrouwen die hun leven terug willen en weer willen vertrouwen op hun lichaam en energie.'
+            text: 'De Shine Sprint is het 13-weekse Kantel Programma voor vrouwen die hun leven terug willen en weer willen vertrouwen op hun lichaam en energie.'
       -
         type: set
         attrs:
@@ -1230,5 +1230,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764421048
+updated_at: 1764421083
 ---
