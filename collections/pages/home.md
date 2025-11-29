@@ -395,7 +395,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: '1000+ vrouwen gingen je voor!'
+                    text: '1250+ vrouwen gingen je voor!'
             show_tag: false
       -
         type: paragraph
@@ -411,7 +411,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Chronische klachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer energiek en pijnvrij te worden.'
+            text: 'Meer dan 1250 vrouwen kozen al voor het Kantel Programma. Jonge moeders, professionals, studenten, allemaal met hun eigen verhaal en vaak jarenlange klachten. Hun trajecten zijn geen perfecte succesverhalen, maar eerlijke processen vol vallen, opstaan en doorbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kan er nog steeds een kantelpunt komen.'
       -
         type: set
         attrs:
@@ -1411,5 +1411,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764428319
+updated_at: 1764428547
 ---
