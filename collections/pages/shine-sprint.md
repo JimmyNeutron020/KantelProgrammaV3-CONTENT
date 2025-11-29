@@ -439,7 +439,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Een brief aan jou, lieve vrouw'
+                        text: 'Een brief voor jou, lieve vrouw'
                 show_tag: false
           -
             type: paragraph
@@ -854,5 +854,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764418796
+updated_at: 1764418811
 ---
