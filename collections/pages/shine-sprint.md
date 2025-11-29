@@ -176,8 +176,7 @@ page_builder:
                 type: text
                 text: 'Het complete Kantel Programma mét exclusieve begeleiding. Alles uit Shine Sprint Compleet, plus extra support in live zoomsessies, een gezamenlijke aftrap, een 1-op-1 Kantel Connect sessie met Paul en verlengde persoonlijke support via de Kantel-Kroniek.'
         price: '€ 4.999'
-        show_discount: true
-        discount_price: '€ 999'
+        show_discount: false
         label: 'Start nu'
         link_type: link
         target_blank: false
@@ -316,104 +315,37 @@ page_builder:
         package_1_text: 'Tot 13 weken'
       -
         id: mhkz15c4
-        feature_name: '7 modules'
+        feature_name: 'Extra support in live Zoomsessies'
         package_1: true
         package_2: false
         package_3: false
         type: feature
         enabled: true
         package_1_type: cross
-        package_2_type: check
+        package_2_type: cross
         package_3_type: check
       -
         id: mhkz14ni
-        feature_name: '7 modules'
+        feature_name: 'Kantel Connect 1-op-1 Zoomsessie met Paul'
         package_1: true
         package_2: false
         package_3: false
         type: feature
         enabled: true
         package_1_type: cross
-        package_2_type: check
+        package_2_type: cross
         package_3_type: check
       -
         id: mhkz13zt
-        feature_name: '7 modules'
+        feature_name: 'Verlenging ‘Kantel Kroniek’ met persoonlijke support (week 14 t/m 26)'
         package_1: true
         package_2: false
         package_3: false
         type: feature
         enabled: true
         package_1_type: cross
-        package_2_type: check
+        package_2_type: cross
         package_3_type: check
-      -
-        id: mhkz13ba
-        feature_name: '7 modules'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz12md
-        feature_name: '7 modules'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz11y8
-        feature_name: '7 modules'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz117x
-        feature_name: '7 modules'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz100c
-        feature_name: '7 modules'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhgi1fxw
-        feature_name: '13 modules'
-        package_1: false
-        package_2: true
-        package_3: true
-        type: feature
-        enabled: true
-        package_1_type: text
-        package_2_type: check
-        package_3_type: check
-        package_1_text: 'Tot module 7'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -504,5 +436,5 @@ page_builder:
     enabled: true
     tag_text: Member
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764374916
+updated_at: 1764415944
 ---
