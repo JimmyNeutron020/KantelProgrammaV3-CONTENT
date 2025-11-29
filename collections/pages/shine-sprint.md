@@ -511,7 +511,7 @@ page_builder:
                     button_colour: orange
         type: new_set
         enabled: true
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -522,8 +522,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     type: AlternatingBlocks
     enabled: true
     anchor_id: brief-aan-jou
@@ -866,7 +866,7 @@ page_builder:
                 link: '#prijzen'
                 button_layout: solid
                 button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -874,11 +874,11 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
     anchor_id: onze-aanpak
@@ -955,7 +955,7 @@ page_builder:
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: solid
                 button_colour: white
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -963,8 +963,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -1413,5 +1413,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764424040
+updated_at: 1764424160
 ---
