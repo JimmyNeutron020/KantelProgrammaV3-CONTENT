@@ -378,7 +378,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Het KantelProgramma - Shine Sprint'
+                    text: 'Shine Sprint'
             show_tag: true
             tag_text: 'Niet voor doetjes!'
             tag_alignment: right
@@ -1411,5 +1411,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764427915
+updated_at: 1764427989
 ---
