@@ -473,7 +473,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. De Shine Sprint is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met pijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
+                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. De Shine Sprint is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
           -
             type: paragraph
             attrs:
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764424294
+updated_at: 1764424395
 ---
