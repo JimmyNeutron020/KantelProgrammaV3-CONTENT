@@ -771,47 +771,6 @@ page_builder:
             text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting een leven met minder pijn, meer rust, energie en vertrouwen in je lijf.'
     items:
       -
-        id: mhgdieb8
-        icon: 'fa-regular fa-book'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link_type: link
-        target_blank: false
-        link: '#abc'
-        button_layout: standard
-        button_colour: orange
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel E-Book'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        show_tag: false
-      -
         id: mhge0cl9
         icon: 'fa-regular fa-presentation-screen'
         card_heading: 'Kantel E-Book'
@@ -851,6 +810,47 @@ page_builder:
               -
                 type: text
                 text: 'Meerdere data'
+        show_tag: false
+      -
+        id: mhgdieb8
+        icon: 'fa-regular fa-book'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link_type: link
+        target_blank: false
+        link: '#abc'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel E-Book'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
         show_tag: false
       -
         id: mhge0h64
@@ -1411,5 +1411,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764429585
+updated_at: 1764429723
 ---
