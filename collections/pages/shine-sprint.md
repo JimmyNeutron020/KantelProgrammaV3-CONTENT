@@ -851,20 +851,43 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
-    show_settings: false
+            text: 'In de Kantel Community ontmoet je vrouwen die precies begrijpen hoe het is om met pijn, vermoeidheid en onzekerheid te leven. Hier hoef je je niet groot te houden of alles uit te leggen: je mag eerlijk delen hoe het écht gaat en je krijgt herkenning, aanmoediging en praktische tips van andere deelneemsters én Kantel Coaches.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En misschien wel het belangrijkst: na de 13 weken van de Shine Sprint valt het niet ineens stil. Je blijft onderdeel van een groep vrouwen die dezelfde kanteling hebben doorgemaakt en die net als jij bewust willen blijven leven, voelen en kiezen. Een warme groep gelijkgestemden die als vangnet blijft bestaan een plek waar je kunt blijven aansluiten, delen en opgeladen worden, ook als het leven weer even schuurt.'
+      -
+        type: set
+        attrs:
+          id: mikb5t9j
+          values:
+            type: buttons
+            buttons:
+              -
+                id: xvwmjuxs
+                label: 'Start nu'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
   -
@@ -882,7 +905,7 @@ page_builder:
     show_tag: true
     collection_type: members
     display_mode: all
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -890,8 +913,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -1230,5 +1253,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764421396
+updated_at: 1764421803
 ---
