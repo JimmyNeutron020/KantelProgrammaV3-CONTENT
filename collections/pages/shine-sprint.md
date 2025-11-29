@@ -404,6 +404,7 @@ page_builder:
                 id: mijhj01z
                 fa_icon: 'fa-solid fa-people-pulling'
                 text: 'Online maar niet alleen'
+    anchor_id: prijzen
   -
     id: mik8s3ym
     items:
@@ -439,7 +440,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Een brief voor jou ❤️'
+                        text: 'Een brief aan jou ❤️'
                 show_tag: false
           -
             type: paragraph
@@ -525,6 +526,7 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+    anchor_id: brief-aan-jou
   -
     id: mik8d326
     color: '#f7e7de'
@@ -879,6 +881,7 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+    anchor_id: onze-aanpak
   -
     id: mik84ac0
     media:
@@ -1410,5 +1413,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764423836
+updated_at: 1764423959
 ---
