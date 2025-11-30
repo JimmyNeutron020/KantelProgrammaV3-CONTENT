@@ -338,7 +338,92 @@ page_builder:
       spacing_mobile: standard
     type: ResultsCtaSection
     enabled: true
+  -
+    id: milmdwvu
+    color: '#ffffff'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: milmfzi9
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Vragen?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Heb je een vraag over het E-book, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Heb je een persoonlijke vraag dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze startten? Kijk dan even bij de veelgestelde vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: milmgmdh
+          values:
+            type: buttons
+            buttons:
+              -
+                id: mvQJbVLu
+                label: 'Persoonlijke vraag'
+                link_type: link
+                target_blank: false
+                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: milmia53
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764500906
+updated_at: 1764501304
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
