@@ -284,6 +284,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
                     text: 'Kantel Webinar'
             show_tag: false
       -
@@ -316,8 +321,8 @@ page_builder:
                 link_type: link
                 target_blank: false
                 link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
-                button_layout: standard
-                button_colour: orange
+                button_layout: solid
+                button_colour: white
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -334,6 +339,6 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764500867
+updated_at: 1764500906
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
