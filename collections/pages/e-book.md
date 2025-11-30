@@ -289,8 +289,10 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-grey
-                    text: 'Kantel Webinar'
-            show_tag: false
+                    text: 'Klaar voor de volgende stap?'
+            show_tag: true
+            tag_text: 'Gratis webinar'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -303,7 +305,25 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'In dit webinar nemen we je mee in een andere kijk op chronische pijn. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten richting een pijnvrij leven met meer vrijheid, plezier en ontspanning in je lijf.'
+            text: 'Dan wil je dit niet missen. In ons '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'gratis webinar'
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: ' delen we hoe je de sleutels toepast in je dagelijkse leven. Je ontdekt waarom je herstel vaak stokt en welke concrete acties vandaag al verschil maken.'
       -
         type: paragraph
         attrs:
@@ -424,6 +444,6 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764501304
+updated_at: 1764501415
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
