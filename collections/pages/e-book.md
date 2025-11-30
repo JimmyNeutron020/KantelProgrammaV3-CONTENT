@@ -70,7 +70,7 @@ page_builder:
             flex_icons:
               -
                 id: millwlsi
-                fa_icon: 'fa-solid fa-glasses'
+                fa_icon: 'fa-regular fa-glasses-round'
                 text: '15 minuten leestijd'
       -
         type: set
@@ -254,6 +254,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764500675
+updated_at: 1764500709
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
