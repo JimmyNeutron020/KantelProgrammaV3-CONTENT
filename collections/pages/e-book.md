@@ -253,7 +253,87 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+  -
+    id: milm7cb1
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-57.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: milm7lpw
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Kantel Webinar'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'In dit webinar nemen we je mee in een andere kijk op chronische pijn. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten richting een pijnvrij leven met meer vrijheid, plezier en ontspanning in je lijf.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: milm8thg
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 86ECMmmx
+                label: 'Meer informatie'
+                link_type: link
+                target_blank: false
+                link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
+                button_layout: standard
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764500709
+updated_at: 1764500867
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
