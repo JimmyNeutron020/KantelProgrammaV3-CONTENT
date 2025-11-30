@@ -13,7 +13,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - brand/230413-a-casa-nostra-_8959.jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-112.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -165,6 +165,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764499811
+updated_at: 1764499963
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
