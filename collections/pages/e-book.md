@@ -116,6 +116,10 @@ page_builder:
             type: text
             text: 'Niet zweverig, maar wél transformerend.'
       -
+        type: paragraph
+        attrs:
+          class: null
+      -
         type: set
         attrs:
           id: millxqj4
@@ -130,7 +134,7 @@ page_builder:
                 link: '#'
                 button_layout: solid
                 button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -138,8 +142,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -250,6 +254,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764500380
+updated_at: 1764500435
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
