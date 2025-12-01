@@ -1,5 +1,5 @@
 title: Members
-template: member
+template: default
 layout: layout
 revisions: false
 route: '/members/{slug}'
