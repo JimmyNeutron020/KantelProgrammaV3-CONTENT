@@ -8,18 +8,18 @@ page_builder:
     full_height: false
     layout_setting: media
     media:
-      video: false
-      autoplay_video: false
-      video_link: null
-      preview_image: null
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/1126170387'
+      preview_image: brand/screenshot-2025-12-01-at-08.34.48.png
       images:
         - brand/fotofolies-x-kantelprogramma_live-77.jpg
-      show_swiper_controls: false
+      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
     content:
       -
         type: set
@@ -55,10 +55,10 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Lorem ipsum dolor sit amet'
+            text: 'Gratis 7-daagse voice notes voor jonge moeders met chronische bekkenpijn'
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340623
+updated_at: 1764574633
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
