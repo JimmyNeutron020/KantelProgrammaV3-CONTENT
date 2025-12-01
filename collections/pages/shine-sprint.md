@@ -141,7 +141,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Het complete Kantel Programma, met 13 wekelijkse modules en implementatie in de dagelijkse praktijk. Je krijgt 26 weken toegang tot de complete Bewezen Beter Kantel Methode.'
+                text: 'Het complete Kantel Programma, met 13 modules en implementatie in de dagelijkse praktijk. Je krijgt 26 weken toegang tot de complete Bewezen Beter Kantel Methode.'
         price: '€ 2.247'
         show_discount: false
         label: 'Start nu'
@@ -391,7 +391,7 @@ page_builder:
               -
                 id: mijhgaxy
                 fa_icon: 'fa-regular fa-clock'
-                text: '13 weken'
+                text: '13 modules'
               -
                 id: mijhh4j8
                 fa_icon: 'fa-regular fa-heart'
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764424474
+updated_at: 1764594523
 ---
