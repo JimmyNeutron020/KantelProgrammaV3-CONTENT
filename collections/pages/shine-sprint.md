@@ -648,7 +648,7 @@ page_builder:
                     marks:
                       -
                         type: bold
-                    text: Revalidatie
+                    text: Beweging
                   -
                     type: text
                     text: ' om spier- en gewrichtsfunctie te herstellen en pijn te verminderen.'
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764594523
+updated_at: 1764594694
 ---
