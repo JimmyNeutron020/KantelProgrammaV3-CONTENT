@@ -58,7 +58,69 @@ page_builder:
             text: 'Gratis 7-daagse voice notes voor jonge moeders met chronische bekkenpijn'
     type: HeroSection
     enabled: true
+  -
+    id: mimu91ms
+    content:
+      -
+        type: set
+        attrs:
+          id: mimu94m5
+          values:
+            type: flex_icons
+            flex_icons:
+              -
+                id: mimu95av
+                fa_icon: 'fa-regular fa-volume'
+                text: '7 voice notes'
+      -
+        type: set
+        attrs:
+          id: mimuaj81
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Jouw échte doorbraak begint níet bij harder werken, maar bij herstellen van vertrouwen.'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Vertrouwen in je lichaam terugkrijgen is dé bewezen manier om te kunnen herstellen van bekkenpijn.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Daar gaan Paul & Chantal het over hebben tijdens 'Kantel Inzicht'."
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764574633
+updated_at: 1764574949
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
