@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Gratis 7-daagse voice notes voor jonge moeders met chronische bekkenpijn'
+            text: 'Gratis 7-daagse voice notes voor jonge moeders met chronische bekkenpijn.'
     type: HeroSection
     enabled: true
   -
@@ -121,6 +121,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764575026
+updated_at: 1764575191
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
