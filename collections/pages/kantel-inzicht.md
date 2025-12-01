@@ -87,7 +87,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Jouw échte doorbraak begint níet bij harder werken, maar bij herstellen van vertrouwen.'
+                    text: 'Jouw échte doorbraak begint  bij herstellen van vertrouwen.'
             show_tag: false
       -
         type: paragraph
@@ -105,7 +105,7 @@ page_builder:
           -
             type: text
             text: "Daar gaan Paul & Chantal het over hebben tijdens 'Kantel Inzicht'."
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -113,14 +113,14 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764574949
+updated_at: 1764575026
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
