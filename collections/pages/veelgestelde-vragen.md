@@ -50,7 +50,7 @@ page_builder:
     heading_size: M
     show_tag: false
     color: '#ffffff'
-    layout_type: extended
+    layout_type: standard
     content_source: module
     show_settings: false
     inner_spacing_top:
@@ -67,6 +67,8 @@ page_builder:
       spacing_mobile: standard
     type: FaqList
     enabled: true
+    filter_category:
+      - begeleiding
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764269664
+updated_at: 1764595839
 ---
