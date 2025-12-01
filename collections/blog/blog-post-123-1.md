@@ -2,7 +2,7 @@
 id: 908630ed-f098-48ec-9efe-9b5c45a52ccb
 blueprint: blog
 title: 'Blog post 123 (Duplicated)'
-author: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+author: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
 preview_image: food/fotofolies-x-kantelprogramma-paul-en-chantal-115.jpg
 excerpt:
   -
@@ -24,7 +24,7 @@ category_group:
 klachten:
   - migraine
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764001943
+updated_at: 1764593078
 template: blog
 duplicated_from: 33caacee-ab22-42ee-9cc2-48457e7a0944
 ---
