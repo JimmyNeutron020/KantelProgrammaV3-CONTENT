@@ -88,7 +88,9 @@ page_builder:
                   -
                     type: text
                     text: 'Jouw échte doorbraak begint  bij herstellen van vertrouwen.'
-            show_tag: false
+            show_tag: true
+            tag_text: Gratis
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -121,6 +123,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764575191
+updated_at: 1764575228
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
