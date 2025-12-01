@@ -51,7 +51,7 @@ page_builder:
     show_tag: false
     color: '#ffffff'
     layout_type: standard
-    content_source: module
+    content_source: static
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -67,8 +67,9 @@ page_builder:
       spacing_mobile: standard
     type: FaqList
     enabled: true
-    filter_category:
-      - begeleiding
+    selected_entries:
+      - af2290c8-3f63-4e43-a296-98c63ba1fa2f
+      - 1f54bf86-c980-4478-bc4f-5c4d0dcf964f
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764595839
+updated_at: 1764595887
 ---
