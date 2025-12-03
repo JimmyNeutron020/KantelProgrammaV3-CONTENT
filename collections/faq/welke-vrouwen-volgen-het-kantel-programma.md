@@ -5,7 +5,7 @@ title: 'Welke vrouwen volgen het Kantel Programma?'
 faq_category:
   - deelnemers
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764749669
+updated_at: 1764750902
 content:
   -
     type: paragraph
