@@ -5,7 +5,7 @@ title: 'Ga ik de investering terug verdienen?'
 faq_category:
   - prijzen
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764686945
+updated_at: 1764751107
 duplicated_from: af2290c8-3f63-4e43-a296-98c63ba1fa2f
 content:
   -
