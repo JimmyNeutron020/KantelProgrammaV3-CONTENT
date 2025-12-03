@@ -3,10 +3,10 @@ id: bf24a8f8-af5b-42f5-9e1b-1f884bcfdbfa
 blueprint: faq
 title: 'Hoeveel tijd kost het Kantel Programma?'
 faq_category:
-  - resultaat
   - begeleiding
+  - tijd-haalbaarheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750218
+updated_at: 1764751095
 content:
   -
     type: paragraph
