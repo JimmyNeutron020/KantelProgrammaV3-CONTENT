@@ -1,11 +1,11 @@
 ---
 id: 42968707-dbec-46ca-9e96-53229655a43a
 blueprint: faq
-title: 'Ik kan nog alles. Zijn met klachten erg genoeg?'
+title: 'Ik kan nog alles. Zijn mijn klachten erg genoeg?'
 faq_category:
   - klachten
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764749879
+updated_at: 1764749906
 content:
   -
     type: paragraph
