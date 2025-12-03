@@ -4,8 +4,9 @@ blueprint: faq
 title: 'Kan ik het traject aan met zoveel pijn en geen energie?'
 faq_category:
   - klachten
+  - tijd-haalbaarheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764749753
+updated_at: 1764751027
 content:
   -
     type: paragraph
