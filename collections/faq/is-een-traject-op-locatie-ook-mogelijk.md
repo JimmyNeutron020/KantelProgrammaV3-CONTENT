@@ -5,7 +5,7 @@ title: 'Is een traject op locatie ook mogelijk?'
 faq_category:
   - begeleiding
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750280
+updated_at: 1764751069
 content:
   -
     type: paragraph
