@@ -4,9 +4,8 @@ blueprint: faq
 title: 'Wie checkt mijn lichamelijke situatie?'
 faq_category:
   - begeleiding
-  - klachten
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764749955
+updated_at: 1764750859
 content:
   -
     type: paragraph
