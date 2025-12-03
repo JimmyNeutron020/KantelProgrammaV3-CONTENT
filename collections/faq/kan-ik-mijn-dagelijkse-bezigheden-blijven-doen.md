@@ -5,7 +5,7 @@ title: 'Kan ik mijn dagelijkse bezigheden blijven doen?'
 faq_category:
   - tijd-haalbaarheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750724
+updated_at: 1764751015
 content:
   -
     type: paragraph
