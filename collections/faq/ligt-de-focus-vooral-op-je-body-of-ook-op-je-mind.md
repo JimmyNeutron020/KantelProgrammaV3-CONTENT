@@ -5,8 +5,9 @@ title: 'Ligt de focus vooral op je body of ook op je mind?'
 faq_category:
   - begeleiding
   - resultaat
+  - klachten
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750002
+updated_at: 1764750986
 content:
   -
     type: paragraph
