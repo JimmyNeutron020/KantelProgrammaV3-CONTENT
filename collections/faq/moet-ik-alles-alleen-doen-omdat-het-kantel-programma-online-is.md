@@ -5,7 +5,7 @@ title: 'Moet ik alles alleen doen omdat het Kantel Programma online is?'
 faq_category:
   - begeleiding
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750351
+updated_at: 1764750916
 content:
   -
     type: paragraph
