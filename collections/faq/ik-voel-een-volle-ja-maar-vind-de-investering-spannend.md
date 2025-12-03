@@ -5,7 +5,7 @@ title: "Ik voel een volle 'ja', maar vind het spannend om de investering te doen
 faq_category:
   - prijzen
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764686573
+updated_at: 1764751078
 duplicated_from: 6da3f2a9-74b8-4a30-a07e-e0286ae28646
 content:
   -
