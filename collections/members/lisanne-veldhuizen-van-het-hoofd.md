@@ -11,13 +11,22 @@ page_builder:
     color: '#eb8d7a'
     content:
       -
-        type: paragraph
+        type: set
         attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            text: 'Lisanne Veldhuizen - van het Hoofd'
+          id: mirvtr6m
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Lisanne Veldhuizen - van het Hoofd'
+            show_tag: false
     type: HeroSection
     enabled: true
     media:
@@ -380,5 +389,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764864260
+updated_at: 1764879745
 ---
