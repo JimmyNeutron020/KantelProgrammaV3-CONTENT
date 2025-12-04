@@ -4,7 +4,7 @@ blueprint: member
 title: 'Brenda Koudijs'
 avatar: members/brendalacht.jpeg
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764841284
+updated_at: 1764841390
 page_builder:
   -
     id: min6ebnc
@@ -284,6 +284,21 @@ page_builder:
               -
                 type: text
                 text: 'Ik hoop vele andere vrouwen te kunnen inspireren en ondersteunen in hun zoektocht naar een lichter en energieker leven. En ze het vertrouwen te geven dat dit mogelijk is en voor iedereen is weggelegd'
+          -
+            type: set
+            attrs:
+              id: mir8z0t6
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: QkCPdGJk
+                    label: 'VERTEL MIJ MEER'
+                    link_type: link
+                    target_blank: true
+                    link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint/?ref=ey1Yq2TRwxGvmv9UvnQT'
+                    button_layout: standard
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
