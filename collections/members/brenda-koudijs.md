@@ -4,7 +4,7 @@ blueprint: member
 title: 'Brenda Koudijs'
 avatar: members/brendalacht.jpeg
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764781228
+updated_at: 1764841284
 page_builder:
   -
     id: min6ebnc
