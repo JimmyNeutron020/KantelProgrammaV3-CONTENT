@@ -195,18 +195,18 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: mirk9425
+    id: mirkbicu
     items:
       -
-        id: mirk95ix
+        id: mirkbk1d
         swap: true
         media:
-          video: true
+          video: false
           autoplay_video: false
-          video_link: 'https://vimeo.com/1012709995?share=copy'
-          preview_image: img_677123.jpeg
+          video_link: null
+          preview_image: null
           images: {  }
-          show_swiper_controls: null
+          show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -221,11 +221,10 @@ page_builder:
               -
                 type: text
                 text: 'Het programma is zo opgebouwd dat dus zelfs als je “denkt” niks meer te kunnen, gaat er toch wat gebeuren! Ik had echt NOOIT gedacht dat ik binnen 13 weken 2 km zou kunnen lopen! Maar het gebeurde echt. Je doet het programma op je eigen tempo. Je begint echt heel erg langzaam met oefeningen waarvan je denk… huh gaat dit mij helpen? En na een week de 1e oefeningen te hebben gedaan kon ik van de bank opstaan zonder enorme stijfheid en enorme pijn! '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+              -
+                type: hardBreak
+              -
+                type: hardBreak
               -
                 type: text
                 text: 'Tuurlijk is het geen wonder middel dat na 3 weken alle pijn opgelost is. Maar wel dat je merkt dat je meer kan, langere uithoudingsvermogen en uiteindelijk toch echt veeeeeeel minder pijn en zelfs op plekken geen pijn meer! En als ik dan ongesteld ben en ik “een pijntje” heb heb ik geleerd hoe ik daar op kan reageren en welke oefeningen daarvoor zijn. En zelfs… als er een andere pijn in één keer komt dan weet ik ook hoe ik daarop kan reageren en welke oefening daarbij hoort. '
@@ -245,6 +244,42 @@ page_builder:
               -
                 type: text
                 text: "Elke week stuurde ik een kantelkroniek naar Paul en Chantal. Daarin geef je aan hoe het ging die week, waar je tegenaan liep, wat je zou willen verbeteren ed. Daar kreeg ik ook hele liefdevolle feedback op terug gekregen. Soms op de vingers tikkend, maar dat was ook gewoon heeel verhelderend! Je krijgt er een uitleg bij. Soms ook gewoon… “omdat wij de expertise hebben en weten dat het werkt”. En ze hebben gelijk (gehad). In september ’24 ging onze oudste zoon trouwen. Ik zag daar enorm tegenop en besprak dat met Chantal. Zij heeft mij echt bemoedig en aangemoedigd! En jawel hoor! Ik ben er de hele dag bij geweest. Tussendoor even oefeningen gedaan, mijn grens goed in de gaten gehouden en tijdens een rustig moment even opgeladen.\_"
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: mirk9425
+    items:
+      -
+        id: mirk95ix
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1012709995?share=copy'
+          preview_image: img_677123.jpeg
+          images: {  }
+          show_swiper_controls: null
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
           -
             type: paragraph
             attrs:
@@ -310,5 +345,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764860372
+updated_at: 1764860602
 ---
