@@ -5,6 +5,34 @@ title: 'Marije de Velde'
 avatar: image00055.jpg
 page_builder:
   -
+    id: mirmfkwp
+    full_height: false
+    layout_setting: content
+    color: '#eb8d7a'
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Marije de Velde'
+    type: HeroSection
+    enabled: true
+    media:
+      video: null
+      autoplay_video: null
+      video_link: null
+      preview_image: null
+      images: {  }
+      show_swiper_controls: null
+      autoplay: null
+      swiper_bullets: null
+      play_pause_control: null
+      sound_control: null
+      fullscreen_control: null
+  -
     id: mirlunxj
     items:
       -
@@ -227,5 +255,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764863902
+updated_at: 1764863987
 ---
