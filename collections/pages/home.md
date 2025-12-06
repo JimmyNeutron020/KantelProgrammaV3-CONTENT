@@ -187,7 +187,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Met jarenlange ervaring in het begeleiden van vrouwen met chronische bekkenklachten, ziet Chantal razendsnel wat jij nodig hebt. Ze staat bekend om haar scherpe oog: ze ziet wat jíj nodig hebt en vertaalt dat naar heldere, praktische stappen die bij jouw leven passen.'
+                text: 'Met jarenlange ervaring in het begeleiden van vrouwen met chronische bekkenklachten, ziet Chantal razendsnel wat jij nodig hebt. Dat scherpe zicht op wat nodig is, is haar grootste talent.'
           -
             type: set
             attrs:
@@ -1294,5 +1294,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765034571
+updated_at: 1765034683
 ---
