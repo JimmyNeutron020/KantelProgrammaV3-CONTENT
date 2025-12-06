@@ -187,7 +187,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Haar passie? Jou begeleiden naar jouw next level. Met een heldere visie inspireert ze niet alleen individuen en groepen, maar ook bedrijven. Ze helpt je op een praktische en toepasbare manier om makkelijker én stralender te leven. Als jij er klaar voor bent, deelt ze graag haar wijsheid met je.'
+                text: 'Met jaren ervaring in het begeleiden van vrouwen met chronische bekkenklachten, ziet Chantal razendsnel wat jij nodig hebt. Ze staat bekend om haar scherpe oog: ze ziet snel wat jíj nodig hebt en vertaalt dat naar heldere, praktische stappen die bij jouw leven passen.'
           -
             type: set
             attrs:
@@ -1294,5 +1294,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765034038
+updated_at: 1765034528
 ---
