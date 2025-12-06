@@ -42,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Chronische bekkenklachten belemmeren je leven? Het Kantelprogramma helpt je binnen 13 weken weer fit, energiek en pijnvrij te worden.'
+            text: 'Het KantelProgramma helpt je om weer vertrouwen te krijgen in je lijf, zodat je weer fit, energiek en pijnvrij kunt leven.'
       -
         type: set
         attrs:
@@ -1294,5 +1294,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764435364
+updated_at: 1765032846
 ---
