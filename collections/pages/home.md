@@ -1208,7 +1208,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven.” Precies zó serieus willen wij ook jóuw klachten nemen. Dat bedoelen we met een topsport benadering.'
+            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven.” Precies zó serieus willen wij ook jóuw lichaam en klachten nemen. Dat bedoelen we met een topsport benadering van herstel.'
       -
         type: paragraph
         attrs:
@@ -1216,7 +1216,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'En nee: dat betekent níet dat jij op topsport-niveau moet presteren, extreem fit moet zijn of nóg harder moet knokken. Integendeel. De meeste vrouwen die bij ons komen, zijn juist moe, overbelast en hebben al jaren het gevoel dat ze in de overleefstand staan. Een topsport benadering gaat voor ons over de manier waarop wíj naar jou en je herstel kijken: volledig, zorgvuldig en met respect voor jouw belastbaarheid.'
+            text: 'Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn: de meeste vrouwen die bij ons komen zijn juist moe, overbelast en staan al jaren in de overleefstand. Een topsport benadering gaat voor ons over hoe wíj naar jouw herstel kijken: volledig, zorgvuldig en altijd binnen jouw echte belastbaarheid.'
       -
         type: paragraph
         attrs:
@@ -1224,7 +1224,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We doen niet aan symptoombestrijding. Jouw lichaam, zenuwstelsel, energie, hormonen, slaap, voeding, emoties en dagelijkse leven horen bij elkaar. Op basis daarvan maken we een persoonlijk plan, in kleine, haalbare stappen die passen bij jouw leven, met werk, gezin, afspraken en alles wat er al is. Niet met de boodschap dat je “je best maar harder moet doen”, maar juist met meer zachtheid, structuur en duidelijke begeleiding.'
+            text: 'We doen niet aan symptoombestrijding. Je lichaam werkt als één geheel waarin spieren, zenuwstelsel, stress, voeding, slaap, emoties en je dagelijkse leefwijze elkaar continu beïnvloeden. Daarom werken we aan de oorzaak: een overbelast zenuwstelsel dat te vaak ‘gevaar’ registreert. Vanuit daar maken we een persoonlijk plan in kleine, haalbare stappen. Herstel wordt een 24/7 leefwijze: eten, bewegen, rusten, denken en kiezen in lijn met wat jouw lichaam nodig heeft.'
       -
         type: paragraph
         attrs:
@@ -1232,7 +1232,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Topsport benadering betekent voor ons: jij krijgt dezelfde aandacht en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we een topsport mentaliteit: bereidheid om te komen opdagen voor jezelf, eerlijk te kijken, te oefenen en vol te houden.'
+            text: 'Topsportbenadering betekent voor ons: jij krijgt dezelfde aandacht, structuur en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we een topsport mentaliteit voor jezelf: bereidheid om op te komen dagen, eerlijk te kijken, te oefenen en vol te houden. Zo kantelen we stap voor stap je hele systeem, zodat je body & mind weer als één team kunnen herstellen.'
       -
         type: paragraph
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765115453
+updated_at: 1765115876
 ---
