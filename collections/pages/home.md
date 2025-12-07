@@ -567,7 +567,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'Body & mind'
+                text: 'Body & Mind'
           -
             type: paragraph
             attrs:
@@ -575,7 +575,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Body en mind leren weer als één team samenwerken voor herstel.'
+                text: 'Body en Mind leren weer als één team samenwerken voor herstel.'
         type: new_set
         enabled: true
     show_callout: true
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765112457
+updated_at: 1765112513
 ---
