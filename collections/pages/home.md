@@ -480,7 +480,7 @@ page_builder:
     items:
       -
         id: m7xzqfyb
-        icon: 'fa-regular fa-clock'
+        icon: 'fa-regular fa-trophy'
         content:
           -
             type: paragraph
@@ -492,7 +492,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: '13 weken'
+                text: 'Unieke methode'
           -
             type: paragraph
             attrs:
@@ -500,7 +500,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In 13 online modules, elk gevuld met kennissheets, trainingsvideo’s en vodcasts, werken we samen aan jouw transformatie.'
+                text: 'We werken met een topsportbenadering voor herstel bij chronische bekkenklachten: geen losse behandelingen, maar een doordachte manier van trainen, rusten en leven die echt voor je lichaam werkt.'
         type: new_set
         enabled: true
       -
@@ -517,7 +517,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'Individueel op maat gemaakt'
+                text: 'Vertrouwen terug'
           -
             type: paragraph
             attrs:
@@ -525,7 +525,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Alles wordt individueel op maat samengesteld voor jouw body en mind.'
+                text: 'Je gaat begrijpen waar je klachten vandaan komen en wat jouw lichaam nodig heeft, zodat je op je lijf durft te bouwen en weer met vertrouwen kunt bewegen en leven.'
         type: new_set
         enabled: true
       -
@@ -542,7 +542,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'Totale reset'
+                text: '24/7 in jouw leven'
           -
             type: paragraph
             attrs:
@@ -550,12 +550,12 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Geen quick fix, maar een duurzame verandering voor jouw lichaam en geest.'
+                text: 'Je wordt stap voor stap begeleid om alles wat je leert 24/7 in je leven te verweven, van hoe je zit en loopt tot hoe je rust en eet, zodat herstel de rode draad in je dag wordt.'
         type: new_set
         enabled: true
       -
         id: m7xzveax
-        icon: 'fa-solid fa-people-pulling'
+        icon: 'fa-regular fa-person-rays'
         content:
           -
             type: paragraph
@@ -567,7 +567,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'Online, maar niet alleen'
+                text: 'Body & mind'
           -
             type: paragraph
             attrs:
@@ -575,7 +575,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Paul, Chantal en ons team van Kantel Coaches zijn oprecht betrokken en staan aan je zijde.'
+                text: 'Je lichaam, zenuwstelsel, emoties en dagelijks leven worden samen meegenomen. Geen trucje voor één spier, maar een aanpak waarin body & mind weer als één geheel gaan samenwerken.'
         type: new_set
         enabled: true
     show_callout: true
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765035638
+updated_at: 1765111875
 ---
