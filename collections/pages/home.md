@@ -768,7 +768,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting een leven met minder pijn, meer rust, energie en vertrouwen in je lijf.'
+            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
     items:
       -
         id: mhge0cl9
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765114284
+updated_at: 1765114364
 ---
