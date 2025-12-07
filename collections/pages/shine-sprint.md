@@ -975,15 +975,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'In de Kantel Community ontmoet je vrouwen die precies begrijpen hoe het is om met pijn, vermoeidheid en onzekerheid te leven. Hier hoef je je niet groot te houden of alles uit te leggen: je mag eerlijk delen hoe het écht gaat en je krijgt herkenning, aanmoediging en praktische tips van andere deelneemsters én Kantel Coaches.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'En misschien wel het belangrijkst: na de 13 weken van de Shine Sprint valt het niet ineens stil. Als je er behoefte aan hebt dan blijf je onderdeel van een groep vrouwen die dezelfde kanteling hebben doorgemaakt en die net als jij bewust willen blijven leven, voelen en kiezen. Een warme groep gelijkgestemden die als vangnet blijft bestaan een plek waar je kunt blijven aansluiten, delen en opgeladen worden, ook als het leven weer even schuurt.'
+            text: 'In de Kantel Community ontmoet je gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en bewust kiezen voor een leven in lijn met herstel. Geen plek om in de pijn te blijven hangen, maar om elkaar te inspireren, scherp te houden en te blijven kantelen, met vrouwen die net als jij kiezen voor een nieuw normaal.'
       -
         type: set
         attrs:
@@ -1389,5 +1381,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765122138
+updated_at: 1765122480
 ---
