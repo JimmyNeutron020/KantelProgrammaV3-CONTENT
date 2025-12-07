@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'De Shine Sprint is het 13-weekse Kantel Programma voor vrouwen die hun leven terug willen en weer willen vertrouwen op hun lichaam en energie.'
+            text: 'In de Shine Sprint kantel je je leven met alle kennis en ervaring van Chantal en Paul, zodat je weer op je eigen lichaam kunt vertrouwen.'
       -
         type: set
         attrs:
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764594694
+updated_at: 1765117337
 ---
