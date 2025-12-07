@@ -500,7 +500,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We werken met een topsportbenadering voor herstel bij chronische bekkenklachten: geen losse behandelingen, maar een doordachte manier van trainen, rusten en leven die echt voor je lichaam werkt.'
+                text: 'Een topsportbenadering die 24/7 werkt en je hele systeem kantelt.'
         type: new_set
         enabled: true
       -
@@ -525,7 +525,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je gaat begrijpen waar je klachten vandaan komen en wat jouw lichaam nodig heeft, zodat je op je lijf durft te bouwen en weer met vertrouwen kunt bewegen en leven.'
+                text: 'Je leert weer vertrouwen op een lichaam dat met je meewerkt.'
         type: new_set
         enabled: true
       -
@@ -550,7 +550,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je wordt stap voor stap begeleid om alles wat je leert 24/7 in je leven te verweven, van hoe je zit en loopt tot hoe je rust en eet, zodat herstel de rode draad in je dag wordt.'
+                text: 'Herstel als 24/7 leefwijze: elke keuze in je dag telt.'
         type: new_set
         enabled: true
       -
@@ -575,7 +575,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je lichaam, zenuwstelsel, emoties en dagelijks leven worden samen meegenomen. Geen trucje voor één spier, maar een aanpak waarin body & mind weer als één geheel gaan samenwerken.'
+                text: 'Body en mind leren weer als één team samenwerken voor herstel.'
         type: new_set
         enabled: true
     show_callout: true
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765111875
+updated_at: 1765112457
 ---
