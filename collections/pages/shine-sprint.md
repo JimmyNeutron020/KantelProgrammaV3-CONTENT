@@ -390,20 +390,20 @@ page_builder:
             flex_icons:
               -
                 id: mijhgaxy
-                fa_icon: 'fa-regular fa-clock'
-                text: '13 modules'
+                fa_icon: 'fa-regular fa-trophy'
+                text: 'Unieke methode'
               -
                 id: mijhh4j8
                 fa_icon: 'fa-regular fa-heart'
-                text: 'Individueel op maat gemaakt'
+                text: 'Vertrouwen terug'
               -
                 id: mijhhpdd
                 fa_icon: 'fa-regular fa-arrow-rotate-left'
-                text: 'Totale reset'
+                text: '24/7 in jouw leven'
               -
                 id: mijhj01z
-                fa_icon: 'fa-solid fa-people-pulling'
-                text: 'Online maar niet alleen'
+                fa_icon: 'fa-regular fa-person-rays'
+                text: 'Body & Mind'
     anchor_id: prijzen
   -
     id: mik8s3ym
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765117678
+updated_at: 1765117794
 ---
