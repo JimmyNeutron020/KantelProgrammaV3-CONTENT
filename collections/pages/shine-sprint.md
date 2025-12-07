@@ -663,7 +663,7 @@ page_builder:
           id: mivvwo6y
           values:
             type: heading
-            heading_size: S
+            heading_size: XS
             heading:
               -
                 type: heading
@@ -672,7 +672,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'De Shine Sprint is wél voor jou als je:'
+                    text: 'De Shine Sprint is voor jou als je:'
             show_tag: false
       -
         type: bulletList
@@ -1370,5 +1370,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765121824
+updated_at: 1765121864
 ---
