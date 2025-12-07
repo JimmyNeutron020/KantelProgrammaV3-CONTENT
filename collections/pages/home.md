@@ -686,7 +686,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+            text: 'Alles wat je wilt weten over ons en het KantelProgramma mag je aan ons vragen.'
       -
         type: paragraph
         attrs:
@@ -1197,7 +1197,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Topsport benadering'
+                    text: Topsportbenadering
             show_tag: true
             tag_text: 'Wat is dat?'
             tag_alignment: left
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765114130
+updated_at: 1765114230
 ---
