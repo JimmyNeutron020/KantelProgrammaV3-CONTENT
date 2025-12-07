@@ -571,29 +571,34 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: '
+            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven.”'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wat we voor topsporters heel normaal vinden, gunnen we vrouwen met chronische (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel met een topsportbenadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een aanpak die jouw hele systeem kantelt: body & mind, zenuwstelsel en jouw 24/7 leefwijze.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit is geen quick fix en geen programma met snelle trucjes. We werken niet aan “even minder pijn”, maar aan een nieuw vertrekpunt van waaruit jouw lichaam wél kan herstellen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
             type: text
             marks:
               -
-                type: italic
-            text: '“Leer er maar mee leven.”'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Wat we voor topsporters heel normaal vinden, gunnen we vrouwen met chronische (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel met een topsport benadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een totaalplan voor lichaam én zenuwstelsel.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je krijgt een volledig persoonlijk plan met interventies die speciaal op jou zijn afgestemd, zoals:'
+                type: bold
+            text: 'In dit programma leer je:'
       -
         type: bulletList
         content:
@@ -607,15 +612,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Zenuwstelsel regulatie'
-                  -
-                    type: text
-                    text: ' met ademhalingstechnieken en mindfulness om stress te verlagen en je lichaam te laten herstellen.'
-                  -
-                    type: hardBreak
+                    text: 'Hoe je lichaam, zenuwstelsel en geest écht samenwerken, zodat je eindelijk begrijpt waarom je pijn blijft terugkomen.'
           -
             type: listItem
             content:
@@ -626,15 +623,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: Voedingsadvies
-                  -
-                    type: text
-                    text: ' dat je helpt ontstekingen te verminderen en je energieniveau te verhogen.'
-                  -
-                    type: hardBreak
+                    text: 'Welke ‘beweegstappen’ jij persoonlijk moet zetten om je lichaam te laten herstellen, zodat je weer vrij kunt zijn, zonder angst voor een verkeerde stap, houding of belasting.'
           -
             type: listItem
             content:
@@ -645,15 +634,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: Beweging
-                  -
-                    type: text
-                    text: ' om spier- en gewrichtsfunctie te herstellen en pijn te verminderen.'
-                  -
-                    type: hardBreak
+                    text: 'Hoe je de topsportmentaliteit toepast in je dagelijks leven, op een manier die haalbaar is voor jou als moeder en die zorgt voor consistente vooruitgang in plaats van terugval.'
           -
             type: listItem
             content:
@@ -664,15 +645,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Hormoonbalans ondersteuning'
-                  -
-                    type: text
-                    text: ' om hormonale disbalansen te corrigeren die invloed hebben op je energie en pijnniveau.'
-                  -
-                    type: hardBreak
+                    text: 'Hoe je de spanning, stress en overbelasting herkent voordat je lichaam protesteert en hoe je je zenuwstelsel kalmeert zodat herstel mogelijk wordt.'
           -
             type: listItem
             content:
@@ -683,53 +656,14 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: bold
-                    text: Slaapverbetering
-                  -
-                    type: text
-                    text: ' met technieken om je slaap te optimaliseren, zodat je lichaam beter kan herstellen.'
-                  -
-                    type: hardBreak
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Gerichte training'
-                  -
-                    type: text
-                    text: ' om kracht, lenigheid, stabiliteit, coördinatie, mobiliteit en conditie stapje voor stapje veilig op te bouwen.'
-                  -
-                    type: hardBreak
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Niet alles tegelijk, maar in een haalbare opbouw, passend bij jouw belastbaarheid en leven. Zodat je niet nóg harder hoeft te vechten, maar slimmer, warmer en doelgerichter voor jezelf gaat zorgen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+                    text: 'Hoe je 24/7 gewoontes implementeert die passen bij jouw leven, zodat je lichaam dag en nacht in de herstelstand kan komen.'
       -
         type: set
         attrs:
-          id: mikcbzba
+          id: mivvwo6y
           values:
             type: heading
-            heading_size: XS
+            heading_size: S
             heading:
               -
                 type: heading
@@ -738,12 +672,8 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Het KantelProgramma is voor jou als je:'
+                    text: 'De Shine Sprint is wél voor jou als je:'
             show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
       -
         type: bulletList
         content:
@@ -801,7 +731,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'voelt dat je méér bent dan je klachten;'
+                    text: 'voelt dat je méér bent dan je bekkenpijn en je onverklaarbare klachten;'
           -
             type: listItem
             content:
@@ -834,7 +764,29 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'niet hoopt op garanties of snelle resultaten.'
+                    text: 'het antwoord op de ‘wat’ en ‘waarom’ voor ogen houdt'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'de ‘hoe’ en ‘wanneer’ vraag helemaal durft los te laten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Onze belofte'
       -
         type: paragraph
         attrs:
@@ -843,6 +795,11 @@ page_builder:
           -
             type: text
             text: 'Onze belofte is geen wondermiddel.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Onze belofte is: een fundamenteel nieuw vertrekpunt, de kanteling, waarin jij weer aan het roer staat.'
       -
         type: paragraph
         attrs:
@@ -850,19 +807,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Onze belofte is: een fundamenteel nieuw vertrekpunt, waarin jij weer aan het roer staat.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We begeleiden krachtige vrouwen die hun regie terugpakken, omdat het voor deze grote groep vrouwen werkt. Het is geen magische oplossing. Het is een traject waarin je zelf het verschil maakt.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            text: 'Het is een proces waarin jij zelf het verschil maakt, met onze kennis, ervaring en begeleiding die veel verder gaat dan symptoombestrijding.'
       -
         type: set
         attrs:
@@ -1425,5 +1370,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765120749
+updated_at: 1765121824
 ---
