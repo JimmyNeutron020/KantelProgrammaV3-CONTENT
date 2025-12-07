@@ -1079,7 +1079,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Twijfel je nog of dit traject past bij jouw situatie, of wil je eerst iets met ons delen? Alles wat je wilt weten over ons, de Shine Sprint of het Kantel Programma mag je aan ons vragen.'
+            text: 'Twijfel je nog of dit programma past bij jouw situatie, of wil je eerst iets met ons delen? Alles wat je wilt weten over ons, de Shine Sprint of het Kantel Programma mag je aan ons vragen.'
       -
         type: paragraph
         attrs:
@@ -1177,7 +1177,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je toch alvast een eerste stap richting een pijnvrij leven met meer rust, energie en vertrouwen in je lijf.'
+            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
     items:
       -
         id: mik9un8e
@@ -1381,5 +1381,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765122480
+updated_at: 1765122641
 ---
