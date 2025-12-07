@@ -42,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Het KantelProgramma helpt je om weer vertrouwen te krijgen in je lijf, zodat je weer fit, energiek en pijnvrij kunt leven.'
+            text: 'Het Kantel Programma helpt je om weer vertrouwen te krijgen in je lijf, zodat je weer fit, energiek en pijnvrij kunt leven.'
       -
         type: set
         attrs:
@@ -110,7 +110,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij ontwikkelden het KantelProgramma. Onze vernieuwde aanpak voor herstel bij chronische bekkenklachten ontstond in ons lifestyle hotel, waar vrouwen met bekkenklachten tijdelijk bij ons verbleven om 24/7 aan hun herstel te werken. Vanuit onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen, hebben we alles wat daar werkte vertaald naar een volledig online programma.'
+            text: 'Wij ontwikkelden het Kantel Programma. Onze vernieuwde aanpak voor herstel bij chronische bekkenklachten ontstond in ons lifestyle hotel, waar vrouwen met bekkenklachten tijdelijk bij ons verbleven om 24/7 aan hun herstel te werken. Vanuit onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen, hebben we alles wat daar werkte vertaald naar een volledig online programma.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -412,7 +412,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het KantelProgramma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kan er nog steeds een kantelpunt komen.'
+            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kan er nog steeds een kantelpunt komen.'
       -
         type: paragraph
         attrs:
@@ -686,7 +686,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wilt weten over ons en het KantelProgramma mag je aan ons vragen.'
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
       -
         type: paragraph
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765115876
+updated_at: 1765123084
 ---
