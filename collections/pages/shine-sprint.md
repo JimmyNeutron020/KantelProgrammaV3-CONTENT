@@ -613,6 +613,8 @@ page_builder:
                   -
                     type: text
                     text: 'Hoe je lichaam, zenuwstelsel en geest écht samenwerken, zodat je eindelijk begrijpt waarom je pijn blijft terugkomen.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -624,6 +626,8 @@ page_builder:
                   -
                     type: text
                     text: 'Welke ‘beweegstappen’ jij persoonlijk moet zetten om je lichaam te laten herstellen, zodat je weer vrij kunt zijn, zonder angst voor een verkeerde stap, houding of belasting.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -635,6 +639,8 @@ page_builder:
                   -
                     type: text
                     text: 'Hoe je de topsportmentaliteit toepast in je dagelijks leven, op een manier die haalbaar is voor jou als moeder en die zorgt voor consistente vooruitgang in plaats van terugval.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -646,6 +652,8 @@ page_builder:
                   -
                     type: text
                     text: 'Hoe je de spanning, stress en overbelasting herkent voordat je lichaam protesteert en hoe je je zenuwstelsel kalmeert zodat herstel mogelijk wordt.'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -688,6 +696,8 @@ page_builder:
                   -
                     type: text
                     text: 'bereid bent om veel tijd, aandacht en inzet te investeren in je eigen proces;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -699,6 +709,8 @@ page_builder:
                   -
                     type: text
                     text: 'bereid bent om diep te reflecteren, door te zetten en uit je comfortzone te stappen;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -710,6 +722,8 @@ page_builder:
                   -
                     type: text
                     text: 'kunt omgaan met stevige feedback en verantwoordelijkheid;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -721,6 +735,8 @@ page_builder:
                   -
                     type: text
                     text: 'klaar bent om radicaal leiderschap te nemen over je gezondheid;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -732,6 +748,8 @@ page_builder:
                   -
                     type: text
                     text: 'voelt dat je méér bent dan je bekkenpijn en je onverklaarbare klachten;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -743,6 +761,8 @@ page_builder:
                   -
                     type: text
                     text: 'het vertrouwen durft te herwinnen in je lichaam en je mogelijkheden;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -754,6 +774,8 @@ page_builder:
                   -
                     type: text
                     text: 'niet alleen verbetering wilt, maar echt wilt kantelen;'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -765,6 +787,8 @@ page_builder:
                   -
                     type: text
                     text: 'het antwoord op de ‘wat’ en ‘waarom’ voor ogen houdt'
+                  -
+                    type: hardBreak
           -
             type: listItem
             content:
@@ -794,12 +818,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Onze belofte is geen wondermiddel.'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Onze belofte is: een fundamenteel nieuw vertrekpunt, de kanteling, waarin jij weer aan het roer staat.'
+            text: 'Onze belofte is geen wondermiddel. Onze belofte is: een fundamenteel nieuw vertrekpunt, de kanteling, waarin jij weer aan het roer staat.'
       -
         type: paragraph
         attrs:
@@ -1370,5 +1389,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765121864
+updated_at: 1765121977
 ---
