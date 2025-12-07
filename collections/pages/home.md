@@ -476,7 +476,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'De Shine Sprint is de intensieve start van het Kantel Programma: 13 weken met online modules, zelfreflectie en begeleiding waarin je stap voor stap werkt aan herstel van je lichaam én zenuwstelsel.'
+            text: 'De Shine Sprint geeft je toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Door onze topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
     items:
       -
         id: m7xzqfyb
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765112513
+updated_at: 1765113118
 ---
