@@ -380,7 +380,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel en tegelijk voel je dat er méér mogelijk is dan alleen leren omgaan met je klachten. De Shine Sprint vraagt tijd, aandacht en commitment, maar je staat er niet alleen voor: met heldere modules, concrete opdrachten en warme begeleiding help je je lichaam en zenuwstelsel naar een nieuw vertrekpunt waarin jij weer aan het roer staat.'
+            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel, terwijl je voelt dat er méér mogelijk is dan alleen leren omgaan met je klachten. In de Shine Sprint ga je met heldere modules, concrete opdrachten en warme begeleiding van Chantal, Paul en onze Kantel Coaches kantelen naar een nieuw vertrekpunt waarin jij weer aan het roer staat.'
       -
         type: set
         attrs:
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765117337
+updated_at: 1765117678
 ---
