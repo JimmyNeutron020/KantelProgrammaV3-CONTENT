@@ -380,7 +380,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel, terwijl je voelt dat er méér mogelijk is dan alleen leren omgaan met je klachten. In de Shine Sprint ga je met heldere modules, concrete opdrachten en warme begeleiding van Chantal, Paul en onze Kantel Coaches kantelen naar een nieuw vertrekpunt waarin jij weer aan het roer staat.'
+            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel, terwijl je voelt dat er méér mogelijk is dan alleen leren omgaan met je klachten. De Shine Sprint is voor vrouwen die al maanden, vaak jaren, bekkenklachten hebben en nu eindelijk iets willen dat wél werkt, die klaar zijn om de regie over hun body & mind terug te nemen en weer op hun lichaam te vertrouwen. Met heldere modules, concrete opdrachten en warme begeleiding van Chantal, Paul en onze Kantel Coaches leer je precies wat jouw lichaam nodig heeft om te herstellen. Dankzij onze topsportbenadering en de manier waarop we herstel 24/7 integreren in jouw dagelijks leven, thuis én in alle rollen die je hebt.'
       -
         type: set
         attrs:
@@ -1425,5 +1425,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765117794
+updated_at: 1765118269
 ---
