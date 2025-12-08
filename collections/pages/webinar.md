@@ -117,7 +117,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -810,5 +810,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765182158
+updated_at: 1765182380
 ---
