@@ -1096,7 +1096,7 @@ page_builder:
             text: 'persoonlijke vraag'
           -
             type: text
-            text: ' dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze startten? Kijk dan even bij de '
+            text: ' dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze startten? Kijk dan even bij de '
           -
             type: text
             marks:
@@ -1381,5 +1381,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765180349
+updated_at: 1765180400
 ---
