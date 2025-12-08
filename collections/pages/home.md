@@ -1208,7 +1208,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven.” Precies zó serieus willen wij ook jóuw lichaam en klachten nemen. Dat bedoelen we met een topsport benadering van herstel.'
+            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven". Precies zó serieus nemen wij ook jóuw lichaam en klachten. Dat bedoelen we met een topsport benadering van herstel.'
       -
         type: paragraph
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765179586
+updated_at: 1765179691
 ---
