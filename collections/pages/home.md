@@ -412,7 +412,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kan er nog steeds een kantelpunt komen.'
+            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kun je weer volledig herstellen.'
       -
         type: paragraph
         attrs:
@@ -694,7 +694,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een persoonlijke vraag, dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
       -
         type: paragraph
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765179402
+updated_at: 1765179479
 ---
