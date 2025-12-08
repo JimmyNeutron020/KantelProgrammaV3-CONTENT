@@ -579,7 +579,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wat we voor topsporters heel normaal vinden, gunnen we vrouwen met chronische (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel met een topsportbenadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een aanpak die jouw hele systeem kantelt: body & mind, zenuwstelsel en jouw 24/7 leefwijze.'
+            text: 'Wat we voor topsporters heel normaal vinden, doet men bij vrouwen met (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel met een topsportbenadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een aanpak die jouw hele systeem kantelt: body & mind, zenuwstelsel en jouw 24/7 leefwijze.'
       -
         type: paragraph
         attrs:
@@ -975,7 +975,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'In de Kantel Community ontmoet je gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en bewust kiezen voor een leven in lijn met herstel. Geen plek om in de pijn te blijven hangen, maar om elkaar te inspireren, scherp te houden en te blijven kantelen, met vrouwen die net als jij kiezen voor een nieuw normaal.'
+            text: 'In de Kantel Community ontmoet je gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en en bewust kiezen voor een stralend leven. Een plek om te verbinden, verdiepen en elkaar te inspireren.'
       -
         type: set
         attrs:
@@ -1381,5 +1381,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765122923
+updated_at: 1765180107
 ---
