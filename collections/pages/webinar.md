@@ -121,7 +121,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat. In dit webinar nemen we je mee in een andere kijk op chronische pijn: een topsportbenadering waarin je body & mind en je zenuwstelsel als één geheel worden gezien. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten om herstel 24/7 in je leven te integreren en weer te vertrouwen op je lichaam. Jouw eerste stap naar een fit, energiek en pijnvrij leven.'
+            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat. In dit webinar nemen we je mee in een andere kijk op chronische pijn: een topsportbenadering waarin je body & mind en je zenuwstelsel als één geheel worden gezien. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten om herstel 24/7 in je leven te integreren en weer te vertrouwen op je lichaam. Zet jij met ons de eerste stap die wél werkt voor een fit, energiek en pijnvrij leven?'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: small
@@ -810,5 +810,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765182380
+updated_at: 1765182526
 ---
