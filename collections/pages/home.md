@@ -187,7 +187,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Met jarenlange ervaring in het begeleiden van vrouwen met chronische bekkenklachten, ziet Chantal razendsnel wat jij nodig hebt. Dat scherpe zicht op wat nodig is, is haar grootste talent.'
+                text: 'Chantal ziet met haar ‘laserogen’ snel waar je écht vastloopt en wat nodig is om weer vrij en pijnvrij te kunnen bewegen. Ze raakt de juiste snaar op het juiste moment.'
           -
             type: set
             attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765123084
+updated_at: 1765179402
 ---
