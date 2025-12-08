@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je hebt alles al geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
+            text: 'Je hebt vanalles al geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
       -
         type: set
         attrs:
@@ -810,5 +810,5 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764415115
+updated_at: 1765181651
 ---
