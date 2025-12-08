@@ -1088,7 +1088,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Maak kennis met de Kantel Community: een groep gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en bewust kiezen voor een leven in lijn met herstel. Een plek om elkaar te inspireren, scherp te houden en te blijven kantelen.'
+            text: 'Maak kennis met de Kantel Community: een groep gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en bewust kiezen voor een stralend leven. Een plek om te verdiepen en elkaar te blijven inspireren.'
       -
         type: set
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765179479
+updated_at: 1765179586
 ---
