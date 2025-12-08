@@ -911,7 +911,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kan er nog steeds een kantelpunt komen.'
+            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kun je weer volledig herstellen.'
       -
         type: paragraph
         attrs:
@@ -1381,5 +1381,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765180163
+updated_at: 1765180349
 ---
