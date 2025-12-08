@@ -500,7 +500,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Een topsportbenadering die 24/7 werkt en je hele systeem kantelt.'
+                text: 'Een topsportbenadering met begeleiding op alle fronten.'
         type: new_set
         enabled: true
       -
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765179740
+updated_at: 1765179842
 ---
