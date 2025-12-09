@@ -56,6 +56,21 @@ page_builder:
                 attrs:
                   class: text-white
             text: '1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen.'
+      -
+        type: set
+        attrs:
+          id: miyzj8xx
+          values:
+            type: buttons
+            buttons:
+              -
+                id: PhcXgfu5
+                label: 'Plan afspraak'
+                link_type: link
+                target_blank: false
+                link: '#plan-afspraak'
+                button_layout: solid
+                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -99,6 +114,7 @@ page_builder:
           -
             type: text
             text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat.'
+    anchor_id: plan-afspraak
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -115,6 +131,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309187
+updated_at: 1765309265
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
