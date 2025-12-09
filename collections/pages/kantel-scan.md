@@ -71,6 +71,14 @@ page_builder:
                 link: '#plan-afspraak'
                 button_layout: solid
                 button_colour: white
+              -
+                id: miyzkdbi
+                label: 'Over Paul'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: standard
+                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -131,6 +139,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309265
+updated_at: 1765309290
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
