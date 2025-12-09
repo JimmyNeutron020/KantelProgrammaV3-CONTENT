@@ -134,37 +134,6 @@ data:
       type: card_item
       enabled: true
     -
-      id: mhhv3q6u
-      icon: 'fa-regular fa-eye'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Kantel Inzicht'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: '19 november t/m 2 december 2025'
-      label: 'Kantel E-book'
-      link_type: link
-      target_blank: false
-      link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-    -
       id: mhhv3oxo
       icon: 'fa-regular fa-person-arrow-up-from-line'
       heading_size: XS
