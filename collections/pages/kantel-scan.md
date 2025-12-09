@@ -346,7 +346,7 @@ page_builder:
                 link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
                 button_layout: solid
                 button_colour: white
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -357,8 +357,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: ResultsCtaSection
     enabled: true
   -
@@ -439,7 +439,7 @@ page_builder:
                 link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
                 button_layout: standard
                 button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -447,14 +447,14 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765310154
+updated_at: 1765310223
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
