@@ -71,7 +71,7 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-person-rays'
-                text: 'Persoonlijk door Paul'
+                text: 'Zoomsessie op afspraak'
       -
         type: set
         attrs:
@@ -113,6 +113,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765308145
+updated_at: 1765308164
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
