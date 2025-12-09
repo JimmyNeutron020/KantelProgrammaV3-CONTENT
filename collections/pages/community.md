@@ -235,6 +235,26 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: miz0zi0t
+    full_height: false
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - community/fotofolies-x-kantelprogramma_live-95.jpg
+        - brand/screenshot-2025-12-01-at-08.34.48.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    type: HeroSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765311587
+updated_at: 1765311700
 ---
