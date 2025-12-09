@@ -37,7 +37,8 @@ page_builder:
       autoplay_video: false
       video_link: null
       preview_image: null
-      images: {  }
+      images:
+        - brand/img_2731.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -63,5 +64,5 @@ page_builder:
     type: BlogOverview
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340390
+updated_at: 1765299125
 ---
