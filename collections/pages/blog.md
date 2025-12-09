@@ -61,10 +61,10 @@ page_builder:
   -
     id: mhjfebv5
     color: '#ffffff'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -77,5 +77,5 @@ page_builder:
     type: BlogOverview
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765307877
+updated_at: 1765307905
 ---
