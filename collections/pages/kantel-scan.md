@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Lorem ipsum dolor sit amet'
+            text: '1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen.'
     type: HeroSection
     enabled: true
   -
@@ -115,6 +115,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765308794
+updated_at: 1765309187
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
