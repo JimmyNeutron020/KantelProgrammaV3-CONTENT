@@ -58,7 +58,61 @@ page_builder:
             text: 'Lorem ipsum dolor sit amet'
     type: HeroSection
     enabled: true
+  -
+    id: miyyu8y1
+    content:
+      -
+        type: set
+        attrs:
+          id: miyyudgj
+          values:
+            type: flex_icons
+            flex_icons:
+              -
+                id: miyyugvh
+                fa_icon: 'fa-regular fa-person-rays'
+                text: 'Persoonlijk door Paul'
+      -
+        type: set
+        attrs:
+          id: miyyvcpn
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    text: 'Persoonlijke Kantel Scan met paul'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340664
+updated_at: 1765308145
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
