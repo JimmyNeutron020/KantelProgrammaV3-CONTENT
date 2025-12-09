@@ -283,9 +283,9 @@ page_builder:
             heading_size: M
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 2
                 content:
                   -
                     type: text
@@ -298,15 +298,29 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Dan wil je dit niet missen. In ons '
           -
             type: text
             marks:
               -
                 type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'gratis webinar'
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: ' delen we hoe je de sleutels toepast in je dagelijkse leven. Je ontdekt waarom je herstel vaak stokt en welke concrete acties vandaag al verschil maken.'
       -
         type: paragraph
@@ -343,6 +357,6 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309778
+updated_at: 1765309835
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
