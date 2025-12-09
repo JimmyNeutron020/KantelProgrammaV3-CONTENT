@@ -75,7 +75,7 @@ page_builder:
     enabled: true
   -
     id: miz0ngbm
-    color: '#f7e7de'
+    color: '#fff'
     swap_layout: false
     media:
       video: false
@@ -106,7 +106,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Voor vrouwen die niet alleen willen herstellen, maar blijven groeien, verbinden en inspireren.'
+                    text: 'Blijven groeien, verbinden en inspireren.'
             show_tag: false
       -
         type: paragraph
@@ -236,5 +236,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765311273
+updated_at: 1765311373
 ---
