@@ -8,18 +8,18 @@ page_builder:
     full_height: false
     layout_setting: media
     media:
-      video: false
-      autoplay_video: false
-      video_link: null
-      preview_image: null
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
       images:
         - brand/fotofolies-x-kantelprogramma_sneak-preview-15.jpg
-      show_swiper_controls: false
+      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
     content:
       -
         type: set
@@ -64,5 +64,5 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764269636
+updated_at: 1765298561
 ---
