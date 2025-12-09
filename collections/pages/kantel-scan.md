@@ -87,7 +87,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Persoonlijke Kantel Scan met paul'
+                    text: 'Doe een persoonlijke Kantel Scan met Paul'
             show_tag: true
             tag_text: 'Helemaal privé'
             tag_alignment: right
@@ -115,6 +115,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765308757
+updated_at: 1765308794
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
