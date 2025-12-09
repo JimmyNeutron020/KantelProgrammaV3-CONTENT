@@ -97,10 +97,10 @@ page_builder:
           -
             type: text
             text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -113,6 +113,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765308427
+updated_at: 1765308657
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
