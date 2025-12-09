@@ -268,10 +268,15 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: 'Power vrouwen'
             show_tag: false
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765311833
+updated_at: 1765311862
 ---
