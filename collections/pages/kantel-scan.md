@@ -280,7 +280,7 @@ page_builder:
           id: miyztivv
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: heading
@@ -289,6 +289,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: 'Op zoek naar verdieping?'
             show_tag: false
       -
@@ -357,6 +362,6 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309835
+updated_at: 1765309879
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
