@@ -191,7 +191,7 @@ page_builder:
               id: miyzokci
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -259,6 +259,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309519
+updated_at: 1765309593
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
