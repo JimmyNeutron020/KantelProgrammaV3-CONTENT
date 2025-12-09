@@ -165,7 +165,100 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+  -
+    id: miyzo5qk
+    items:
+      -
+        id: miyzo75f
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          video_link: null
+          preview_image: null
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: miyzokci
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Over Paul'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Paul heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Al in 2009 zette hij met veel passie een eigen paramedisch instituut op (met NOC-NSF-status), samen met fysiotherapeuten en een bewegingswetenschapper. Binnen no-time bouwde hij, samen met zijn compagnon, een succesvol bedrijf op.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme, meedoen in de ratrace en werken zonder grenzen, werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven zónder chronische pijn.'
+          -
+            type: set
+            attrs:
+              id: miyzp2gy
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: mkU3X10o
+                    label: 'Plan afspraak'
+                    link_type: link
+                    target_blank: false
+                    link: '#plan-afspraak'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309408
+updated_at: 1765309519
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
