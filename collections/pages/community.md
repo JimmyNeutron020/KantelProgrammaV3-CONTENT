@@ -27,7 +27,7 @@ page_builder:
           id: miz0ciq4
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: heading
@@ -74,5 +74,5 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765310685
+updated_at: 1765311045
 ---
