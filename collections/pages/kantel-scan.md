@@ -258,7 +258,91 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+  -
+    id: miyzswpo
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: miyztivv
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Op zoek naar verdieping?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dan wil je dit niet missen. In ons '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'gratis webinar'
+          -
+            type: text
+            text: ' delen we hoe je de sleutels toepast in je dagelijkse leven. Je ontdekt waarom je herstel vaak stokt en welke concrete acties vandaag al verschil maken.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: miyzu67t
+          values:
+            type: buttons
+            buttons:
+              -
+                id: XWnsTdKX
+                label: 'Meer informatie'
+                link_type: link
+                target_blank: false
+                link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
+                button_layout: solid
+                button_colour: white
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309593
+updated_at: 1765309778
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
