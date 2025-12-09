@@ -16,9 +16,9 @@ data:
     -
       id: mhhun6d0
       label: Community
-      link_type: external
-      external_link: '#'
+      link_type: internal
       target_blank: false
+      internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
     -
       id: miytf7s9
       label: 'Persoonlijke vraag'
