@@ -79,41 +79,6 @@ page_builder:
                 link: '#'
                 button_layout: standard
                 button_colour: white
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Is jouw lichaam klaar voor een nieuw verhaal?'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Geen standaard adviesgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar een doordachte eerste stap: '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'de selectie voor het Kantel Programma. '
-          -
-            type: text
-            text: 'Het 1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen, maar níet vrijblijvend in energie. Want als jij dit formulier invult, dan vragen we ook iets van jou: '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'oprechtheid, bereidheid en intentie. '
-          -
-            type: text
-            text: 'Zodat we samen kunnen onderzoeken of dit het juiste moment is en of jij klaar bent om samen met ons het verschil te gaan maken in je eigen herstel.'
     type: HeroSection
     enabled: true
   -
@@ -156,7 +121,34 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat.'
+            text: 'Is jouw lichaam klaar voor een nieuw verhaal?'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Geen standaard adviesgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar een doordachte eerste stap: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'de selectie voor het Kantel Programma. '
+          -
+            type: text
+            text: 'Het 1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen, maar níet vrijblijvend in energie. Want als jij dit formulier invult, dan vragen we ook iets van jou: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'oprechtheid, bereidheid en intentie. '
+          -
+            type: text
+            text: 'Zodat we samen kunnen onderzoeken of dit het juiste moment is en of jij klaar bent om samen met ons het verschil te gaan maken in je eigen herstel.'
     anchor_id: plan-afspraak
     show_settings: true
     inner_spacing_top:
@@ -174,6 +166,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309380
+updated_at: 1765309408
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
