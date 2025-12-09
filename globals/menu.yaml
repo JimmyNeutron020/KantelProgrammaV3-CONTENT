@@ -8,24 +8,6 @@ data:
       target_blank: false
       internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
     -
-      id: mhhuj963
-      label: 'Zorgeloos Zwanger'
-      link_type: external
-      external_link: '#'
-      target_blank: false
-    -
-      id: mhhujxz1
-      label: 'Ratrace Reset'
-      link_type: external
-      external_link: '#'
-      target_blank: false
-    -
-      id: mhhumdbl
-      label: 'Eten dat heelt'
-      link_type: external
-      external_link: '#'
-      target_blank: false
-    -
       id: mhhummtm
       label: Resultaten
       link_type: internal
