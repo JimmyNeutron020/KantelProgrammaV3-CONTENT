@@ -19,6 +19,12 @@ data:
       link_type: external
       external_link: '#'
       target_blank: false
+    -
+      id: miytf7s9
+      label: 'Persoonlijke vraag'
+      link_type: internal
+      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
+      target_blank: false
   menu_items_small:
     -
       id: mhhuncvp
@@ -26,12 +32,6 @@ data:
       link_type: internal
       target_blank: false
       internal_link: b91abd03-a45d-4203-af4b-1e8686cee5d9
-    -
-      id: mhhup4lb
-      label: Contact
-      link_type: internal
-      target_blank: false
-      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
     -
       id: mhj60l3v
       label: 'Veelgestelde vragen'
