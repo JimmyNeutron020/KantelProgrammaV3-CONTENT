@@ -361,7 +361,100 @@ page_builder:
       spacing_mobile: standard
     type: ResultsCtaSection
     enabled: true
+  -
+    id: miz017il
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/231128-paul-en-chantal-_77834-(1).jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: miz01jmb
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Vragen?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: miz025np
+          values:
+            type: buttons
+            buttons:
+              -
+                id: Uh7ZZHdD
+                label: 'Persoonlijke vraag'
+                link_type: link
+                target_blank: false
+                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: miz02k1x
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765309879
+updated_at: 1765310154
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
