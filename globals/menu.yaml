@@ -186,7 +186,7 @@ data:
           content:
             -
               type: text
-              text: 'Podcast te beluisteren via Spotify'
+              text: 'Podcast op Spotify'
       label: 'Kantel E-book'
       link_type: link
       target_blank: false
