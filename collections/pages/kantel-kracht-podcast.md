@@ -8,18 +8,18 @@ page_builder:
     full_height: false
     layout_setting: media
     media:
-      video: false
+      video: true
       autoplay_video: false
-      video_link: null
+      video_link: 'https://vimeo.com/999470739?share=cop'
       preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma_live-77.jpg
-      show_swiper_controls: false
+      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
     content:
       -
         type: set
@@ -59,6 +59,6 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764340722
+updated_at: 1765557842
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
