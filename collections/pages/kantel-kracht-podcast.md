@@ -11,7 +11,7 @@ page_builder:
       video: true
       autoplay_video: true
       video_link: 'https://vimeo.com/999470739?share=cop'
-      preview_image: null
+      preview_image: brand/screenshot-2025-12-12-at-17.46.00.png
       images:
         - brand/fotofolies-x-kantelprogramma_live-77.jpg
       show_swiper_controls: null
@@ -59,6 +59,6 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765557860
+updated_at: 1765557977
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
