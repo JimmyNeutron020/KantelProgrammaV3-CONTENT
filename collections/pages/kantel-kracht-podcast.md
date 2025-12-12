@@ -9,7 +9,7 @@ page_builder:
     layout_setting: media
     media:
       video: true
-      autoplay_video: false
+      autoplay_video: true
       video_link: 'https://vimeo.com/999470739?share=cop'
       preview_image: null
       images:
@@ -59,6 +59,6 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765557842
+updated_at: 1765557860
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
