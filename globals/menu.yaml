@@ -90,6 +90,7 @@ data:
       link_type: link
       target_blank: false
       button_colour: orange
+      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
     -
       id: mhhv234l
       icon: 'fa-regular fa-book'
@@ -121,6 +122,7 @@ data:
       button_colour: orange
       type: card_item
       enabled: true
+      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
     -
       id: mhhv3oxo
       icon: 'fa-regular fa-person-arrow-up-from-line'
@@ -152,6 +154,7 @@ data:
       button_colour: orange
       type: card_item
       enabled: true
+      featured_image: brand/img_2643.jpg
     -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
@@ -183,6 +186,7 @@ data:
       button_colour: orange
       type: card_item
       enabled: true
+      featured_image: brand/fotofolies-x-kantelprogramma_sneak-preview-23.jpg
     -
       id: mhhv3mmy
       icon: 'fa-regular fa-message-lines'
@@ -214,6 +218,7 @@ data:
       button_colour: orange
       type: card_item
       enabled: true
+      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
   general_info: '© 2025 Kantel Programma. All rights reserved.'
   social_icons:
     -
