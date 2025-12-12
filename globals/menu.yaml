@@ -44,18 +44,6 @@ data:
       link_type: external
       external_link: '#'
       target_blank: false
-    -
-      id: mhhuo38o
-      label: 'Chantal & Paul in de media'
-      link_type: external
-      external_link: '#'
-      target_blank: false
-    -
-      id: mhj614n6
-      label: Partners
-      link_type: external
-      external_link: '#'
-      target_blank: false
   show_featured_item: true
   heading_size: XS
   heading:
