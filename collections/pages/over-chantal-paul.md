@@ -205,7 +205,213 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet'
+            text: 'Chantal (1969) is '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: avontuurlijk
+          -
+            type: text
+            text: ' en een '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'ervaren leider, mét lef'
+          -
+            type: text
+            text: ' en '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: doorzettingsvermogen
+          -
+            type: text
+            text: '. In 2006 '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'winnaar van de ondernemersprijs'
+          -
+            type: text
+            text: ' de Venlose Start en intussen bijna 20 jaar ondernemer. Eerst als oprichter/'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: directeur
+          -
+            type: text
+            text: ' van een Kinderopvangorganisatie en een Jeugd GGZ praktijk. Deze bedrijven heeft ze begin 2019 verkocht.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Eind 2020 hebben zij en Paul een voormalig Hotel en Monumentale Frankische Carré Boerderij aangekocht. Samen hebben ze dit in 1,5 jaar tijd geheel eigenhandig omgetoverd leefstijlhotel. Volledig gerenoveerd en gerestyled, want dat is echt hun grote hobby. De combinatie om hier en vanuit hun stek in Sardinië te kunnen werken is iedere dag een feestje.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Chantal is '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: moeder
+          -
+            type: text
+            text: ' van een zoon en dochter en had zelf tijdens haar 2e zwangerschap ook last van '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'ernstige bekkeninstabiliteit'
+          -
+            type: text
+            text: ". Ze is het levende bewijs dat chronische pijn niet 'levenslang' hoeft te betekenen. Dat je écht weer Fit, Energiek en Pijnvrij kunt worden."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Het is haar passie om mensen naar een next level te '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: begeleiden
+          -
+            type: text
+            text: '. Met een heldere visie '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: inspireert
+          -
+            type: text
+            text: " ze individuen,\_ groepen maar ook bedrijven. Ze begeleidt graag\_ naar nieuwe en praktisch toepasbare manieren om makkelijk én stralend te kunnen leven. Haar wijsheid deelt ze graag met de mensen die er klaar voor zijn."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Met haar ervaring en onconventionele oplossingen is ze een inspirerend voorbeeld. Ze geeft daarnaast inzichten waarmee mensen daadwerkelijk verder kunnen en zo hun leven echt '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: kantelen
+          -
+            type: text
+            text: .
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Gezondheid van Body & Mind heeft al jaren haar grote interesse. Chantal is naast haar achtergrond in de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: GGZ
+          -
+            type: text
+            text: ", verschillende coachopleidingen waaronder andere\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'MasterCoach Leefstijl'
+          -
+            type: text
+            text: ' en is diep in alle materie gedoken rondom levens'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: wijzes
+          -
+            type: text
+            text: '. Dankzij haar talent -in combinatie met de studie Psychologie- is zij in staat om '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'van nature razendsnel te analyseren'
+          -
+            type: text
+            text: " wat er nodig is om jouw leven\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'te kantelen'
+          -
+            type: text
+            text: .
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Maar minstens zo belangrijk is haar drive om het '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'talent in een ander aan te wakkeren'
+          -
+            type: text
+            text: '. Ons onderwijssysteem noemt ze antiek en het zorgsysteem incompleet. Helaas tref je in beide systemen veel essentiële dingen juist niet aan. Veel mensen komen niet tot bloei maar staan op standje overleven. Met meer dan 10 miljoen chronisch zieken kan dat dus anders.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Laten we, als moeders, een stralend voorbeeld zijn. Onze kinderen laten voelen dat het volle leven door hen heen kan stralen.\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Born to shine.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -222,5 +428,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765822539
+updated_at: 1765822614
 ---
