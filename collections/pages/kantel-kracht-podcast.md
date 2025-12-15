@@ -241,7 +241,7 @@ page_builder:
               id: mj6vomwp
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -293,6 +293,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765786553
+updated_at: 1765786625
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
