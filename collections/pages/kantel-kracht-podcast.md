@@ -44,21 +44,23 @@ page_builder:
                     text: 'Kantel Kracht Podcast'
             show_tag: false
       -
-        type: paragraph
+        type: set
         attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
+          id: mj6vhtfe
+          values:
+            type: buttons
+            buttons:
               -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Lorem ipsum dolor sit amet'
+                id: n6eEeCjE
+                label: 'Luister op Spotify'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765557977
+updated_at: 1765786195
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
