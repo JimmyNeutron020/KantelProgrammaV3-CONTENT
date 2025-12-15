@@ -86,7 +86,7 @@ page_builder:
     items:
       -
         id: mj7gxo80
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -166,7 +166,7 @@ page_builder:
   -
     id: mj7gyqcb
     color: '#f7e7de'
-    swap_layout: true
+    swap_layout: false
     media:
       video: false
       autoplay_video: false
@@ -432,7 +432,7 @@ page_builder:
     items:
       -
         id: mj7h9k4v
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -512,7 +512,7 @@ page_builder:
   -
     id: mj7hb7gk
     color: '#f7e7de'
-    swap_layout: true
+    swap_layout: false
     media:
       video: false
       autoplay_video: false
@@ -697,5 +697,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765822933
+updated_at: 1765823340
 ---
