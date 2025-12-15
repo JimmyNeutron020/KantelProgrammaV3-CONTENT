@@ -185,10 +185,25 @@ page_builder:
               -
                 type: bold
             text: 'Born to shine!'
-    show_settings: false
+      -
+        type: set
+        attrs:
+          id: mj6vl6oj
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 1bxOEkO8
+                label: 'Luister nu!'
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: orange
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -201,6 +216,6 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765786290
+updated_at: 1765786339
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
