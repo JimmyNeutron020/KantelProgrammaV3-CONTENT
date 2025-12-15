@@ -120,7 +120,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: Chantal
+                        text: 'Chantal Theunissen'
                 show_tag: false
           -
             type: paragraph
@@ -427,6 +427,275 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mj7h9ira
+    items:
+      -
+        id: mj7h9k4v
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          video_link: null
+          preview_image: null
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
+            - brand/img_2643.jpg
+            - brand/230413-a-casa-nostra-_8959.jpg
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mj7ha47b
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Paul Bax'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Paul heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Al in 2009 zette hij met veel passie een eigen paramedisch instituut op (met NOC-NSF-status), samen met fysiotherapeuten en een bewegingswetenschapper. Binnen no-time bouwde hij, samen met zijn compagnon, een succesvol bedrijf op.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme, meedoen in de ratrace en werken zonder grenzen, werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven zónder chronische pijn.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: mj7hb7gk
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mj7hbzc6
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Topsporter in hart en nieren'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Paul (1968) heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg. Wat hij daarmee '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: creëert
+          -
+            type: text
+            text: ' is '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'nieuwe ongekende aanpak'
+          -
+            type: text
+            text: ' waardoor mensen stralend kunnen leven in plaats van overleven en waarbij de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'chronische pijn definitief verdwijnt'
+          -
+            type: text
+            text: .
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Hij heeft in 2009 met veel enthousiasme een eigen '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'paramedisch instituut'
+          -
+            type: text
+            text: " (NOC-NSF status) opgericht met fysiotherapeuten en een bewegingswetenschapper en daar, samen met z'n compagnon, in no-time een goed lopend bedrijf van gemaakt."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Zijn enthousiasme (lees; meedoen in de ratrace en werktijden zonder grenzen) was ook zijn valkuil. In 2015 zorgde een '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: burn-out
+          -
+            type: text
+            text: ' ervoor dat hij zijn werkzame leven anders wilde gaan inrichten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Zijn vergaande interesse en '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: "oneindige kennis over gezondheid, bewegen, sporten\_ en leefstijl"
+          -
+            type: text
+            text: " is gestart in z'n puberjaren. Zijn grote voorbeeld was Dr. Franco Columbu, chiropractor en wereldberoemd bodybuilder. Paul is zelf in de krachtsport en als atleet actief geweest en daarna gestart als fitness-expert,\_ atletiek-\_ en medisch personal trainer met diverse specialisaties waaronder obesitas, diabetes, orthopedische- en hartrevalidatie."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Intussen heeft de passie van al die jaren geleid tot zijn professie en beroep. Paul heeft zoveel plezier in zijn werk dat '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'hij zegt nooit met pensioen te gaan'
+          -
+            type: text
+            text: ". En ook al heeft hij de meest uiteenlopende opleidingen, cursussen en specialisaties gevolgd, hij blijft leergierig en is zich nog steeds aan het verdiepen in 'zijn' materie."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De prachtige locatie en het veel'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' in de natuur leven '
+          -
+            type: text
+            text: "versterkt z'n werkplezier. In hun eigen - A Casa Nostra- in Well was het heerlijk werken. Een prachtige praktijkruimte en de vele gastenkamers zorgden voor een perfecte ontvangst van de vrouwen die intern verbleven tijdens een Kantel Traject."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Energie, plezier en liefde voor het leven, de natuur en de mens typeren Paul. Met zijn vrije geest is hij avontuurlijk, uiteraard zelf heel sportief en vindt hij het fantastisch om zijn nieuwsgierige impulsen te volgen. Paul volgt daarmee zijn best denkbare leven en geniet ervan om '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'aan anderen voor te doen'
+          -
+            type: text
+            text: ' hoe ze dit ook bereiken.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765822614
+updated_at: 1765822873
 ---
