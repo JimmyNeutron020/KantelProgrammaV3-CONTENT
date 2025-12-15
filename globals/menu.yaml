@@ -41,9 +41,9 @@ data:
     -
       id: mhhunphc
       label: 'Over Chantal & Paul'
-      link_type: external
-      external_link: '#'
+      link_type: internal
       target_blank: false
+      internal_link: ba0a418f-5a92-40de-9945-5d60ba71d107
   show_featured_item: true
   heading_size: XS
   heading:
