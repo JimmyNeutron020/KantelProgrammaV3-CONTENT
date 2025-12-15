@@ -111,7 +111,7 @@ page_builder:
               id: mj7gy1q7
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -129,7 +129,23 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Lorem ipsum dolor sit amet'
+                text: 'Misschien herken je het wel: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Chantal begrijpt dat als geen ander. Tijdens haar tweede zwangerschap ervaarde ze zelf ernstige bekkeninstabiliteit. Maar ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn, herstel is écht mogelijk.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Chantal is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. Ze is al bijna 20 jaar ondernemer: in 2006 won ze de Venlose Start ondernemersprijs en bouwde een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Chantal ziet met haar ‘laserogen’ snel waar je écht vastloopt en wat nodig is om weer vrij en pijnvrij te kunnen bewegen. Ze raakt de juiste snaar op het juiste moment.'
         type: new_set
         enabled: true
     show_settings: false
@@ -206,5 +222,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765822481
+updated_at: 1765822539
 ---
