@@ -131,7 +131,7 @@ page_builder:
     enabled: true
   -
     id: mj7gyqcb
-    color: '#ffffff'
+    color: '#f7e7de'
     swap_layout: true
     media:
       video: false
@@ -188,5 +188,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765822368
+updated_at: 1765822378
 ---
