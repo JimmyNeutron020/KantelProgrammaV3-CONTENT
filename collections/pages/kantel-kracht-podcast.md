@@ -57,7 +57,7 @@ page_builder:
                 target_blank: false
                 link: '#'
                 button_layout: solid
-                button_colour: orange
+                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -215,7 +215,84 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+  -
+    id: mj6vmo0h
+    items:
+      -
+        id: mj6vmp98
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1034156564'
+          preview_image: media/rosa-scholtens.jpg
+          images:
+            - media/rosa-scholtens.jpg
+          show_swiper_controls: null
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mj6vomwp
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Aflevering #96 Rosa Scholtens'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vanaf haar puberteit had Rosa last van fibromyalgie. Na de geboorte van hun zoontje hield ze blijvende bekkenklachten. In 2023 volgde Rosa het Kantel Programma. Ze leeft weer pijnvrij en is intussen zwanger van hun tweede kindje. In deze podcast vertelt ze haar verhaal.'
+          -
+            type: set
+            attrs:
+              id: mj6vpb4r
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: Mk94W1js
+                    label: 'Naar Spotify'
+                    link_type: link
+                    target_blank: false
+                    link: '#'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765786339
+updated_at: 1765786553
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 ---
