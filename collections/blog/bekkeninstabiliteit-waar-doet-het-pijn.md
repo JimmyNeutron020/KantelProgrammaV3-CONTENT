@@ -3,6 +3,7 @@ id: 908630ed-f098-48ec-9efe-9b5c45a52ccb
 blueprint: blog
 title: 'Bekkeninstabiliteit, waar doet het pijn?'
 author: db2ebe88-6a22-425a-b8cc-de028beba3b0
+preview_image: fotofolies-x-kantelprogramma_sneak-preview-11.jpg
 excerpt:
   -
     type: paragraph
@@ -17,7 +18,7 @@ category_group:
 klachten:
   - bekken
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1765817472
+updated_at: 1765817668
 template: blog
 duplicated_from: 33caacee-ab22-42ee-9cc2-48457e7a0944
 content:
