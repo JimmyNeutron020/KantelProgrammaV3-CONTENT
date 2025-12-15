@@ -39,6 +39,19 @@ page_builder:
                     text: 'Over Chantal & Paul'
             show_tag: false
       -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+      -
         type: set
         attrs:
           id: mj7gwzre
@@ -188,5 +201,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765822378
+updated_at: 1765822426
 ---
