@@ -360,7 +360,7 @@ page_builder:
     enabled: true
   -
     id: milmdwvu
-    color: '#ffffff'
+    color: '#f7e7de'
     swap_layout: false
     media:
       video: false
@@ -443,7 +443,52 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mjadqthl
+    content:
+      -
+        type: set
+        attrs:
+          id: mjadqw19
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Gratis om mee te nemen!'
+            show_tag: true
+            tag_text: 'Ja echt!'
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PackageCards
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764501415
+updated_at: 1765998248
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
