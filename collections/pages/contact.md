@@ -77,7 +77,9 @@ page_builder:
                   -
                     type: text
                     text: 'Vragen?'
-            show_tag: false
+            show_tag: true
+            tag_text: 'Niets te gek!'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -118,5 +120,5 @@ page_builder:
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998772
+updated_at: 1765998829
 ---
