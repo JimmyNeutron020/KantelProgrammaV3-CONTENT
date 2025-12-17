@@ -78,7 +78,7 @@ page_builder:
     enabled: true
   -
     id: mjael5wp
-    color: '#f5f5f7'
+    color: '#f7e7de'
     content:
       -
         type: set
@@ -208,9 +208,49 @@ page_builder:
                 text: 'Body en Mind leren weer als één team samenwerken voor herstel.'
         type: new_set
         enabled: true
-    show_callout: false
+    show_callout: true
     callout:
-      content: null
+      content:
+        -
+          type: set
+          attrs:
+            id: mjaeqcoj
+            values:
+              type: heading
+              heading_size: XS
+              heading:
+                -
+                  type: heading
+                  attrs:
+                    level: 3
+                  content:
+                    -
+                      type: text
+                      text: 'Waarom werkt dit wel?'
+              show_tag: false
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Het werkt omdat we met een unieke kijk op herstel je hele systeem kantelen: body & mind, zenuwstelsel en dagelijks leven, zodat je lichaam écht de kans krijgt om te herstellen.'
+        -
+          type: set
+          attrs:
+            id: mjaeqs5z
+            values:
+              type: buttons
+              buttons:
+                -
+                  id: a2dClPDQ
+                  label: 'Start nu'
+                  link_type: link
+                  target_blank: false
+                  link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                  button_layout: solid
+                  button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -227,5 +267,5 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765999814
+updated_at: 1765999926
 ---
