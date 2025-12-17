@@ -101,8 +101,8 @@ page_builder:
                 link_type: link
                 target_blank: false
                 link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
-                button_colour: orange
+                button_layout: link
+                button_colour: black
     tally_form_id: RGKBld
     show_settings: false
     inner_spacing_top:
@@ -120,5 +120,5 @@ page_builder:
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998829
+updated_at: 1765998925
 ---
