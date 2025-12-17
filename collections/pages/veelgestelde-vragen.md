@@ -162,7 +162,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Meer weten over het Kantel Programma?'
+                    text: 'Meer leren over het Kantel Programma?'
             show_tag: true
             tag_text: 'Gratis kansen!'
             tag_alignment: right
@@ -190,5 +190,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765999485
+updated_at: 1765999529
 ---
