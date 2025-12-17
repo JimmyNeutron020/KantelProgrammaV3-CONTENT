@@ -43,6 +43,14 @@ page_builder:
                           class: text-white
                     text: Contact
             show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
     type: HeroSection
     enabled: true
   -
@@ -90,5 +98,5 @@ page_builder:
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998615
+updated_at: 1765998655
 ---
