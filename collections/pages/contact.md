@@ -85,7 +85,22 @@ page_builder:
         content:
           -
             type: text
-            text: 'Vul het onderstaande formulier in voor algemene vragen. '
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen via het onderstaande formulier, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+      -
+        type: set
+        attrs:
+          id: mjae1ol3
+          values:
+            type: buttons
+            buttons:
+              -
+                id: dFXDaByt
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
     tally_form_id: RGKBld
     show_settings: false
     inner_spacing_top:
@@ -103,5 +118,5 @@ page_builder:
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998677
+updated_at: 1765998772
 ---
