@@ -1,14 +1,14 @@
 ---
 id: af1356ed-4c84-4b8a-bcfa-6faa2eb0472b
 blueprint: resultaten
-title: 'Brenda Koudijs (Duplicated) (Duplicated) (Duplicated)'
-naam: 'Brenda Koudijs 4'
-profession: 'Online Business Manager'
+title: Anke
+naam: Anke
+profession: '33 jarige logopedist uit Zwolle'
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/953888377'
-  preview_image: brenda-image.png
+  video_link: 'https://vimeo.com/928756348?share=copy'
+  preview_image: resultaten/anke-smit.png
   images: {  }
   show_swiper_controls: null
   autoplay: true
@@ -34,12 +34,12 @@ excerpt:
         text: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
 klachten:
   - bekken
-  - overprikkeling
   - rug
   - vermoeidheid
-  - endometriose
-updated_by: 702c0b57-b698-494d-a1a0-ce8a9ac5d5fd
-updated_at: 1762000750
+  - stuit
+  - heiligbeen
+updated_by: df706966-2cce-4398-8c60-055fb6df4804
+updated_at: 1766048505
 duplicated_from: 40a17a6a-cdb6-447e-89f0-803d74ca6d1b
 content:
   -
