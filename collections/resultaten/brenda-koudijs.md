@@ -2,7 +2,7 @@
 id: 21c6737d-f5a9-4ddc-9370-b92ea5780408
 blueprint: resultaten
 title: 'Brenda Koudijs'
-naam: 'Brenda Koudijs 1'
+naam: 'Brenda Koudijs'
 profession: 'Online Business Manager'
 media:
   video: true
@@ -39,7 +39,7 @@ klachten:
   - vermoeidheid
   - endometriose
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1765387958
+updated_at: 1766053613
 content:
   -
     type: paragraph
