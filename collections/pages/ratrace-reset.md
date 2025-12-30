@@ -41,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Zorgeloos Zwanger'
+                    text: 'Ratrace Reset'
             show_tag: false
       -
         type: paragraph
@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: '1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen.'
+            text: 'Ontsnap aan de ratrace: ontdek in 2 uur hoe jouw lichaam je signalen geeft en krijg praktische inzichten om je energie en balans te herstellen.'
       -
         type: set
         attrs:
@@ -500,6 +500,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1767105150
+updated_at: 1767105203
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 ---
