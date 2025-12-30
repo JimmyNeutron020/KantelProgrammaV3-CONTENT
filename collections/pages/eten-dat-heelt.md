@@ -1,8 +1,7 @@
 ---
 id: 2cee2c71-03db-4e68-a104-2d37d81b873c
-published: false
 blueprint: page
-title: 'Zorgeloos Zwanger (Duplicated)'
+title: 'Eten dat heelt'
 page_builder:
   -
     id: miiyjz79
@@ -42,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Zorgeloos Zwanger'
+                    text: 'Eten dat heelt'
             show_tag: false
       -
         type: paragraph
@@ -56,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: '1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen.'
+            text: 'Voeding als brandstof voor je lijf.'
       -
         type: set
         attrs:
@@ -501,6 +500,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1767104920
+updated_at: 1767105024
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 ---
