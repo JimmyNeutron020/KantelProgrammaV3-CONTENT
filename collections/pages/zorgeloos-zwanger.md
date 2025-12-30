@@ -1,8 +1,7 @@
 ---
 id: 52db6513-16b1-44ac-9c19-dea1f2833a69
-published: false
 blueprint: page
-title: 'Kantel Scan (Duplicated)'
+title: 'Zorgeloos Zwanger'
 page_builder:
   -
     id: miiyjz79
@@ -42,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Kantel Scan'
+                    text: 'Zorgeloos Zwanger'
             show_tag: false
       -
         type: paragraph
@@ -501,6 +500,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765786776
+updated_at: 1767104920
 duplicated_from: 37fe9b56-749b-4049-9173-064c8aa11ba3
 ---
