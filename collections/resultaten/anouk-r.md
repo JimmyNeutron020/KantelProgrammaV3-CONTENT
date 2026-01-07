@@ -10,13 +10,13 @@ social_links:
     platform: instagram
     link: 'https://www.instagram.com/anouk2308/'
 media:
-  video: false
+  video: true
   autoplay_video: false
-  video_link: null
-  preview_image: null
+  video_link: 'https://vimeo.com/954993086?share=copy&fl=sv&fe=ci'
+  preview_image: anouk-ramakers.jpg
   images:
     - anouk-ramakers.jpg
-  show_swiper_controls: false
+  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -32,5 +32,5 @@ klachten:
   - overprikkeling
   - darmen
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767090191
+updated_at: 1767782942
 ---
