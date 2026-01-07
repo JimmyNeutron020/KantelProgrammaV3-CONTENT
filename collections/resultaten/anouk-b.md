@@ -10,13 +10,13 @@ social_links:
     platform: instagram
     link: 'https://www.instagram.com/anoukb1989/'
 media:
-  video: false
+  video: true
   autoplay_video: false
-  video_link: null
-  preview_image: null
+  video_link: 'https://vimeo.com/1112948378?share=copy&fl=sv&fe=ci'
+  preview_image: anouk-blanken.png
   images:
     - anouk-blanken.png
-  show_swiper_controls: false
+  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -28,5 +28,5 @@ klachten:
   - rug
   - vermoeidheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767090096
+updated_at: 1767782890
 ---
