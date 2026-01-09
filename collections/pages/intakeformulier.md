@@ -27,7 +27,7 @@ page_builder:
           id: mk6uiccx
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: heading
@@ -43,12 +43,45 @@ page_builder:
                           class: text-white
                     text: Intakeformulier
             show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Vul het formulier zo volledig mogelijk in.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: hardBreak
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Je doet dit maar één keer. Vul je het nu in voor de Kantel Scan, dan hoeft het na je aanmelding voor het Kantel Programma niet opnieuw.'
     type: HeroSection
     enabled: true
   -
     id: mk6uiqkq
     tally_form_id: A72gWk
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -56,13 +89,13 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1767961327
+updated_at: 1767967706
 ---
