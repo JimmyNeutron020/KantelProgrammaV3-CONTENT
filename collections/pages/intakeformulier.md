@@ -27,7 +27,7 @@ page_builder:
           id: mk6uiccx
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: heading
@@ -55,27 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Vul het formulier zo volledig mogelijk in.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: hardBreak
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je doet dit maar één keer. Vul je het nu in voor de Kantel Scan, dan hoeft het na je aanmelding voor het Kantel Programma niet opnieuw.'
+            text: 'Vul het formulier zo volledig mogelijk in. Vul je het nu in voor de Kantel Scan, dan hoeft het na je aanmelding voor het Kantel Programma niet opnieuw.'
     type: HeroSection
     enabled: true
   -
@@ -97,5 +77,5 @@ page_builder:
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1767967706
+updated_at: 1767967746
 ---
