@@ -149,6 +149,21 @@ page_builder:
           -
             type: text
             text: 'Zodat we samen kunnen onderzoeken of dit het juiste moment is en of jij klaar bent om samen met ons het verschil te gaan maken in je eigen herstel.'
+      -
+        type: set
+        attrs:
+          id: mka52gwo
+          values:
+            type: buttons
+            buttons:
+              -
+                id: S7Fvfeug
+                label: Aanmelden
+                link_type: link
+                target_blank: false
+                link: '#aanmeldformulier'
+                button_layout: solid
+                button_colour: orange
     anchor_id: plan-afspraak
     show_settings: true
     inner_spacing_top:
@@ -287,6 +302,7 @@ page_builder:
             type: text
             text: 'Vul het onderstaande formulier in om je aan te melden voor de Kantel Scan met Paul. '
     tally_form_id: Eklk14
+    anchor_id: aanmeldformulier
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -544,6 +560,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1768160417
+updated_at: 1768160484
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
