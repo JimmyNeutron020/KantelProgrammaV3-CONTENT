@@ -308,7 +308,7 @@ page_builder:
             text: 'Vul het onderstaande formulier in om je aan te melden voor de Kantel Scan met Paul. '
     tally_form_id: Eklk14
     anchor_id: aanmeldformulier
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -319,8 +319,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: TallyForms
     enabled: true
   -
@@ -419,8 +419,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
@@ -565,6 +565,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1768161250
+updated_at: 1768161331
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
