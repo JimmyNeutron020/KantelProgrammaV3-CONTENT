@@ -5,7 +5,7 @@ title: 'Kantel Kroniek'
 page_builder:
   -
     id: mka6bswo
-    full_height: true
+    full_height: false
     layout_setting: media
     media:
       video: false
@@ -27,7 +27,7 @@ page_builder:
           id: mka6cs7n
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: heading
@@ -77,5 +77,5 @@ page_builder:
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1768162645
+updated_at: 1768162702
 ---
