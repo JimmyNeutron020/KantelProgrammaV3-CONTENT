@@ -104,21 +104,21 @@ page_builder:
                 button_layout: link
                 button_colour: black
     tally_form_id: RGKBld
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: big
+      spacing_mobile: big
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     type: TallyForms
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998925
+updated_at: 1768137057
 ---
