@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: null
+  video_link: 'https://vimeo.com/952586709?share=copy&fl=sv&fe=ci'
   preview_image: hananja-nguyn-(44-jaar).jpg
   images: {  }
   show_swiper_controls: null
@@ -26,5 +26,5 @@ klachten:
   - lage-rug
   - vermoeidheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767120588
+updated_at: 1768229004
 ---
