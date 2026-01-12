@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/1031205428/28b1c163ee'
+  video_link: 'https://vimeo.com/1031205428?share=copy&fl=sv&fe=ci'
   preview_image: eva-thijssen.png
   images: {  }
   show_swiper_controls: null
@@ -28,5 +28,5 @@ klachten:
   - hoofdpijn
   - schildklier
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767119971
+updated_at: 1768228795
 ---
