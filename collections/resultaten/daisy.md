@@ -7,7 +7,7 @@ profession: '40 jaar. Medewerker Control'
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/1069340351/c14311d5b7'
+  video_link: 'https://vimeo.com/1069340351?share=copy&fl=sv&fe=ci'
   preview_image: daisy.jpg
   images: {  }
   show_swiper_controls: null
@@ -21,5 +21,5 @@ klachten:
   - bekken
   - rug
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767112452
+updated_at: 1768225811
 ---
