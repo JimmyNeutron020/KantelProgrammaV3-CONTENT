@@ -7,7 +7,7 @@ profession: '35 jaar. Leidinggevende GGZ'
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/1099136263/dcbae30cf9'
+  video_link: 'https://vimeo.com/1099136263?share=copy&fl=sv&fe=ci'
   preview_image: fanny.jpg
   images: {  }
   show_swiper_controls: null
@@ -23,5 +23,5 @@ klachten:
   - hoofdpijn
   - cvs
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767120166
+updated_at: 1768228937
 ---
