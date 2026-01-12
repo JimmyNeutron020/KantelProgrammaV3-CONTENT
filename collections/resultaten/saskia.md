@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/951246415/6902b245a3'
+  video_link: 'https://vimeo.com/951246415?share=copy&fl=sv&fe=ci'
   preview_image: saskia.jpg
   images: {  }
   show_swiper_controls: null
@@ -24,5 +24,5 @@ media:
 klachten:
   - rug
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767128756
+updated_at: 1768230722
 ---
