@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: null
+  video_link: 'https://vimeo.com/899797668?share=copy&fl=sv&fe=ci'
   preview_image: irene-de-jong.png
   images: {  }
   show_swiper_controls: null
@@ -24,5 +24,5 @@ media:
 klachten:
   - bekken
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767121589
+updated_at: 1768229050
 ---
