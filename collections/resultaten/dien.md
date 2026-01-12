@@ -13,7 +13,7 @@ media:
   video: true
   autoplay_video: false
   video_link: 'https://vimeo.com/784089662'
-  preview_image: null
+  preview_image: schermafbeelding-2026-01-12-om-15.36.22.png
   images: {  }
   show_swiper_controls: null
   autoplay: true
@@ -24,5 +24,5 @@ media:
 klachten:
   - bekken
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767118097
+updated_at: 1768228656
 ---
