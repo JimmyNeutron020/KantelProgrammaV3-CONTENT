@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/1068877166/2a4d195331'
+  video_link: 'https://vimeo.com/1068877166?share=copy&fl=sv&fe=ci'
   preview_image: marije.jpg
   images: {  }
   show_swiper_controls: null
@@ -28,5 +28,5 @@ klachten:
   - schouder
   - nek
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767127107
+updated_at: 1768229341
 ---
