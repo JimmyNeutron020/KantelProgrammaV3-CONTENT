@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/1044309599/b56809bae0'
+  video_link: 'https://vimeo.com/1044309599?share=copy&fl=sv&fe=ci'
   preview_image: myrte.jpg
   images: {  }
   show_swiper_controls: null
@@ -28,5 +28,5 @@ klachten:
   - fibromyalgie
   - slaapproblemen
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767127836
+updated_at: 1768230636
 ---
