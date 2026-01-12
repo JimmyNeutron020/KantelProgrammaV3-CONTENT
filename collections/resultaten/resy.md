@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://www.instagram.com/resy1987/'
+  video_link: 'https://vimeo.com/900112916'
   preview_image: 'resy-van-de-brug,-36-jaar.png'
   images: {  }
   show_swiper_controls: null
@@ -28,5 +28,5 @@ klachten:
   - pols
   - vermoeidheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767128563
+updated_at: 1768230673
 ---
