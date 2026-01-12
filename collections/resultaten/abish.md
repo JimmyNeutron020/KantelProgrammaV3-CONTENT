@@ -22,63 +22,10 @@ excerpt:
     type: paragraph
     attrs:
       class: null
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Lorem Ipsum'
-      -
-        type: text
-        text: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
 klachten:
   - bekken
   - rug
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1766048327
+updated_at: 1768215404
 duplicated_from: 21c6737d-f5a9-4ddc-9370-b92ea5780408
-content:
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Lorem Ipsum'
-      -
-        type: text
-        text: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Lorem Ipsum'
-      -
-        type: text
-        text: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Lorem Ipsum'
-      -
-        type: text
-        text: " is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
 ---
