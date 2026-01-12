@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: null
+  video_link: 'https://vimeo.com/952582990'
   preview_image: ellis-schoonbeeg-(39-jaar).jpg
   images: {  }
   show_swiper_controls: null
@@ -27,5 +27,5 @@ klachten:
   - endometriose
   - darmen
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767119322
+updated_at: 1768228880
 ---
