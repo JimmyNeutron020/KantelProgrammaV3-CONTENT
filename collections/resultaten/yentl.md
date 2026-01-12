@@ -12,7 +12,7 @@ media:
   video: true
   autoplay_video: false
   video_link: 'https://vimeo.com/804798959'
-  preview_image: null
+  preview_image: schermafbeelding-2026-01-12-om-16.12.16-(2).png
   images: {  }
   show_swiper_controls: null
   autoplay: true
@@ -24,5 +24,5 @@ klachten:
   - bil
   - bekken
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767129353
+updated_at: 1768230799
 ---
