@@ -12,7 +12,7 @@ social_links:
 media:
   video: true
   autoplay_video: false
-  video_link: 'https://vimeo.com/1089080340/7bc593b7a9'
+  video_link: 'https://vimeo.com/1089080340?share=copy&fl=sv&fe=ci'
   preview_image: marjoleinstolk.jpg
   images: {  }
   show_swiper_controls: null
@@ -26,5 +26,5 @@ klachten:
   - huidproblemen
   - eetstoornis
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767127310
+updated_at: 1768229408
 ---
