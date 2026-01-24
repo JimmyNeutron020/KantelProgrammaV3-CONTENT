@@ -86,7 +86,7 @@ page_builder:
     items:
       -
         id: mj7gxo80
-        swap: true
+        swap: false
         media:
           video: false
           autoplay_video: false
@@ -189,7 +189,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - brand/fotofolies-x-kantelprogramma_live-13.jpg
+        - 'brand/foto-18-01-2026,-11-40-15.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -203,7 +203,7 @@ page_builder:
           id: mj7gztfx
           values:
             type: heading
-            heading_size: S
+            heading_size: M
             heading:
               -
                 type: heading
@@ -212,7 +212,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Een echte power-vrouw'
+                    text: Chantal
             show_tag: false
       -
         type: paragraph
@@ -221,52 +221,10 @@ page_builder:
         content:
           -
             type: text
-            text: 'Chantal (1969) is '
-          -
-            type: text
             marks:
               -
                 type: bold
-            text: avontuurlijk
-          -
-            type: text
-            text: ' en een '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'ervaren leider, mét lef'
-          -
-            type: text
-            text: ' en '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: doorzettingsvermogen
-          -
-            type: text
-            text: '. In 2006 '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'winnaar van de ondernemersprijs'
-          -
-            type: text
-            text: ' de Venlose Start en intussen bijna 20 jaar ondernemer. Eerst als oprichter/'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: directeur
-          -
-            type: text
-            text: ' van een Kinderopvangorganisatie en een Jeugd GGZ praktijk. Deze bedrijven heeft ze begin 2019 verkocht.'
+            text: 'Oprichter en Ervaringsdeskundige'
       -
         type: paragraph
         attrs:
@@ -274,7 +232,18 @@ page_builder:
         content:
           -
             type: text
-            text: 'Eind 2020 hebben zij en Paul een voormalig Hotel en Monumentale Frankische Carré Boerderij aangekocht. Samen hebben ze dit in 1,5 jaar tijd geheel eigenhandig omgetoverd leefstijlhotel. Volledig gerenoveerd en gerestyled, want dat is echt hun grote hobby. De combinatie om hier en vanuit hun stek in Sardinië te kunnen werken is iedere dag een feestje.'
+            text: 'Misschien herken je het: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Tijdens haar tweede zwangerschap had Chantal ernstige bekkeninstabiliteit. Ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn. Chantal ziet met haar “laserogen” snel waar je echt vastloopt en wat nu nodig is om weer vrij en pijnvrij te bewegen.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Een echte power-vrouw'
       -
         type: paragraph
         attrs:
@@ -282,25 +251,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Chantal is '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: moeder
-          -
-            type: text
-            text: ' van een zoon en dochter en had zelf tijdens haar 2e zwangerschap ook last van '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'ernstige bekkeninstabiliteit'
-          -
-            type: text
-            text: ". Ze is het levende bewijs dat chronische pijn niet 'levenslang' hoeft te betekenen. Dat je écht weer Fit, Energiek en Pijnvrij kunt worden."
+            text: 'Chantal (1969) is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. In 2006 won ze de ondernemersprijs Venlose Start en bouwde ze een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht. Eind 2020 kochten Chantal en Paul een voormalig hotel en monumentale Frankische carréboerderij en verbouwden die eigenhandig tot leefstijlhotel. Ze werken vandaaruit en vanuit hun stek op Sardinië. Chantal is moeder van een zoon en dochter.'
       -
         type: paragraph
         attrs:
@@ -308,126 +259,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Het is haar passie om mensen naar een next level te '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: begeleiden
-          -
-            type: text
-            text: '. Met een heldere visie '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: inspireert
-          -
-            type: text
-            text: " ze individuen,\_ groepen maar ook bedrijven. Ze begeleidt graag\_ naar nieuwe en praktisch toepasbare manieren om makkelijk én stralend te kunnen leven. Haar wijsheid deelt ze graag met de mensen die er klaar voor zijn."
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Met haar ervaring en onconventionele oplossingen is ze een inspirerend voorbeeld. Ze geeft daarnaast inzichten waarmee mensen daadwerkelijk verder kunnen en zo hun leven echt '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: kantelen
-          -
-            type: text
-            text: .
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Gezondheid van Body & Mind heeft al jaren haar grote interesse. Chantal is naast haar achtergrond in de '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: GGZ
-          -
-            type: text
-            text: ", verschillende coachopleidingen waaronder andere\_"
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'MasterCoach Leefstijl'
-          -
-            type: text
-            text: ' en is diep in alle materie gedoken rondom levens'
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: wijzes
-          -
-            type: text
-            text: '. Dankzij haar talent -in combinatie met de studie Psychologie- is zij in staat om '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'van nature razendsnel te analyseren'
-          -
-            type: text
-            text: " wat er nodig is om jouw leven\_"
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'te kantelen'
-          -
-            type: text
-            text: .
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Maar minstens zo belangrijk is haar drive om het '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'talent in een ander aan te wakkeren'
-          -
-            type: text
-            text: '. Ons onderwijssysteem noemt ze antiek en het zorgsysteem incompleet. Helaas tref je in beide systemen veel essentiële dingen juist niet aan. Veel mensen komen niet tot bloei maar staan op standje overleven. Met meer dan 10 miljoen chronisch zieken kan dat dus anders.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "Laten we, als moeders, een stralend voorbeeld zijn. Onze kinderen laten voelen dat het volle leven door hen heen kan stralen.\_"
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Born to shine.'
+            text: 'Gezondheid van body en mind is al jaren haar grote interesse. Naast haar GGZ-achtergrond volgde ze diverse coachopleidingen, waaronder MasterCoach Leefstijl, en ze verdiepte zich in psychologie en leefwijzen. Dankzij haar talent analyseert ze razendsnel wat jouw kanteling vraagt. Ze wil het talent van anderen aanwakkeren en is uitgesproken: ons onderwijssysteem is verouderd en de zorg is incompleet. Te veel mensen staan op overleven. Laten we als moeders een stralend voorbeeld zijn. Born to shine.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -442,88 +274,6 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: QuestionsCtaSection
-    enabled: true
-  -
-    id: mj7h9ira
-    items:
-      -
-        id: mj7h9k4v
-        swap: true
-        media:
-          video: false
-          autoplay_video: false
-          video_link: null
-          preview_image: null
-          images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
-            - brand/img_2643.jpg
-            - brand/230413-a-casa-nostra-_8959.jpg
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mj7ha47b
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 2
-                    content:
-                      -
-                        type: text
-                        text: 'Paul Bax'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Paul heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Al in 2009 zette hij met veel passie een eigen paramedisch instituut op (met NOC-NSF-status), samen met fysiotherapeuten en een bewegingswetenschapper. Binnen no-time bouwde hij, samen met zijn compagnon, een succesvol bedrijf op.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme, meedoen in de ratrace en werken zonder grenzen, werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven zónder chronische pijn.'
-        type: new_set
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
     enabled: true
   -
     id: mj7hb7gk
@@ -713,5 +463,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769264911
+updated_at: 1769265206
 ---
