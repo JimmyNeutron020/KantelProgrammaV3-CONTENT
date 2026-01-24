@@ -56,30 +56,91 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+    type: HeroSection
+    enabled: true
+  -
+    id: mksg1fwa
+    content:
       -
         type: set
         attrs:
-          id: mj7gwzre
+          id: mksg1irp
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Ons verhaal'
+            show_tag: true
+            tag_text: Aangenaam!
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit is ons verhaal in het kort. Chantal, ervaringsdeskundige en oprichter. Paul, gezondheidsexpert met een topsportblik. Samen bundelen we kennis, praktijk en menselijkheid. Scroll voor onze weg, ervaring en de mijlpalen. Onze missie lees je hieronder.'
+      -
+        type: set
+        attrs:
+          id: mksg479w
           values:
             type: buttons
             buttons:
               -
-                id: eCrs8wlo
-                label: Chantal
+                id: otNQ5U6t
+                label: 'Onze missie'
+                link_type: link
+                target_blank: false
+                link: '#onze-missie'
+                button_layout: link
+                button_colour: orange
+              -
+                id: mksg4it6
+                label: 'Over Chantal'
                 link_type: link
                 target_blank: false
                 link: '#chantal'
-                button_layout: solid
-                button_colour: white
+                button_layout: link
+                button_colour: orange
               -
-                id: mj7gxb7r
-                label: Paul
+                id: mksg4w73
+                label: 'Over Paul'
                 link_type: link
                 target_blank: false
                 link: '#paul'
-                button_layout: standard
-                button_colour: white
-    type: HeroSection
+                button_layout: link
+                button_colour: orange
+              -
+                id: mksg54ck
+                label: Geschiedenis
+                link_type: link
+                target_blank: false
+                link: '#geschiedenis'
+                button_layout: link
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
     enabled: true
   -
     id: mj7gxmvl
@@ -632,5 +693,5 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769267033
+updated_at: 1769267452
 ---
