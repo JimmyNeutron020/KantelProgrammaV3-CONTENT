@@ -296,7 +296,7 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'We doorbreken de stilte rondom vrouwen en chronische pijn. Sommige leden delen inzichten en ervaringen, zodat meer vrouwen worden gezien en gehoord. Zo kantelen we niet alleen ons eigen leven, maar ook het gesprek daarbuiten.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -307,8 +307,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: ResultsCtaSection
     enabled: true
   -
@@ -362,7 +362,7 @@ page_builder:
           -
             type: text
             text: 'Je deelname is privé. Je staat niet automatisch in de ledenindex. Alleen als jij dat wilt, deel je je verhaal of profiel openbaar. Geen druk, wel de mogelijkheid.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -370,13 +370,13 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769258875
+updated_at: 1769258943
 ---
