@@ -203,7 +203,7 @@ page_builder:
           id: mj7gztfx
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -226,6 +226,10 @@ page_builder:
                 type: bold
               -
                 type: italic
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
             text: 'Oprichter en Ervaringsdeskundige'
       -
         type: paragraph
@@ -323,6 +327,10 @@ page_builder:
                 type: bold
               -
                 type: italic
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
             text: Gezondheidsexpert
       -
         type: paragraph
@@ -376,5 +384,5 @@ page_builder:
     enabled: true
     color: '#ffffff'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769265505
+updated_at: 1769265564
 ---
