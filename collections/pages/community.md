@@ -335,7 +335,7 @@ page_builder:
           id: mksaz21g
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -378,5 +378,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769258943
+updated_at: 1769259035
 ---
