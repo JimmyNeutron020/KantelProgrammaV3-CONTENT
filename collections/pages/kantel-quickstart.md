@@ -403,7 +403,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een vraag over het E-book, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Heb je een persoonlijke vraag dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze startten? Kijk dan even bij de veelgestelde vragen.'
+            text: 'Heb je een vraag over de Kantel Quickstart, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Heb je een persoonlijke vraag dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze starten? Kijk dan even bij de veelgestelde vragen.'
       -
         type: paragraph
         attrs:
@@ -475,7 +475,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis opties hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -492,6 +492,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769290560
+updated_at: 1769290729
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
