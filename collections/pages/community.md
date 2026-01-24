@@ -292,10 +292,12 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'We doorbreken de stilte rondom vrouwen en chronische pijn. Sommige leden delen inzichten en ervaringen, zodat meer vrouwen worden gezien en gehoord. Zo kantelen we niet alleen ons eigen leven, maar ook het gesprek daarbuiten.'
+            text: 'We doorbreken de stilte rondom vrouwen en chronische pijn. Sommige leden delen inzichten en ervaringen, zodat meer vrouwen worden gezien en gehoord. Zo kantelen we niet alleen ons eigen leven, maar ook het gesprek daarbuiten. Samen staan we sterk. '
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -378,5 +380,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769259035
+updated_at: 1769259099
 ---
