@@ -311,6 +311,72 @@ page_builder:
       spacing_mobile: standard
     type: ResultsCtaSection
     enabled: true
+  -
+    id: mksawg8p
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - 'community/foto-18-01-2026,-12-06-56.jpg'
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mksaz21g
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Wie kan lid worden?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Alleen voor vrouwen die het Kantel Programma hebben afgerond. Zo spreken we dezelfde taal en bouw je verder op wat werkt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je deelname is privé. Je staat niet automatisch in de ledenindex. Alleen als jij dat wilt, deel je je verhaal of profiel openbaar. Geen druk, wel de mogelijkheid.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769258164
+updated_at: 1769258875
 ---
