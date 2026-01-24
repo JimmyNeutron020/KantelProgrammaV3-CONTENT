@@ -87,7 +87,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: '6 sleutels tot een fit, energiek en pijnvrij leven'
+                    text: 'De 6 sleutels. Van overleven naar leven. '
             show_tag: true
             tag_text: 'Gratis E-book'
             tag_alignment: right
@@ -489,6 +489,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769288660
+updated_at: 1769288854
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
