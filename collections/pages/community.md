@@ -619,7 +619,7 @@ page_builder:
                   link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
                   button_layout: solid
                   button_colour: orange
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -630,10 +630,10 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769260031
+updated_at: 1769260090
 ---
