@@ -85,8 +85,8 @@ page_builder:
             flex_icons:
               -
                 id: mks99ah7
-                fa_icon: 'fa-regular fa-people-group'
-                text: Impact
+                fa_icon: 'fa-regular fa-hand-holding-heart'
+                text: Verbonden
       -
         type: set
         attrs:
@@ -112,10 +112,10 @@ page_builder:
           -
             type: text
             text: 'Veel vrouwen met chronische pijn voelen zich lang niet gehoord. Wij veranderen dat door elkaar te steunen, kennis te delen en het onbespreekbare wél te bespreken. Jouw verhaal telt. Samen maken we impact, binnen en buiten onze community.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -332,5 +332,5 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769256004
+updated_at: 1769256154
 ---
