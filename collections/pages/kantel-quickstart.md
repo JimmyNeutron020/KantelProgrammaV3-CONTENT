@@ -165,7 +165,7 @@ page_builder:
           video_link: null
           preview_image: null
           images:
-            - 'brand/door-deze-6-sleutels-leef-ik-weer-fit,-energiek-en-pijnvrij-.png.png'
+            - 'brand/foto-18-01-2026,-12-26-58.jpg'
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -516,6 +516,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769290806
+updated_at: 1769290955
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
