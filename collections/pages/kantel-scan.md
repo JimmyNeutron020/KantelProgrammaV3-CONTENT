@@ -282,7 +282,7 @@ page_builder:
           id: mka4zdqr
           values:
             type: heading
-            heading_size: S
+            heading_size: M
             heading:
               -
                 type: heading
@@ -291,11 +291,6 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
                     text: 'Meld je hier aan!'
             show_tag: false
       -
@@ -310,8 +305,8 @@ page_builder:
     anchor_id: aanmeldformulier
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: big
+      spacing_mobile: big
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -565,6 +560,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1768161331
+updated_at: 1769292242
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
