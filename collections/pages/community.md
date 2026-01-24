@@ -74,6 +74,60 @@ page_builder:
     type: HeroSection
     enabled: true
   -
+    id: mks9960n
+    content:
+      -
+        type: set
+        attrs:
+          id: mks999th
+          values:
+            type: flex_icons
+            flex_icons:
+              -
+                id: mks99ah7
+                fa_icon: 'fa-regular fa-people-group'
+                text: Impact
+      -
+        type: set
+        attrs:
+          id: mks9bdue
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Voor vrouwen die hun kanteling vasthouden'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vrouwen met chronische pijn voelen zich lang niet gehoord. Wij veranderen dat door elkaar te steunen, kennis te delen en het onbespreekbare wél te bespreken. Jouw verhaal telt. Samen maken we impact, binnen en buiten onze community.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
     id: miz0ngbm
     color: '#fff'
     swap_layout: false
@@ -278,5 +332,5 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769255760
+updated_at: 1769256004
 ---
