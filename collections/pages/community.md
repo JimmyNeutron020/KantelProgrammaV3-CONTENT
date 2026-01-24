@@ -68,7 +68,7 @@ page_builder:
                 label: 'Ontdek meer'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#intro'
                 button_layout: solid
                 button_colour: white
     type: HeroSection
@@ -127,6 +127,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+    anchor_id: intro
   -
     id: mks9j66a
     items:
@@ -635,5 +636,5 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769260090
+updated_at: 1769260141
 ---
