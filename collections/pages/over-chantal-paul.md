@@ -93,11 +93,12 @@ page_builder:
           video_link: null
           preview_image: null
           images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
-            - brand/231128-paul-en-chantal-_77834-(1).jpg
-            - brand/fotofolies-x-kantelprogramma_live-112.jpg
-            - brand/fotofolies-x-kantelprogramma_live-10.jpg
-            - brand/fotofolies-x-kantelprogramma_live-11.jpg
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
+            - 'brand/foto-18-01-2026,-11-40-15.jpg'
+            - 'brand/foto-18-01-2026,-12-26-58.jpg'
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
+            - brand/fotofolies-x-kantelprogramma_live-131.jpg
+            - 'brand/foto-18-01-2026,-12-37-57.jpg'
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -120,7 +121,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Chantal Theunissen'
+                        text: 'Onze missie'
                 show_tag: false
           -
             type: paragraph
@@ -129,7 +130,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien herken je het wel: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Chantal begrijpt dat als geen ander. Tijdens haar tweede zwangerschap ervaarde ze zelf ernstige bekkeninstabiliteit. Maar ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn, herstel is écht mogelijk.'
+                text: 'We hebben het zelf ervaren en van dichtbij gezien: vrouwen met chronische pijn worden vaak niet serieus genomen. Hun pijn wordt genormaliseerd. Alsof het erbij hoort of iets is waarmee je maar moet leren leven. Dat is niet oké. Chronische pijn is niet normaal. Het vraagt een aanpak die het geheel ziet: lichaam, zenuwstelsel, leefritme en de mens achter de klachten.'
           -
             type: paragraph
             attrs:
@@ -137,15 +138,30 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Chantal is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. Ze is al bijna 20 jaar ondernemer: in 2006 won ze de Venlose Start ondernemersprijs en bouwde een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht.'
+                text: 'In ons leefstijlhotel ontvingen we vrouwen die tijdelijk intern verbleven om 24/7 aan herstel te werken. Daar zagen we keer op keer dat herstel wél mogelijk is wanneer je met structuur, veiligheid en een team om je heen aan de juiste knoppen draait. Die aanpak vertaalden we naar het Kantel Programma, zodat nog meer vrouwen dit thuis kunnen toepassen.'
           -
-            type: paragraph
+            type: set
             attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Chantal ziet met haar ‘laserogen’ snel waar je écht vastloopt en wat nodig is om weer vrij en pijnvrij te kunnen bewegen. Ze raakt de juiste snaar op het juiste moment.'
+              id: mkseeinv
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: LWviVYZ1
+                    label: 'Over Chantal'
+                    link_type: link
+                    target_blank: false
+                    link: '#chantal'
+                    button_layout: solid
+                    button_colour: orange
+                  -
+                    id: mkseeybb
+                    label: 'Over Paul'
+                    link_type: link
+                    target_blank: false
+                    link: '#paul'
+                    button_layout: standard
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -697,5 +713,5 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765823340
+updated_at: 1769264911
 ---
