@@ -209,23 +209,6 @@ page_builder:
                         type: text
                         text: 'En ja: heel veel gezelligheid.'
           -
-            type: set
-            attrs:
-              id: mks9yq8e
-              values:
-                type: heading
-                heading_size: XS
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 3
-                    content:
-                      -
-                        type: text
-                        text: 'Live samenkomen'
-                show_tag: false
-          -
             type: paragraph
             attrs:
               class: null
@@ -251,5 +234,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769257151
+updated_at: 1769257226
 ---
