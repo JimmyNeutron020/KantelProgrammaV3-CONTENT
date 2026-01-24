@@ -117,8 +117,8 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -139,7 +139,7 @@ page_builder:
           video_link: null
           preview_image: null
           images:
-            - community/img_4013.jpg
+            - 'community/foto-18-01-2026,-12-10-39.jpg'
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -237,5 +237,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769257362
+updated_at: 1769257511
 ---
