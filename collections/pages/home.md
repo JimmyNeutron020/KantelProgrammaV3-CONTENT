@@ -465,7 +465,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Shine Sprint'
+                    text: 'Kantel Programma'
             show_tag: true
             tag_text: 'Niet voor doetjes!'
             tag_alignment: right
@@ -476,7 +476,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'De Shine Sprint geeft je toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
+            text: 'Krijg toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
     items:
       -
         id: m7xzqfyb
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769263157
+updated_at: 1769269910
 ---
