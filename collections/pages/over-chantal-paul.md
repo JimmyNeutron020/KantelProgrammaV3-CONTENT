@@ -212,7 +212,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: Chantal
+                    text: 'Chantal Theunissen'
             show_tag: false
       -
         type: paragraph
@@ -313,7 +313,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: Paul
+                    text: 'Paul Bax'
             show_tag: false
       -
         type: paragraph
@@ -384,5 +384,5 @@ page_builder:
     enabled: true
     color: '#ffffff'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769265564
+updated_at: 1769265753
 ---
