@@ -42,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Het Kantel Programma helpt je om weer vertrouwen te krijgen in je lijf, zodat je weer fit, energiek en pijnvrij kunt leven.'
+            text: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij willen hier verandering in brengen en laten zien dat herstel wél echt mogelijk is. '
       -
         type: set
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765179842
+updated_at: 1769254806
 ---
