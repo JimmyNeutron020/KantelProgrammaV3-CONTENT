@@ -56,6 +56,29 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Een nuchtere quickstart voor vrouwen die te vaak geen duidelijk pad kregen.'
+      -
+        type: set
+        attrs:
+          id: mksu1eaj
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 0zxZsbKx
+                label: Download
+                link_type: link
+                target_blank: false
+                link: '#'
+                button_layout: solid
+                button_colour: white
+              -
+                id: mksu1spw
+                label: 'Meer informatie'
+                link_type: link
+                target_blank: false
+                link: '#intro'
+                button_layout: standard
+                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -129,6 +152,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+    anchor_id: intro
   -
     id: millgpeh
     items:
@@ -492,6 +516,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769290729
+updated_at: 1769290806
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
