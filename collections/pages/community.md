@@ -128,6 +128,129 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mks9j66a
+    items:
+      -
+        id: mks9j7pm
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          video_link: null
+          preview_image: null
+          images:
+            - community/img_4013.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mks9thzw
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Dit is de community '
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een veilige, warme plek met vrouwen die hetzelfde pad liepen:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Steun, eerlijke feedback en vieren van mijlpalen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Inspiratie om je kanteling te verdiepen, op jouw tempo.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'En ja: heel veel gezelligheid.'
+          -
+            type: set
+            attrs:
+              id: mks9yq8e
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: 'Live samenkomen'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Twee keer per jaar is er een verzorgde live dag. Een welzijn-gerichte dag vol inspiratie, ademruimte en verbondenheid. We vullen bij, scherpen aan en gaan weer lichter naar huis.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: miz0ngbm
     color: '#fff'
     swap_layout: false
@@ -332,5 +455,5 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769256211
+updated_at: 1769257095
 ---
