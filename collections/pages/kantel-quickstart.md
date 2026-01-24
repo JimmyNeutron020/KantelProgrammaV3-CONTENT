@@ -89,7 +89,7 @@ page_builder:
                     type: text
                     text: 'De 6 sleutels. Van overleven naar stralend leven. '
             show_tag: true
-            tag_text: 'Gratis E-book'
+            tag_text: Gratis!
             tag_alignment: right
       -
         type: paragraph
@@ -164,7 +164,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Herstel begint bij inzicht. In dit gratis E-book ontdek je:'
+                        text: 'Herstel begint bij inzicht. In de Kantel Quickstart ontdek je:'
                 show_tag: false
           -
             type: paragraph
@@ -492,6 +492,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769290436
+updated_at: 1769290535
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
