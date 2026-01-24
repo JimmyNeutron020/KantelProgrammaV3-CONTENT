@@ -106,7 +106,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Het Kantelprogramma geeft je toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
+            text: 'Krijg toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
     items:
       -
         id: mkscmwqf
@@ -267,5 +267,5 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769261669
+updated_at: 1769261745
 ---
