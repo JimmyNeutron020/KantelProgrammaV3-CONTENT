@@ -41,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Over Chantal & Paul'
+                    text: 'Wie zijn wij?'
             show_tag: false
       -
         type: paragraph
@@ -693,5 +693,5 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769267512
+updated_at: 1769267550
 ---
