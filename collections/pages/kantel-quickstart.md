@@ -178,29 +178,52 @@ page_builder:
                     type: bold
                 text: 'Voor je gezin én voor jezelf'
           -
-            type: paragraph
-            attrs:
-              class: null
+            type: bulletList
             content:
               -
-                type: text
-                text: 'Ben jij er klaar mee om dag in, dag uit te leven op halve kracht? Wil je ontdekken hoe je fit, energiek en pijnvrij kunt leven op een manier die écht bij jou past? Dan hebben we iets moois voor je.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: "Waarom pijn soms blijft, ook als er 'niets mis' lijkt."
               -
-                type: text
-                text: 'Ontvang direct praktische inzichten, bewezen tips en krachtige handvatten.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Hoe je weer leert vertrouwen op je lichaam.'
               -
-                type: text
-                text: 'Niet zweverig, maar wél transformerend.'
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Welke simpele keuzes jouw pijn dagelijks kunnen verminderen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom een topsportbenadering onmisbaar is voor herstel.'
           -
             type: set
             attrs:
@@ -469,6 +492,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769290097
+updated_at: 1769290436
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
