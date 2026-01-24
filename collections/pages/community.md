@@ -446,7 +446,7 @@ page_builder:
     enabled: true
   -
     id: mksbhh70
-    color: '#ffffff'
+    color: '#f5f5f7'
     content:
       -
         type: set
@@ -475,9 +475,150 @@ page_builder:
           -
             type: text
             text: 'Blijf onderdeel van de beweging die je herstel mogelijk maakte. Sluit je aan, verdiep je resultaten en draag bij aan een toekomst waarin vrouwen voluit leven.'
-    show_callout: false
+    items:
+      -
+        id: mksbl4ay
+        icon: 'fa-regular fa-trophy'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Unieke methode'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een topsportbenadering met begeleiding op alle fronten.'
+        type: new_set
+        enabled: true
+      -
+        id: mksbmbp4
+        icon: 'fa-regular fa-heart'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Vertrouwen terug'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je leert weer vertrouwen op een lichaam dat met je meewerkt.'
+        type: new_set
+        enabled: true
+      -
+        id: mksbmlk6
+        icon: 'fa-regular fa-arrow-rotate-right'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '24/7 in jouw leven'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Herstel als 24/7 leefwijze: elke keuze in je dag telt.'
+        type: new_set
+        enabled: true
+      -
+        id: mksbmyoi
+        icon: 'fa-regular fa-person-rays'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Body & Mind'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Body en Mind leren weer als één team samenwerken voor herstel.'
+        type: new_set
+        enabled: true
+    show_callout: true
     callout:
-      content: null
+      content:
+        -
+          type: set
+          attrs:
+            id: mksbpmnr
+            values:
+              type: heading
+              heading_size: XS
+              heading:
+                -
+                  type: heading
+                  attrs:
+                    level: 3
+                  content:
+                    -
+                      type: text
+                      text: 'Waarom werkt dit wel?'
+              show_tag: false
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Het werkt omdat we met een unieke kijk op herstel je hele systeem kantelen: body & mind, zenuwstelsel en dagelijks leven, zodat je lichaam écht de kans krijgt om te herstellen.'
+        -
+          type: set
+          attrs:
+            id: mksbq27a
+            values:
+              type: buttons
+              buttons:
+                -
+                  id: mTs7bz0U
+                  label: 'Start nu'
+                  link_type: link
+                  target_blank: false
+                  link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                  button_layout: solid
+                  button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -494,5 +635,5 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769259657
+updated_at: 1769260031
 ---
