@@ -44,6 +44,28 @@ page_builder:
                     text: 'Kantel Community'
             show_tag: false
       -
+        type: set
+        attrs:
+          id: mks965xc
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Voor vrouwen die hun kanteling vasthouden'
+            show_tag: false
+      -
         type: paragraph
         attrs:
           class: null
@@ -55,7 +77,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een plek om te verdiepen en elkaar te blijven inspireren.'
+            text: 'De Kantel Community is er voor vrouwen die het Kantel Programma hebben doorlopen en nu een stralend leven bouwen. Je blijft leren en verbinden. Samen houden we koers.'
       -
         type: set
         attrs:
@@ -278,5 +300,5 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765311862
+updated_at: 1769255733
 ---
