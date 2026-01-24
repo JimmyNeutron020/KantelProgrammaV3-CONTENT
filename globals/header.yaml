@@ -10,19 +10,19 @@ data:
       button_layout: link
       button_colour: white
     -
+      id: mhhtcrhg
+      label: 'Start nu'
+      link_type: link
+      target_blank: false
+      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+      button_layout: solid
+      button_colour: white
+    -
       id: mhhtc9gq
       label: Webinar
       link_type: link
       target_blank: false
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
-      button_layout: solid
-      button_colour: white
-    -
-      id: mhhtcrhg
-      label: 'Shine Sprint'
-      link_type: link
-      target_blank: false
-      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
       button_layout: standard
       button_colour: white
   scrolled_buttons:
@@ -35,18 +35,18 @@ data:
       button_layout: link
       button_colour: orange
     -
+      id: mhhtdhmf
+      label: 'Start nu'
+      link_type: link
+      target_blank: false
+      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+      button_layout: solid
+      button_colour: orange
+    -
       id: mhhtda76
       label: Webinar
       link_type: link
       target_blank: false
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
-      button_layout: solid
-      button_colour: orange
-    -
-      id: mhhtdhmf
-      label: 'Shine Sprint'
-      link_type: link
-      target_blank: false
-      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
       button_layout: standard
       button_colour: orange
