@@ -715,7 +715,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Het Kantelprogramma'
+                    text: 'Het Kantel Programma'
             show_tag: true
             tag_text: 'Niet voor doetjes!'
             tag_alignment: right
@@ -887,5 +887,5 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769269440
+updated_at: 1769269470
 ---
