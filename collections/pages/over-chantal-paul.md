@@ -133,7 +133,7 @@ page_builder:
       spacing_mobile: standard
     inner_spacing_bottom:
       spacing_desktop: no_spacing
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -224,13 +224,13 @@ page_builder:
                     button_colour: orange
         type: new_set
         enabled: true
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -327,19 +327,19 @@ page_builder:
           -
             type: text
             text: 'Gezondheid van body en mind is al jaren haar grote interesse. Naast haar GGZ-achtergrond volgde ze diverse coachopleidingen, waaronder MasterCoach Leefstijl, en ze verdiepte zich in psychologie en leefwijzen. Dankzij haar talent analyseert ze razendsnel wat jouw kanteling vraagt. Ze wil het talent van anderen aanwakkeren en is uitgesproken: ons onderwijssysteem is verouderd en de zorg is incompleet. Te veel mensen staan op overleven. Laten we als moeders een stralend voorbeeld zijn. Born to shine.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     inner_spacing_bottom:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_bottom:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
     anchor_id: chantal
@@ -429,16 +429,16 @@ page_builder:
           -
             type: text
             text: 'De natuur en hun locatie versterken zijn werkplezier. In A Casa Nostra in Well ontvingen ze vrouwen die intern verbleven tijdens een Kantel Traject. Paul is energiek, vrij, sportief en nieuwsgierig. Hij geniet ervan om voor te doen hoe je dit leven óók kunt leiden.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     inner_spacing_bottom:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     outer_spacing_top:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -682,7 +682,7 @@ page_builder:
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_mobile: no_spacing
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -697,5 +697,5 @@ page_builder:
     color: '#f5f5f7'
     anchor_id: geschiedenis
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769267924
+updated_at: 1769268275
 ---
