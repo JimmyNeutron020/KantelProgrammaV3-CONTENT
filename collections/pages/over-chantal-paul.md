@@ -383,6 +383,251 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
     color: '#ffffff'
+  -
+    id: mksflox0
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      video_link: null
+      preview_image: null
+      images:
+        - brand/chantal-151.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mj7hbzc6
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Een paar brokjes Kantel Geschiedenis'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2005'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Chantal start een regionaal netwerk van kleinschalige thuisopvang. Al snel komt er een grote Jeugd GGZ-praktijk bij voor opvoed- en ontwikkelingsvragen van 0 tot 18 jaar.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2009'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Paul ontwikkelt een vernieuwende methode die mensen helpt van overleven naar stralend leven te gaan, met duurzame resultaten. Hij richt een paramedisch instituut op met NOC-NSF-status en werkt daar samen met fysiotherapeuten en een bewegingswetenschapper.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2018'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Deelname aan RTL4-programma Het Italiaanse Dorp Ollolai. Paul en Chantal presenteren het plan voor A Casa Nostra: op Sardinië verblijven om op adem te komen, te revalideren en te herstellen. Het idee voor welzijnstoerisme krijgt brede steun.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2019'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'A Casa Nostra gaat van start. De eerste gasten worden ontvangen en begeleid op Sardinië.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2020'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Door corona verplaatsen Paul en Chantal A Casa Nostra naar Nederland en kopen en verbouwen een voormalig hotel in Well. Vanaf dan richten zij zich bewust op jonge vrouwen en moeders.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2021'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De eerste groep vrouwen start met het Kantel Programma. Zij verblijven enkele weken intern bij A Casa Nostra, werken aan herstel en leren een nieuwe leefwijze. Na 13 weken zijn de resultaten sterk: vrouwen die jarenlang pijn hadden, worden weer fit, energiek en pijnvrij en pakken hun leven op.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2023'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Omdat de vraag groter is dan de capaciteit op locatie, wordt het programma online beschikbaar. Daardoor kunnen ook vrouwen uit België, Noord-Nederland en het buitenland meedoen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '2024'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Meer dan 1.500 vrouwen hebben intussen een kanteltraject gevolgd en een kanteling gemaakt naar een leven met meer vertrouwen in body en mind, dichter bij zichzelf en hun dromen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Vooruitblik
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ambitie: nog veel meer vrouwen helpen. Uitgangspunt: in Nederland heeft bijna de helft van de mensen chronische klachten en een groot deel is te helpen met deze aanpak. Droom: een krachtige community waarin ervaringsdeskundige vrouwen andere vrouwen helpen. “Houd ons in de gaten, er komt nog veel meer kantelkracht jullie kant op.”'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+    color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769265753
+updated_at: 1769266835
 ---
