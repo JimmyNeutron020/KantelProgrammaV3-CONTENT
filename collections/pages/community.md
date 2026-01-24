@@ -444,6 +444,55 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
+  -
+    id: mksbhh70
+    color: '#ffffff'
+    content:
+      -
+        type: set
+        attrs:
+          id: mksbhlik
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Klaar om te blijven kantelen?'
+            show_tag: true
+            tag_text: "Let's go!"
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Blijf onderdeel van de beweging die je herstel mogelijk maakte. Sluit je aan, verdiep je resultaten en draag bij aan een toekomst waarin vrouwen voluit leven.'
+    show_callout: false
+    callout:
+      content: null
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: UspSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769259526
+updated_at: 1769259657
 ---
