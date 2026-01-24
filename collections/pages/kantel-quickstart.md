@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Lorem ipsum dolor sit amet'
+            text: 'Een nuchtere quickstart voor vrouwen die te vaak geen duidelijk pad kregen.'
     type: HeroSection
     enabled: true
   -
@@ -492,6 +492,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769290535
+updated_at: 1769290560
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
