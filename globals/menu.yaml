@@ -162,40 +162,6 @@ data:
       exclude_from_pages:
         - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
     -
-      id: mhhv3nwa
-      icon: 'fa-brands fa-spotify'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Kantel Kracht'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Podcast te beluisteren op Spotify'
-      label: 'Kantel Kracht'
-      link_type: link
-      target_blank: false
-      link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-      featured_image: brand/fotofolies-x-kantelprogramma_sneak-preview-23.jpg
-      exclude_from_pages:
-        - 631dd581-8207-4fe0-81e5-2becf841200f
-    -
       id: mhhv3mmy
       icon: 'fa-regular fa-message-lines'
       heading_size: XS
@@ -229,6 +195,40 @@ data:
       featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
       exclude_from_pages:
         - 69a5080a-2257-4213-a2fc-605373a33691
+    -
+      id: mhhv3nwa
+      icon: 'fa-brands fa-spotify'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Kracht'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Podcast te beluisteren op Spotify'
+      label: 'Kantel Kracht'
+      link_type: link
+      target_blank: false
+      link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: brand/fotofolies-x-kantelprogramma_sneak-preview-23.jpg
+      exclude_from_pages:
+        - 631dd581-8207-4fe0-81e5-2becf841200f
   general_info: '© 2025 Kantel Programma. All rights reserved.'
   social_icons:
     -
