@@ -81,7 +81,7 @@ data:
           content:
             -
               type: text
-              text: 'Meerdere data'
+              text: 'Voorgoed afscheid van chronische bekkenpijn.'
       label: 'Kantel Webinar'
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
@@ -91,38 +91,8 @@ data:
       target_blank: false
       button_colour: orange
       featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
-    -
-      id: mhhv234l
-      icon: 'fa-regular fa-book'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Kantel E-Book'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Direct beschikbaar'
-      label: 'Kantel E-book'
-      link_type: link
-      target_blank: false
-      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+      exclude_from_pages:
+        - d81e8a34-e412-443e-b24b-f46726b1d854
     -
       id: mhhv3oxo
       icon: 'fa-regular fa-person-arrow-up-from-line'
@@ -145,8 +115,8 @@ data:
           content:
             -
               type: text
-              text: 'Zoomsessie op afspraak'
-      label: 'Kantel E-book'
+              text: 'Persoonlijke call over wat jouw lichaam wél nodig heeft.'
+      label: 'Kantel Scan'
       link_type: link
       target_blank: false
       link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
@@ -155,6 +125,42 @@ data:
       type: card_item
       enabled: true
       featured_image: brand/img_2643.jpg
+      exclude_from_pages:
+        - 37fe9b56-749b-4049-9173-064c8aa11ba3
+    -
+      id: mhhv234l
+      icon: 'fa-regular fa-book'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Quickstart'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'De 6 sleutels. Van overleven naar stralend leven. '
+      label: 'Kantel Quickstart'
+      link_type: link
+      target_blank: false
+      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+      exclude_from_pages:
+        - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
     -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
@@ -177,8 +183,8 @@ data:
           content:
             -
               type: text
-              text: 'Podcast op Spotify'
-      label: 'Kantel E-book'
+              text: 'Podcast te beluisteren op Spotify'
+      label: 'Kantel Kracht'
       link_type: link
       target_blank: false
       link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
@@ -187,6 +193,8 @@ data:
       type: card_item
       enabled: true
       featured_image: brand/fotofolies-x-kantelprogramma_sneak-preview-23.jpg
+      exclude_from_pages:
+        - 631dd581-8207-4fe0-81e5-2becf841200f
     -
       id: mhhv3mmy
       icon: 'fa-regular fa-message-lines'
@@ -209,8 +217,8 @@ data:
           content:
             -
               type: text
-              text: 'In je mail'
-      label: 'Kantel E-book'
+              text: 'Persoonlijke vragen direct via mail'
+      label: 'Kantel Vragen'
       link_type: link
       target_blank: false
       link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
@@ -219,6 +227,8 @@ data:
       type: card_item
       enabled: true
       featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+      exclude_from_pages:
+        - 69a5080a-2257-4213-a2fc-605373a33691
   general_info: '© 2025 Kantel Programma. All rights reserved.'
   social_icons:
     -
