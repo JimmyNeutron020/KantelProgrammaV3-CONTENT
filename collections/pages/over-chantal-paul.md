@@ -50,6 +50,11 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Maak kennis met Chantal en Paul, onze weg en de mijlpalen.'
     type: HeroSection
     enabled: true
@@ -122,12 +127,12 @@ page_builder:
           -
             type: text
             text: 'Dit is ons verhaal in het kort. Chantal, ervaringsdeskundige en oprichter. Paul, gezondheidsexpert met een topsportblik. Samen bundelen we kennis, praktijk en menselijkheid. Scroll voor onze weg, ervaring en de mijlpalen. Onze missie lees je hieronder.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: standard
+      spacing_desktop: no_spacing
       spacing_mobile: standard
     outer_spacing_top:
       spacing_desktop: standard
@@ -234,6 +239,7 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+    anchor_id: onze-missie
   -
     id: mj7gyqcb
     color: '#f7e7de'
@@ -336,6 +342,7 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+    anchor_id: chantal
   -
     id: mj7hb7gk
     swap_layout: false
@@ -438,6 +445,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
     color: '#ffffff'
+    anchor_id: paul
   -
     id: mksflox0
     swap_layout: false
@@ -671,7 +679,7 @@ page_builder:
           -
             type: text
             text: 'Ambitie: nog veel meer vrouwen helpen. Uitgangspunt: in Nederland heeft bijna de helft van de mensen chronische klachten en een groot deel is te helpen met deze aanpak. Droom: een krachtige community waarin ervaringsdeskundige vrouwen andere vrouwen helpen. “Houd ons in de gaten, er komt nog veel meer kantelkracht jullie kant op.”'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -687,6 +695,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
     color: '#f5f5f7'
+    anchor_id: geschiedenis
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769267788
+updated_at: 1769267871
 ---
