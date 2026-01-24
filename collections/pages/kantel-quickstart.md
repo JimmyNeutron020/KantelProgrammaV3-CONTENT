@@ -41,7 +41,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: E-book
+                    text: 'Kantel Quickstart'
             show_tag: false
       -
         type: paragraph
@@ -489,6 +489,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998354
+updated_at: 1769288660
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
