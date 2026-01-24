@@ -44,28 +44,6 @@ page_builder:
                     text: 'Kantel Community'
             show_tag: false
       -
-        type: set
-        attrs:
-          id: mks965xc
-          values:
-            type: heading
-            heading_size: XS
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Voor vrouwen die hun kanteling vasthouden'
-            show_tag: false
-      -
         type: paragraph
         attrs:
           class: null
@@ -300,5 +278,5 @@ page_builder:
     type: HeroSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769255733
+updated_at: 1769255760
 ---
