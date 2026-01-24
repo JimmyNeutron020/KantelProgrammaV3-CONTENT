@@ -13,7 +13,7 @@ page_builder:
       video_link: 'https://vimeo.com/1126170387'
       preview_image: null
       images:
-        - brand/fotofolies-x-kantelprogramma_live-13.jpg
+        - 'community/foto-18-01-2026,-12-06-56.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1381,5 +1381,5 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765180400
+updated_at: 1769291666
 ---
