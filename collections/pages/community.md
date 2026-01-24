@@ -162,7 +162,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Dit is de community '
+                        text: 'Live samenkomen'
                 show_tag: false
           -
             type: paragraph
@@ -171,7 +171,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Een veilige, warme plek met vrouwen die hetzelfde pad liepen:'
+                text: 'Twee keer per jaar is er een verzorgde live dag. Een wellness-gerichte dag vol inspiratie, ademruimte en verbondenheid. We vullen bij, scherpen aan en gaan weer lichter naar huis.'
           -
             type: bulletList
             content:
@@ -185,7 +185,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Steun, eerlijke feedback en vieren van mijlpalen.'
+                        text: 'Een veilige, warme plek met vrouwen die hetzelfde pad liepen.'
               -
                 type: listItem
                 content:
@@ -196,7 +196,18 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Inspiratie om je kanteling te verdiepen, op jouw tempo.'
+                        text: 'Steun, eerlijke feedback en mijlpalen vieren.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Inspiratie om je kanteling te verdiepen, in jouw tempo.'
               -
                 type: listItem
                 content:
@@ -208,14 +219,6 @@ page_builder:
                       -
                         type: text
                         text: 'En ja: heel veel gezelligheid.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Twee keer per jaar is er een verzorgde live dag. Een welzijn-gerichte dag vol inspiratie, ademruimte en verbondenheid. We vullen bij, scherpen aan en gaan weer lichter naar huis.'
         type: new_set
         enabled: true
     show_settings: false
@@ -234,5 +237,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769257226
+updated_at: 1769257362
 ---
