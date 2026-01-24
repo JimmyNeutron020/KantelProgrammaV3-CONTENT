@@ -81,17 +81,9 @@ page_builder:
             tag_text: Aangenaam!
             tag_alignment: right
       -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Dit is ons verhaal in het kort. Chantal, ervaringsdeskundige en oprichter. Paul, gezondheidsexpert met een topsportblik. Samen bundelen we kennis, praktijk en menselijkheid. Scroll voor onze weg, ervaring en de mijlpalen. Onze missie lees je hieronder.'
-      -
         type: set
         attrs:
-          id: mksg479w
+          id: mksg6ywu
           values:
             type: buttons
             buttons:
@@ -127,6 +119,14 @@ page_builder:
                 link: '#geschiedenis'
                 button_layout: link
                 button_colour: orange
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit is ons verhaal in het kort. Chantal, ervaringsdeskundige en oprichter. Paul, gezondheidsexpert met een topsportblik. Samen bundelen we kennis, praktijk en menselijkheid. Scroll voor onze weg, ervaring en de mijlpalen. Onze missie lees je hieronder.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -693,5 +693,5 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769267452
+updated_at: 1769267512
 ---
