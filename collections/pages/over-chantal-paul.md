@@ -279,7 +279,7 @@ page_builder:
     enabled: true
   -
     id: mj7hb7gk
-    swap_layout: true
+    swap_layout: false
     media:
       video: false
       autoplay_video: false
@@ -374,6 +374,7 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+    color: '#ffffff'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769265461
+updated_at: 1769265505
 ---
