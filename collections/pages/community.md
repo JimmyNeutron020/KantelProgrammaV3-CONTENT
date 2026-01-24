@@ -171,7 +171,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Twee keer per jaar is er een verzorgde live dag. Een wellness-gerichte dag vol inspiratie, ademruimte en verbondenheid. We vullen bij, scherpen aan en gaan weer lichter naar huis.'
+                text: 'Twee keer per jaar is er een verzorgde live dag. Een welzijn-gerichte dag vol inspiratie, ademruimte en verbondenheid. We vullen bij, scherpen aan en gaan weer lichter naar huis.'
           -
             type: bulletList
             content:
@@ -218,7 +218,16 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'En ja: heel veel gezelligheid.'
+                        text: 'En ja: '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'heel veel gezelligheid'
+                      -
+                        type: text
+                        text: .
         type: new_set
         enabled: true
     show_settings: false
@@ -237,5 +246,5 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769257511
+updated_at: 1769257580
 ---
