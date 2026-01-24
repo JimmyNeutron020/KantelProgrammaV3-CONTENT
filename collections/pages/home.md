@@ -42,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij willen hier verandering in brengen en laten zien dat herstel wél echt mogelijk is. '
+            text: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is. '
       -
         type: set
         attrs:
@@ -1298,5 +1298,5 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769254806
+updated_at: 1769263157
 ---
