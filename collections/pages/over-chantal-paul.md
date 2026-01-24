@@ -94,11 +94,10 @@ page_builder:
           preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
-            - 'brand/foto-18-01-2026,-11-40-15.jpg'
-            - 'brand/foto-18-01-2026,-12-26-58.jpg'
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
-            - brand/fotofolies-x-kantelprogramma_live-131.jpg
-            - 'brand/foto-18-01-2026,-12-37-57.jpg'
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+            - brand/img_2454.jpg
+            - brand/img_2731.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -633,5 +632,5 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769266901
+updated_at: 1769267033
 ---
