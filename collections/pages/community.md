@@ -253,7 +253,7 @@ page_builder:
       video_link: null
       preview_image: null
       images:
-        - 'community/foto-18-01-2026,-15-22-41.jpg'
+        - community/community-group.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -312,5 +312,5 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769257768
+updated_at: 1769257985
 ---
