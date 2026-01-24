@@ -1,7 +1,7 @@
 ---
 id: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 blueprint: page
-title: E-book
+title: 'Kantel Quickstart'
 page_builder:
   -
     id: miiyjz79
@@ -87,7 +87,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'De 6 sleutels. Van overleven naar leven. '
+                    text: 'De 6 sleutels. Van overleven naar stralend leven. '
             show_tag: true
             tag_text: 'Gratis E-book'
             tag_alignment: right
@@ -98,27 +98,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Ben jij er klaar mee om dag in, dag uit te leven op halve kracht? Wil je ontdekken hoe je fit, energiek en pijnvrij kunt leven op een manier die écht bij jou past? Dan hebben we iets moois voor je.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Ontvang direct praktische inzichten, bewezen tips en krachtige handvatten.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Niet zweverig, maar wél transformerend.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            text: 'Chronische pijn is niet “normaal”. Jouw pijn is echt. Wat vaak ontbreekt: erkenning, één taal en een concreet stappenplan. Deze quickstart geeft je taal, richting en 6 sleutels om vandaag nog aan de juiste knoppen te draaien. Geen loze beloftes. Wel overzicht en houvast.'
       -
         type: set
         attrs:
@@ -489,6 +469,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769288854
+updated_at: 1769290097
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 ---
