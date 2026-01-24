@@ -696,6 +696,196 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
     anchor_id: geschiedenis
+  -
+    id: mksh6mhk
+    color: '#f7e7de'
+    content:
+      -
+        type: set
+        attrs:
+          id: mksh6txn
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Het Kantelprogramma'
+            show_tag: true
+            tag_text: 'Niet voor doetjes!'
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Krijg toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
+    items:
+      -
+        id: mksh80zt
+        icon: 'fa-regular fa-trophy'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Unieke methode'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een topsportbenadering met begeleiding op alle fronten.'
+        type: new_set
+        enabled: true
+      -
+        id: mksh835d
+        icon: 'fa-regular fa-heart'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Vertrouwen terug'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je leert weer vertrouwen op een lichaam dat met je meewerkt.'
+        type: new_set
+        enabled: true
+      -
+        id: mksh84cx
+        icon: 'fa-regular fa-arrow-rotate-right'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '24/7 in jouw leven'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Herstel als 24/7 leefwijze: elke keuze in je dag telt.'
+        type: new_set
+        enabled: true
+      -
+        id: mksh85sr
+        icon: 'fa-regular fa-person-rays'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Body & Mind'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Body en Mind leren weer als één team samenwerken voor herstel.'
+        type: new_set
+        enabled: true
+    show_callout: true
+    callout:
+      content:
+        -
+          type: set
+          attrs:
+            id: mksh9qde
+            values:
+              type: heading
+              heading_size: XS
+              heading:
+                -
+                  type: heading
+                  attrs:
+                    level: 3
+                  content:
+                    -
+                      type: text
+                      text: 'Waarom werkt dit wel?'
+              show_tag: false
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Het werkt omdat we met een unieke kijk op herstel je hele systeem kantelen: body & mind, zenuwstelsel en dagelijks leven, zodat je lichaam écht de kans krijgt om te herstellen.'
+        -
+          type: set
+          attrs:
+            id: mksha8wp
+            values:
+              type: buttons
+              buttons:
+                -
+                  id: VFXF9o5g
+                  label: 'Start nu'
+                  link_type: link
+                  target_blank: false
+                  link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                  button_layout: solid
+                  button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: UspSection
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769268275
+updated_at: 1769269363
 ---
