@@ -421,6 +421,10 @@ page_builder:
         type: paragraph
         attrs:
           class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
             type: text
@@ -629,5 +633,5 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769266835
+updated_at: 1769266901
 ---
