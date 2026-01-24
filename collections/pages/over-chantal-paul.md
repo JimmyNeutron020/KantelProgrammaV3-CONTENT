@@ -50,12 +50,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet.'
+            text: 'Maak kennis met Chantal en Paul, onze weg en de mijlpalen.'
     type: HeroSection
     enabled: true
   -
@@ -693,5 +688,5 @@ page_builder:
     enabled: true
     color: '#f5f5f7'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769267550
+updated_at: 1769267788
 ---
