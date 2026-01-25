@@ -1,6 +1,8 @@
 title: General
 data:
   title_separator: '|'
-  site_json_ld_type: none
+  site_json_ld_type: organization
   use_breadcrumbs: true
   site_name: 'Kantel Programma'
+  organization_name: 'Kantel Programma'
+  organization_logo: brand/logo_kantelprogramma-(1).png
