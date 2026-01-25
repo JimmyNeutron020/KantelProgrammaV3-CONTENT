@@ -220,7 +220,32 @@ page_builder:
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: Gezondheidsexpert
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
                 text: 'Paul heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Al in 2009 zette hij met veel passie een eigen paramedisch instituut op (met NOC-NSF-status), samen met fysiotherapeuten en een bewegingswetenschapper. Binnen no-time bouwde hij, samen met zijn compagnon, een succesvol bedrijf op.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als fitness-expert, atletiek- en medisch personal trainer met specialisaties zoals obesitas, diabetes, orthopedische en hartrevalidatie. Hij blijft leergierig.'
           -
             type: paragraph
             attrs:
@@ -553,7 +578,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769351532
+updated_at: 1769351698
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
