@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/img_2643.jpg
       show_swiper_controls: false
@@ -68,7 +66,7 @@ page_builder:
                 label: 'Plan afspraak'
                 link_type: link
                 target_blank: false
-                link: '#plan-afspraak'
+                link: '#aanmeldformulier'
                 button_layout: solid
                 button_colour: white
               -
@@ -76,7 +74,7 @@ page_builder:
                 label: 'Over Paul'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: '#paul'
                 button_layout: standard
                 button_colour: white
     type: HeroSection
@@ -189,8 +187,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
           show_swiper_controls: false
@@ -273,6 +269,7 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+    anchor_id: paul
   -
     id: mka3bweo
     content:
@@ -323,8 +320,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
       show_swiper_controls: false
@@ -428,8 +423,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/231128-paul-en-chantal-_77834-(1).jpg
       show_swiper_controls: false
@@ -560,6 +553,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769292242
+updated_at: 1769351481
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
+use_white_header: false
 ---
