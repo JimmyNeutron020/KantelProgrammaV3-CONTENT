@@ -2,7 +2,7 @@
 id: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 published: false
 blueprint: page
-title: 'Bedankt Kantel Quickstart (Duplicated)'
+title: 'Bedankt Eten dat Heelt'
 page_builder:
   -
     id: mjspfhci
@@ -99,7 +99,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354238
+updated_at: 1769354294
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
