@@ -2,7 +2,7 @@
 id: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 published: false
 blueprint: page
-title: 'Bedankt (Duplicated)'
+title: 'Bedankt Kantel Kompas'
 page_builder:
   -
     id: mjspfhci
@@ -99,7 +99,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354073
+updated_at: 1769354128
 duplicated_from: 78ef22f5-be55-47cf-9d14-17a61cd06e01
 use_white_header: false
 ---
