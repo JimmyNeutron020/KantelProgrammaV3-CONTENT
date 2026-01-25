@@ -113,7 +113,7 @@ page_builder:
         label: 'Start nu'
         link_type: link
         target_blank: false
-        link: '#'
+        link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint-basis'
         button_layout: standard
         button_colour: orange
         type: package
@@ -146,7 +146,7 @@ page_builder:
         label: 'Start nu'
         link_type: link
         target_blank: false
-        link: '#'
+        link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
         button_layout: standard
         button_colour: orange
         type: package
@@ -179,7 +179,7 @@ page_builder:
         label: 'Start nu'
         link_type: link
         target_blank: false
-        link: '#'
+        link: 'https://kantelprogramma.membirds.com/checkout/kantel-programma-shine-sprint-connect'
         button_layout: standard
         button_colour: orange
         type: package
@@ -1372,6 +1372,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769349842
+updated_at: 1769350240
 use_white_header: false
 ---
