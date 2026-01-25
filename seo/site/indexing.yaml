@@ -2,3 +2,11 @@ title: Indexing
 data:
   noindex: false
   nofollow: false
+  excluded_collections:
+    - coaches
+    - faq
+    - partners
+  excluded_taxonomies:
+    - category_group
+    - klachten
+    - faq_category
