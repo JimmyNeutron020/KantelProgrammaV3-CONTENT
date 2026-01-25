@@ -1,7 +1,7 @@
 ---
 id: a932636a-55fe-4d95-8489-dbbc91f1cf66
 blueprint: page
-title: 'Shine Sprint'
+title: 'Start nu'
 page_builder:
   -
     id: mhkyu2dz
@@ -11,7 +11,6 @@ page_builder:
       video: false
       autoplay_video: true
       video_link: 'https://vimeo.com/1126170387'
-      preview_image: null
       images:
         - 'community/foto-18-01-2026,-12-06-56.jpg'
       show_swiper_controls: false
@@ -41,7 +40,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Shine Sprint'
+                    text: 'Kantel Programma'
             show_tag: false
       -
         type: paragraph
@@ -55,7 +54,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'In de Shine Sprint kantel je je leven met alle kennis en ervaring van Chantal en Paul, zodat je weer op je eigen lichaam kunt vertrouwen.'
+            text: 'In het Kantel Programma kantel je je leven met alle kennis en ervaring van Chantal en Paul, zodat je weer op je eigen lichaam kunt vertrouwen.'
       -
         type: set
         attrs:
@@ -414,8 +413,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma_live-131.jpg
           show_swiper_controls: false
@@ -534,8 +531,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
       show_swiper_controls: false
@@ -865,8 +860,6 @@ page_builder:
       autoplay_video: true
       video_link: 'https://vimeo.com/996074037'
       preview_image: screenshot-2025-11-24-at-08.51.40.png
-      images: {  }
-      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
       play_pause_control: false
@@ -1044,8 +1037,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/231128-paul-en-chantal-_77834-(1).jpg
       show_swiper_controls: false
@@ -1381,5 +1372,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769291666
+updated_at: 1769349646
+use_white_header: false
 ---
