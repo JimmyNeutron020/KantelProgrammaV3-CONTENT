@@ -73,7 +73,9 @@ page_builder:
                   -
                     type: text
                     text: 'Je gaat starten met Eten dan Heelt. Een ontzettend goede keuze!'
-            show_tag: false
+            show_tag: true
+            tag_text: 'En lekker!'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -98,7 +100,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769360876
+updated_at: 1769360917
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
