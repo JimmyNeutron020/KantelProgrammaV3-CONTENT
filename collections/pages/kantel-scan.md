@@ -249,7 +249,7 @@ page_builder:
                     label: 'Plan afspraak'
                     link_type: link
                     target_blank: false
-                    link: '#plan-afspraak'
+                    link: '#aanmeldformulier'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -553,7 +553,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769351481
+updated_at: 1769351532
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
