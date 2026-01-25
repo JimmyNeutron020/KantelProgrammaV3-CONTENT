@@ -14,7 +14,6 @@ page_builder:
       preview_image: brand/screenshot-2025-12-12-at-17.46.00.png
       images:
         - brand/fotofolies-x-kantelprogramma_live-77.jpg
-      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
       play_pause_control: false
@@ -55,7 +54,7 @@ page_builder:
                 label: 'Luister op Spotify'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'https://open.spotify.com/show/1i2dJaPj5HWg4ep7L2CWnb'
                 button_layout: solid
                 button_colour: white
     type: HeroSection
@@ -197,7 +196,7 @@ page_builder:
                 label: 'Luister nu!'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'https://open.spotify.com/show/1i2dJaPj5HWg4ep7L2CWnb'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -228,7 +227,6 @@ page_builder:
           preview_image: media/rosa-scholtens.jpg
           images:
             - media/rosa-scholtens.jpg
-          show_swiper_controls: null
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -272,7 +270,7 @@ page_builder:
                     label: 'Naar Spotify'
                     link_type: link
                     target_blank: false
-                    link: '#'
+                    link: 'https://open.spotify.com/show/1i2dJaPj5HWg4ep7L2CWnb'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -293,6 +291,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765786625
+updated_at: 1769352069
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
+use_white_header: false
 ---
