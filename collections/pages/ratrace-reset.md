@@ -48,15 +48,12 @@ page_builder:
         content:
           -
             type: text
-            text: 'Blijf je maar doorgaan terwijl je lijf protesteert met bekkenpijn, vermoeidheid of overprikkeling?'
-          -
-            type: text
             marks:
               -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: .
+            text: 'Blijf je maar doorgaan terwijl je lijf protesteert met bekkenpijn, vermoeidheid of overprikkeling?.'
       -
         type: set
         attrs:
@@ -87,7 +84,7 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: 'Zoomsessie op afspraak'
+                text: Masterclass
       -
         type: set
         attrs:
@@ -198,7 +195,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769359420
+updated_at: 1769359481
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
