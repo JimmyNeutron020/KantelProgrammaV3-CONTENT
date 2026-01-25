@@ -173,7 +173,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Het complete Kantel Programma mét exclusieve begeleiding. Alles uit Shine Sprint Compleet, plus extra support in live zoomsessies, een gezamenlijke aftrap, een 1-op-1 Kantel Connect sessie met Paul en verlengde persoonlijke support via de Kantel-Kroniek.'
+                text: 'Het complete Kantel Programma mét exclusieve begeleiding. Alles uit Kantel Programma Compleet, plus extra support in live zoomsessies, een gezamenlijke aftrap, een 1-op-1 Kantel Connect sessie met Paul en verlengde persoonlijke support via de Kantel-Kroniek.'
         price: '€ 4.999'
         show_discount: false
         label: 'Start nu'
@@ -379,7 +379,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel, terwijl je voelt dat er méér mogelijk is dan alleen leren omgaan met je klachten. De Shine Sprint is voor vrouwen die al maanden, vaak jaren, bekkenklachten hebben en nu eindelijk iets willen dat wél werkt, die klaar zijn om de regie over hun body & mind terug te nemen en weer op hun lichaam te vertrouwen. Met heldere modules, concrete opdrachten en warme begeleiding van Chantal, Paul en onze Kantel Coaches leer je precies wat jouw lichaam nodig heeft om te herstellen. Dankzij onze topsportbenadering en de manier waarop we herstel 24/7 integreren in jouw dagelijks leven, thuis én in alle rollen die je hebt.'
+            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel, terwijl je voelt dat er méér mogelijk is dan alleen leren omgaan met je klachten. Het Kantel Programma is voor vrouwen die al maanden, vaak jaren, bekkenklachten hebben en nu eindelijk iets willen dat wél werkt, die klaar zijn om de regie over hun body & mind terug te nemen en weer op hun lichaam te vertrouwen. Met heldere modules, concrete opdrachten en warme begeleiding van Chantal, Paul en onze Kantel Coaches leer je precies wat jouw lichaam nodig heeft om te herstellen. Dankzij onze topsportbenadering en de manier waarop we herstel 24/7 integreren in jouw dagelijks leven, thuis én in alle rollen die je hebt.'
       -
         type: set
         attrs:
@@ -470,7 +470,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. De Shine Sprint is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
+                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
           -
             type: paragraph
             attrs:
@@ -574,7 +574,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wat we voor topsporters heel normaal vinden, doet men bij vrouwen met (bekken)klachten vaak niet. Daar willen wij mee breken. In de Shine Sprint kijken we naar jouw herstel met een topsportbenadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een aanpak die jouw hele systeem kantelt: body & mind, zenuwstelsel en jouw 24/7 leefwijze.'
+            text: 'Wat we voor topsporters heel normaal vinden, doet men bij vrouwen met (bekken)klachten vaak niet. Daar willen wij mee breken. In het Kantel Programma kijken we naar jouw herstel met een topsportbenadering: serieus, doordacht en volledig afgestemd op jou. Niet één losse interventie, maar een aanpak die jouw hele systeem kantelt: body & mind, zenuwstelsel en jouw 24/7 leefwijze.'
       -
         type: paragraph
         attrs:
@@ -675,7 +675,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'De Shine Sprint is voor jou als je:'
+                    text: 'Het Kantel Programma is voor jou als je:'
             show_tag: false
       -
         type: bulletList
@@ -968,7 +968,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'In de Kantel Community ontmoet je gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en en bewust kiezen voor een stralend leven. Een plek om te verbinden, verdiepen en elkaar te inspireren.'
+            text: 'In de Kantel Community ontmoet je gelijkgestemde vrouwen die het Kantel Programma hebben doorlopen en en bewust kiezen voor een stralend leven. Een plek om te verbinden, verdiepen en elkaar te inspireren.'
       -
         type: set
         attrs:
@@ -1070,7 +1070,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Twijfel je nog of dit programma past bij jouw situatie, of wil je eerst iets met ons delen? Alles wat je wilt weten over ons, de Shine Sprint of het Kantel Programma mag je aan ons vragen.'
+            text: 'Twijfel je nog of dit programma past bij jouw situatie, of wil je eerst iets met ons delen? Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
       -
         type: paragraph
         attrs:
@@ -1372,6 +1372,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769349646
+updated_at: 1769349842
 use_white_header: false
 ---
