@@ -1,4 +1,4 @@
 title: Indexing
 data:
-  noindex: true
+  noindex: false
   nofollow: false
