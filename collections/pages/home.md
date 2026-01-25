@@ -121,8 +121,8 @@ page_builder:
                 label: 'Onze missie'
                 link_type: link
                 target_blank: false
-                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
-                button_layout: standard
+                link: '/over-chantal-paul#onze-missie'
+                button_layout: link
                 button_colour: orange
     type: IntoSection
     enabled: true
@@ -211,7 +211,7 @@ page_builder:
                     label: 'Meer over Chantal'
                     link_type: link
                     target_blank: false
-                    link: '#'
+                    link: '/over-chantal-paul#chantal'
                     button_layout: standard
                     button_colour: orange
         type: new_set
@@ -284,7 +284,7 @@ page_builder:
                     label: 'Meer over Paul'
                     link_type: link
                     target_blank: false
-                    link: '#'
+                    link: '/over-chantal-paul#paul'
                     button_layout: standard
                     button_colour: orange
         type: new_set
@@ -1299,6 +1299,6 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769350527
+updated_at: 1769350622
 use_white_header: false
 ---
