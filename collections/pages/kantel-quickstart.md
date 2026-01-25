@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
       show_swiper_controls: false
@@ -68,7 +66,7 @@ page_builder:
                 label: Download
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'https://kantelprogramma.membirds.com/checkout/6-sleutels-naar-fit-energiek-en-pijnvrij'
                 button_layout: solid
                 button_colour: white
               -
@@ -134,7 +132,7 @@ page_builder:
                 label: Download
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'https://kantelprogramma.membirds.com/checkout/6-sleutels-naar-fit-energiek-en-pijnvrij'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -162,8 +160,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - 'brand/foto-18-01-2026,-11-40-15.jpg'
           show_swiper_controls: false
@@ -260,7 +256,7 @@ page_builder:
                     label: Download
                     link_type: link
                     target_blank: false
-                    link: '#'
+                    link: 'https://kantelprogramma.membirds.com/checkout/6-sleutels-naar-fit-energiek-en-pijnvrij'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -285,8 +281,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-57.jpg
       show_swiper_controls: false
@@ -392,8 +386,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
       show_swiper_controls: false
@@ -516,6 +508,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769291011
+updated_at: 1769351909
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
+use_white_header: false
 ---
