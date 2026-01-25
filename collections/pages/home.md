@@ -322,37 +322,37 @@ page_builder:
       -
         id: miken3hj
         logo_image: media/download-(1).png
-        logo_link: '#'
+        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
         type: logo
         enabled: true
       -
         id: mikenzfs
         logo_image: media/flair-logo.svg
-        logo_link: '#'
+        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
         type: logo
         enabled: true
       -
         id: mikeo52h
         logo_image: media/screenshot-2025-11-23-at-14.45.09.png
-        logo_link: '#'
+        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
         type: logo
         enabled: true
       -
         id: mikeofyg
         logo_image: media/rtl4_2023.svg.png
-        logo_link: '#'
+        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
         type: logo
         enabled: true
       -
         id: mikeotwa
         logo_image: media/metro-logo-zwart.svg
-        logo_link: '#'
+        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
         type: logo
         enabled: true
       -
         id: mikep1tx
         logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        logo_link: '#'
+        logo_link: 'https://www.oervrouwmagazine.nl/'
         type: logo
         enabled: true
     show_settings: true
@@ -1299,6 +1299,6 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769350622
+updated_at: 1769350918
 use_white_header: false
 ---
