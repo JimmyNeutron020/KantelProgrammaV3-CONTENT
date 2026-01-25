@@ -234,12 +234,20 @@ data:
     -
       id: mhj4f9jf
       icon: 'fa-brands fa-instagram'
-      link: '#'
+      link: 'https://www.instagram.com/kantelprogramma/'
     -
       id: mhj4feq0
       icon: 'fa-brands fa-facebook'
-      link: '#'
+      link: 'https://www.facebook.com/ACasaNostraPaulChantal/'
+    -
+      id: mktw79cl
+      icon: 'fa-brands fa-linkedin'
+      link: 'https://www.linkedin.com/in/chantal-theunissen-a53b32a/'
     -
       id: mhj4focg
       icon: 'fa-regular fa-envelope'
-      link: '#'
+      link: 'mailto:contact@kantelprogramma.nl'
+    -
+      id: mktw732k
+      icon: 'fa-brands fa-whatsapp'
+      link: 'https://wa.me/31630316805'
