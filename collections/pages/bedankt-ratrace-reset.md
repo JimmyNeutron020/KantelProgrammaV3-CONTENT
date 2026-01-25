@@ -55,7 +55,7 @@ page_builder:
             flex_icons:
               -
                 id: mjspjnbb
-                fa_icon: 'fa-regular fa-party-horn'
+                fa_icon: 'fa-regular fa-arrow-rotate-right'
                 text: "Let's go!"
       -
         type: set
@@ -72,16 +72,10 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je aanmelding is gelukt!'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "Wil je in aanloop naar het webinar al meer geïnspireerd worden? Dat kan en deze mini programma's wil je niet missen👇🏻"
+                    text: 'Je gaat starten met jouw Ratrace Reset. Een ontzettend goede keuze!'
+            show_tag: true
+            tag_text: Super!
+            tag_alignment: right
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -98,7 +92,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354356
+updated_at: 1769361114
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
