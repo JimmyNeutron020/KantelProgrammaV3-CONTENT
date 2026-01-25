@@ -71,8 +71,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/img_2454.jpg
       show_swiper_controls: false
@@ -111,6 +109,21 @@ page_builder:
           -
             type: text
             text: 'Wij ontwikkelden het Kantel Programma. Onze vernieuwde aanpak voor herstel bij chronische bekkenklachten ontstond in ons lifestyle hotel, waar vrouwen met bekkenklachten tijdelijk bij ons verbleven om 24/7 aan hun herstel te werken. Vanuit onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen, hebben we alles wat daar werkte vertaald naar een volledig online programma.'
+      -
+        type: set
+        attrs:
+          id: mkttlpl3
+          values:
+            type: buttons
+            buttons:
+              -
+                id: KF0qLOvP
+                label: 'Onze missie'
+                link_type: link
+                target_blank: false
+                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
+                button_layout: standard
+                button_colour: orange
     type: IntoSection
     enabled: true
     show_settings: true
@@ -136,8 +149,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
           show_swiper_controls: false
@@ -211,8 +222,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
           show_swiper_controls: false
@@ -368,8 +377,6 @@ page_builder:
       autoplay_video: true
       video_link: 'https://vimeo.com/996074037'
       preview_image: screenshot-2025-11-24-at-08.51.40.png
-      images: {  }
-      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
       play_pause_control: false
@@ -651,8 +658,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/231128-paul-en-chantal-_77834-(1).jpg
       show_swiper_controls: false
@@ -1039,8 +1044,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - community/fotofolies-x-kantelprogramma_live-95.jpg
       show_swiper_controls: false
@@ -1088,7 +1091,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Maak kennis met de Kantel Community: een groep gelijkgestemde vrouwen die de Shine Sprint hebben doorlopen en bewust kiezen voor een stralend leven. Een plek om te verdiepen en elkaar te blijven inspireren.'
+            text: 'Maak kennis met de Kantel Community: een groep gelijkgestemde vrouwen die het Kantel Programma hebben doorlopen en bewust kiezen voor een stralend leven. Een plek om te verdiepen en elkaar te blijven inspireren.'
       -
         type: set
         attrs:
@@ -1171,8 +1174,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
       show_swiper_controls: false
@@ -1298,5 +1299,6 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769269910
+updated_at: 1769350527
+use_white_header: false
 ---
