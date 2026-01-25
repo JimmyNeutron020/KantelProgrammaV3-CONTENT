@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-grey
-                    text: Bedankt!
+                    text: 'Wat super!'
             show_tag: false
     type: HeroSection
     enabled: true
@@ -82,6 +82,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: btsSpan
                 attrs:
@@ -183,7 +185,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769360286
+updated_at: 1769360351
 duplicated_from: f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
 use_white_header: false
 ---
