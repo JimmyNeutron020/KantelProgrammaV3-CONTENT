@@ -55,8 +55,8 @@ page_builder:
             flex_icons:
               -
                 id: mjspjnbb
-                fa_icon: 'fa-regular fa-party-horn'
-                text: "Let's go!"
+                fa_icon: 'fa-regular fa-pot-food'
+                text: 'Goed eten!'
       -
         type: set
         attrs:
@@ -72,7 +72,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je aanmelding is gelukt!'
+                    text: 'Je gaat starten met Eten dan Heelt. Een ontzettend goede keuze!'
             show_tag: false
       -
         type: paragraph
@@ -81,7 +81,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Wil je in aanloop naar het webinar al meer geïnspireerd worden? Dat kan en deze mini programma's wil je niet missen👇🏻"
+            text: 'Binnen 24 uur heb je de inloggegevens van onze voedingsbibliotheek in je e-mail (controleer ook je spambox).'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -98,7 +98,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354304
+updated_at: 1769360876
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
