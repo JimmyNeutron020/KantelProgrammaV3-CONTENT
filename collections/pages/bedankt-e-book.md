@@ -1,8 +1,7 @@
 ---
 id: d0a15dd0-6027-47e2-b2da-619fd7b251cc
-published: false
 blueprint: page
-title: 'Bedankt Kantel Kompas (Duplicated)'
+title: 'Bedankt Kantel Quickstart'
 page_builder:
   -
     id: mjspfhci
@@ -99,7 +98,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354170
+updated_at: 1769354208
 duplicated_from: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 use_white_header: false
 ---
