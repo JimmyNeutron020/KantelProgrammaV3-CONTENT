@@ -1,7 +1,7 @@
 ---
 id: e5b50ba8-0197-4833-9acf-504ef247e1db
 blueprint: page
-title: Community
+title: 'Kantel Community'
 page_builder:
   -
     id: miz0c0zp
@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma_live-126.jpg
       show_swiper_controls: false
@@ -137,8 +135,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - 'community/foto-18-01-2026,-12-10-39.jpg'
           show_swiper_controls: false
@@ -251,8 +247,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - community/community-group.jpg
       show_swiper_controls: false
@@ -321,8 +315,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - 'community/foto-18-01-2026,-12-06-56.jpg'
       show_swiper_controls: false
@@ -636,5 +628,6 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769260141
+updated_at: 1769353655
+use_white_header: false
 ---
