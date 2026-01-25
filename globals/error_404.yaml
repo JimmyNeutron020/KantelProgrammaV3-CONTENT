@@ -1,1 +1,31 @@
 title: 'Error 404'
+data:
+  color: '#eb8d7a'
+  image: brand/231128-paul-en-chantal-_77858.jpg
+  heading_size: M
+  heading:
+    -
+      type: paragraph
+      attrs:
+        class: null
+      content:
+        -
+          type: text
+          text: 'Oops! Pagina niet gevonden...'
+  show_tag: false
+  content:
+    -
+      type: paragraph
+      attrs:
+        class: null
+      content:
+        -
+          type: text
+          text: 'De pagina die je zoekt bestaat niet of is verplaatst. Gebruik de onderstaande links om verder te navigeren.'
+  buttons:
+    -
+      id: cnWDCVQW
+      link_type: link
+      target_blank: false
+      button_layout: standard
+      button_colour: orange
