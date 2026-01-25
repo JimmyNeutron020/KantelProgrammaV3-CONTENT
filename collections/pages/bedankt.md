@@ -1,8 +1,7 @@
 ---
 id: 78ef22f5-be55-47cf-9d14-17a61cd06e01
-published: false
 blueprint: page
-title: 'Bedankt Webinar (Duplicated)'
+title: Bedankt
 page_builder:
   -
     id: mjspfhci
@@ -11,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-112.jpg
       show_swiper_controls: false
@@ -101,6 +98,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354015
+updated_at: 1769354050
 duplicated_from: f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
+use_white_header: false
 ---
