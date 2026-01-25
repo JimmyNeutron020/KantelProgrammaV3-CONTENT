@@ -1104,7 +1104,7 @@ page_builder:
                 label: 'Ontdek meer'
                 link_type: link
                 target_blank: false
-                link: '#'
+                link: 'entry::e5b50ba8-0197-4833-9acf-504ef247e1db'
                 button_layout: solid
                 button_colour: white
     show_settings: true
@@ -1299,6 +1299,6 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769350918
+updated_at: 1769351040
 use_white_header: false
 ---
