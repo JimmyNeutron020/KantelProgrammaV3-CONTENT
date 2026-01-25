@@ -1,8 +1,7 @@
 ---
 id: d234ac9f-17f1-4ade-a133-11e3ea87c414
-published: false
 blueprint: page
-title: 'Bedankt Eten dat Heelt (Duplicated)'
+title: 'Bedankt Ratrace Reset'
 page_builder:
   -
     id: mjspfhci
@@ -99,7 +98,7 @@ page_builder:
     type: IntoSection
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354329
+updated_at: 1769354356
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
