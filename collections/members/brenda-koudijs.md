@@ -3,8 +3,8 @@ id: 72ccdf95-4d0a-4134-a8a0-01e21850d596
 blueprint: member
 title: 'Brenda Koudijs'
 avatar: members/brendalacht.jpeg
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764841390
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1769346052
 page_builder:
   -
     id: min6ebnc
@@ -316,4 +316,6 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+use_white_header: false
+is_public: true
 ---
