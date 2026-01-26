@@ -10,10 +10,8 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-57.jpg
+        - brand/img_2454.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -169,8 +167,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma_live-112.jpg
           show_swiper_controls: false
@@ -317,8 +313,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma_live-77.jpg
           show_swiper_controls: false
@@ -519,8 +513,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
       show_swiper_controls: false
@@ -669,8 +661,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/231128-paul-en-chantal-_77834-(1).jpg
       show_swiper_controls: false
@@ -810,5 +800,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1765998521
+updated_at: 1769412581
+use_white_header: false
 ---
