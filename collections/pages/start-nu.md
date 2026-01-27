@@ -152,39 +152,6 @@ page_builder:
         type: package
         enabled: true
         highlight: true
-      -
-        id: mhgi1nf0
-        heading_size: S
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: Connect
-        show_tag: false
-        description:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het complete Kantel Programma mét exclusieve begeleiding. Alles uit Kantel Programma Compleet, plus extra support in live zoomsessies, een gezamenlijke aftrap, een 1-op-1 Kantel Connect sessie met Paul en verlengde persoonlijke support via de Kantel-Kroniek.'
-        price: '€ 4.999'
-        show_discount: false
-        label: 'Start nu'
-        link_type: link
-        target_blank: false
-        link: 'https://kantelprogramma.membirds.com/checkout/kantel-programma-shine-sprint-connect'
-        button_layout: standard
-        button_colour: orange
-        type: package
-        enabled: true
-        highlight: false
     features:
       -
         id: mhghyhct
@@ -312,39 +279,6 @@ page_builder:
         package_2_type: check
         package_3_type: check
         package_1_text: 'Tot 13 weken'
-      -
-        id: mhkz15c4
-        feature_name: 'Extra support in live Zoomsessies'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: cross
-        package_3_type: check
-      -
-        id: mhkz14ni
-        feature_name: 'Kantel Connect 1-op-1 Zoomsessie met Paul'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: cross
-        package_3_type: check
-      -
-        id: mhkz13zt
-        feature_name: 'Verlenging ‘Kantel Kroniek’ met persoonlijke support (week 14 t/m 26)'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: cross
-        package_2_type: cross
-        package_3_type: check
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1372,6 +1306,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769350240
+updated_at: 1769524418
 use_white_header: false
 ---
