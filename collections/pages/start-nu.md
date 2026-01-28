@@ -119,6 +119,7 @@ page_builder:
         type: package
         enabled: true
         highlight: false
+        umami_event_name: start-nu-checkout-basis
       -
         id: mhgi1ohv
         heading_size: S
@@ -152,6 +153,7 @@ page_builder:
         type: package
         enabled: true
         highlight: true
+        umami_event_name: start-nu-checkout-compleet
     features:
       -
         id: mhghyhct
@@ -1306,6 +1308,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769524418
+updated_at: 1769624527
 use_white_header: false
 ---
