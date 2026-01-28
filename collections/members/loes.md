@@ -29,18 +29,6 @@ page_builder:
             show_tag: false
     type: HeroSection
     enabled: true
-    media:
-      video: null
-      autoplay_video: null
-      video_link: null
-      preview_image: null
-      images: {  }
-      show_swiper_controls: null
-      autoplay: null
-      swiper_bullets: null
-      play_pause_control: null
-      sound_control: null
-      fullscreen_control: null
   -
     id: mix651ys
     items:
@@ -52,8 +40,6 @@ page_builder:
           autoplay_video: true
           video_link: 'https://vimeo.com/1136031646?share=copy&fl=sv&fe=ci'
           preview_image: schermafbeelding-2025-10-31-om-11.49.24.png
-          images: {  }
-          show_swiper_controls: null
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -93,5 +79,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1765199499
+updated_at: 1769597646
+use_white_header: false
+is_public: false
 ---
