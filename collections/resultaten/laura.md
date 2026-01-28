@@ -9,8 +9,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/1153715486?share=copy&fl=sv&fe=ci'
   preview_image: schermafbeelding-2026-01-14-om-18.47.31.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -20,5 +18,5 @@ klachten:
   - benen
   - knie
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1768413128
+updated_at: 1769596043
 ---
