@@ -5,7 +5,7 @@ title: 'Wat als het bij mij niet lukt?'
 faq_category:
   - resultaat
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769877116
+updated_at: 1769881952
 content:
   -
     type: paragraph
@@ -15,6 +15,11 @@ content:
       -
         type: text
         text: 'Die vraag is heel begrijpelijk.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Niet omdat je geen vertrouwen hebt, maar omdat je lichaam je al vaker in de steek leek te laten. En omdat je misschien al hebt ervaren hoe pijnlijk het is om hoop te voelen en daarna weer terug te vallen.'
   -
     type: paragraph
     attrs:
@@ -22,7 +27,21 @@ content:
     content:
       -
         type: text
-        text: 'Niet omdat je geen vertrouwen hebt, maar omdat je lichaam je al vaker in de steek leek te laten. En omdat je waarschijnlijk al hebt ervaren hoe pijnlijk het is om hoop te voelen en daarna weer terug te vallen.'
+        text: 'Het Kantel Programma is daarom niet gebouwd op wilskracht, discipline of perfect meedoen.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Resultaat hangt hier niet af van hoe foutloos jij het doet, maar van hoe goed het proces wordt '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: gedragen
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -30,7 +49,12 @@ content:
     content:
       -
         type: text
-        text: 'Het Kantel Programma is zo opgebouwd dat resultaat niet afhankelijk is van wilskracht of perfect meedoen. Je werkt stap voor stap aan herstel van body en mind, binnen wat jouw lichaam op dat moment aankan. '
+        text: 'Je werkt stap voor stap aan herstel van body en mind, binnen wat jouw lichaam op dat moment aankan.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Niet alleen via modules, video’s en masterclasses, maar vooral door begeleiding die meebeweegt met jouw proces. Je volgt het programma online, maar je staat er niet alleen voor.'
   -
     type: paragraph
     attrs:
@@ -38,7 +62,7 @@ content:
     content:
       -
         type: text
-        text: 'Niet alleen via de modules, video’s en masterclasses, maar ook door begeleiding die meebeweegt met jouw proces. Je volgt het programma online, maar je staat er niet alleen voor. Twijfel, angst of terugschieten horen erbij en juist dáár is begeleiding.'
+        text: 'Twijfel, angst en terugschieten horen erbij. Dat zien we niet als falen, maar als onderdeel van herstel. Juist dáár is begeleiding: we normaliseren wat spannend is, beantwoorden vragen en kijken samen naar wat jouw systeem nodig heeft om weer veiligheid en vertrouwen op te bouwen.'
   -
     type: paragraph
     attrs:
@@ -46,7 +70,21 @@ content:
     content:
       -
         type: text
-        text: 'We normaliseren wat spannend is, beantwoorden vragen en kijken samen naar wat jouw systeem nodig heeft om weer vertrouwen op te bouwen. Vanaf de start maken we jouw persoonlijke richting helder. Niet om je vast te zetten op een eindpunt, maar om houvast te geven wanneer het wiebelt.'
+        text: 'Het programma is zo ontworpen dat het je blijft dragen ook wanneer jij zelf nog twijfelt of het gaat lukken.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We vragen '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'wél commitment, maar geen perfectie'
+      -
+        type: text
+        text: '. Of je van nature voorzichtig bent of juist geneigd bent om te hard te gaan: we begeleiden je in het vinden van een tempo dat klopt voor jouw lichaam. Aanwezig zijn en bereid zijn om te luisteren is genoeg. De rest dragen we samen.'
   -
     type: paragraph
     attrs:
@@ -54,7 +92,7 @@ content:
     content:
       -
         type: text
-        text: 'Het programma is ontworpen om je te blijven dragen, ook op momenten waarop jij zelf nog twijfelt of het lukt. Wat we van jou vragen, is geen perfect commitment of een “volle ja” zonder twijfel. We vragen aanwezigheid: bereid zijn om te voelen, te luisteren en niet opnieuw over je grenzen heen te gaan. De rest dragen we samen. '
+        text: 'Vanaf de start maken we samen jouw richting helder. Niet om je vast te zetten op een eindpunt, maar om houvast te bieden op momenten dat het wiebelt.'
   -
     type: paragraph
     attrs:
@@ -62,7 +100,7 @@ content:
     content:
       -
         type: text
-        text: 'Resultaat in het Kantel Programma betekent niet alleen minder pijn. Het betekent dat je lichaam weer veilig voelt, dat je vertrouwen groeit en dat je ruimte ervaart om weer te leven in plaats van te overleven.'
+        text: 'Resultaat in het Kantel Programma betekent niet alleen minder pijn. Het betekent dat je lichaam zich weer veiliger voelt, dat je vertrouwen groeit en dat er ruimte ontstaat om weer te leven in plaats van te overleven.'
   -
     type: paragraph
     attrs:
@@ -70,5 +108,11 @@ content:
     content:
       -
         type: text
-        text: 'En dát is waarom zoveel vrouwen achteraf zeggen: het ging met ups en downs maar het ging beter dan ik dat ik ooit durfde hopen.'
+        text: 'En dat is waarom zoveel vrouwen achteraf zeggen: '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'het ging niet zonder ups en downs maar het ging beter dan ik ooit had durven hopen.'
 ---
