@@ -5,7 +5,7 @@ title: 'Wat als ik meer tijd nodig heb?'
 faq_category:
   - begeleiding
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769877652
+updated_at: 1769877717
 content:
   -
     type: paragraph
@@ -83,7 +83,7 @@ content:
         marks:
           -
             type: bold
-        text: 'zesentwintig weken toegang tot het volledige Kantel Programma'
+        text: 'zesentwintig weken toegang het Kantel Programma'
       -
         type: text
         text: '. Dat geeft je ruimte om te leren, te integreren en te herstellen op een manier die gedragen voelt en alles wat je daaruit meeneemt, werkt door ver voorbij deze periode.'
