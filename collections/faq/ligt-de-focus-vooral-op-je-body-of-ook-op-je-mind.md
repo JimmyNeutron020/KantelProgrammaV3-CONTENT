@@ -6,8 +6,8 @@ faq_category:
   - begeleiding
   - resultaat
   - klachten
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750986
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769880672
 content:
   -
     type: paragraph
@@ -16,7 +16,16 @@ content:
     content:
       -
         type: text
-        text: 'In het Kantel Programma werken we nooit aan één onderdeel tegelijk. We kijken naar het volledige totaalplaatje: je lichaam, je mindset, je dagelijkse gewoontes, je zenuwstelsel, je slaap, je voeding, je stressniveau en de manier waarop jij met jezelf omgaat. Alles beïnvloedt elkaar. Wat je denkt voel je in je lichaam en wat je lichaam ervaart bepaalt hoe je je mentaal voelt. Daarom pakken we alle schakels tegelijk aan, op een manier die veilig, rustig en heel doordacht is.'
+        text: 'In het Kantel Programma maken we geen scheiding tussen body en mind. We werken altijd met het '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'gehele systeem'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -24,7 +33,7 @@ content:
     content:
       -
         type: text
-        text: 'Onze aanpak is gebaseerd op principes uit de topsport. Net als topsporters kijken we niet alleen naar beweging of training, maar naar hoe je eet, herstelt, slaapt en mentaal veerkracht opbouwt. Juist die 24-7 levenswijze maakt dat vrouwen niet alleen fysiek sterker worden, maar ook mentaal rust, helderheid en vertrouwen terugvinden. Veel deelnemers zeggen achteraf dat ze dachten dat het programma vooral over bewegen zou gaan, maar dat juist de combinatie van body en mind hun grootste doorbraak gaf.'
+        text: 'Je lichaam, je gedachten, je zenuwstelsel, je energie, je dagelijkse gewoontes en de manier waarop je met jezelf omgaat, beïnvloeden elkaar continu. Wat je denkt, voel je in je lichaam. En wat je lichaam ervaart, bepaalt hoe je je mentaal voelt. Daarom richten we ons nooit op één onderdeel los, maar op de samenhang.'
   -
     type: paragraph
     attrs:
@@ -32,5 +41,37 @@ content:
     content:
       -
         type: text
-        text: 'Of je nu aan je lichaam wilt werken, je mindset wilt versterken of je hele levenswijze wilt kantelen, in het Kantel Programma komt alles samen. Je leert stap voor stap hoe je dit vertaalt naar jouw leven en jouw energie, zodat je echt kunt kantelen naar een fit, energiek en pijnvrij leven.'
+        text: 'Dat betekent: we werken aan beweging en fysieke stabiliteit, én aan rust in je zenuwstelsel, én aan de patronen en overtuigingen die maken dat je over je grenzen gaat of jezelf voorbijloopt.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Onze aanpak is geïnspireerd op principes uit de topsport. Daar kijkt niemand alleen naar training. Er wordt net zo serieus gekeken naar herstel, slaap, voeding, mentale veerkracht en dagelijkse keuzes. Juist die 24/7-benadering maakt duurzame verandering mogelijk.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Veel vrouwen denken vooraf dat het programma vooral over het lichaam zal gaan. Achteraf zeggen ze vaak dat juist de combinatie de doorbraak was: meer vertrouwen in hun lichaam, meer rust in hun hoofd en meer helderheid in keuzes.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je hoeft dus niet te kiezen of je “meer fysiek” of “meer mentaal” wilt werken. In het Kantel Programma komt alles samen op een rustige, doordachte manier, afgestemd op jouw tempo en jouw energie.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Het doel is niet alleen minder pijn. Het doel is dat je lichaam en je mind weer samenwerken, zodat herstel niet iets is wat je moet volhouden, maar iets wat gedragen wordt door je hele leven.'
 ---
