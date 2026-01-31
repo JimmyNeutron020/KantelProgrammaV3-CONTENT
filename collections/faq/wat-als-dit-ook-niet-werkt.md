@@ -5,7 +5,7 @@ title: 'Wat als dit ook niet werkt?'
 faq_category:
   - resultaat
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769878520
+updated_at: 1769881650
 content:
   -
     type: paragraph
@@ -14,7 +14,7 @@ content:
     content:
       -
         type: text
-        text: 'Dat horen we heel vaak. De meeste vrouwen die bij ons starten, hebben al meerdere behandelaren, therapieën of trajecten achter de rug. Soms jarenlang. Met steeds weer hoop en te weinig of helemaal geen (blijvend) resultaat.'
+        text: 'Die vraag horen we heel vaak. De meeste vrouwen die bij ons starten, hebben al meerdere behandelaren, therapieën of trajecten achter de rug. Soms jarenlang. Met steeds weer hoop en te weinig of helemaal geen (blijvend) resultaat.'
   -
     type: paragraph
     attrs:
