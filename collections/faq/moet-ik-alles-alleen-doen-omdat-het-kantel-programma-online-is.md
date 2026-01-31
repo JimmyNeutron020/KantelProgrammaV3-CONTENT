@@ -4,8 +4,8 @@ blueprint: faq
 title: 'Moet ik alles alleen doen omdat het Kantel Programma online is?'
 faq_category:
   - begeleiding
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750916
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769880873
 content:
   -
     type: paragraph
@@ -14,7 +14,12 @@ content:
     content:
       -
         type: text
-        text: 'Het is heel begrijpelijk dat je bij een online programma denkt aan losse video’s of alles zelf moeten uitzoeken, maar het Kantel Programma werkt totaal anders. Het is volledig online zodat je precies kunt werken in het tempo dat past bij jouw energie, jouw lichaam en jouw gezin. Je hoeft nooit te haasten of door te zetten terwijl je eigenlijk moe bent. Je beweegt op jouw ritme en het programma beweegt met je mee.'
+        text: Nee.
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'En die zorg is heel begrijpelijk.'
   -
     type: paragraph
     attrs:
@@ -22,7 +27,7 @@ content:
     content:
       -
         type: text
-        text: 'Online betekent absoluut niet dat je er alleen voor staat. Vanaf dag één begeleiden we je stap voor stap met duidelijke modules, trainingsvideo’s, opnames van live sessies en de ervaringen van vrouwen die jou voorgingen. Veel vrouwen ervaren juist enorme steun in die herkenning. Ze ontdekken dat zij niet de enige zijn met pijn, vermoeidheid, angst, perfectionisme of twijfel en dat brengt rust en vertrouwen. Daarnaast deel je elke week in de Kantel Kroniek wat er in jouw lichaam gebeurt en waar je tegenaan loopt. Wij lezen mee, denken mee en geven support wanneer dat nodig is.'
+        text: 'Veel vrouwen denken bij een online programma aan losse video’s, zelf uitzoeken en er uiteindelijk toch alleen voor staan. Precies daarom is het Kantel Programma anders ingericht.'
   -
     type: paragraph
     attrs:
@@ -30,5 +35,74 @@ content:
     content:
       -
         type: text
-        text: 'De meeste vrouwen die vooraf twijfelden over online begeleiding zeggen achteraf hetzelfde: het voelde persoonlijker, warmer en dichterbij dan alles wat ze eerder hebben gedaan. Je bent online, maar nooit alleen. Wij zijn er bij elke stap, je wordt gedragen door de verhalen van andere vrouwen en je hebt altijd iemand die met je meekijkt. En juist omdat je alles leert in je eigen omgeving, werkt het programma zo krachtig en blijvend.'
+        text: 'Online betekent bij ons niet dat je alles zelf moet doen. Het betekent dat je kunt herstellen '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'in je eigen leven'
+      -
+        type: text
+        text: ', op een tempo dat past bij jouw lichaam, jouw energie en jouw situatie. Je hoeft niet te haasten, niet bij te houden en niet door te zetten wanneer je eigenlijk moe bent. Het programma beweegt met jou mee  niet andersom.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Vanaf dag één word je begeleid.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Je werkt met duidelijke modules, trainingsvideo’s en uitgebreide opnames van live sessies. Daarnaast heb je toegang tot de ervaringen, vragen en processen van vrouwen die je zijn voorgegaan. Die herkenning zorgt voor rust: je ziet dat wat jij ervaart erbij hoort en niet betekent dat je iets verkeerd doet.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Een belangrijk onderdeel van de begeleiding is de '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Kantel Kroniek'
+      -
+        type: text
+        text: '. Daarin deel je wekelijks wat er in je lichaam gebeurt, waar je tegenaan loopt en wat vragen oproept. Wij lezen mee, denken met je mee en geven gerichte ondersteuning wanneer dat nodig is. Je hoeft dus niet zelf te bepalen of je goed bezig bent of te blijven twijfelen in stilte.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Veel vrouwen die vooraf bang waren dat online afstandelijk zou zijn, zeggen achteraf het tegenovergestelde.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Ze ervaren het als persoonlijk, warm en dichtbij juist omdat begeleiding niet vastzit aan één moment, maar meebeweegt met hun dagelijks leven.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je bent online, maar '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'nooit alleen'
+      -
+        type: text
+        text: '. Je wordt gedragen door begeleiding, door herkenning en door een structuur die is ontworpen om je niet los te laten. En juist omdat je alles leert toepassen in je eigen omgeving, werkt het programma zo diep en blijvend. '
 ---
