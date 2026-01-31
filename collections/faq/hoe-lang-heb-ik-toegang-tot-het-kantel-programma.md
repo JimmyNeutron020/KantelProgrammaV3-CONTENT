@@ -1,11 +1,11 @@
 ---
 id: 64cdbd79-ea1d-4f47-9139-d90c0e60d453
 blueprint: faq
-title: 'Hoe lang heb ik toegang tot het Kantel Programma?'
+title: 'Wat als ik meer tijd nodig heb?'
 faq_category:
   - begeleiding
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750170
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769877627
 content:
   -
     type: paragraph
@@ -14,7 +14,7 @@ content:
     content:
       -
         type: text
-        text: 'Het Kantel Programma is opgebouwd als een traject van dertien weken, waarin je elke week een nieuwe module ontvangt. Maar we weten dat herstel niet altijd lineair verloopt en dat iedere vrouw in haar eigen tempo werkt. Daarom krijg je niet dertien weken toegang, maar een ruime periode van zesentwintig weken. Zo kun je leren, toepassen en integreren zonder haast of druk.'
+        text: 'Het Kantel Programma is inhoudelijk opgebouwd uit 13 modules, waarin je stap voor stap door de modules wordt meegenomen. '
   -
     type: paragraph
     attrs:
@@ -22,7 +22,7 @@ content:
     content:
       -
         type: text
-        text: 'Die extra tijd is bewust gekozen. Soms vraagt je lichaam om rust, soms heb je een drukke periode en soms wil je een module opnieuw bekijken. Met zes maanden toegang kun je precies volgen wat je nodig hebt en steeds terugkomen naar onderdelen die je verder helpen. Veel vrouwen ervaren hierdoor juist rust, omdat ze weten dat er ruimte is om te vertragen wanneer dat nodig is.'
+        text: 'Maar we weten ook dit: herstel verloopt zelden in een rechte lijn en al helemaal niet op commando.'
   -
     type: paragraph
     attrs:
@@ -30,5 +30,61 @@ content:
     content:
       -
         type: text
-        text: 'Je hebt dus zesentwintig weken toegang tot het volledige programma. Dat geeft je de tijd om in jouw tempo te kantelen, terwijl je alle inzichten en veranderingen meeneemt voor de rest van je leven.'
+        text: 'Daarom krijg je geen dertien weken toegang, maar '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'zesentwintig weken'
+      -
+        type: text
+        text: '. Die extra tijd is geen toeval of marge, maar een bewuste keuze om druk weg te nemen.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Soms vraagt je lichaam om rust. Soms zit je in een drukke periode. En soms heb je behoefte om iets opnieuw te bekijken of te laten landen voordat je verdergaat.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Met zes maanden toegang hoef je nergens doorheen te haasten. Je kunt vertragen wanneer dat nodig is, herhalen wanneer dat helpend is en het programma volgen op een manier die past bij jouw tempo en jouw leven.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Veel vrouwen ervaren juist hierdoor rust. Omdat ze weten: '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'ik hoef dit niet perfect te doen en ik hoef niet bij te blijven om het goed te doen.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je hebt dus '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'zesentwintig weken toegang tot het volledige Kantel Programma'
+      -
+        type: text
+        text: '. Dat geeft je ruimte om te leren, te integreren en te herstellen op een manier die gedragen voelt en alles wat je daaruit meeneemt, werkt door ver voorbij deze periode.'
 ---
