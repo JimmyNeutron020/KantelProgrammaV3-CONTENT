@@ -4,8 +4,8 @@ blueprint: faq
 title: "Ik voel een volle 'ja', maar vind het spannend om de investering te doen"
 faq_category:
   - prijzen
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764751078
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769879648
 duplicated_from: 6da3f2a9-74b8-4a30-a07e-e0286ae28646
 content:
   -
@@ -15,45 +15,21 @@ content:
     content:
       -
         type: text
-        text: 'Dat is helemaal normaal. Bijna elke vrouw die bij ons start voelt precies dit: een duidelijk verlangen om door te breken, én de spanning van voor zichzelf kiezen.'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
+        text: 'Dat is heel normaal.'
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Die spanning betekent niet dat het niet klopt. Het betekent dat je een oud patroon achter je laat, het patroon van volhouden, hopen en wachten.'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'De vrouwen die instappen, doen dat niet omdat ze er klaar voor zijn, maar omdat ze er klaar '
+        text: 'Bijna elke vrouw die bij ons start, voelt dit. Een helder '
       -
         type: text
         marks:
           -
             type: italic
-        text: mee
+        text: ja
       -
         type: text
-        text: ' zijn.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'En achteraf horen we steeds hetzelfde:'
-      -
-        type: hardBreak
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '“Het voelde als een grote stap, maar het was de meest logische keuze voor mijn gezondheid, mijn vrijheid en mijn gezin.”'
+        text: ' vanbinnen en tegelijk spanning om écht voor zichzelf te kiezen.'
   -
     type: paragraph
     attrs:
@@ -61,10 +37,69 @@ content:
     content:
       -
         type: text
-        text: 'Als jij een volle ‘ja’ voelt, vertrouw daar dan op.'
-      -
-        type: hardBreak
+        text: 'Die spanning betekent niet dat het niet klopt. Het betekent dat je iets ouds loslaat. Het patroon van volhouden, aanpassen, hopen en wachten tot het misschien vanzelf verandert.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
       -
         type: text
-        text: 'Niet omdat het makkelijk is, maar omdat dit precies is wat je nodig hebt om uit die cirkel te breken.'
+        text: 'De vrouwen die instappen, doen dat zelden omdat ze zich zeker voelen. Ze doen het omdat ze voelen dat ze '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'hier niet langer omheen willen blijven leven'
+      -
+        type: text
+        text: '. Niet omdat ze er klaar voor zijn, maar omdat ze er klaar mee zijn.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Achteraf horen we vaak hetzelfde: '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“Het voelde spannend. Maar het was geen sprong in het diepe het was een logisch besluit om mezelf niet langer alleen te laten.”'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je hoeft de spanning dus niet weg te krijgen om te mogen kiezen. Je hoeft jezelf ook niet te overtuigen.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Als je die volle '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: ja
+      -
+        type: text
+        text: ' voelt, mag je die serieus nemen. Niet omdat het makkelijk is, maar omdat het een keuze is die voortkomt uit zorg voor jezelf, je lichaam en je leven.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'En belangrijk om te weten: je zet deze stap niet alleen. Je wordt begeleid juist ook in die spanning.'
 ---
