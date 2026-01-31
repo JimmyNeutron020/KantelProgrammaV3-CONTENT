@@ -5,7 +5,7 @@ title: 'Is deze investering het waard voor mij?'
 faq_category:
   - prijzen
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769876856
+updated_at: 1769879668
 duplicated_from: af2290c8-3f63-4e43-a296-98c63ba1fa2f
 content:
   -
