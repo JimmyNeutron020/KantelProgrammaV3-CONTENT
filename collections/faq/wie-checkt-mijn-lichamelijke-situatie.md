@@ -5,8 +5,8 @@ title: 'Wie checkt mijn lichamelijke situatie?'
 faq_category:
   - begeleiding
   - klachten
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750869
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769882271
 content:
   -
     type: paragraph
@@ -15,7 +15,7 @@ content:
     content:
       -
         type: text
-        text: 'Dat is een heel begrijpelijke vraag, zeker als je gewend bent je gezondheid uit handen te geven aan therapeuten of specialisten. In het Kantel Programma draaien we dat om. Hier gaat het om het terugpakken van jouw regie en het opbouwen van vertrouwen in je eigen lichaam. Je leert precies hoe jouw lichaam werkt, wat jouw klachten in stand houdt en hoe je zelf kunt herkennen wat je nodig hebt om te herstellen.'
+        text: 'Dat is een heel begrijpelijke vraag. Zeker als je gewend bent om je lichaam te laten beoordelen, meten of corrigeren door therapeuten en specialisten.'
   -
     type: paragraph
     attrs:
@@ -23,7 +23,16 @@ content:
     content:
       -
         type: text
-        text: 'Veel vrouwen die bij ons starten hebben jarenlang van afspraak naar afspraak geleefd zonder echte duidelijkheid. Daarom voelt het zo bevrijdend wanneer je leert hoe je zelf je lichaam kunt scannen, begrijpen en sturen. Geen afhankelijkheid meer van de mening van anderen, maar weten welke signalen je lichaam geeft, wat de oorzaak is van je klachten en wat je vandaag al kunt doen om vooruitgang te maken.'
+        text: 'In het Kantel Programma draaien we dat bewust om. Niet omdat observatie onbelangrijk is, maar omdat duurzaam herstel niet ontstaat doordat iemand anders jouw lichaam beoordeelt het ontstaat doordat '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'jij leert begrijpen, voelen en vertrouwen wat jouw lichaam aangeeft'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -31,5 +40,110 @@ content:
     content:
       -
         type: text
-        text: 'En je doet het niet alleen. Wij staan dertien weken naast je, kijken met je mee en begeleiden je in elke stap. Maar uiteindelijk word jij je eigen expert. Je krijgt het vertrouwen terug in je lichaam en merkt dat je veel meer kunt dan je dacht. Dus wie checkt jouw lichamelijke situatie? Jij, met onze kennis, begeleiding en topsportmentaliteit als stevige basis.'
+        text: 'Veel vrouwen die starten, hebben jarenlang van afspraak naar afspraak geleefd. Er werd gekeken, getest en behandeld, maar zelden geleerd hoe ze zélf hun lichaam konden lezen. Daardoor bleef herstel afhankelijk van anderen, en voelde het lichaam onbetrouwbaar of onvoorspelbaar.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'In het Kantel Programma leer je stap voor stap:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'hoe jouw lichaam signalen geeft'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'wat jouw klachten in stand houdt'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'hoe je onderscheid maakt tussen belasting, bescherming en herstel'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'en hoe je zelf kunt bijsturen en opbouwen op een manier die veilig is voor jouw lichaam'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Dat betekent niet dat je het alleen moet uitzoeken. Wij begeleiden je gedurende het hele traject. Via de opbouw van het programma, de oefeningen, de uitleg en jouw wekelijkse check-ins in de Kantel Kroniek kijken we met je mee en helpen we je duiden wat je ervaart. Niet door op afstand te “diagnosticeren”, maar door je te leren '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'zelf regie te voeren met begeleiding'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Juist omdat je dit leert in je eigen leven, niet in een behandelkamer, wordt het effect blijvend. Je hoeft niet meer te wachten op iemand die zegt wat je mag doen. Je ontwikkelt vertrouwen in je eigen waarneming en merkt dat je lichaam veel consistenter reageert dan je misschien gewend was.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Dus wie checkt jouw lichamelijke situatie? Uiteindelijk '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: jij
+      -
+        type: text
+        text: ', met onze kennis, structuur en begeleiding als stevige basis.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'En dat is voor veel vrouwen precies de kanteling: niet langer afhankelijk zijn van een oordeel van buitenaf, maar weer vertrouwen op een lichaam dat je leert begrijpen.'
 ---
