@@ -4,8 +4,8 @@ blueprint: faq
 title: 'Krijg ik 1-op-1 begeleiding'
 faq_category:
   - begeleiding
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764751335
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769880584
 content:
   -
     type: paragraph
@@ -14,7 +14,21 @@ content:
     content:
       -
         type: text
-        text: 'Je krijgt bij ons geen traditionele één-op-één sessies, maar wél persoonlijke begeleiding die veel effectiever is. In plaats van afhankelijk te worden van losse afspraken, begeleiden we je stap voor stap via de Kantel Kroniek. Elke week deel je wat er in je lichaam en dagelijks leven gebeurt en wij lezen met je mee, denken mee en geven precies de support waarvan wij denken die jij nodig hebt. Je staat er geen moment alleen voor.'
+        text: 'e krijgt bij ons geen traditionele één-op-één sessies.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Wel krijg je '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'persoonlijke begeleiding'
+      -
+        type: text
+        text: ' en voor veel vrouwen blijkt die juist effectiever.'
   -
     type: paragraph
     attrs:
@@ -22,7 +36,16 @@ content:
     content:
       -
         type: text
-        text: 'Je krijgt toegang tot een uitgebreide online omgeving met duidelijke uitleg, praktische opdrachten en alle kennis die je nodig hebt om zelf de regie terug te pakken. Wanneer je vragen hebt of vastloopt, deel je dat in je Kroniek en wij pakken het direct op. Daardoor word je niet afhankelijk van een specialist, maar leer je juist hoe je zelfstandig verder kunt, iets wat achteraf voor veel vrouwen dé doorbraak blijkt.'
+        text: 'In plaats van losse afspraken, waarin je een uur aandacht krijgt en daarna weer zelf verder moet, begeleiden we je '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: doorlopend
+      -
+        type: text
+        text: ' in de modules en via de Kantel Kroniek. Elke week deel je wat er in je lichaam, je hoofd en je dagelijks leven gebeurt. We lezen mee, denken met je mee en geven gerichte feedback die aansluit bij waar jij op dat moment staat.'
   -
     type: paragraph
     attrs:
@@ -30,5 +53,29 @@ content:
     content:
       -
         type: text
-        text: 'En dan is er nog de kracht van de groep. Je leert niet alleen van ons, maar ook van de herkenbare processen, vragen en inzichten van andere vrouwen die precies hetzelfde doormaken als jij. Velen zeggen dat ze zich nog nooit zo gezien en gesteund voelden als hier. Dus ja, je krijgt persoonlijke begeleiding, maar op een manier die je sterker, zelfstandiger en vrijer maakt, tijdens het programma én voor de rest van je leven.'
+        text: 'Dat betekent dat je niet hoeft te wachten op een afspraak of zelf moet inschatten of je “iets fout doet”. Begeleiding is helemaal ingebouwd in het programma en beweegt met je mee, juist wanneer het spannend wordt of je vastloopt.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Daarnaast werk je in een uitgebreide online omgeving met duidelijke uitleg, praktische opdrachten en alle kennis die je nodig hebt om je eigen regie op te bouwen. Je leert niet afhankelijk worden van een behandelaar, maar juist vertrouwen ontwikkelen in je eigen lichaam en keuzes met begeleiding op de achtergrond.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Ook de groep speelt hierin een belangrijke rol. Je ziet en hoort vrouwen die hetzelfde proces doormaken, met vergelijkbare vragen, twijfels en doorbraken. Veel vrouwen ervaren die herkenning als diep steunend en zeggen dat ze zich hier voor het eerst écht gezien voelen.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Dus nee, je krijgt geen klassieke één-op-één sessies. Maar ja je krijgt persoonlijke, afgestemde begeleiding die je draagt tijdens het traject én je sterker maakt voor daarna.'
 ---
