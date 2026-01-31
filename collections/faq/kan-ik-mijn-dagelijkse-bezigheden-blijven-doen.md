@@ -4,8 +4,8 @@ blueprint: faq
 title: 'Kan ik mijn dagelijkse bezigheden blijven doen?'
 faq_category:
   - tijd-haalbaarheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764751015
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769880471
 content:
   -
     type: paragraph
@@ -14,7 +14,7 @@ content:
     content:
       -
         type: text
-        text: 'Het Kantel Programma vraagt niet dat je stopt met je leven, maar wel dat je stopt met leven op de manier waarop je jezelf hebt uitgeput. Veel vrouwen starten terwijl ze eigenlijk al “onder nul” staan en gewend zijn om altijd door te gaan. Daarom is het belangrijk dat je vanaf het begin anders met je tijd, energie en keuzes omgaat. Dat voelt nieuw en soms spannend, maar het is precies wat herstel mogelijk maakt.'
+        text: 'Het Kantel Programma vraagt niet dat je stopt met je leven. Maar het vraagt wél dat je stopt met leven op een manier die je lichaam al te lang heeft uitgeput.'
   -
     type: paragraph
     attrs:
@@ -22,7 +22,7 @@ content:
     content:
       -
         type: text
-        text: 'Je dagelijkse bezigheden blijven vaak wel mogelijk, maar niet op de manier zoals je dat gewend was. Je leert ruimte creëren, grenzen voelen en je energie bewaren voor wat echt belangrijk is. Veel vrouwen merken dat ze, op het moment dat ze eindelijk iets minder gaan doen, juist meer energie terugkrijgen. Dat is het kantelpunt waarop herstel in gang wordt gezet.'
+        text: 'Veel vrouwen starten terwijl ze eigenlijk al “onder nul” staan. Ze zijn gewend om door te gaan, zich aan te passen en signalen te negeren. Dat heeft vaak gewerkt, tot het lichaam begon te protesteren.'
   -
     type: paragraph
     attrs:
@@ -30,5 +30,38 @@ content:
     content:
       -
         type: text
-        text: 'Het programma helpt je om tijdelijk andere keuzes te maken zodat je lichaam weer veilig, sterk en stabiel kan worden. Je staat er daarin niet alleen voor. Wij begeleiden je stap voor stap naar een nieuwe balans die niet alleen nodig is voor nu, maar die je leven straks juist lichter, krachtiger en gelukkiger maakt.'
+        text: 'In het Kantel Programma blijven je dagelijkse bezigheden meestal mogelijk. Maar niet automatisch op precies dezelfde manier, in hetzelfde tempo of met dezelfde vanzelfsprekendheid.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je leert vanaf het begin anders omgaan met je tijd, je energie en je keuzes. Dat betekent niet dat alles stilvalt, maar wel dat je bewuster gaat afstemmen: wat is nu helpend, wat kost te veel, en waar mag ik ruimte creëren? Voor veel vrouwen voelt dat in het begin spannend. Maar juist op het moment dat ze iets minder gaan forceren, ontstaat er vaak meer energie. Dat is het kantelpunt waarop herstel op gang komt.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Het programma helpt je om tijdelijk andere keuzes te maken, zodat je lichaam weer veiligheid, stabiliteit en vertrouwen kan opbouwen. Niet door alles te laten vallen, maar door het anders te dragen. En belangrijk om te weten: je hoeft dit niet zelf uit te zoeken. Wij begeleiden je stap voor stap in wat passend is voor jou, in jouw leven, met jouw verantwoordelijkheden.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Het doel is niet om je leven kleiner te maken. Het doel is om het uiteindelijk weer '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'lichter, krachtiger en vrijer'
+      -
+        type: text
+        text: ' te laten voelen.'
 ---
