@@ -4,8 +4,8 @@ blueprint: faq
 title: 'Hoe is de begeleiding in het Kantel Programma?'
 faq_category:
   - begeleiding
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764750088
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769877500
 content:
   -
     type: paragraph
@@ -14,7 +14,12 @@ content:
     content:
       -
         type: text
-        text: 'De begeleiding is diepgaand, persoonlijk en doordacht. Je staat er geen moment alleen voor. Vanaf dag één nemen we je stap voor stap mee door het traject, met video’s die speciaal zijn ontwikkeld voor jonge vrouwen met chronische klachten. We weten precies waar je tegenaan loopt, welke twijfels je kunt hebben en waar de echte winst te behalen valt.'
+        text: 'De begeleiding in het Kantel Programma is zo ingericht dat je dit proces niet alleen hoeft te dragen.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Niet alleen wanneer het goed gaat, maar juist wanneer het spannend wordt, wanneer je twijfelt of wanneer je lichaam even terugschiet.'
   -
     type: paragraph
     attrs:
@@ -22,7 +27,16 @@ content:
     content:
       -
         type: text
-        text: 'Daarnaast werk je met de Kantel Kroniek, jouw wekelijkse check-in waarin je alles kunt delen wat je voelt, ervaart of lastig vindt. Wij lezen mee, denken met je mee en begeleiden je week voor week. Je hebt toegang tot opnames van live sessies, de vragen van andere vrouwen en alle antwoorden die eerder al zijn gegeven. Paul begeleidt je in de bewegingen, Chantal helpt je met het mentale stuk en we stemmen alles af op jouw lichaam en jouw leven.'
+        text: 'We kennen de processen waar vrouwen met chronische klachten doorheen gaan zó goed, dat ook veel begeleiding al vooraf is ingebouwd in het programma. De modules volgen geen willekeurige volgorde, maar sluiten aan op wat vrouwen in elke fase nodig hebben, fysiek, mentaal en emotioneel. Je hoeft dus niet zelf te bepalen '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: wanneer
+      -
+        type: text
+        text: ' je wat nodig hebt; dat is meegenomen in de opbouw.'
   -
     type: paragraph
     attrs:
@@ -30,5 +44,47 @@ content:
     content:
       -
         type: text
-        text: 'Je bent onderdeel van een groep vrouwen die hetzelfde proces doormaakt en je kunt ook steun krijgen van oud-deelnemers die jouw pad herkennen. Veel vrouwen zeggen achteraf dat juist de begeleiding het grote verschil maakt, omdat ze zich gezien, gehoord en echt gedragen voelen. We lopen met je mee tot het eindresultaat én door het proces ernaartoe. Je bent bij ons in veilige, deskundige handen.'
+        text: 'Je volgt het programma online, maar nooit op afstand.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Je werkt met de Kantel Kroniek: jouw wekelijkse check-in waarin je kunt delen wat je ervaart, wat lastig is of waar je over twijfelt. We lezen mee, geven feedback en ondersteunen je stap voor stap, zodat je niet blijft hangen in onzekerheid of zelf hoeft te beoordelen of je het “goed doet”.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Daarnaast heb je toegang tot alle opgenomen live coachingssessies van eerdere groepen. Dat zijn gesprekken met vrouwen die in vergelijkbare situaties zaten, met pijn, angst, twijfel en terugval. Veel vrouwen ervaren deze opnames als enorm steunend, omdat ze herkennen wat zij zelf doormaken en zien hoe dit onderdeel is van het herstelproces.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je maakt deel uit van een groep vrouwen die hetzelfde pad bewandelt. Dat gedeelde proces zorgt voor herkenning en rust je hoeft niets uit te leggen, niets te bewijzen en niets alleen te dragen.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Wat vrouwen achteraf vaak zeggen, is dat juist deze manier van begeleiden het verschil maakt.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Niet omdat het altijd makkelijk ging, maar omdat ze zich gezien, gehoord en gedragen voelden ook wanneer het niet lineair verliep.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je bent in het Kantel Programma in deskundige handen. En vooral: je hoeft dit niet alleen te doen.'
 ---
