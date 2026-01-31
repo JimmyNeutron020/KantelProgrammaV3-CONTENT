@@ -5,8 +5,8 @@ title: 'Kan ik het traject aan met zoveel pijn en geen energie?'
 faq_category:
   - klachten
   - tijd-haalbaarheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764751027
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769880108
 content:
   -
     type: paragraph
@@ -15,7 +15,7 @@ content:
     content:
       -
         type: text
-        text: 'Dat is een heel begrijpelijke zorg. Veel vrouwen die bij ons starten hebben nauwelijks energie, ervaren dagelijks pijn bij zitten, lopen of zelfs stilstaan, en voelen zich al uitgeput voordat de dag begint. Je bent daarin niet de enige. Juist voor vrouwen met weinig energie is het belangrijk dat het traject aansluit bij hun lichaam en niet andersom.'
+        text: 'Ja en het is heel begrijpelijk dat je dit vraagt.'
   -
     type: paragraph
     attrs:
@@ -23,7 +23,7 @@ content:
     content:
       -
         type: text
-        text: 'In het Kantel Programma beginnen we heel klein en altijd op jouw tempo. Het traject is zo opgebouwd dat het geen extra druk geeft maar juist voelt als zelfzorg. Je stemt alles af op jouw energieniveau en wij begeleiden je daarin stap voor stap. De meeste vrouwen merken al binnen enkele weken dat hun energie toeneemt en dat hun lichaam rustiger en veerkrachtiger wordt. Dat geeft vertrouwen en maakt dat je vooruit kunt zonder jezelf te overvragen.'
+        text: 'Veel vrouwen die bij ons starten, hebben nauwelijks energie. Ze ervaren dagelijks pijn bij zitten, lopen, stilstaan of zelfs liggen. Ze voelen zich vaak al uitgeput voordat de dag goed en wel begonnen is. Je bent daarin absoluut niet de enige.'
   -
     type: paragraph
     attrs:
@@ -31,5 +31,104 @@ content:
     content:
       -
         type: text
-        text: 'Het allerbelangrijkste is dat jij opnieuw durft te vertrouwen op je lichaam en op je natuurlijke wijsheid. Wat het vraagt, is dat jij durft te kiezen voor een manier van herstellen die past bij jouw lichaam in plaats van ertegenin te gaan. Als jij een zachte ja voelt om dat samen met ons te doen, dan ben je meer dan welkom. Wij begeleiden je graag naar een leven waarin je je fit, energiek en pijnvrij voelt.'
+        text: 'Het Kantel Programma is juist ontwikkeld voor vrouwen in deze fase. Niet voor vrouwen die nog “ruimte over” hebben, maar voor vrouwen bij wie het lichaam al lange tijd te veel draagt.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Daarom beginnen we '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'heel klein'
+      -
+        type: text
+        text: '. Altijd afgestemd op jouw lichaam en jouw energieniveau. Je hoeft niets bij te houden, niets in te halen en niets te forceren. Het traject vraagt geen extra druk het is zo opgebouwd dat het juist '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ontlasting
+      -
+        type: text
+        text: ' geeft.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Veel vrouwen zijn vooraf bang dat ze te weinig energie hebben om te starten. Wat we in de praktijk zien, is dat energie vaak als snel terugkomt, '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: nadát
+      -
+        type: text
+        text: ' het lichaam zich weer veilig voelt. Niet andersom. Daarom is het tempo geen voorwaarde om mee te kunnen doen het is onderdeel van de begeleiding.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Je hoeft dus niet eerst meer energie te hebben. Je hoeft ook niet sterker te zijn dan je nu bent.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Wat het vraagt, is dat je bereid bent om te stoppen met vechten tegen je lichaam en het herstel op een andere manier te benaderen zachter, begeleid en afgestemd. '
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Als je ergens voelt: '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'zoals het nu gaat, houd ik dit niet langer vol '
+      -
+        type: text
+        text: 'en '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'ik wil hierin niet meer alleen blijven'
+      -
+        type: text
+        text: ', dan ben je hier op de juiste plek.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Wij begeleiden je stap voor stap, in jouw tempo. Juist wanneer pijn en uitputting zo aanwezig zijn.'
 ---
