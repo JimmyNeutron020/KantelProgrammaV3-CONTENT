@@ -4,8 +4,8 @@ blueprint: faq
 title: 'Ik vind het te prijzig. Is daar iets aan te doen? Kan ik in termijnen betalen?'
 faq_category:
   - prijzen
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1764776784
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769879554
 content:
   -
     type: paragraph
@@ -14,26 +14,12 @@ content:
     content:
       -
         type: text
-        text: 'Ik begrijp deze vraag heel goed. Een investering in jezelf voelt altijd spannend, zeker als je al veel hebt geprobeerd of als je gewend bent jezelf op de laatste plek te zetten. Maar ik wil hier heel eerlijk in zijn: als de prijs nu voelt als een struikelblok, dan is het belangrijk om daar niet omheen te bewegen maar er juist bij stil te staan.'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'Het Kantel Programma is een traject dat je leven, je energie en je vrijheid blijvend kan veranderen. Het vraagt niet alleen een financiële investering, maar vooral een innerlijke beslissing: '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'vind ik mezelf dit waard? Durf ik ja te zeggen tegen mijn gezondheid, mijn herstel en mijn toekomst?'
+        text: 'Het is heel begrijpelijk dat je deze vraag stelt.'
       -
         type: hardBreak
       -
         type: text
-        text: 'Juist die keuze is voor veel vrouwen het echte kantelpunt, omdat het hun zelfvertrouwen en eigenwaarde versterkt.'
+        text: 'Een investering in jezelf kan spannend voelen zeker als je al veel hebt geprobeerd, of als je gewend bent jezelf op de laatste plek te zetten.'
   -
     type: paragraph
     attrs:
@@ -41,16 +27,54 @@ content:
     content:
       -
         type: text
-        text: 'Op dit moment bieden we geen termijnbetaling aan. We onderzoeken die mogelijkheid voor de toekomst, maar voor nu is dit niet beschikbaar. Het programma wordt ook niet vergoed door de zorgverzekeraar. Als je merkt dat het bedrag nu niet haalbaar is, dan is het misschien helpend om jezelf de vraag te stellen: '
+        text: 'We willen hier open en zorgvuldig in zijn. Het Kantel Programma is een intensief traject waarin begeleiding, ervaring en kennis samenkomen. De prijs weerspiegelt niet alleen de inhoud, maar vooral de manier waarop we vrouwen begeleiden in een proces dat hun leven raakt.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Om het praktisch haalbaarder te maken, is het mogelijk om het programma in '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '3 termijnen'
+      -
+        type: text
+        text: ' te betalen. Dat doen we niet om de keuze kleiner te maken, maar om ruimte te geven wanneer het totaalbedrag in één keer te veel spanning oproept.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Tegelijk is het belangrijk om dit te zeggen: gespreid betalen verandert niets aan de essentie van de keuze. Het blijft een bewuste investering in je gezondheid, je energie en je toekomst.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Als je merkt dat zelfs betaling in termijnen nu niet passend voelt, dan is het oké om te erkennen dat dit misschien niet het juiste moment is. Wachten, sparen of later opnieuw kijken kan een heel zorgzame keuze zijn.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Het Kantel Programma vraagt niet alleen een financiële beslissing, maar ook een innerlijke afstemming: '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'wil ik dit nu, of wil ik hier later opnieuw bewust naar kijken?'
-      -
-        type: text
-        text: ' Soms is wachten en sparen de krachtigste vorm van zelfzorg, omdat de keuze dan écht uit jezelf komt.'
+        text: 'voelt dit als de juiste stap voor mij, op dit moment?'
   -
     type: paragraph
     attrs:
@@ -58,5 +82,5 @@ content:
     content:
       -
         type: text
-        text: 'Hoe dan ook: je bent altijd welkom om later opnieuw te kiezen, op een moment dat jij voelt dat het financieel én emotioneel klopt. We gunnen je deze stap van harte, maar nooit ten koste van jezelf. De ja moet van binnen komen.'
+        text: 'Die ja hoeft niet geforceerd te worden. Je bent altijd welkom om te kiezen wanneer het zowel praktisch als emotioneel klopt.'
 ---
