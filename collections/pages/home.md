@@ -278,26 +278,40 @@ page_builder:
                   button_colour: orange
                   link: '#topsport-benadering'
   -
-    id: m9fijq9w
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: big
-      spacing_mobile: big
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsSlider
-    enabled: true
-    color: '#f5f5f7'
-    heading_size: S
-    use_first_eight: true
-    heading:
+    id: m7ylis1b
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: m7ylj64g
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: '1500+ vrouwen gingen je voor!'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -305,24 +319,48 @@ page_builder:
         content:
           -
             type: text
-            text: Verhalen
-    content:
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kun je weer volledig herstellen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
-          id: mhgb18je
+          id: m7yljr8q
           values:
             type: buttons
             buttons:
               -
-                id: P0yr2uOG
-                label: 'Bekijk alle resultaten'
+                id: ckyWOwGl
+                label: 'Bekijk resultaten'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: standard
-                button_colour: orange
-    show_tag: false
+                button_layout: solid
+                button_colour: white
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsCtaSection
+    enabled: true
   -
     id: m7xy3knc
     content:
@@ -615,90 +653,6 @@ page_builder:
     type: FeaturedMedia
     enabled: true
   -
-    id: m7ylis1b
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/996074037'
-      preview_image: screenshot-2025-11-24-at-08.51.40.png
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: false
-      sound_control: false
-      fullscreen_control: false
-    content:
-      -
-        type: set
-        attrs:
-          id: m7ylj64g
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: '1500+ vrouwen gingen je voor!'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kun je weer volledig herstellen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: m7yljr8q
-          values:
-            type: buttons
-            buttons:
-              -
-                id: ckyWOwGl
-                label: 'Bekijk resultaten'
-                link_type: link
-                target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: solid
-                button_colour: white
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsCtaSection
-    enabled: true
-  -
     id: m7ymrmbz
     color: '#f7e7de'
     media:
@@ -789,6 +743,52 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
     swap_layout: false
+  -
+    id: m9fijq9w
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: big
+      spacing_mobile: big
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsSlider
+    enabled: true
+    color: '#f5f5f7'
+    heading_size: S
+    use_first_eight: true
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: Verhalen
+    content:
+      -
+        type: set
+        attrs:
+          id: mhgb18je
+          values:
+            type: buttons
+            buttons:
+              -
+                id: P0yr2uOG
+                label: 'Bekijk alle resultaten'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: standard
+                button_colour: orange
+    show_tag: false
   -
     id: mhgdhs2p
     heading_size: M
@@ -1299,7 +1299,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769956368
+updated_at: 1769956443
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
