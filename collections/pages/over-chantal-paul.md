@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-112.jpg
       show_swiper_controls: false
@@ -151,8 +149,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
             - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
@@ -247,8 +243,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - 'brand/foto-18-01-2026,-11-40-15.jpg'
       show_swiper_controls: false
@@ -349,8 +343,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
       show_swiper_controls: false
@@ -420,7 +412,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Paul (1968) vernieuwt een niet-werkende aanpak uit de gezondheidszorg en bouwt aan een effectieve methode. Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als fitness-expert, atletiek- en medisch personal trainer met specialisaties zoals obesitas, diabetes, orthopedische en hartrevalidatie. Hij blijft leergierig.'
+            text: 'Paul (1968) vernieuwt een niet-werkende aanpak uit de gezondheidszorg en bouwt aan een effectieve methode. Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als revalidatie therapeut, fitness-expert, atletiek- en medisch personal trainer met specialisaties zoals obesitas, diabetes en hartrevalidatie. Hij blijft leergierig.'
       -
         type: paragraph
         attrs:
@@ -452,8 +444,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/chantal-151.jpg
       show_swiper_controls: false
@@ -886,6 +876,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: UspSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769269484
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769977571
+use_white_header: false
 ---
