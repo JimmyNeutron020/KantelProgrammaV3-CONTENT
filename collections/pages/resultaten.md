@@ -89,13 +89,13 @@ page_builder:
             heading_size: M
             heading:
               -
-                type: heading
+                type: paragraph
                 attrs:
-                  level: 2
+                  class: null
                 content:
                   -
                     type: text
-                    text: 'Shine Sprint'
+                    text: 'Kantel Programma'
             show_tag: true
             tag_text: 'Niet voor doetjes!'
             tag_alignment: right
@@ -312,6 +312,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769978003
+updated_at: 1769978112
 use_white_header: false
 ---
