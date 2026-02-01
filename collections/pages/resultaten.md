@@ -106,7 +106,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'De Shine Sprint geeft je toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
+            text: 'Het programma geeft je toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
     items:
       -
         id: mjaelzgk
@@ -311,6 +311,7 @@ page_builder:
       spacing_mobile: standard
     type: PackageCards
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1766000000
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1769978003
+use_white_header: false
 ---
