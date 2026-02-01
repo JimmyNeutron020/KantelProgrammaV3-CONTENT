@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/899898126?share=copy'
   preview_image: doris-salomon.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -25,6 +23,15 @@ klachten:
   - darmen
   - vermoeidheid
   - bekkeninstabiliteit
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767118902
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1769951867
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'In de tussentijd heel veel specialisten bezocht, maar allemaal tevergeefs. Alles hielp een klein beetje, totdat ik het online programma van Paul en Chantal zag. '
 ---
