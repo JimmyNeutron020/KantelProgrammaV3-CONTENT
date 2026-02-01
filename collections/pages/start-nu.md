@@ -81,24 +81,67 @@ page_builder:
     type: HeroSection
     enabled: true
   -
-    id: mhghxx3x
+    id: ml3samkz
     heading_size: M
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'We dragen dit samen'
     show_tag: true
-    packages:
+    tag_text: "Let's do it!"
+    tag_alignment: center
+    content:
       -
-        id: mhghymvy
-        heading_size: S
-        heading:
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
+            type: text
+            text: 'Herstel vraagt geen perfect begin. Het vraagt veiligheid, begeleiding en iemand die met je meekijkt wanneer het spannend wordt. Niet alleen wanneer het goed gaat, maar juist wanneer je lichaam of hoofd terugschiet.'
+    color: '#ffffff'
+    package_content:
+      -
+        type: set
+        attrs:
+          id: ml3sep80
+          values:
             type: heading
-            attrs:
-              level: 3
-            content:
+            heading_size: XS
+            heading:
               -
-                type: text
-                text: Basis
-        show_tag: false
-        description:
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Meld je hier aan'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Instappen betekent hier niet: “ik moet dit nu perfect kunnen”. Het betekent: ik hoef het niet langer alleen te dragen.'
+    pricing_tab_single_label: Eenmalig
+    pricing_tab_installments_label: '3 Termijnen'
+    price_single: '€ 2.247'
+    show_discount_single: false
+    price_installments: '€ 749'
+    show_discount_installments: false
+    features:
+      -
+        id: ml3sh7wa
+        feature_title: '13 modules'
+        feature_content:
           -
             type: paragraph
             attrs:
@@ -106,34 +149,21 @@ page_builder:
             content:
               -
                 type: text
-                text: 'De eerste 7 modules van het Kantel Programma. Voor vrouwen die eerst willen ‘proeven’ of het de hele investering waard is. Je krijgt 13 weken toegang tot de basis van de Bewezen Beter Kantel Methode.'
-        price: '€ 1.247'
-        show_discount: true
-        discount_price: '€ 999'
-        label: 'Start nu'
-        link_type: link
-        target_blank: false
-        link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint-basis'
-        button_layout: standard
-        button_colour: orange
-        type: package
+                text: 'Deze 13 modules vormen één doorlopende herstelreis, geen losse puzzelstukjes. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je doorloopt alle fases: van veiligheid en regulatie tot opbouw, vertrouwen en blijvende integratie in je dagelijks leven. Dit is het volledige traject waarin niets wordt overgeslagen.'
+        type: feature
         enabled: true
-        highlight: false
-        umami_event_name: start-nu-checkout-basis
       -
-        id: mhgi1ohv
-        heading_size: S
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: Compleet
-        show_tag: false
-        description:
+        id: ml3sibpc
+        feature_title: 'Bewezen Beter Kantel Methode'
+        feature_content:
           -
             type: paragraph
             attrs:
@@ -141,146 +171,193 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Het complete Kantel Programma, met 13 modules en implementatie in de dagelijkse praktijk. Je krijgt 26 weken toegang tot de complete Bewezen Beter Kantel Methode.'
-        price: '€ 2.247'
-        show_discount: false
-        label: 'Start nu'
+                text: 'Je werkt met de volledige Kantel Methode zoals die al door vele vrouwen is doorlopen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Geen selectie, geen verkorte versie, maar het complete traject waarin body, mind, zenuwstelsel en gedrag samenkomen. Juist die samenhang maakt duurzaam herstel mogelijk.'
+        type: feature
+        enabled: true
+      -
+        id: ml3sjixy
+        feature_title: 'Direct starten'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft niet te wachten op een instroommoment of startdatum. Zodra je instapt, kun je beginnen op het punt waar jij nu staat. Dat geeft rust en voorkomt opnieuw uitstellen.'
+        type: feature
+        enabled: true
+      -
+        id: ml3sktvs
+        feature_title: 'Wekelijks: KantelVideo, KantelVodcast & KantelKennis'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je wordt wekelijks meegenomen en ondersteund, zodat je niet afhankelijk bent van motivatie of geheugen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Deze combinatie helpt je om herstel niet alleen te begrijpen, maar ook daadwerkelijk toe te passen in je leven. Zo blijf je afgestemd, ook als het druk is of je hoofd vol zit.'
+        type: feature
+        enabled: true
+      -
+        id: ml3slblk
+        feature_title: 'Toegang tot alle eerder gestelde vragen van eerdere deelneemsters'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je profiteert van jaren aan herkenbare vragen, twijfels en doorbraken van vrouwen die je voorgingen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dit voorkomt dat je blijft denken “ligt dit aan mij?”. Het normaliseert je proces en geeft richting op momenten van twijfel, eenzaamheid en onzekerheid.'
+        type: feature
+        enabled: true
+      -
+        id: ml3smzv1
+        feature_title: 'Masterclass Ontwaak Fit'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Deze masterclass helpt je lichaam weer uit de overlevingsstand te komen. Je leert hoe energie, herstel en belastbaarheid samenhangen en hoe je dit veilig opbouwt. Een belangrijke stap richting weer vertrouwen voelen in je lijf.'
+        type: feature
+        enabled: true
+      -
+        id: ml3snj41
+        feature_title: 'Masterclass Ratrace Reset'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hier kijk je naar de invloed van tempo, stress en moeten op je klachten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je leert hoe je uit de constante ‘aan-stand’ komt zonder je leven stil te zetten. Essentieel om terugval te voorkomen en herstel te laten beklijven.'
+        type: feature
+        enabled: true
+      -
+        id: ml3soan9
+        feature_title: 'Masterclass Vitale Voeding'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voeding wordt hier niet benaderd als dieet, maar als ondersteuning van je zenuwstelsel en herstelvermogen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je leert wat jouw lichaam nodig heeft om te reguleren, herstellen en energie op te bouwen. Praktisch 13 weken is alles voor je ingepland, haalbaar en afgestemd op je dagelijks leven.'
+        type: feature
+        enabled: true
+      -
+        id: ml3sot37
+        feature_title: 'Wekelijkse Kantel Kroniek'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De Kantel Kroniek helpt je om bewust te blijven voelen, reflecteren en bijsturen. Niet om alles ‘goed’ te doen, maar om signalen van je lichaam tijdig te herkennen. Dit versterkt je eigen regie en voorkomt dat je over grenzen heen gaat.'
+        type: feature
+        enabled: true
+      -
+        id: ml3spdap
+        feature_title: 'Opnames van alle live Q&A Zoomsessies'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hebt toegang tot alle verdiepende vragen en antwoorden.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dit geeft extra bedding en herkenning op momenten dat je vastloopt of twijfelt. Begeleiding blijft zo beschikbaar, ook buiten de modules om.'
+        type: feature
+        enabled: true
+      -
+        id: ml3sq19w
+        feature_title: '26 weken toegang tot het programma'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je krijgt ruim de tijd om alles te doorlopen, te laten landen en toe te passen. Herstel is geen quickfix hoeft niet gehaast en mag zich ontwikkelen in jouw tempo. Deze periode is bewust gekozen om een echte transformatie mogelijk te maken.'
+        type: feature
+        enabled: true
+    buttons:
+      -
+        id: yEqFfOKZ
+        label: Aanmelden
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
-        button_layout: standard
+        button_layout: solid
         button_colour: orange
-        type: package
-        enabled: true
-        highlight: true
-        umami_event_name: start-nu-checkout-compleet
-    features:
-      -
-        id: mhghyhct
-        feature_name: '13 modules'
-        package_1: true
-        package_2: true
-        package_3: true
-        type: feature
-        enabled: true
-        package_1_type: text
-        package_2_type: check
-        package_3_type: check
-        package_1_text: 'Tot module 7'
-      -
-        id: mhgi0toy
-        feature_name: 'Complete Bewezen Beter Kantel Methode'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: text
-        package_2_type: check
-        package_3_type: check
-        package_1_text: Basis
-      -
-        id: mhkz1e5e
-        feature_name: 'Direct starten'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: text
-        package_3_text: 'Beperkt aantal plekken, cohort met vaste startdata'
-      -
-        id: mhkz1csp
-        feature_name: 'Wekelijks: KantelVideo, KantelVodcast & KantelKennis'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz1axx
-        feature_name: 'Toegang tot álle eerder gestelde vragen van eerdere deelneemsters'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz1a71
-        feature_name: 'Masterclass Ontwaak Fit'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz19ha
-        feature_name: 'Masterclass Ratrace Reset'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz18pt
-        feature_name: 'Masterclass Vitale Voeding'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz17w4
-        feature_name: 'Wekelijkse Kantel Kroniek'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: check
-        package_2_type: check
-        package_3_type: check
-      -
-        id: mhkz1bq5
-        feature_name: 'Opnames van alle live Q&A Zoomsessies'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: text
-        package_2_type: check
-        package_3_type: check
-        package_1_text: 'Tot 6 opnames'
-      -
-        id: mhkz1613
-        feature_name: '26 weken toegang tot het programma'
-        package_1: true
-        package_2: false
-        package_3: false
-        type: feature
-        enabled: true
-        package_1_type: text
-        package_2_type: check
-        package_3_type: check
-        package_1_text: 'Tot 13 weken'
+        umami_event_name: aanmelding-kantel-programma
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -294,52 +371,8 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: PropositionSection
+    type: EnrollmentProposal
     enabled: true
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Ben jij er klaar voor?'
-    tag_text: "Let's go!"
-    tag_alignment: center
-    content:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Als je eerlijk bent, weet je dat wachten op een “rustiger moment” niet werkt. Je loopt al te lang rond met pijn, vermoeidheid en twijfel, terwijl je voelt dat er méér mogelijk is dan alleen leren omgaan met je klachten. Het Kantel Programma is voor vrouwen die al maanden, vaak jaren, bekkenklachten hebben en nu eindelijk iets willen dat wél werkt, die klaar zijn om de regie over hun body & mind terug te nemen en weer op hun lichaam te vertrouwen. Met heldere modules, concrete opdrachten en warme begeleiding van Chantal, Paul en onze Kantel Coaches leer je precies wat jouw lichaam nodig heeft om te herstellen. Dankzij onze topsportbenadering en de manier waarop we herstel 24/7 integreren in jouw dagelijks leven, thuis én in alle rollen die je hebt.'
-      -
-        type: set
-        attrs:
-          id: mijhg904
-          values:
-            type: flex_icons
-            flex_icons:
-              -
-                id: mijhgaxy
-                fa_icon: 'fa-regular fa-trophy'
-                text: 'Unieke methode'
-              -
-                id: mijhh4j8
-                fa_icon: 'fa-regular fa-heart'
-                text: 'Vertrouwen terug'
-              -
-                id: mijhhpdd
-                fa_icon: 'fa-regular fa-arrow-rotate-left'
-                text: '24/7 in jouw leven'
-              -
-                id: mijhj01z
-                fa_icon: 'fa-regular fa-person-rays'
-                text: 'Body & Mind'
-    anchor_id: prijzen
   -
     id: mik8s3ym
     items:
@@ -1308,6 +1341,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769624527
+updated_at: 1769953731
 use_white_header: false
 ---
