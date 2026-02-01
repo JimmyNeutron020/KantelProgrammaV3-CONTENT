@@ -375,6 +375,32 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
   -
+    id: ml3t2w3y
+    color: '#ffffff'
+    background_image: brand/fotofolies-x-kantelprogramma_live-126.jpg
+    selected_entries:
+      - ef496077-0ae2-4572-b93e-430b6ac53df0
+      - 3e4f795a-d008-4f2c-8dc6-5614c0179701
+      - be46f461-41d7-453a-ad77-318db3dc8488
+      - cd749209-5713-4911-a6b4-334398b93bea
+      - 7d6f488a-8984-4c1f-92bd-38615aa6784e
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: mik8s3ym
     items:
       -
@@ -1342,6 +1368,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769954165
+updated_at: 1769954524
 use_white_header: false
 ---
