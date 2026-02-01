@@ -1,1 +1,8 @@
 title: 'Enrollment labels'
+data:
+  start_date_label: Tot
+  start_date: '28 februari'
+  available_seats_text: 'Nog 20 plekken beschikbaar'
+  enrollment_link: internal
+  enrollment_internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
+  enrollment_target_blank: false
