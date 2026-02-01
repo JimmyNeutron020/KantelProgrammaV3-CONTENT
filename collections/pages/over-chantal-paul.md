@@ -635,10 +635,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: '2024'
-          -
-            type: text
-            text: ' '
+            text: '2025'
       -
         type: paragraph
         attrs:
@@ -877,6 +874,6 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769977571
+updated_at: 1769977798
 use_white_header: false
 ---
