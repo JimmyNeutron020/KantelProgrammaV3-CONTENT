@@ -64,10 +64,10 @@ page_builder:
             buttons:
               -
                 id: F8XozxA3
-                label: Prijzen
+                label: Aanmelden
                 link_type: link
                 target_blank: false
-                link: '#prijzen'
+                link: '#aanmelden'
                 button_layout: solid
                 button_colour: white
               -
@@ -373,6 +373,7 @@ page_builder:
       spacing_mobile: standard
     type: EnrollmentProposal
     enabled: true
+    anchor_id: aanmelden
   -
     id: mik8s3ym
     items:
@@ -1341,6 +1342,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769953979
+updated_at: 1769954165
 use_white_header: false
 ---
