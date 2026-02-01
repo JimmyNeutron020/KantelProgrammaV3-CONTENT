@@ -368,7 +368,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/231128-paul-en-chantal-_77834-(1).jpg
+        - 'brand/foto-18-01-2026,-11-40-15.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1297,7 +1297,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769956611
+updated_at: 1769959225
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
