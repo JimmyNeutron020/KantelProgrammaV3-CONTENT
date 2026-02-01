@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/899762234'
   preview_image: maaike-eikenaar.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -24,6 +22,18 @@ media:
 klachten:
   - bekken
   - hoofdpijn
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767126438
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1769952651
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"Natuurlijk voelt het onzeker om je ergens voor aan te melding als je alles al hebt geprobeerd, maar ik had hier wel meteen vertrouwen in."'
 ---
