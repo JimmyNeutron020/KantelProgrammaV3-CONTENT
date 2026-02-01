@@ -16,7 +16,6 @@ media:
   preview_image: anouk-blanken.png
   images:
     - anouk-blanken.png
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -27,6 +26,18 @@ klachten:
   - darmen
   - rug
   - vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767782890
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1769951956
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"Paul & Chantal herkenden mijn klachten en straalden zoveel vertrouwen uit door het hele programma heen dat ik zou gaan herstellen."'
 ---
