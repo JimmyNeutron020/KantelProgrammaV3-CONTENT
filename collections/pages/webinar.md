@@ -492,6 +492,67 @@ page_builder:
                             text: ' bij hun klachten omdat er niets te zien is.'
         type: new_set
         enabled: true
+      -
+        id: ml3uvzo6
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: ml3uwxq0
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Wie zijn wij?'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wij zijn Chantal Theunissen en Paul Bax. We ontwikkelden het Kantel Programma: een nuchtere en bewezen aanpak om te kunnen herstellen van chronische pijn. Chantal is oprichter en ervaringsdeskundige met een achtergrond in de GGZ en MasterCoach Leefstijl. Paul is gezondheidsexpert met een topsportblik. Hij is fitness-expert, atletiektrainer en medisch personal trainer, gespecialiseerd in onder andere obesitas, diabetes, orthopedische revalidatie en hartrevalidatie. Hij startte in 2009 een paramedisch instituut met NOC*NSF-status. Samen vertaalden we de aanpak uit ons leefstijlhotel naar online, waarmee inmiddels meer dan 1.500 vrouwen zijn geholpen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: ml3vej8y
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: m2uxXzTA
+                    label: 'Meer over ons'
+                    link_type: link
+                    target_blank: false
+                    link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -800,6 +861,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769955472
+updated_at: 1769958278
 use_white_header: false
 ---
