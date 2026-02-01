@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/899234891?share=copy'
   preview_image: hedwich-borghs.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -25,6 +23,18 @@ klachten:
   - bekken
   - hoofdpijn
   - vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767120655
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1769952589
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"De ondersteuning die ik kreeg van Paul & Chantal deed zoveel. Ik voelde dat ik niet alleen was en het niet tussen mijn oren zat."'
 ---
