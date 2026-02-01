@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/905697675'
   preview_image: jolien-legrand.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -25,6 +23,18 @@ klachten:
   - hyperventilatie
   - ontstekingen-pezengewrichten
   - rug
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767122849
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1769952026
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '"Paul & Chantal hebben vertrouwen in jou en alles sluit ontzettend goed op elkaar aan."'
 ---
