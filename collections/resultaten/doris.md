@@ -24,7 +24,7 @@ klachten:
   - vermoeidheid
   - bekkeninstabiliteit
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769951867
+updated_at: 1769951888
 content:
   -
     type: paragraph
@@ -33,5 +33,5 @@ content:
     content:
       -
         type: text
-        text: 'In de tussentijd heel veel specialisten bezocht, maar allemaal tevergeefs. Alles hielp een klein beetje, totdat ik het online programma van Paul en Chantal zag. '
+        text: '"In de tussentijd heel veel specialisten bezocht, maar allemaal tevergeefs. Alles hielp een klein beetje, totdat ik het online programma van Paul en Chantal zag."'
 ---
