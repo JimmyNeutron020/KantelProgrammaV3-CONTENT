@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/img_2454.jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -800,6 +800,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769412581
+updated_at: 1769955472
 use_white_header: false
 ---
