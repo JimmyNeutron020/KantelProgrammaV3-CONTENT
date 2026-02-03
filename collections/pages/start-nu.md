@@ -140,7 +140,13 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: italic
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
             text: '*Er zijn beperkte plekken beschikbaar om de begeleiding te kunnen waarborgen.'
     pricing_tab_single_label: Eenmalig
     pricing_tab_installments_label: '3 Termijnen'
@@ -1379,6 +1385,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770135688
+updated_at: 1770135803
 use_white_header: false
 ---
