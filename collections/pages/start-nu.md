@@ -104,6 +104,16 @@ page_builder:
           -
             type: text
             text: 'Herstel vraagt geen perfect begin. Het vraagt veiligheid, begeleiding en iemand die met je meekijkt wanneer het spannend wordt. Niet alleen wanneer het goed gaat, maar juist wanneer je lichaam of hoofd terugschiet.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '*Er zijn beperkte plekken beschikbaar om de begeleiding te kunnen waarborgen.'
     color: '#ffffff'
     package_content:
       -
@@ -1368,6 +1378,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769954524
+updated_at: 1770134440
 use_white_header: false
 ---
