@@ -915,7 +915,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen. Onze manier van werken ontstond niet op papier, maar in de praktijk. In ons lifestyle hotel begeleidden we vrouwen die tijdelijk bij ons verbleven om, in hun dagelijks ritme, 24/7 te werken aan herstel. Juist daar zagen we wat wél werkte en waarom.'
+            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen. Onze manier van werken ontstond niet op papier, maar in de praktijk. In ons lifestyle hotel begeleidden we vrouwen die tijdelijk bij ons verbleven om 24/7 te werken aan herstel. Juist daar zagen we wat wél werkte en waarom.'
       -
         type: paragraph
         attrs:
@@ -1298,7 +1298,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770489458
+updated_at: 1770489536
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
