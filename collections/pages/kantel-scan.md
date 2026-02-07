@@ -567,8 +567,28 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mlctv55o
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770491345
+updated_at: 1770499819
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
