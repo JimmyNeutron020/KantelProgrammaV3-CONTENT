@@ -925,7 +925,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'In de Kantel Community ontmoet je gelijkgestemde vrouwen die het Kantel Programma hebben doorlopen en en bewust kiezen voor een stralend leven. Een plek om te verbinden, verdiepen en elkaar te inspireren.'
+            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer zoals dat voor hen klopt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In hun verhalen delen zij hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
       -
         type: set
         attrs:
@@ -1329,6 +1337,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770506534
+updated_at: 1770507254
 use_white_header: false
 ---
