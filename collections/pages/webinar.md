@@ -761,7 +761,18 @@ page_builder:
         content:
           -
             type: text
-            text: 'Schrijf je hieronder in voor het gratis webinar met de strategieën die je wél helpen herstellen, zonder nóg harder te moeten vechten.'
+            marks:
+              -
+                type: bold
+            text: 'Dit is jouw moment om het anders te doen. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ontdek wat wél werkt bij chronische bekkenpijn, zonder harder te vechten.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -933,6 +944,6 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770497223
+updated_at: 1770497492
 use_white_header: false
 ---
