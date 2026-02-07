@@ -56,7 +56,7 @@ page_builder:
               -
                 id: mjspjnbb
                 fa_icon: 'fa-regular fa-party-horn'
-                text: "Let's go!"
+                text: 'Je bent op de juiste plek!'
       -
         type: set
         attrs:
@@ -176,6 +176,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770500949
+updated_at: 1770501183
 use_white_header: false
 ---
