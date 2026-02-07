@@ -577,8 +577,10 @@ page_builder:
                   -
                     type: text
                     text: 'Waarom bekkenklachten kunnen blijven bestaan terwijl scans, echo’s en onderzoeken niks afwijkends laten zien en waarom dat geen eindstation voor jouw pijnklachten hoeft te zijn. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -590,8 +592,10 @@ page_builder:
                   -
                     type: text
                     text: 'Hoe je weer leert bewegen zonder telkens te twijfelen of je het goed of fout doet, ook als je bang bent geworden voor de dagelijkse activiteiten zoals wandelen, sporten, tillen of zitten. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -603,8 +607,10 @@ page_builder:
                   -
                     type: text
                     text: 'Hoe je stopt met steeds opnieuw alles goed willen doen en leert herstellen van je klachten op een manier die past bij een lichaam dat al te lang onder spanning staat. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -616,8 +622,10 @@ page_builder:
                   -
                     type: text
                     text: 'Hoe je de signalen herkent die bij jou altijd voorafgaan aan een terugval, zoals verergering van bekkenpijn en wat je dan wel moet doen om dat te voorkomen. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -660,8 +668,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je al langere tijd rondloopt met bekkenklachten en voelt dat je alles al volgens het boekje hebt gedaan, maar nog steeds geen blijvende oplossing voor je klachten hebt gevonden. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -673,8 +683,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je moe bent van steeds aanpassen, opletten, corrigeren, je dag managen en verlangt naar vertrouwen in je lichaam in plaats van continu alertheid op wat wel/niet kan en lukt. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -686,8 +698,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je herkent dat angst voor pijn, verergering of terugval inmiddels een veel grotere rol in je leven speelt dan je lief is en je dagelijkse keuzes beïnvloedt. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -699,8 +713,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je hebt ervaren dat losse oefeningen of behandelingen niet voldoende zijn, omdat je klachten steeds blijven terugkomen. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -712,8 +728,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je voelt dat je lichaam niet kapot is, maar wel vast zit in een patroon van spanning, pijn, controle en overbelasting. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -725,8 +743,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je bereid bent niet nog harder je best te doen, maar juist te leren luisteren naar wat jouw lichaam exact nodig heeft om te herstellen. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -738,8 +758,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je verantwoordelijkheid wilt nemen voor je herstel, met de juiste begeleiding van experts en ervaringsdeskundigen in plaats van het alleen te moeten uitzoeken. '
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -751,8 +773,10 @@ page_builder:
                   -
                     type: text
                     text: 'Als je opzoekt bent naar een duurzame verandering die past in je leven als vrouw (en moeder)'
-                  -
-                    type: hardBreak
+              -
+                type: paragraph
+                attrs:
+                  class: null
           -
             type: listItem
             content:
@@ -1343,6 +1367,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770498959
+updated_at: 1770499137
 use_white_header: false
 ---
