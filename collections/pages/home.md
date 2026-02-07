@@ -839,6 +839,52 @@ page_builder:
     enabled: true
     show_tag: true
   -
+    id: m9fijq9w
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: big
+      spacing_mobile: big
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsSlider
+    enabled: true
+    color: '#f5f5f7'
+    heading_size: S
+    use_first_eight: true
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: Verhalen
+    content:
+      -
+        type: set
+        attrs:
+          id: mhgb18je
+          values:
+            type: buttons
+            buttons:
+              -
+                id: P0yr2uOG
+                label: 'Bekijk alle verhalen'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: standard
+                button_colour: orange
+    show_tag: false
+  -
     id: m7xy3knc
     content:
       -
@@ -1115,52 +1161,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: m9fijq9w
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: big
-      spacing_mobile: big
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsSlider
-    enabled: true
-    color: '#f5f5f7'
-    heading_size: S
-    use_first_eight: true
-    heading:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: Verhalen
-    content:
-      -
-        type: set
-        attrs:
-          id: mhgb18je
-          values:
-            type: buttons
-            buttons:
-              -
-                id: P0yr2uOG
-                label: 'Bekijk alle verhalen'
-                link_type: link
-                target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: standard
-                button_colour: orange
-    show_tag: false
-  -
     id: m7ymrmbz
     color: '#f7e7de'
     media:
@@ -1280,7 +1280,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770486563
+updated_at: 1770486626
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
