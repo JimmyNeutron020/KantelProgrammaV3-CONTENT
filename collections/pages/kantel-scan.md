@@ -122,13 +122,22 @@ page_builder:
         content:
           -
             type: text
-            text: 'Het 1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen, maar níet vrijblijvend in energie. Want als jij dit formulier invult, dan vragen we ook iets van jou: '
+            text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'oprechtheid, bereidheid en intentie. '
+            text: 'uitgebreid kantel scan formulier '
+          -
+            type: text
+            text: 'vragen .'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
       -
         type: paragraph
         attrs:
@@ -136,7 +145,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Zodat we samen kunnen onderzoeken of dit het juiste moment is en of jij klaar bent om samen met ons het verschil te gaan maken in je eigen herstel.'
+            text: 'Zodat we samen kunnen onderzoeken waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
       -
         type: set
         attrs:
@@ -146,7 +155,7 @@ page_builder:
             buttons:
               -
                 id: S7Fvfeug
-                label: Aanmelden
+                label: AANVRAGEN
                 link_type: link
                 target_blank: false
                 link: '#aanmeldformulier'
@@ -201,7 +210,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Over Paul'
+                        text: 'Waarom Paul dit ziet'
                 show_tag: false
           -
             type: paragraph
@@ -235,7 +244,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als fitness-expert, atletiek- en medisch personal trainer met specialisaties zoals obesitas, diabetes, orthopedische en hartrevalidatie. Hij blijft leergierig.'
+                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als fitness-expert, atletiek- en medisch personal trainer met specialisaties zoals obesitas, diabetes, orthopedische- en hartrevalidatie. Hij blijft leergierig.'
           -
             type: paragraph
             attrs:
@@ -568,7 +577,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770488274
+updated_at: 1770488948
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
