@@ -93,7 +93,7 @@ page_builder:
             type: text
             text: 'We dragen dit samen'
     show_tag: true
-    tag_text: "Let's do it!"
+    tag_text: 'Stap voor stap'
     tag_alignment: center
     content:
       -
@@ -1385,6 +1385,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770497262
+updated_at: 1770498189
 use_white_header: false
 ---
