@@ -925,7 +925,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer zoals dat voor hen klopt.'
+            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
       -
         type: paragraph
         attrs:
@@ -1337,6 +1337,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770507254
+updated_at: 1770507312
 use_white_header: false
 ---
