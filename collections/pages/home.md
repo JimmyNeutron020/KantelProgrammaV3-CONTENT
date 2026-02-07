@@ -80,6 +80,252 @@ page_builder:
       sound_control: true
       fullscreen_control: true
   -
+    id: mlciyalx
+    items:
+      -
+        id: mlciycij
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma_live-10.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mlcj256v
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Een bekend verhaal'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In onze gesprekken horen we dit verhaal vaak terug. Vrouwen die van behandeling naar behandeling zijn gegaan, bij verschillende specialisten, maar zonder blijvend resultaat. '
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je hebt al zoveel geprobeerd'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je krijgt te horen dat je ermee moet leren leven'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Er wordt geen duidelijke oorzaak gevonden'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je plant je leven steeds meer om de pijn heen'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je vraagt je af of het ooit nog anders wordt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je raakt het vertrouwen in je lichaam kwijt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je hebt het gevoel dat er iets essentieels ontbreekt'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Als je dit leest en denkt '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: '“ja… dit is precies waar ik nu sta”'
+              -
+                type: text
+                text: ','
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'dan is dat heel begrijpelijk. Veel vrouwen komen op dit punt terecht, na alles wat ze al hebben meegemaakt.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: m7ylis1b
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: m7ylj64g
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Je bent niet de enige. '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'De vrouwen die hier hun verhaal delen, hebben al zoveel geprobeerd. Hun ervaringen laten zien hoe herstel een proces is, zonder snelle oplossingen.'
+      -
+        type: set
+        attrs:
+          id: m7yljr8q
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ckyWOwGl
+                label: 'Bekijk verhalen'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: solid
+                button_colour: white
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsCtaSection
+    enabled: true
+  -
     id: m7xzpszo
     content:
       -
@@ -309,90 +555,6 @@ page_builder:
                   button_layout: link
                   button_colour: orange
                   link: '#topsport-benadering'
-  -
-    id: m7ylis1b
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/996074037'
-      preview_image: screenshot-2025-11-24-at-08.51.40.png
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: false
-      sound_control: false
-      fullscreen_control: false
-    content:
-      -
-        type: set
-        attrs:
-          id: m7ylj64g
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je bent niet de enige. '
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'De vrouwen die hier hun verhaal delen, hebben al zoveel geprobeerd. Hun ervaringen laten zien hoe herstel een proces is, zonder snelle oplossingen.'
-      -
-        type: set
-        attrs:
-          id: m7yljr8q
-          values:
-            type: buttons
-            buttons:
-              -
-                id: ckyWOwGl
-                label: 'Bekijk verhalen'
-                link_type: link
-                target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: solid
-                button_colour: white
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsCtaSection
-    enabled: true
   -
     id: m7ymrmbz
     color: '#f7e7de'
@@ -1329,7 +1491,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770478616
+updated_at: 1770483828
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
