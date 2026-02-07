@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-grey
-                    text: Bedankt!
+                    text: 'Fijn dat je erbij bent!'
             show_tag: false
     type: HeroSection
     enabled: true
@@ -81,7 +81,65 @@ page_builder:
         content:
           -
             type: text
-            text: "Wil je in aanloop naar het webinar al meer geïnspireerd worden? Dat kan en deze mini programma's wil je niet missen👇🏻"
+            text: 'Je hoeft nu niets te doen. Alles wat je nodig hebt voor het webinar ontvang je automatisch per mail. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Neem even een moment om dit te laten landen. Dit is geen kleine stap, dit is kiezen voor jezelf. Misschien voel je nu al van alles: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'hoop, twijfel, nieuwsgierigheid, spanning'
+          -
+            type: text
+            text: '. Dat is heel normaal. Veel vrouwen die zich inschrijven voelen dit. Niet omdat ze het niet willen, maar omdat ze al zo vaak teleurgesteld zijn. Je hoeft niets zeker te weten. Je hoeft alleen aanwezig te zijn en te luisteren. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We nodigen je uit om tijdens het webinar eerlijk te voelen: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Wat raakt mij? Wat herken ik? Wat schuurt?'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ' '
+          -
+            type: text
+            text: 'Je hoeft niets te delen als je dat niet wilt. Alles mag, niets moet. We zijn blij dat je erbij bent. En we nemen je serieus, precies zoals je bent.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Misschien zit je nu vooral in je eigen verhaal. Daarom vind je hieronder eerlijke verhalen van vrouwen die jou voorgingen. Geen perfecte succesverhalen, maar echte processen, met twijfel, stappen en kantelmomenten. Kijk wat resoneert, laat liggen wat niet past. Je hoeft niets te bewijzen. Alleen te voelen: '"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Ik ben niet alleen."'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -118,6 +176,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770499851
+updated_at: 1770500949
 use_white_header: false
 ---
