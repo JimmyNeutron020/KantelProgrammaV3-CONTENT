@@ -53,30 +53,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: '1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen.'
-      -
-        type: set
-        attrs:
-          id: miyzj8xx
-          values:
-            type: buttons
-            buttons:
-              -
-                id: PhcXgfu5
-                label: 'Plan afspraak'
-                link_type: link
-                target_blank: false
-                link: '#aanmeldformulier'
-                button_layout: solid
-                button_colour: white
-              -
-                id: miyzkdbi
-                label: 'Over Paul'
-                link_type: link
-                target_blank: false
-                link: '#paul'
-                button_layout: standard
-                button_colour: white
+            text: 'In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
     type: HeroSection
     enabled: true
   -
@@ -108,7 +85,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Doe een persoonlijke Kantel Scan met Paul'
+                    text: 'Persoonlijke helderheid over jouw herstel '
             show_tag: true
             tag_text: 'Helemaal privé'
             tag_alignment: right
@@ -119,22 +96,30 @@ page_builder:
         content:
           -
             type: text
-            text: 'Is jouw lichaam klaar voor een nieuw verhaal?'
+            text: 'Als je voelt dat je lichaam toe is aan een nieuw verhaal. Geen standaard kennismakingsgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar '
           -
             type: text
             marks:
               -
                 type: bold
+            text: 'een deskundige blik'
+          -
+            type: text
             text: ' '
           -
             type: text
-            text: 'Geen standaard adviesgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar een doordachte eerste stap: '
-          -
-            type: text
             marks:
               -
                 type: bold
-            text: 'de selectie voor het Kantel Programma. '
+            text: 'op het geheel'
+          -
+            type: text
+            text: .
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
             type: text
             text: 'Het 1-op-1 zoomgesprek met Paul is kosteloos en zonder verplichtingen, maar níet vrijblijvend in energie. Want als jij dit formulier invult, dan vragen we ook iets van jou: '
@@ -144,6 +129,11 @@ page_builder:
               -
                 type: bold
             text: 'oprechtheid, bereidheid en intentie. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
             type: text
             text: 'Zodat we samen kunnen onderzoeken of dit het juiste moment is en of jij klaar bent om samen met ons het verschil te gaan maken in je eigen herstel.'
@@ -577,8 +567,8 @@ page_builder:
       spacing_mobile: standard
     type: PackageCards
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769351698
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1770488274
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
