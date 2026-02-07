@@ -908,15 +908,15 @@ page_builder:
             heading_size: M
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 2
                 content:
                   -
                     type: text
-                    text: 'Kantel Community'
+                    text: Inspiratie
             show_tag: true
-            tag_text: 'Onze helden!'
+            tag_text: 'Prachtige verhalen'
             tag_alignment: right
       -
         type: paragraph
@@ -935,7 +935,7 @@ page_builder:
             buttons:
               -
                 id: xvwmjuxs
-                label: 'Start nu'
+                label: Aanmelden
                 link_type: link
                 target_blank: false
                 link: '#prijzen'
@@ -1329,6 +1329,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770506307
+updated_at: 1770506472
 use_white_header: false
 ---
