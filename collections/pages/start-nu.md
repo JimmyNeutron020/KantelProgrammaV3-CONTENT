@@ -602,38 +602,43 @@ page_builder:
                         text: 'In dit programma leer je:'
                 show_tag: false
           -
+            type: set
+            attrs:
+              id: mlcx2ycr
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mlcx38sd
+                    fa_icon: 'fa-regular fa-circle-check'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom bekkenklachten kunnen blijven bestaan terwijl scans, echo’s en onderzoeken niks afwijkends laten zien en waarom dat geen eindstation voor jouw pijnklachten hoeft te zijn. '
+                  -
+                    id: mlcx4dd9
+                    fa_icon: 'fa-regular fa-circle-check'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Hoe je weer leert bewegen zonder telkens te twijfelen of je het goed of fout doet, ook als je bang bent geworden voor de dagelijkse activiteiten zoals wandelen, sporten, tillen of zitten. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
             type: bulletList
             content:
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Waarom bekkenklachten kunnen blijven bestaan terwijl scans, echo’s en onderzoeken niks afwijkends laten zien en waarom dat geen eindstation voor jouw pijnklachten hoeft te zijn. '
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Hoe je weer leert bewegen zonder telkens te twijfelen of je het goed of fout doet, ook als je bang bent geworden voor de dagelijkse activiteiten zoals wandelen, sporten, tillen of zitten. '
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
               -
                 type: listItem
                 content:
@@ -1348,6 +1353,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770504997
+updated_at: 1770505300
 use_white_header: false
 ---
