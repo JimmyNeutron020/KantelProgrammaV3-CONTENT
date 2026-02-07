@@ -834,9 +834,9 @@ page_builder:
             heading_size: L
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 2
                 content:
                   -
                     type: text
@@ -845,7 +845,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: '1500+ vrouwen gingen je voor!'
+                    text: 'Je bent niet de enige.'
             show_tag: true
             tag_text: 'Power vrouwen!'
             tag_alignment: right
@@ -863,7 +863,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kun je weer volledig herstellen.'
+            text: 'De vrouwen die hier hun verhaal delen, hadden al zoveel geprobeerd. Hun ervaringen laten zien dat je weer vertrouwen in je lichaam kunt krijgen.'
       -
         type: paragraph
         attrs:
@@ -877,7 +877,7 @@ page_builder:
             buttons:
               -
                 id: JbZyEcgp
-                label: 'Bekijk resultaten'
+                label: 'Bekijk verhalen'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -1331,6 +1331,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770505978
+updated_at: 1770506070
 use_white_header: false
 ---
