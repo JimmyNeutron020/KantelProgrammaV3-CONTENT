@@ -69,6 +69,7 @@ page_builder:
                 link: '#inschrijven-webinar'
                 button_layout: solid
                 button_colour: orange
+                email: chantal@kantelprogramma.nl
               -
                 id: mij5mkkf
                 label: 'Ontdek meer'
@@ -778,6 +779,26 @@ page_builder:
     type: ResultsSlider
     enabled: true
   -
+    id: mij4m66i
+    color: '#ffffff'
+    webinar_id: webinar_script_2
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: WebinarScript
+    enabled: true
+  -
     id: mij4nb84
     color: '#f7e7de'
     swap_layout: false
@@ -785,7 +806,8 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/231128-paul-en-chantal-_77834-(1).jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -808,7 +830,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vragen?'
+                    text: 'Twijfel of vragen?'
             show_tag: false
       -
         type: paragraph
@@ -817,7 +839,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een vraag over het webinar, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Stuur ons gerust een bericht, geen vraag is gek of te klein. We denken met je mee en helpen je graag verder!'
+            text: 'Als je nog iets wilt voorleggen over het webinar  of wilt voelen of dit bij jouw situatie past, dan mag je ons gerust een bericht sturen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We kijk in vertrouwen met je mee'
       -
         type: set
         attrs:
@@ -827,7 +857,7 @@ page_builder:
             buttons:
               -
                 id: J8tmn7tH
-                label: Contact
+                label: 'Stel je vraag'
                 link_type: link
                 target_blank: false
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
@@ -902,27 +932,7 @@ page_builder:
     type: IntoSection
     enabled: true
     anchor_id: inschrijven-webinar-2
-  -
-    id: mij4m66i
-    color: '#ffffff'
-    webinar_id: webinar_script_2
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: WebinarScript
-    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770495646
+updated_at: 1770496918
 use_white_header: false
 ---
