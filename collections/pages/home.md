@@ -17,9 +17,9 @@ page_builder:
             heading_size: L
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 1
                 content:
                   -
                     type: text
@@ -28,12 +28,12 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Droom jij van een leven zónder bekkenpijn?'
+                    text: 'Je hoeft niet te leren leven met bekkenpijn.'
             show_tag: false
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: null
         content:
           -
             type: text
@@ -42,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is. '
+            text: 'Als je al van alles hebt geprobeerd en niet meer weet wat wél helpt, ben je hier op de juiste plek. Herstel begint met de juiste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -1297,7 +1297,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769959225
+updated_at: 1770474236
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
