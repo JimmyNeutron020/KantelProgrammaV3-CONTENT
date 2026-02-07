@@ -53,7 +53,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
+            text: 'Een persoonlijk 1-op-1 gesprek. In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
     type: HeroSection
     enabled: true
   -
@@ -85,9 +85,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Persoonlijke helderheid over jouw herstel '
+                    text: 'Helderheid over jouw herstel '
             show_tag: true
-            tag_text: 'Helemaal privé'
+            tag_text: 'Persoonlijk & vertrouwelijk'
             tag_alignment: right
       -
         type: paragraph
@@ -131,7 +131,7 @@ page_builder:
             text: 'uitgebreid kantel scan formulier '
           -
             type: text
-            text: 'vragen .'
+            text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
           -
             type: text
             marks:
@@ -145,7 +145,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Zodat we samen kunnen onderzoeken waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
+            text: 'Tijdens het gesprek onderzoeken we waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
       -
         type: set
         attrs:
@@ -577,7 +577,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770489012
+updated_at: 1770489860
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
