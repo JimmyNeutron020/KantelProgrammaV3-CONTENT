@@ -342,7 +342,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: '1500+ vrouwen gingen je voor!'
+                    text: 'Je bent niet de enige. '
             show_tag: false
       -
         type: paragraph
@@ -357,12 +357,12 @@ page_builder:
               -
                 type: btsSpan
                 attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
                   class: text-white
-            text: 'Meer dan 1500 vrouwen hebben hun leven gekanteld met het Kantel Programma. Het zijn echte succesverhalen met vallen, opstaan en dóórbreken. Hun ervaringen laten zien: ook als je al zóveel hebt geprobeerd, kun je weer volledig herstellen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            text: 'De vrouwen die hier hun verhaal delen, hebben al zoveel geprobeerd. Hun ervaringen laten zien hoe herstel een proces is, zonder snelle oplossingen.'
       -
         type: set
         attrs:
@@ -372,7 +372,7 @@ page_builder:
             buttons:
               -
                 id: ckyWOwGl
-                label: 'Bekijk resultaten'
+                label: 'Bekijk verhalen'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -1329,7 +1329,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770478047
+updated_at: 1770478616
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
