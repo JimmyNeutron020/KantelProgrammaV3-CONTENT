@@ -445,6 +445,108 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mhj7tqg8
+    color: '#f7e7de'
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mhj7v0dl
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: Topsportbenadering
+            show_tag: true
+            tag_text: 'Wat is dat?'
+            tag_alignment: left
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven". Precies zó serieus nemen wij ook jóuw lichaam en klachten. Dat bedoelen we met een topsport benadering van herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn: de meeste vrouwen die bij ons komen zijn juist moe, overbelast en staan al jaren in de overleefstand. Een topsport benadering gaat voor ons over hoe wíj naar jouw herstel kijken: volledig, zorgvuldig en altijd binnen jouw echte belastbaarheid.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We doen niet aan symptoombestrijding. Je lichaam werkt als één geheel waarin spieren, zenuwstelsel, stress, voeding, slaap, emoties en je dagelijkse leefwijze elkaar continu beïnvloeden. Daarom werken we aan de oorzaak: een overbelast zenuwstelsel dat te vaak ‘gevaar’ registreert. Vanuit daar maken we een persoonlijk plan in kleine, haalbare stappen. Herstel wordt een 24/7 leefwijze: eten, bewegen, rusten, denken en kiezen in lijn met wat jouw lichaam nodig heeft.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Topsportbenadering betekent voor ons: jij krijgt dezelfde aandacht, structuur en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we een topsport mentaliteit voor jezelf: bereidheid om op te komen dagen, eerlijk te kijken, te oefenen en vol te houden. Zo kantelen we stap voor stap je hele systeem, zodat je body & mind weer als één team kunnen herstellen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mhj7w9jv
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 6o3xmsPx
+                label: 'Start nu!'
+                link_type: link
+                target_blank: false
+                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                button_layout: standard
+                button_colour: orange
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+    swap_layout: false
+    anchor_id: topsport-benadering
+  -
     id: m7ymrmbz
     color: '#f7e7de'
     media:
@@ -873,108 +975,6 @@ page_builder:
                 button_colour: orange
     show_tag: false
   -
-    id: mhj7tqg8
-    color: '#f7e7de'
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mhj7v0dl
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: Topsportbenadering
-            show_tag: true
-            tag_text: 'Wat is dat?'
-            tag_alignment: left
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven". Precies zó serieus nemen wij ook jóuw lichaam en klachten. Dat bedoelen we met een topsport benadering van herstel.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn: de meeste vrouwen die bij ons komen zijn juist moe, overbelast en staan al jaren in de overleefstand. Een topsport benadering gaat voor ons over hoe wíj naar jouw herstel kijken: volledig, zorgvuldig en altijd binnen jouw echte belastbaarheid.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We doen niet aan symptoombestrijding. Je lichaam werkt als één geheel waarin spieren, zenuwstelsel, stress, voeding, slaap, emoties en je dagelijkse leefwijze elkaar continu beïnvloeden. Daarom werken we aan de oorzaak: een overbelast zenuwstelsel dat te vaak ‘gevaar’ registreert. Vanuit daar maken we een persoonlijk plan in kleine, haalbare stappen. Herstel wordt een 24/7 leefwijze: eten, bewegen, rusten, denken en kiezen in lijn met wat jouw lichaam nodig heeft.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Topsportbenadering betekent voor ons: jij krijgt dezelfde aandacht, structuur en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we een topsport mentaliteit voor jezelf: bereidheid om op te komen dagen, eerlijk te kijken, te oefenen en vol te houden. Zo kantelen we stap voor stap je hele systeem, zodat je body & mind weer als één team kunnen herstellen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: mhj7w9jv
-          values:
-            type: buttons
-            buttons:
-              -
-                id: 6o3xmsPx
-                label: 'Start nu!'
-                link_type: link
-                target_blank: false
-                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
-                button_layout: standard
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: QuestionsCtaSection
-    enabled: true
-    swap_layout: false
-    anchor_id: topsport-benadering
-  -
     id: mhgdhs2p
     heading_size: M
     content:
@@ -1380,7 +1380,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770485154
+updated_at: 1770485242
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
