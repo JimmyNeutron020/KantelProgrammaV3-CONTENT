@@ -684,7 +684,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - brand/paul-chantal-landscape.jpg
+            - brand/fotofolies-x-kantelprogramma_live-10.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -707,56 +707,110 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Onze belofte'
+                        text: 'Dit is voor jou als je:'
                 show_tag: false
           -
-            type: paragraph
-            attrs:
-              class: null
+            type: bulletList
             content:
               -
-                type: text
-                text: 'Onze belofte is geen snelle oplossing en geen wondermiddel. Het is ook geen volgende behandeling in een rijtje dat je al kent. Wij staan ervoor dat je eindelijk gaat begrijpen waarom jouw bekkenklachten blijven bestaan, zelfs als onderzoeken niets laten zien en je al van alles hebt geprobeerd. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je al langere tijd rondloopt met bekkenklachten en voelt dat je alles al volgens het boekje hebt gedaan, maar nog steeds geen blijvende oplossing voor je klachten hebt gevonden. '
               -
-                type: text
-                text: 'We werken met vrouwen die veel te vaak te horen hebben gekregen dat ze ermee moeten leren leven. Vrouwen die al bij bekkenfysiotherapie, het ziekenhuis of andere trajecten zijn geweest en bij wie de klachten toch continu terug blijven komen. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je moe bent van steeds aanpassen, opletten, corrigeren, je dag managen en verlangt naar vertrouwen in je lichaam in plaats van continu alertheid op wat wel/niet kan en lukt. '
               -
-                type: text
-                text: 'In het Kantelprogramma leer je niet alleen wat je moet doen, maar ook vooral waarom jouw lichaam doet wat het doet. Zodat je stopt met twijfelen aan jezelf, je lichaam of het gevoel of je het wel goed genoeg doet. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je herkent dat angst voor pijn, verergering of terugval inmiddels een veel grotere rol in je leven speelt dan je lief is en je dagelijkse keuzes beïnvloedt. '
               -
-                type: text
-                text: 'We beloven je geen symptoombestrijding, maar een fundamenteel nieuw vertrekpunt. Een manier van kijken, bewegen en leven waarin je lichaam weer veiligheid ervaart en herstel weer mogelijk wordt. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je hebt ervaren dat losse oefeningen of behandelingen niet voldoende zijn, omdat je klachten steeds blijven terugkomen. '
               -
-                type: text
-                text: 'Geen druk. Geen forceren. Geen steeds opnieuw beginnen na een terugval. Maar stap voor stap terug naar vertrouwen in je lichaam, zodat dagelijkse dingen zoals bewegen, zitten, of sporten niet langer worden beheerst door angst. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je voelt dat je lichaam niet kapot is, maar wel vast zit in een patroon van spanning, pijn, controle en overbelasting. '
               -
-                type: text
-                text: 'Dat is de kanteling die we bedoelen. En daarin sta jij niet alleen aan het roer, je wordt door ons gedragen en hierin van A tot Z begeleid.'
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je bereid bent niet nog harder je best te doen, maar juist te leren luisteren naar wat jouw lichaam exact nodig heeft om te herstellen. '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je verantwoordelijkheid wilt nemen voor je herstel, met de juiste begeleiding van experts en ervaringsdeskundigen in plaats van het alleen te moeten uitzoeken. '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je opzoekt bent naar een duurzame verandering die past in je leven als vrouw (en moeder)'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Als je verlangt naar ruimte, ruimte en vertrouwen in jouw eigen lichaam, zodat bewegen, werken, sporten niet langer wordt beheerst door angst.'
         type: new_set
         enabled: true
     show_settings: true
@@ -1294,6 +1348,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770504643
+updated_at: 1770504997
 use_white_header: false
 ---
