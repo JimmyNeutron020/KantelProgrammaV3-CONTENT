@@ -155,7 +155,7 @@ page_builder:
             buttons:
               -
                 id: S7Fvfeug
-                label: AANVRAGEN
+                label: 'PLAN AFSPRAAK'
                 link_type: link
                 target_blank: false
                 link: '#aanmeldformulier'
@@ -298,30 +298,13 @@ page_builder:
     id: mka3bweo
     content:
       -
-        type: set
-        attrs:
-          id: mka4zdqr
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Meld je hier aan!'
-            show_tag: false
-      -
         type: paragraph
         attrs:
           class: null
         content:
           -
             type: text
-            text: 'Vul het onderstaande formulier in om je aan te melden voor de Kantel Scan met Paul. '
+            text: 'Zodra je het onderstaande formulier hebt ingevuld ontvang van je een link naar de agenda van Paul voor het boeken van een afspraak.'
     tally_form_id: A72gWk
     anchor_id: aanmeldformulier
     show_settings: true
@@ -345,7 +328,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+        - fotofolies-x-kantelprogramma_live-80.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -441,6 +424,51 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
+    id: mj6vtxio
+    content:
+      -
+        type: set
+        attrs:
+          id: mj6vu2oc
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Eerst voelen of dit bij je past'
+            show_tag: true
+            tag_text: 'Zonder verplichtingen'
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft hier niets te beslissen. Je kunt op je eigen tempo kennismaken met onze visie en manier van werken. Kies wat voor jou nu passend voelt.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PackageCards
+    enabled: true
+  -
     id: miz017il
     color: '#f7e7de'
     swap_layout: false
@@ -448,7 +476,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/231128-paul-en-chantal-_77834-(1).jpg
+        - fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -471,7 +499,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vragen?'
+                    text: 'Twijfels of vragen?'
             show_tag: false
       -
         type: paragraph
@@ -480,7 +508,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+            text: 'Alles wat je nog tegenhoudt of vragen oproept, mag je aan ons voorleggen. '
       -
         type: paragraph
         attrs:
@@ -488,7 +516,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+            text: 'Heb je een persoonlijke vraag of twijfel, dan kun je ons rechtstreeks een bericht sturen. Volledig vertrouwelijk.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vragen die je nu hebt, hadden andere vrouwen ook al vóórdat ze begonnen. Je vindt ze terug bij de veelgestelde vragen.'
       -
         type: paragraph
         attrs:
@@ -531,53 +567,8 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
-  -
-    id: mj6vtxio
-    content:
-      -
-        type: set
-        attrs:
-          id: mj6vu2oc
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Gratis om mee te nemen!'
-            show_tag: true
-            tag_text: 'Ja echt!'
-            tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: PackageCards
-    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770489860
+updated_at: 1770491270
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
