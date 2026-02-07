@@ -632,54 +632,42 @@ page_builder:
                           -
                             type: text
                             text: 'Hoe je weer leert bewegen zonder telkens te twijfelen of je het goed of fout doet, ook als je bang bent geworden voor de dagelijkse activiteiten zoals wandelen, sporten, tillen of zitten. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: bulletList
-            content:
-              -
-                type: listItem
-                content:
                   -
-                    type: paragraph
-                    attrs:
-                      class: null
+                    id: mlcx6cxr
+                    fa_icon: 'fa-regular fa-circle-check'
                     content:
                       -
-                        type: text
-                        text: 'Hoe je stopt met steeds opnieuw alles goed willen doen en leert herstellen van je klachten op een manier die past bij een lichaam dat al te lang onder spanning staat. '
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Hoe je stopt met steeds opnieuw alles goed willen doen en leert herstellen van je klachten op een manier die past bij een lichaam dat al te lang onder spanning staat. '
                   -
-                    type: paragraph
-                    attrs:
-                      class: null
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
+                    id: mlcx6pvf
+                    fa_icon: 'fa-regular fa-circle-check'
                     content:
                       -
-                        type: text
-                        text: 'Hoe je de signalen herkent die bij jou altijd voorafgaan aan een terugval, zoals verergering van bekkenpijn en wat je dan wel moet doen om dat te voorkomen. '
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Hoe je de signalen herkent die bij jou altijd voorafgaan aan een terugval, zoals verergering van bekkenpijn en wat je dan wel moet doen om dat te voorkomen. '
                   -
-                    type: paragraph
-                    attrs:
-                      class: null
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
+                    id: mlcx7ggm
+                    fa_icon: 'fa-regular fa-circle-check'
                     content:
                       -
-                        type: text
-                        text: 'Hoe je jouw dagelijks leven zo inricht dat je niet steeds hoeft te managen wat je wel/niet kan, maar je lichaam daadwerkelijk weer ruimte krijgt om te herstellen en je het vertrouwen terug krijgt in je eigen lichaam.'
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Hoe je jouw dagelijks leven zo inricht dat je niet steeds hoeft te managen wat je wel/niet kan, maar je lichaam daadwerkelijk weer ruimte krijgt om te herstellen en je het vertrouwen terug krijgt in je eigen lichaam.'
         type: new_set
         enabled: true
       -
@@ -1353,6 +1341,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770505300
+updated_at: 1770505428
 use_white_header: false
 ---
