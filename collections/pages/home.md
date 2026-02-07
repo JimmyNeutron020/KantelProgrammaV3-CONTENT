@@ -547,6 +547,298 @@ page_builder:
     swap_layout: false
     anchor_id: topsport-benadering
   -
+    id: mhgdhs2p
+    heading_size: M
+    content:
+      -
+        type: set
+        attrs:
+          id: mhggg20a
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Eerst voelen of dit bij jou past?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+    items:
+      -
+        id: mhge0cl9
+        icon: 'fa-regular fa-presentation-screen'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link_type: link
+        target_blank: false
+        link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Webinar'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Meerdere data'
+        show_tag: false
+      -
+        id: mhgdieb8
+        icon: 'fa-regular fa-book'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link_type: link
+        target_blank: false
+        link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel E-Book'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        show_tag: false
+      -
+        id: mhge0h64
+        icon: 'fa-regular fa-eye'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
+        button_layout: standard
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Inzicht'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '19 november t/m 2 december 2025'
+        link_type: link
+        target_blank: false
+        button_colour: orange
+        show_tag: false
+      -
+        id: mhge0erl
+        icon: 'fa-regular fa-person-arrow-up-from-line'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link_type: link
+        target_blank: false
+        link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Scan'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Zoomsessie op afspraak'
+        show_tag: false
+      -
+        id: mhgecnj7
+        icon: 'fa-brands fa-spotify'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link_type: link
+        target_blank: false
+        link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Kracht'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Podcast te beluisteren via Spotify'
+        show_tag: false
+      -
+        id: mhgedi2v
+        icon: 'fa-regular fa-message-lines'
+        card_heading: 'Kantel E-Book'
+        card_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Direct beschikbaar'
+        label: Gratis
+        link_type: link
+        target_blank: false
+        link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+        button_layout: standard
+        button_colour: orange
+        type: card_item
+        enabled: true
+        heading_size: XS
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 3
+            content:
+              -
+                type: text
+                text: 'Kantel Vragen'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In je mail'
+        show_tag: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PackageCards
+    enabled: true
+    show_tag: true
+  -
     id: m7xy3knc
     content:
       -
@@ -869,300 +1161,6 @@ page_builder:
                 button_colour: orange
     show_tag: false
   -
-    id: mhgdhs2p
-    heading_size: M
-    content:
-      -
-        type: set
-        attrs:
-          id: mhggg20a
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Gratis om mee te nemen!'
-            show_tag: true
-            tag_text: 'Ja, echt!'
-            tag_alignment: left
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
-    items:
-      -
-        id: mhge0cl9
-        icon: 'fa-regular fa-presentation-screen'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link_type: link
-        target_blank: false
-        link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
-        button_layout: standard
-        button_colour: orange
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel Webinar'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Meerdere data'
-        show_tag: false
-      -
-        id: mhgdieb8
-        icon: 'fa-regular fa-book'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link_type: link
-        target_blank: false
-        link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
-        button_layout: standard
-        button_colour: orange
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel E-Book'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        show_tag: false
-      -
-        id: mhge0h64
-        icon: 'fa-regular fa-eye'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
-        button_layout: standard
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel Inzicht'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '19 november t/m 2 december 2025'
-        link_type: link
-        target_blank: false
-        button_colour: orange
-        show_tag: false
-      -
-        id: mhge0erl
-        icon: 'fa-regular fa-person-arrow-up-from-line'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link_type: link
-        target_blank: false
-        link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
-        button_layout: standard
-        button_colour: orange
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel Scan'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Zoomsessie op afspraak'
-        show_tag: false
-      -
-        id: mhgecnj7
-        icon: 'fa-brands fa-spotify'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link_type: link
-        target_blank: false
-        link: 'entry::631dd581-8207-4fe0-81e5-2becf841200f'
-        button_layout: standard
-        button_colour: orange
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel Kracht'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Podcast te beluisteren via Spotify'
-        show_tag: false
-      -
-        id: mhgedi2v
-        icon: 'fa-regular fa-message-lines'
-        card_heading: 'Kantel E-Book'
-        card_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Direct beschikbaar'
-        label: Gratis
-        link_type: link
-        target_blank: false
-        link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
-        button_layout: standard
-        button_colour: orange
-        type: card_item
-        enabled: true
-        heading_size: XS
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 3
-            content:
-              -
-                type: text
-                text: 'Kantel Vragen'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'In je mail'
-        show_tag: false
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: PackageCards
-    enabled: true
-    show_tag: true
-  -
     id: m7ymrmbz
     color: '#f7e7de'
     media:
@@ -1282,7 +1280,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770485722
+updated_at: 1770486563
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
