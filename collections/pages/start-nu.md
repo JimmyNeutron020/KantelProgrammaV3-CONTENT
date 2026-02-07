@@ -576,7 +576,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Hoe je lichaam, zenuwstelsel en geest écht samenwerken, zodat je eindelijk begrijpt waarom je pijn blijft terugkomen.'
+                    text: 'Waarom bekkenklachten kunnen blijven bestaan terwijl scans, echo’s en onderzoeken niks afwijkends laten zien en waarom dat geen eindstation voor jouw pijnklachten hoeft te zijn. '
                   -
                     type: hardBreak
           -
@@ -589,7 +589,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Welke ‘beweegstappen’ jij persoonlijk moet zetten om je lichaam te laten herstellen, zodat je weer vrij kunt zijn, zonder angst voor een verkeerde stap, houding of belasting.'
+                    text: 'Hoe je weer leert bewegen zonder telkens te twijfelen of je het goed of fout doet, ook als je bang bent geworden voor de dagelijkse activiteiten zoals wandelen, sporten, tillen of zitten. '
                   -
                     type: hardBreak
           -
@@ -602,7 +602,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Hoe je de topsportmentaliteit toepast in je dagelijks leven, op een manier die haalbaar is voor jou als moeder en die zorgt voor consistente vooruitgang in plaats van terugval.'
+                    text: 'Hoe je stopt met steeds opnieuw alles goed willen doen en leert herstellen van je klachten op een manier die past bij een lichaam dat al te lang onder spanning staat. '
                   -
                     type: hardBreak
           -
@@ -615,7 +615,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Hoe je de spanning, stress en overbelasting herkent voordat je lichaam protesteert en hoe je je zenuwstelsel kalmeert zodat herstel mogelijk wordt.'
+                    text: 'Hoe je de signalen herkent die bij jou altijd voorafgaan aan een terugval, zoals verergering van bekkenpijn en wat je dan wel moet doen om dat te voorkomen. '
                   -
                     type: hardBreak
           -
@@ -628,7 +628,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Hoe je 24/7 gewoontes implementeert die passen bij jouw leven, zodat je lichaam dag en nacht in de herstelstand kan komen.'
+                    text: 'Hoe je jouw dagelijks leven zo inricht dat je niet steeds hoeft te managen wat je wel/niet kan, maar je lichaam daadwerkelijk weer ruimte krijgt om te herstellen en je het vertrouwen terug krijgt in je eigen lichaam.'
       -
         type: set
         attrs:
@@ -659,7 +659,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'bereid bent om veel tijd, aandacht en inzet te investeren in je eigen proces;'
+                    text: 'Als je al langere tijd rondloopt met bekkenklachten en voelt dat je alles al volgens het boekje hebt gedaan, maar nog steeds geen blijvende oplossing voor je klachten hebt gevonden. '
                   -
                     type: hardBreak
           -
@@ -672,7 +672,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'bereid bent om diep te reflecteren, door te zetten en uit je comfortzone te stappen;'
+                    text: 'Als je moe bent van steeds aanpassen, opletten, corrigeren, je dag managen en verlangt naar vertrouwen in je lichaam in plaats van continu alertheid op wat wel/niet kan en lukt. '
                   -
                     type: hardBreak
           -
@@ -685,7 +685,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'kunt omgaan met stevige feedback en verantwoordelijkheid;'
+                    text: 'Als je herkent dat angst voor pijn, verergering of terugval inmiddels een veel grotere rol in je leven speelt dan je lief is en je dagelijkse keuzes beïnvloedt. '
                   -
                     type: hardBreak
           -
@@ -698,7 +698,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'klaar bent om radicaal leiderschap te nemen over je gezondheid;'
+                    text: 'Als je hebt ervaren dat losse oefeningen of behandelingen niet voldoende zijn, omdat je klachten steeds blijven terugkomen. '
                   -
                     type: hardBreak
           -
@@ -711,7 +711,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'voelt dat je méér bent dan je bekkenpijn en je onverklaarbare klachten;'
+                    text: 'Als je voelt dat je lichaam niet kapot is, maar wel vast zit in een patroon van spanning, pijn, controle en overbelasting. '
                   -
                     type: hardBreak
           -
@@ -724,7 +724,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'het vertrouwen durft te herwinnen in je lichaam en je mogelijkheden;'
+                    text: 'Als je bereid bent niet nog harder je best te doen, maar juist te leren luisteren naar wat jouw lichaam exact nodig heeft om te herstellen. '
                   -
                     type: hardBreak
           -
@@ -737,7 +737,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'niet alleen verbetering wilt, maar echt wilt kantelen;'
+                    text: 'Als je verantwoordelijkheid wilt nemen voor je herstel, met de juiste begeleiding van experts en ervaringsdeskundigen in plaats van het alleen te moeten uitzoeken. '
                   -
                     type: hardBreak
           -
@@ -750,7 +750,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'het antwoord op de ‘wat’ en ‘waarom’ voor ogen houdt'
+                    text: 'Als je opzoekt bent naar een duurzame verandering die past in je leven als vrouw (en moeder)'
                   -
                     type: hardBreak
           -
@@ -763,7 +763,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'de ‘hoe’ en ‘wanneer’ vraag helemaal durft los te laten.'
+                    text: "Als je verlangt naar ruimte, ruimte en vertrouwen in jouw eigen lichaam, zodat bewegen, werken, sporten niet langer wordt beheerst door angst.\_"
+                  -
+                    type: hardBreak
       -
         type: paragraph
         attrs:
@@ -1341,6 +1343,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770498669
+updated_at: 1770498959
 use_white_header: false
 ---
