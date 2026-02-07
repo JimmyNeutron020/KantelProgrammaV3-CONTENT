@@ -1003,7 +1003,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/231128-paul-en-chantal-_77834-(1).jpg
+        - 'brand/foto-18-01-2026,-11-40-15.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1035,7 +1035,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Twijfel je nog of dit programma past bij jouw situatie, of wil je eerst iets met ons delen? Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
       -
         type: paragraph
         attrs:
@@ -1043,25 +1043,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'persoonlijke vraag'
-          -
-            type: text
-            text: ' dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze startten? Kijk dan even bij de '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Veelgestelde vragen'
-          -
-            type: text
-            text: .
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden? Kijk dan bij de veelgestelde vragen.'
       -
         type: paragraph
         attrs:
@@ -1337,6 +1319,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770507312
+updated_at: 1770507428
 use_white_header: false
 ---
