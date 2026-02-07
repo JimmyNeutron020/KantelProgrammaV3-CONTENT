@@ -167,6 +167,28 @@ page_builder:
     enabled: true
     anchor_id: inschrijven-webinar
   -
+    id: mlcqjwof
+    color: '#ffffff'
+    heading_size: M
+    show_tag: false
+    webinar_id: webinar_script_1
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: WebinarScript
+    enabled: true
+  -
     id: mij08w47
     items:
       -
@@ -374,16 +396,7 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Welke aanpak wél werkt bij bekkenklachten en chronische pijn, zónder nog harder je best te doen of in '
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'van behandeling naar behandeling'
-                          -
-                            type: text
-                            text: ' te blijven gaan.'
+                            text: 'Welke aanpak wél werkt, zonder harder je best te doen of van behandeling naar behandeling te blijven gaan.'
                   -
                     id: mij0seha
                     fa_icon: 'fa-regular fa-person-rays'
@@ -395,16 +408,16 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Hoe je je herstel niet langer laat afhangen van therapeuten of diagnoses, maar '
+                            text: 'Hoe je stopt met afhankelijk zijn van therapeuten of diagnoses en weer '
                           -
                             type: text
                             marks:
                               -
                                 type: bold
-                            text: 'zelf de regie'
+                            text: 'zelf regie'
                           -
                             type: text
-                            text: ' pakt.'
+                            text: ' krijgt over je herstel.'
                   -
                     id: mij0sza2
                     fa_icon: 'fa-regular fa-battery-bolt'
@@ -416,16 +429,16 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Waarom ‘rust nemen’ niet altijd helpt en wat jij juist nodig hebt om je weer '
+                            text: 'Waarom ‘rust nemen’ alleen niet voldoende is en wat jouw lichaam nodig heeft om weer '
                           -
                             type: text
                             marks:
                               -
                                 type: bold
-                            text: 'fit en energiek'
+                            text: 'veilig, fit en energiek'
                           -
                             type: text
-                            text: ' te voelen.'
+                            text: ' te worden.'
                   -
                     id: mij0tq5d
                     fa_icon: 'fa-regular fa-triangle-exclamation'
@@ -437,16 +450,7 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'De nummer één reden '
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'waarom 95% van de vrouwen niet van hun bekkenklachten afkomen'
-                          -
-                            type: text
-                            text: ", die zelfs artsen en fysio's niet benoemen."
+                            text: "De belangrijkste reden waarom zoveel vrouwen blijven hangen in klachten, zelfs als er 'niets te zien is op scans of onderzoeken."
                   -
                     id: mij0uwbb
                     fa_icon: 'fa-regular fa-brain-circuit'
@@ -458,13 +462,16 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Herstel van chronische pijn is '
+                            text: 'Waarom herstel van chronische pijn '
                           -
                             type: text
                             marks:
                               -
                                 type: bold
-                            text: 'geen medische kwestie.'
+                            text: 'geen puur  medische kwestie'
+                          -
+                            type: text
+                            text: ' is.'
                   -
                     id: mij0vnr5
                     fa_icon: 'fa-regular fa-ban'
@@ -476,16 +483,7 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Waar we het totaal niet mee eens zijn: dat vrouwen zich '
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'maar moeten neerleggen'
-                          -
-                            type: text
-                            text: ' bij hun klachten omdat er niets te zien is.'
+                            text: "En waar wij een duidelijke grens trekken: vrouwen hoeven zich niet neer te leggen bij klachten omdat er 'lichamelijk niets mis' zou zijn. "
         type: new_set
         enabled: true
       -
@@ -495,7 +493,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
+            - fotofolies-x-kantelprogramma-paul-en-chantal-13.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -527,7 +525,31 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wij zijn Chantal Theunissen en Paul Bax. We ontwikkelden het Kantel Programma: een nuchtere en bewezen aanpak om te kunnen herstellen van chronische pijn. Chantal is oprichter en ervaringsdeskundige met een achtergrond in de GGZ en MasterCoach Leefstijl. Paul is gezondheidsexpert met een topsportblik. Hij is fitness-expert, atletiektrainer en medisch personal trainer, gespecialiseerd in onder andere obesitas, diabetes, orthopedische revalidatie en hartrevalidatie. Hij startte in 2009 een paramedisch instituut met NOC*NSF-status. Samen vertaalden we de aanpak uit ons leefstijlhotel naar online, waarmee inmiddels meer dan 1.500 vrouwen zijn geholpen.'
+                text: 'Wij zijn Chantal Theunissen en Paul Bax. We ontwikkelden het Kantel Programma: een nuchtere en bewezen aanpak om te kunnen herstellen van chronische pijn. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Chantal is oprichter en ervaringsdeskundige met een achtergrond in de GGZ en MasterCoach Leefstijl. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Paul is gezondheidsexpert met een topsportblik. Hij is orthopedisch revalidatie therapeut, fitness-expert, atletiektrainer en medisch personal trainer, gespecialiseerd in onder andere obesitas, diabetes en  hartrevalidatie. Hij startte in 2009 een paramedisch instituut met NOC*NSF-status. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Samen vertaalden we de offline Kantel Trajecten uit ons leefstijlhotel naar het online Bewezen Beter Kantel Programma, waarmee inmiddels meer dan 1.500 vrouwen zijn geholpen.'
           -
             type: paragraph
             attrs:
@@ -610,12 +632,75 @@ page_builder:
             type: text
             marks:
               -
-                type: bold
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Als je al langere tijd leeft met pijn, spanning of vermoeidheid en voelt: '
+          -
+            type: text
+            marks:
+              -
+                type: italic
               -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Als je al te lang in overlevingsstand zit door pijn, spanning of vermoeidheid. Je intuïtief aanvoelt: “Er klopt iets niet… dit kán anders”. Je bent bereid om regie en eigenaarschap te nemen over je herstel. Je zoekt geen quick fix, maar een echte kanteling. Je bent er klaar voor om te leven zoals het bedoeld is: pijnvrij, fit, energiek en vol vertrouwen.'
+            text: 'zo kan het niet de bedoeling zijn'
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: .
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Als je merkt dat je lichaam signalen blijft geven ondanks alles wat je al hebt geprobeerd. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Als je geen snelle oplossing zoekt, maar wél wilt begrijpen wat er écht speelt en hoe herstel weer mogelijk wordt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'En als je verlangt naar een leven met meer rust, vertrouwen en energie, op een manier die past bij jouw lichaam en jouw leven. '
       -
         type: paragraph
         attrs:
@@ -631,25 +716,6 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Dan is dit webinar voor jou.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: miizuy54
-          values:
-            type: buttons
-            buttons:
-              -
-                id: rMiRBcgJ
-                label: Inschrijven
-                link_type: link
-                target_blank: false
-                link: '#inschrijven-webinar-2'
-                button_layout: solid
-                button_colour: white
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -857,6 +923,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770494086
+updated_at: 1770495646
 use_white_header: false
 ---
