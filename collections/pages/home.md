@@ -295,7 +295,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'De vrouwen die hier hun verhaal delen, hebben al zoveel geprobeerd. Hun ervaringen laten zien hoe herstel een proces is, zonder snelle oplossingen.'
+            text: 'De vrouwen die hier hun verhaal delen, hadden al zoveel geprobeerd. Hun ervaringen laten zien dat je weer vertrouwen in je lichaam kunt krijgen.'
       -
         type: set
         attrs:
@@ -1298,7 +1298,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770489536
+updated_at: 1770489785
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
