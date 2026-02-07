@@ -576,21 +576,6 @@ page_builder:
           -
             type: text
             text: 'Wij ontwikkelden het Kantel Programma. Onze vernieuwde aanpak voor herstel bij chronische bekkenklachten ontstond in ons lifestyle hotel, waar vrouwen met bekkenklachten tijdelijk bij ons verbleven om 24/7 aan hun herstel te werken. Vanuit onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen, hebben we alles wat daar werkte vertaald naar een volledig online programma.'
-      -
-        type: set
-        attrs:
-          id: mkttlpl3
-          values:
-            type: buttons
-            buttons:
-              -
-                id: KF0qLOvP
-                label: 'Onze missie'
-                link_type: link
-                target_blank: false
-                link: '/over-chantal-paul#onze-missie'
-                button_layout: link
-                button_colour: orange
     type: IntoSection
     enabled: true
     show_settings: true
@@ -598,8 +583,8 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: small
+      spacing_mobile: small
     outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -610,7 +595,7 @@ page_builder:
   -
     id: mikemtis
     color: '#ffffff'
-    heading_size: S
+    heading_size: XS
     heading:
       -
         type: heading
@@ -1297,7 +1282,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770485651
+updated_at: 1770485722
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
