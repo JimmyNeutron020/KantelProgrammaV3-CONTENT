@@ -838,97 +838,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: m7ymrmbz
-    color: '#f7e7de'
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - 'brand/foto-18-01-2026,-11-40-15.jpg'
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: m7ymsi5z
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Vragen?'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: m7ymt3cu
-          values:
-            type: buttons
-            buttons:
-              -
-                id: mts64kAI
-                label: 'Persoonlijke vraag'
-                link_type: link
-                target_blank: false
-                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
-                button_layout: solid
-                button_colour: orange
-              -
-                id: m7ymti2x
-                label: 'Veelgestelde vragen'
-                link_type: link
-                target_blank: false
-                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: QuestionsCtaSection
-    enabled: true
-    swap_layout: false
-  -
     id: m9fijq9w
     show_settings: true
     inner_spacing_top:
@@ -967,7 +876,7 @@ page_builder:
             buttons:
               -
                 id: P0yr2uOG
-                label: 'Bekijk alle resultaten'
+                label: 'Bekijk alle verhalen'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -1269,12 +1178,13 @@ page_builder:
     enabled: true
     show_tag: true
   -
-    id: mhggtfnw
+    id: m7ymrmbz
+    color: '#f7e7de'
     media:
       video: false
       autoplay_video: false
       images:
-        - community/fotofolies-x-kantelprogramma_live-95.jpg
+        - 'brand/foto-18-01-2026,-11-40-15.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1285,27 +1195,20 @@ page_builder:
       -
         type: set
         attrs:
-          id: mhggxh66
+          id: m7ymsi5z
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 2
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Kantel Community'
-            show_tag: true
-            tag_text: 'Onze helden!'
-            tag_alignment: right
+                    text: 'Vragen?'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -1313,44 +1216,58 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Maak kennis met de Kantel Community: een groep gelijkgestemde vrouwen die het Kantel Programma hebben doorlopen en bewust kiezen voor een stralend leven. Een plek om te verdiepen en elkaar te blijven inspireren.'
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
-          id: mhggy9jr
+          id: m7ymt3cu
           values:
             type: buttons
             buttons:
               -
-                id: 4Wflw4HB
-                label: 'Ontdek meer'
+                id: mts64kAI
+                label: 'Persoonlijke vraag'
                 link_type: link
                 target_blank: false
-                link: 'entry::e5b50ba8-0197-4833-9acf-504ef247e1db'
+                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
                 button_layout: solid
-                button_colour: white
+                button_colour: orange
+              -
+                id: m7ymti2x
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
     inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
-    outer_spacing_bottom:
+    outer_spacing_top:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
-    type: ResultsCtaSection
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
     enabled: true
+    swap_layout: false
   -
     id: m7yosbje
     show_settings: false
@@ -1380,7 +1297,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770485362
+updated_at: 1770485458
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
