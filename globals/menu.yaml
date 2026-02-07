@@ -14,14 +14,14 @@ data:
       target_blank: false
       internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
     -
-      id: mhhun6d0
-      label: Community
+      id: mlcn7mwy
+      label: 'Veelgestelde vragen'
       link_type: internal
+      internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
       target_blank: false
-      internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
     -
       id: miytf7s9
-      label: 'Persoonlijke vraag'
+      label: 'Persoonlijke vragen'
       link_type: internal
       internal_link: 69a5080a-2257-4213-a2fc-605373a33691
       target_blank: false
@@ -32,12 +32,6 @@ data:
       link_type: internal
       target_blank: false
       internal_link: b91abd03-a45d-4203-af4b-1e8686cee5d9
-    -
-      id: mhj60l3v
-      label: 'Veelgestelde vragen'
-      link_type: internal
-      target_blank: false
-      internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
     -
       id: mhhunphc
       label: 'Over Chantal & Paul'
