@@ -915,12 +915,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen.'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Niet omdat zij te weinig doen, maar omdat herstel vraagt om een bredere en samenhangende aanpak.'
+            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen. Niet omdat zij te weinig doen, maar omdat herstel vraagt om een bredere en samenhangende aanpak.'
       -
         type: paragraph
         attrs:
@@ -1311,7 +1306,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770489364
+updated_at: 1770489404
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
