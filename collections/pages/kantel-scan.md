@@ -538,7 +538,7 @@ page_builder:
             buttons:
               -
                 id: Uh7ZZHdD
-                label: 'Persoonlijke vraag'
+                label: 'Stel je vraag'
                 link_type: link
                 target_blank: false
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
@@ -568,7 +568,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770491270
+updated_at: 1770491345
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
