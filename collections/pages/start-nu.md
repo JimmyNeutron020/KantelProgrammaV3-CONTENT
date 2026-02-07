@@ -130,7 +130,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Instappen betekent hier niet: “ik moet dit nu perfect kunnen”. Het betekent: ik hoef het niet langer alleen te dragen.'
+            text: 'Aanmelden betekent hier niet: “ik moet dit nu perfect kunnen”. Het betekent: ik hoef het niet langer alleen te dragen.'
       -
         type: paragraph
         attrs:
@@ -157,7 +157,7 @@ page_builder:
     features:
       -
         id: ml3sh7wa
-        feature_title: '13 modules'
+        feature_title: 'Een persoonlijk beweegplan op maat'
         feature_content:
           -
             type: paragraph
@@ -179,7 +179,7 @@ page_builder:
         enabled: true
       -
         id: ml3sibpc
-        feature_title: 'Bewezen Beter Kantel Methode'
+        feature_title: 'Een volledig voedingsplan dat je herstel ondersteunt'
         feature_content:
           -
             type: paragraph
@@ -201,7 +201,7 @@ page_builder:
         enabled: true
       -
         id: ml3sktvs
-        feature_title: 'Wekelijks: KantelVideo, KantelVodcast & KantelKennis'
+        feature_title: 'Wekelijkse beweegopdrachten en trainingsvideo’s'
         feature_content:
           -
             type: paragraph
@@ -223,7 +223,7 @@ page_builder:
         enabled: true
       -
         id: ml3sot37
-        feature_title: 'Wekelijkse Kantel Kroniek'
+        feature_title: 'Opnames van alle live Q&A zoomsessies'
         feature_content:
           -
             type: paragraph
@@ -237,7 +237,7 @@ page_builder:
         enabled: true
       -
         id: ml3smzv1
-        feature_title: 'Masterclass Ontwaak Fit'
+        feature_title: 'Wekelijkse Kantel Kennis en verdiepende masterclasses'
         feature_content:
           -
             type: paragraph
@@ -251,7 +251,7 @@ page_builder:
         enabled: true
       -
         id: ml3snj41
-        feature_title: 'Masterclass Ratrace Reset'
+        feature_title: 'Kantel Kroniek zelfreflectie methodiek'
         feature_content:
           -
             type: paragraph
@@ -273,7 +273,7 @@ page_builder:
         enabled: true
       -
         id: ml3soan9
-        feature_title: 'Masterclass Vitale Voeding'
+        feature_title: 'Inspirerende Kantel Vodcasts'
         feature_content:
           -
             type: paragraph
@@ -294,64 +294,6 @@ page_builder:
         type: feature
         enabled: true
       -
-        id: ml3spdap
-        feature_title: 'Opnames van alle live Q&A Zoomsessies'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je hebt toegang tot alle verdiepende vragen en antwoorden.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Dit geeft extra bedding en herkenning op momenten dat je vastloopt of twijfelt. Begeleiding blijft zo beschikbaar, ook buiten de modules om.'
-        type: feature
-        enabled: true
-      -
-        id: ml3slblk
-        feature_title: 'Toegang tot alle eerder gestelde vragen'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je profiteert van jaren aan herkenbare vragen, twijfels en doorbraken van vrouwen die je voorgingen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Dit voorkomt dat je blijft denken “ligt dit aan mij?”. Het normaliseert je proces en geeft richting op momenten van twijfel, eenzaamheid en onzekerheid.'
-        type: feature
-        enabled: true
-      -
-        id: ml3sjixy
-        feature_title: 'Direct starten'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je hoeft niet te wachten op een instroommoment of startdatum. Zodra je instapt, kun je beginnen op het punt waar jij nu staat. Dat geeft rust en voorkomt opnieuw uitstellen.'
-        type: feature
-        enabled: true
-      -
         id: ml3sq19w
         feature_title: '26 weken toegang tot het programma'
         feature_content:
@@ -363,6 +305,20 @@ page_builder:
               -
                 type: text
                 text: 'Je krijgt ruim de tijd om alles te doorlopen, te laten landen en toe te passen. Herstel is geen quickfix hoeft niet gehaast en mag zich ontwikkelen in jouw tempo. Deze periode is bewust gekozen om een echte transformatie mogelijk te maken.'
+        type: feature
+        enabled: true
+      -
+        id: mlct5l4v
+        feature_title: 'Kantel Moment livedag'
+        feature_content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een exclusieve middag met Chantal & Paul'
         type: feature
         enabled: true
     buttons:
@@ -1385,6 +1341,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770498189
+updated_at: 1770498669
 use_white_header: false
 ---
