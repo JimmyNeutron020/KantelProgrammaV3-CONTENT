@@ -49,12 +49,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Het Kantel Programma biedt begeleiding voor vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en zoeken naar samenhang en herstel.'
+            text: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
       -
         type: set
         attrs:
@@ -1385,6 +1380,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770496718
+updated_at: 1770497175
 use_white_header: false
 ---
