@@ -733,6 +733,72 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
+    id: mij4lcm2
+    content:
+      -
+        type: set
+        attrs:
+          id: mij4lvbe
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Schrijf je in voor het webinar'
+            show_tag: true
+            tag_text: Gratis!
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Schrijf je hieronder in voor het gratis webinar met de strategieën die je wél helpen herstellen, zonder nóg harder te moeten vechten.'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+    anchor_id: inschrijven-webinar-2
+  -
+    id: mij4m66i
+    color: '#ffffff'
+    webinar_id: webinar_script_2
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: WebinarScript
+    enabled: true
+  -
     id: mij1y309
     heading_size: S
     heading:
@@ -777,26 +843,6 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: ResultsSlider
-    enabled: true
-  -
-    id: mij4m66i
-    color: '#ffffff'
-    webinar_id: webinar_script_2
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: WebinarScript
     enabled: true
   -
     id: mij4nb84
@@ -886,53 +932,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
-  -
-    id: mij4lcm2
-    content:
-      -
-        type: set
-        attrs:
-          id: mij4lvbe
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Schrijf je in voor het webinar'
-            show_tag: true
-            tag_text: Gratis!
-            tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Schrijf je hieronder in voor het gratis webinar met de strategieën die je wél helpen herstellen, zonder nóg harder te moeten vechten.'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
-    anchor_id: inschrijven-webinar-2
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770496918
+updated_at: 1770497223
 use_white_header: false
 ---
