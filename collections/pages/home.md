@@ -487,7 +487,16 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als een topsporter geblesseerd raakt, is het vanzelfsprekend: er komt een team omheen, er wordt een persoonlijk plan gemaakt en alles staat in het teken van herstel. Niemand zegt: “Leer er maar mee leven". Precies zó serieus nemen wij ook jóuw lichaam en klachten. Dat bedoelen we met een topsport benadering van herstel.'
+            text: "Wanneer een topsporter geblesseerd raakt, is één ding vanzelfsprekend: er komt begeleiding omheen, er wordt zorgvuldig gekeken en alles staat in het teken van herstel. Niemand zegt:\_"
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '“leer er maar mee leven.” '
+          -
+            type: text
+            text: 'Precies zo serieus nemen wij ook jouw lichaam en jouw klachten.'
       -
         type: paragraph
         attrs:
@@ -495,7 +504,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn: de meeste vrouwen die bij ons komen zijn juist moe, overbelast en staan al jaren in de overleefstand. Een topsport benadering gaat voor ons over hoe wíj naar jouw herstel kijken: volledig, zorgvuldig en altijd binnen jouw echte belastbaarheid.'
+            text: 'Dat is wat wij bedoelen met een topsportbenadering van herstel.'
       -
         type: paragraph
         attrs:
@@ -503,7 +512,16 @@ page_builder:
         content:
           -
             type: text
-            text: 'We doen niet aan symptoombestrijding. Je lichaam werkt als één geheel waarin spieren, zenuwstelsel, stress, voeding, slaap, emoties en je dagelijkse leefwijze elkaar continu beïnvloeden. Daarom werken we aan de oorzaak: een overbelast zenuwstelsel dat te vaak ‘gevaar’ registreert. Vanuit daar maken we een persoonlijk plan in kleine, haalbare stappen. Herstel wordt een 24/7 leefwijze: eten, bewegen, rusten, denken en kiezen in lijn met wat jouw lichaam nodig heeft.'
+            text: "Herstel vraagt\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'dezelfde voorwaarden als topsport'
+          -
+            type: text
+            text: ', niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. Voor ons gaat een topsportbenadering over hoe wíj naar herstel kijken: volledig, zorgvuldig en altijd binnen jouw echte belastbaarheid.'
       -
         type: paragraph
         attrs:
@@ -511,11 +529,40 @@ page_builder:
         content:
           -
             type: text
-            text: 'Topsportbenadering betekent voor ons: jij krijgt dezelfde aandacht, structuur en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we een topsport mentaliteit voor jezelf: bereidheid om op te komen dagen, eerlijk te kijken, te oefenen en vol te houden. Zo kantelen we stap voor stap je hele systeem, zodat je body & mind weer als één team kunnen herstellen.'
+            text: "\_We werken niet symptoomgericht, maar kijken naar het geheel. Je lichaam functioneert als één systeem waarin spieren, zenuwstelsel, stress, slaap, voeding, emoties en dagelijkse keuzes elkaar voortdurend beïnvloeden. Wanneer dat systeem te lang overbelast is, blijft het lichaam in een beschermstand staan en kan herstel niet landen."
       -
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            text: 'Daarom begeleiden we je stap voor stap in het creëren van veiligheid, rust en opbouw. In kleine, haalbare stappen die passen bij jouw leven. Zo wordt herstel geen tijdelijke oplossing, maar een manier van leven die je lichaam ondersteunt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Topsportbenadering betekent voor ons: jij krijgt dezelfde aandacht, structuur en toewijding die we voor een topsporter vanzelfsprekend vinden. En van jou vragen we\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'commitment, geen perfectie'
+          -
+            type: text
+            text: ': bereidheid om aanwezig te zijn in je proces en het niet meer alleen te dragen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Zo kantelen we stap voor stap je hele systeem, zodat body en mind weer als één team kunnen samenwerken aan herstel.'
       -
         type: set
         attrs:
@@ -1298,7 +1345,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770489925
+updated_at: 1770496897
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
