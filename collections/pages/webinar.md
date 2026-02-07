@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -39,7 +37,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Voorgoed afrekenen met chronische bekkenpijn'
+                    text: 'Een andere kijk op chronische bekkenpijn'
             show_tag: false
       -
         type: paragraph
@@ -53,7 +51,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je hebt vanalles al geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
+            text: 'Je hebt van alles al geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
       -
         type: set
         attrs:
@@ -772,7 +770,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Ontdek wat wél werkt bij chronische bekkenpijn, zonder harder te vechten.'
+            text: 'Ontdek wat wél werkt bij chronische bekkenpijn, zonder harder te vechten. Kies een moment dat voor jou past. Je zit nergens aan vast.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -944,6 +942,6 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770497492
+updated_at: 1770497715
 use_white_header: false
 ---
