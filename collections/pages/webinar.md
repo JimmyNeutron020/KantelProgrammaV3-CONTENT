@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Kantel Webinar'
+                    text: 'Voorgoed afrekenen met chronische bekkenpijn'
             show_tag: false
       -
         type: paragraph
@@ -63,7 +63,7 @@ page_builder:
             buttons:
               -
                 id: HlRgPtBF
-                label: Inschrijven
+                label: 'Bekijk het webinar'
                 link_type: link
                 target_blank: false
                 link: '#inschrijven-webinar'
@@ -78,6 +78,28 @@ page_builder:
                 button_layout: standard
                 button_colour: white
     type: HeroSection
+    enabled: true
+  -
+    id: mij3d05u
+    color: '#ffffff'
+    heading_size: M
+    show_tag: false
+    webinar_id: webinar_script_1
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: WebinarScript
     enabled: true
   -
     id: miizf11s
@@ -108,7 +130,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Voorgoed afrekenen met chronische bekkenpijn'
+                    text: 'Leven met chronische pijn is niet normaal'
             show_tag: true
             tag_text: 'Gratis webinar'
             tag_alignment: right
@@ -119,7 +141,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je bekkenklachten zijn niet zomaar ‘iets waar je mee moet leren leven’. Ze zijn een signaal van je lichaam dat je al veel te lang in de overleefstand staat. In dit webinar nemen we je mee in een andere kijk op chronische pijn: een topsportbenadering waarin je body & mind en je zenuwstelsel als één geheel worden gezien. Je ontdekt hoe het komt dat je steeds terugvalt, wat er nodig is om die vicieuze cirkel te doorbreken en welke eerste, haalbare stappen jij nú kunt zetten om herstel 24/7 in je leven te integreren en weer te vertrouwen op je lichaam. Zet jij met ons de eerste stap die wél werkt voor een fit, energiek en pijnvrij leven?'
+            text: 'Je klachten zijn geen teken dat je lichaam faalt. Ze zijn een signaal dat je te lang hebt moeten overleven. En dat er een andere manier nodig is.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'In dit webinar nemen we je mee in een andere kijk op chronische bekkenpijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: small
@@ -137,28 +167,6 @@ page_builder:
     enabled: true
     anchor_id: inschrijven-webinar
   -
-    id: mij3d05u
-    color: '#ffffff'
-    heading_size: M
-    show_tag: false
-    webinar_id: webinar_script_1
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: WebinarScript
-    enabled: true
-  -
     id: mij08w47
     items:
       -
@@ -168,7 +176,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - brand/fotofolies-x-kantelprogramma_live-112.jpg
+            - fotofolies-x-kantelprogramma_live-12.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -191,7 +199,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Herken je dit?'
+                        text: 'Als je jezelf hierin herkent, ben je niet de enige.'
                 show_tag: false
           -
             type: set
@@ -211,13 +219,13 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Je bent een jonge moeder, slim, zorgzaam en doet alles om je gezin draaiende te houden… maar'
+                            text: 'Je bent zorgzaam, slim en betrokken. Je draagt veel, maar '
                           -
                             type: text
                             marks:
                               -
                                 type: bold
-                            text: ' je lichaam protesteert'
+                            text: 'je lichaam protesteert'
                           -
                             type: text
                             text: .
@@ -232,16 +240,16 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Artsen zeggen dat er ‘lichamelijk niets mis’ is, maar jij voelt '
+                            text: 'Artsen zeggen dat er ‘lichamelijk niets mis’ is, terwijl jij dagelijks'
                           -
                             type: text
                             marks:
                               -
                                 type: bold
-                            text: 'dagelijks bekkenpijn, spanning en uitputting'
+                            text: ' bekkenpijn, spanning en uitputting'
                           -
                             type: text
-                            text: .
+                            text: ' voelt.'
                   -
                     id: mij0iryx
                     fa_icon: 'fa-regular fa-arrow-rotate-left'
@@ -253,16 +261,16 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Je hebt '
+                            text: 'Je hebt al van alles geprobeerd, artsen, fysio, voeding, ademhaling, maar het voelt alsof je '
                           -
                             type: text
                             marks:
                               -
                                 type: bold
-                            text: 'al zoveel geprobeerd'
+                            text: 'steeds weer terugvalt'
                           -
                             type: text
-                            text: ', artsen, fysio, voeding, ademhaling , maar het voelt alsof je telkens terug bij af bent.'
+                            text: '. '
                   -
                     id: mij0ji5h
                     fa_icon: 'fa-regular fa-circle-question'
@@ -274,16 +282,13 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'Je wil verder, maar '
+                            text: 'Je wil verder, maar twijfelt: "K'
                           -
                             type: text
                             marks:
                               -
-                                type: bold
-                            text: twijfelt
-                          -
-                            type: text
-                            text: ': kan ik mijn lijf ooit nog vertrouwen?'
+                                type: italic
+                            text: 'an ik mijn lichaam ooit nog vertrouwen?"'
                   -
                     id: mij0k7c3
                     fa_icon: 'fa-regular fa-face-smile-beam'
@@ -301,10 +306,10 @@ page_builder:
                             marks:
                               -
                                 type: bold
-                            text: 'vrijheid, plezier en de energie'
+                            text: 'vrijheid, plezier en energie'
                           -
                             type: text
-                            text: ' om weer echt moeder, partner en vrouw te zijn.'
+                            text: ' om weer écht te leven als vrouw, partner én moeder.'
         type: new_set
         enabled: true
       -
@@ -357,16 +362,7 @@ page_builder:
                         content:
                           -
                             type: text
-                            text: 'De doorbraakstrategieën die vrouwen zoals jij helpen om weer te kunnen léven met rust, ruimte en '
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'vertrouwen in je lichaam'
-                          -
-                            type: text
-                            text: .
+                            text: 'Waarom herstel vaak vastloopt bij bekkenklachten en chronische pijn, ook als je al veel behandelingen hebt gevolgd.'
                   -
                     id: mij0rkd3
                     fa_icon: 'fa-regular fa-route'
@@ -860,7 +856,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: WebinarScript
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769958278
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1770494086
 use_white_header: false
 ---
