@@ -54,10 +54,8 @@ data:
       content:
         -
           type: text
-          text: 'Gratis om mee te nemen!'
-  show_tag: true
-  tag_text: "You're welcome!"
-  tag_alignment: right
+          text: 'Eerst voelen of dit bij jou past?'
+  show_tag: false
   package_cards:
     -
       id: mhhv3spg
