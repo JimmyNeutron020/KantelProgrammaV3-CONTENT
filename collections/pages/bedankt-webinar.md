@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-112.jpg
       show_swiper_controls: false
@@ -99,6 +97,27 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1767106557
+  -
+    id: mlctw9pp
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1770499851
+use_white_header: false
 ---
