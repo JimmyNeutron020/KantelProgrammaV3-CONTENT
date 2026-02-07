@@ -322,7 +322,7 @@ page_builder:
           -
             type: text
             text: 'Vul het onderstaande formulier in om je aan te melden voor de Kantel Scan met Paul. '
-    tally_form_id: Eklk14
+    tally_form_id: A72gWk
     anchor_id: aanmeldformulier
     show_settings: true
     inner_spacing_top:
@@ -577,7 +577,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770488948
+updated_at: 1770489012
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
