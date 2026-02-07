@@ -915,7 +915,36 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij ontwikkelden het Kantel Programma. Onze vernieuwde aanpak voor herstel bij chronische bekkenklachten ontstond in ons lifestyle hotel, waar vrouwen met bekkenklachten tijdelijk bij ons verbleven om 24/7 aan hun herstel te werken. Vanuit onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen, hebben we alles wat daar werkte vertaald naar een volledig online programma.'
+            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Niet omdat zij te weinig doen, maar omdat herstel vraagt om een bredere en samenhangende aanpak.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Onze manier van werken ontstond niet op papier, maar in de praktijk. In ons lifestyle hotel begeleidden we vrouwen die tijdelijk bij ons verbleven om, in hun dagelijks ritme, 24/7 te werken aan herstel. Juist daar zagen we wat wél werkte en waarom.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Die inzichten zijn gevormd door onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen met complexe klachten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wat daar samenkwam, hebben we vertaald naar het Kantel Programma. Een online traject waarin begeleiding niet draait om losse momenten, maar meeloopt in het dagelijks leven. Gericht op samenhang, veiligheid en duurzame verandering.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -1282,7 +1311,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770488330
+updated_at: 1770489364
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
