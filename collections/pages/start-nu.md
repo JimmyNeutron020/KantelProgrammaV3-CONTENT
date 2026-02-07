@@ -448,33 +448,6 @@ page_builder:
               -
                 type: text
                 text: 'Liefs, Chantal & Paul 😘'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: set
-            attrs:
-              id: mik8u737
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: bMjplvE1
-                    label: 'Start nu'
-                    link_type: link
-                    target_blank: false
-                    link: '#prijzen'
-                    button_layout: solid
-                    button_colour: orange
-                  -
-                    id: mik8ufea
-                    label: 'Onze aanpak'
-                    link_type: link
-                    target_blank: false
-                    link: '#onze-aanpak'
-                    button_layout: standard
-                    button_colour: orange
         type: new_set
         enabled: true
       -
@@ -1358,6 +1331,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770505870
+updated_at: 1770505978
 use_white_header: false
 ---
