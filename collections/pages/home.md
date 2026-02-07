@@ -52,18 +52,18 @@ page_builder:
             buttons:
               -
                 id: P8p6HQwK
-                label: 'Start nu'
+                label: 'Ontdek meer'
                 link_type: link
                 target_blank: false
-                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                link: '#ontdek-meer'
                 button_layout: solid
                 button_colour: orange
               -
                 id: m7xw13ou
-                label: 'Ontdek meer'
+                label: 'Onze aanpak'
                 link_type: link
                 target_blank: false
-                link: '#over-chantal-en-paul'
+                link: '#onze-aanpak'
                 button_layout: standard
                 button_colour: white
     type: HeroSection
@@ -241,6 +241,7 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+    anchor_id: ontdek-meer
   -
     id: m7ylis1b
     media:
@@ -444,6 +445,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+    anchor_id: onze-aanpak
   -
     id: mhj7tqg8
     color: '#f7e7de'
@@ -523,7 +525,7 @@ page_builder:
             buttons:
               -
                 id: 6o3xmsPx
-                label: 'Start nu!'
+                label: 'Meer informatie'
                 link_type: link
                 target_blank: false
                 link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
@@ -842,8 +844,8 @@ page_builder:
     id: m9fijq9w
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: big
-      spacing_mobile: big
+      spacing_desktop: standard
+      spacing_mobile: standard
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -1280,7 +1282,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770487777
+updated_at: 1770488330
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
