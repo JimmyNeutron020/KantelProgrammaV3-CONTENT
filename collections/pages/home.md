@@ -108,7 +108,39 @@ page_builder:
         content:
           -
             type: text
-            text: 'Krijg toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
+            text: 'Wanneer het lichaam langdurig in een bescherm- of overleefstand staat, is herstellen niet mogelijk. Het systeem blijft dan gericht op volhouden, niet op herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Losse behandelingen grijpen vaak in op één moment of één onderdeel. Dat kan tijdelijk verlichting geven, maar verandert niet wat klachten in stand houdt in het dagelijks leven.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daarom werken wij met online begeleiding. Zo kan ondersteuning plaatsvinden door de hele dag heen, op de momenten waarop het lichaam reageert, niet alleen tijdens een afspraak.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We kijken naar het lichaam als één geheel. Naar de samenhang tussen alle ketens en factoren die herstel beïnvloeden. Op basis daarvan werken we gericht aan wat het herstel tegenwerkt, met een op maat gemaakt plan dat past bij jouw situatie en belastbaarheid.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit is geen quick fix, maar een traject met opbouw, herhaling en begeleiding.'
     items:
       -
         id: m7xzqfyb
@@ -1297,7 +1329,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770474236
+updated_at: 1770477860
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
