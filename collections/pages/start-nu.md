@@ -1029,9 +1029,11 @@ page_builder:
                       -
                         type: text
                         text: 'Twijfel je of onze aanpak bij jou past?'
-                show_tag: true
-                tag_text: 'Kantel Scan'
-                tag_alignment: left
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
           -
             type: paragraph
             attrs:
@@ -1459,6 +1461,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770508311
+updated_at: 1770508372
 use_white_header: false
 ---
