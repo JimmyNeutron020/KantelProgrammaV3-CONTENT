@@ -1031,29 +1031,22 @@ page_builder:
                         text: 'Twijfel je of onze aanpak bij jou past?'
                 show_tag: true
                 tag_text: 'Kantel Scan'
-                tag_alignment: right
+                tag_alignment: left
           -
-            type: set
+            type: paragraph
             attrs:
-              id: mlcyv6km
-              values:
-                type: icon_list
-                iconlist:
+              class: null
+            content:
+              -
+                type: text
+                marks:
                   -
-                    id: mlcyv7w4
-                    fa_icon: 'fa-regular fa-person-rays'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Zoomsessie op afspraak'
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Zoomsessie op afspraak'
           -
             type: paragraph
             attrs:
@@ -1466,6 +1459,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770508221
+updated_at: 1770508311
 use_white_header: false
 ---
