@@ -916,7 +916,7 @@ page_builder:
                     type: text
                     text: Inspiratie
             show_tag: true
-            tag_text: 'Prachtige verhalen'
+            tag_text: 'Van ervaringsdeskundigen'
             tag_alignment: right
       -
         type: paragraph
@@ -1329,6 +1329,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770506472
+updated_at: 1770506534
 use_white_header: false
 ---
