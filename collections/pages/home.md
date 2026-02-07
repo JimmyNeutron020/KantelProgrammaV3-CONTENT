@@ -574,7 +574,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+            text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
     items:
       -
         id: mhge0cl9
@@ -1280,7 +1280,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770486626
+updated_at: 1770487777
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
