@@ -943,7 +943,27 @@ page_builder:
       spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mlctsqfp
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770498029
+updated_at: 1770499752
 use_white_header: false
 ---
