@@ -271,6 +271,21 @@ page_builder:
                           -
                             type: text
                             text: ' om weer écht te leven als vrouw, partner én moeder.'
+          -
+            type: set
+            attrs:
+              id: mldlord8
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 3wMShoew
+                    label: Inschrijven
+                    link_type: link
+                    target_blank: false
+                    link: '#inschrijven-webinar'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
       -
@@ -423,6 +438,21 @@ page_builder:
                           -
                             type: text
                             text: "En waar wij een duidelijke grens trekken: vrouwen hoeven zich niet neer te leggen bij klachten omdat er 'lichamelijk niets mis' zou zijn. "
+          -
+            type: set
+            attrs:
+              id: mldlpmc6
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: hJhUAzId
+                    label: Inschrijven
+                    link_type: link
+                    target_blank: false
+                    link: '#inschrijven-webinar'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
       -
@@ -571,6 +601,8 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
@@ -578,6 +610,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: italic
               -
@@ -588,6 +622,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: btsSpan
                 attrs:
@@ -606,6 +642,8 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
@@ -618,6 +656,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: btsSpan
                 attrs:
@@ -635,6 +675,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: btsSpan
                 attrs:
@@ -655,6 +697,25 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Dan is dit webinar voor jou.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mldlqivv
+          values:
+            type: buttons
+            buttons:
+              -
+                id: RawDlnKs
+                label: Inschrijven
+                link_type: link
+                target_blank: false
+                link: '#inschrijven-webinar'
+                button_layout: solid
+                button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -670,63 +731,6 @@ page_builder:
       spacing_mobile: standard
     type: ResultsCtaSection
     enabled: true
-  -
-    id: mij4lcm2
-    content:
-      -
-        type: set
-        attrs:
-          id: mij4lvbe
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Schrijf je in voor het webinar'
-            show_tag: true
-            tag_text: Gratis!
-            tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Dit is jouw moment om het anders te doen. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Ontdek wat wél werkt bij chronische bekkenpijn, zonder harder te vechten. Kies een moment dat voor jou past. Je zit nergens aan vast.'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
-    anchor_id: inschrijven-webinar-2
   -
     id: mij4m66i
     color: '#ffffff'
@@ -825,7 +829,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Twijfel of vragen?'
+                    text: 'Vragen?'
             show_tag: false
       -
         type: paragraph
@@ -842,7 +846,11 @@ page_builder:
         content:
           -
             type: text
-            text: 'We kijk in vertrouwen met je mee'
+            text: 'We kijk in vertrouwen met je mee.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
@@ -901,7 +909,64 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
+  -
+    id: mij4lcm2
+    content:
+      -
+        type: set
+        attrs:
+          id: mij4lvbe
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Schrijf je in voor het webinar'
+            show_tag: true
+            tag_text: Gratis!
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dit is jouw moment om het anders te doen. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ontdek wat wél werkt bij chronische bekkenpijn, zonder harder te vechten. Kies een moment dat voor jou past. Je zit nergens aan vast.'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+    anchor_id: inschrijven-webinar-2
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770546439
+updated_at: 1770546675
 use_white_header: true
 ---
