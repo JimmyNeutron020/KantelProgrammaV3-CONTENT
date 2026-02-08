@@ -101,58 +101,26 @@ page_builder:
       -
         type: set
         attrs:
-          id: mldkfgz0
+          id: mldkjs46
           values:
-            type: icon_list
-            iconlist:
+            type: flex_icons
+            flex_icons:
               -
-                id: mldkfhr5
+                id: mldkjssp
                 fa_icon: 'fa-regular fa-trophy'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Unieke methode'
+                text: 'Unieke methode'
               -
-                id: mldkfr48
+                id: mldkjzwo
                 fa_icon: 'fa-regular fa-heart'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Vertrouwen terug'
+                text: 'Vertrouwen terug'
               -
-                id: mldkgbnj
+                id: mldkkvqk
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: '24/7 in jouw leven'
+                text: '24/7 in jouw leven'
               -
-                id: mldkgr7s
+                id: mldklbxb
                 fa_icon: 'fa-regular fa-person-rays'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Body & Mind'
+                text: 'Body & Mind'
       -
         type: paragraph
         attrs:
@@ -270,6 +238,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770544561
+updated_at: 1770544712
 use_white_header: false
 ---
