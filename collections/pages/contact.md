@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma_live-134.jpg
       show_swiper_controls: false
@@ -41,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: Contact
+                    text: 'Vragen?'
             show_tag: false
       -
         type: paragraph
@@ -76,7 +74,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vragen?'
+                    text: 'Stel je vraag'
             show_tag: true
             tag_text: 'Niets te gek!'
             tag_alignment: right
@@ -87,7 +85,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen via het onderstaande formulier, helemaal privé. Benieuwd welke vragen andere vrouwen hadden vóórdat ze begonnen? Kijk dan bij de veelgestelde vragen.'
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen via het onderstaande formulier, helemaal privé. Benieuwd welke vragen andere vrouwen hadden? Kijk dan bij de veelgestelde vragen.'
       -
         type: set
         attrs:
@@ -137,10 +135,8 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Leer ons kennen'
-            show_tag: true
-            tag_text: Graag!
-            tag_alignment: right
+                    text: 'Eerst voelen of dit bij jou past?'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -148,7 +144,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis opties hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+            text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -165,5 +161,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769260386
+updated_at: 1770550577
+use_white_header: false
 ---
