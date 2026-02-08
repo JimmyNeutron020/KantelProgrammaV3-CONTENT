@@ -4,93 +4,6 @@ blueprint: page
 title: 'Kantel Webinar'
 page_builder:
   -
-    id: miiyjz79
-    full_height: false
-    layout_setting: media
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - fotofolies-x-kantelprogramma-paul-en-chantal-34.jpg
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: miiykfbd
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Een andere kijk op chronische bekkenpijn'
-            show_tag: false
-      -
-        type: set
-        attrs:
-          id: mij5m7qm
-          values:
-            type: buttons
-            buttons:
-              -
-                id: HlRgPtBF
-                label: Inschrijven
-                link_type: link
-                target_blank: false
-                link: '#inschrijven-webinar'
-                button_layout: solid
-                button_colour: orange
-                email: chantal@kantelprogramma.nl
-              -
-                id: mij5mkkf
-                label: 'Meer informatie'
-                link_type: link
-                target_blank: false
-                link: '#herken-je-dit'
-                button_layout: standard
-                button_colour: white
-    type: HeroSection
-    enabled: true
-  -
-    id: mij3d05u
-    color: '#ffffff'
-    heading_size: M
-    show_tag: false
-    webinar_id: webinar_script_1
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: small
-      spacing_mobile: small
-    inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: WebinarScript
-    enabled: true
-    anchor_id: inschrijven-webinar
-  -
     id: miizf11s
     content:
       -
@@ -115,13 +28,13 @@ page_builder:
               -
                 type: heading
                 attrs:
-                  level: 2
+                  level: 1
                 content:
                   -
                     type: text
-                    text: 'Leven met chronische pijn is niet normaal'
+                    text: 'Voorgoed afrekenen met chronische bekkenpijn'
             show_tag: true
-            tag_text: 'Gratis webinar'
+            tag_text: 'Ontdek hoe'
             tag_alignment: right
       -
         type: paragraph
@@ -141,8 +54,8 @@ page_builder:
             text: 'In dit webinar nemen we je mee in een andere kijk op chronische bekkenpijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: small
-      spacing_mobile: small
+      spacing_desktop: big
+      spacing_mobile: big
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -154,6 +67,29 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+  -
+    id: mij3d05u
+    color: '#ffffff'
+    heading_size: M
+    show_tag: false
+    webinar_id: webinar_script_1
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: small
+      spacing_mobile: small
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: WebinarScript
+    enabled: true
+    anchor_id: inschrijven-webinar
   -
     id: mlcqjwof
     color: '#ffffff'
@@ -951,6 +887,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770545952
+updated_at: 1770546104
 use_white_header: true
 ---
