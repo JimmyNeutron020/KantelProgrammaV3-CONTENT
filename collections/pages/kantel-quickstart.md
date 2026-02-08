@@ -329,7 +329,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Dan wil je dit niet missen. In ons '
+            text: 'In ons '
           -
             type: text
             marks:
@@ -339,7 +339,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'gratis webinar'
+            text: webinar
           -
             type: text
             marks:
@@ -422,7 +422,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een vraag over de Kantel Quickstart, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Heb je een persoonlijke vraag dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden vóórdat ze starten? Kijk dan even bij de veelgestelde vragen.'
+            text: 'Heb je een vraag over de Kantel Quickstart, twijfel je of het bij jouw situatie past of wil je iets met ons delen voordat je je inschrijft? Heb je een persoonlijke vraag dan mag je ons rechtstreeks een bericht sturen, helemaal privé. Wil je weten welke vragen andere vrouwen hadden? Kijk dan even bij de veelgestelde vragen.'
       -
         type: paragraph
         attrs:
@@ -509,7 +509,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770550876
+updated_at: 1770550950
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
