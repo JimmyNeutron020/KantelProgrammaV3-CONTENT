@@ -280,7 +280,7 @@ page_builder:
                 buttons:
                   -
                     id: 3wMShoew
-                    label: Inschrijven
+                    label: 'Bekijk webinar'
                     link_type: link
                     target_blank: false
                     link: '#inschrijven-webinar'
@@ -447,7 +447,7 @@ page_builder:
                 buttons:
                   -
                     id: hJhUAzId
-                    label: Inschrijven
+                    label: 'Bekijk webinar'
                     link_type: link
                     target_blank: false
                     link: '#inschrijven-webinar'
@@ -710,7 +710,7 @@ page_builder:
             buttons:
               -
                 id: RawDlnKs
-                label: Inschrijven
+                label: 'Bekijk webinar'
                 link_type: link
                 target_blank: false
                 link: '#inschrijven-webinar'
@@ -1016,6 +1016,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770547426
+updated_at: 1770548619
 use_white_header: true
 ---
