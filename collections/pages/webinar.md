@@ -742,9 +742,9 @@ page_builder:
         content:
           -
             type: text
-            text: 'Deze vrouwen gingen je voor'
+            text: Verhalen
     show_tag: false
-    color: '#ffffff'
+    color: '#f5f5f7'
     use_first_eight: true
     content:
       -
@@ -756,7 +756,7 @@ page_builder:
             buttons:
               -
                 id: MqR3sImi
-                label: 'Bekijk alle resultaten'
+                label: 'Bekijk alle verhalen'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -965,6 +965,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770546863
+updated_at: 1770546927
 use_white_header: true
 ---
