@@ -436,7 +436,7 @@ page_builder:
             buttons:
               -
                 id: mvQJbVLu
-                label: 'Persoonlijke vraag'
+                label: 'Stel je vraag'
                 link_type: link
                 target_blank: false
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
@@ -483,10 +483,8 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Ook interessant voor jou'
-            show_tag: true
-            tag_text: 'En gratis!'
-            tag_alignment: right
+                    text: 'Voelen of dit bij jou past?'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -494,7 +492,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis opties hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+            text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -511,7 +509,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769624627
+updated_at: 1770550876
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
