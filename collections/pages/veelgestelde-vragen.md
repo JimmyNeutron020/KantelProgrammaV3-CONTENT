@@ -149,7 +149,7 @@ page_builder:
           id: mjaefsr9
           values:
             type: heading
-            heading_size: S
+            heading_size: M
             heading:
               -
                 type: heading
@@ -184,6 +184,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770545134
+updated_at: 1770545170
 use_white_header: false
 ---
