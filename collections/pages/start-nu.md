@@ -878,7 +878,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: Inspiratie
+                    text: 'Je bent niet alleen'
             show_tag: false
       -
         type: paragraph
@@ -1458,7 +1458,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770583647
+updated_at: 1770586336
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
