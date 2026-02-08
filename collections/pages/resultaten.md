@@ -214,10 +214,8 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Gratis om mee te nemen!'
-            show_tag: true
-            tag_text: 'Ja echt!'
-            tag_alignment: right
+                    text: 'Eerst voelen of dit bij jou past?'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -225,7 +223,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wil je ons eerst beter leren kennen of voelen of onze aanpak bij je past? Kies dan één van de gratis kansen hieronder: van webinar en e-book tot podcast, inzichtentraject en persoonlijke scan. Zo zet je zonder verplichtingen toch alvast een eerste stap richting herstel en vertrouwen in je lijf.'
+            text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -242,6 +240,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770544765
+updated_at: 1770544830
 use_white_header: false
 ---
