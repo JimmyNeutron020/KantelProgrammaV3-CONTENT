@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je hoeft niet te leren leven met bekkenpijn.'
+                    text: 'Je hoeft niet te leren leven met bekkenpijn'
             show_tag: false
       -
         type: paragraph
@@ -275,7 +275,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je bent niet de enige. '
+                    text: 'Je bent niet de enige'
             show_tag: false
       -
         type: paragraph
@@ -484,19 +484,10 @@ page_builder:
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            text: "Wanneer een topsporter geblesseerd raakt, is één ding vanzelfsprekend: er komt begeleiding omheen, er wordt zorgvuldig gekeken en alles staat in het teken van herstel. Niemand zegt:\_"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: '“Leer er maar mee leven.” '
-          -
-            type: text
-            text: 'Precies zo serieus nemen wij ook jouw lichaam en jouw klachten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -504,7 +495,47 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat is wat wij bedoelen met een topsportbenadering van herstel.'
+            text: 'Wanneer een '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'topsporter geblesseerd '
+          -
+            type: text
+            text: 'raakt, is één ding vanzelfsprekend: er komt begeleiding omheen, er wordt zorgvuldig gekeken en alles staat in het teken van herstel. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Niemand zegt:\_"
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: “
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Leer er maar mee leven'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '.” '
+          -
+            type: text
+            text: 'Precies zo serieus nemen wij ook jouw lichaam en jouw klachten. Dat is wat wij bedoelen met een topsportbenadering van herstel.'
       -
         type: paragraph
         attrs:
@@ -566,10 +597,55 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Topsportbenadering betekent voor ons: jij krijgt dezelfde aandacht, structuur en toewijding die we voor een topsporter vanzelfsprekend vinden. '
+            text: Topsportbenadering
           -
             type: text
-            text: "En van jou vragen we\_commitment, geen perfectie: bereidheid om aanwezig te zijn in je proces en het niet meer alleen te dragen."
+            text: ' betekent voor ons'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ': '
+          -
+            type: text
+            text: 'jij krijgt dezelfde'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' aandacht'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: structuur
+          -
+            type: text
+            text: ' en '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'toewijding '
+          -
+            type: text
+            text: 'die we voor een topsporter vanzelfsprekend vinden.'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: "En van jou vragen we\_commitment, geen perfectie: bereidheid om aanwezig te zijn in je proces. Je hoeft dit niet langer alleen te dragen."
       -
         type: paragraph
         attrs:
@@ -629,7 +705,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Eerst voelen of dit bij jou past?'
+                    text: 'Eerst voelen of dit bij je past?'
             show_tag: false
       -
         type: paragraph
@@ -977,7 +1053,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen. Onze manier van werken ontstond niet op papier, maar in de praktijk. In ons lifestyle hotel begeleidden we vrouwen die tijdelijk bij ons verbleven om 24/7 te werken aan herstel. Juist daar zagen we wat wél werkte en waarom.'
+            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen. Onze manier van werken ontstond niet op papier, maar in de praktijk. In ons leefstijl hotel begeleidden we vrouwen die tijdelijk bij ons verbleven om 24/7 te werken aan herstel. Juist daar zagen we wat wél werkte en waarom.'
       -
         type: paragraph
         attrs:
@@ -993,7 +1069,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wat daar samenkwam, hebben we vertaald naar het Kantel Programma. Een online traject waarin begeleiding niet draait om losse momenten, maar meeloopt in het dagelijks leven. Gericht op samenhang, veiligheid en duurzame verandering.'
+            text: 'Wat daar samenkwam, hebben we vertaald naar het Kantel Programma. Een online traject waarin herstel geen losse momenten zijn, maar een leefwijze wordt. Gericht op duurzame verandering mét vertrouwen in je lichaam.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -1270,7 +1346,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vragen?'
+                    text: 'Twijfel of een vraag? '
             show_tag: false
       -
         type: paragraph
@@ -1279,7 +1355,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+            text: 'Je hoeft het nog niet zeker te weten. Soms helpt het om even te overleggen of iets uit te spreken. We lezen met aandacht en reageren persoonlijk.'
       -
         type: paragraph
         attrs:
@@ -1287,34 +1363,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden? Kijk dan bij de veelgestelde vragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: m7ymt3cu
-          values:
-            type: buttons
-            buttons:
-              -
-                id: mts64kAI
-                label: 'Stel je vraag'
-                link_type: link
-                target_blank: false
-                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
-                button_layout: solid
-                button_colour: orange
-              -
-                id: m7ymti2x
-                label: 'Veelgestelde vragen'
-                link_type: link
-                target_blank: false
-                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
-                button_colour: orange
+            text: 'In de veelgestelde vragen zie je vragen die bijna iedere vrouw stelt vóór ze de keuze maakt. Misschien herken je jezelf erin en voel je al wat rust bij het lezen.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -1360,7 +1409,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770584629
+updated_at: 1770585850
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
