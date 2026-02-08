@@ -732,26 +732,6 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
-    id: mij4m66i
-    color: '#ffffff'
-    webinar_id: webinar_script_2
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: WebinarScript
-    enabled: true
-  -
     id: mij1y309
     heading_size: S
     heading:
@@ -796,6 +776,26 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: ResultsSlider
+    enabled: true
+  -
+    id: mlctsqfp
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
     enabled: true
   -
     id: mij4nb84
@@ -890,26 +890,6 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
   -
-    id: mlctsqfp
-    collection_type: members
-    display_mode: all
-    show_tag: false
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TeamShowcase
-    enabled: true
-  -
     id: mij4lcm2
     content:
       -
@@ -966,7 +946,27 @@ page_builder:
     type: IntoSection
     enabled: true
     anchor_id: inschrijven-webinar-2
+  -
+    id: mij4m66i
+    color: '#ffffff'
+    webinar_id: webinar_script_2
+    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: WebinarScript
+    enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770546675
+updated_at: 1770546774
 use_white_header: true
 ---
