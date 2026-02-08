@@ -852,7 +852,7 @@ page_builder:
               buttons:
                 -
                   id: VFXF9o5g
-                  label: 'Start nu'
+                  label: Aanmelden
                   link_type: link
                   target_blank: false
                   link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
@@ -873,7 +873,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: UspSection
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769977798
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1770550712
 use_white_header: false
 ---
