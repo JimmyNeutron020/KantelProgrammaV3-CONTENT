@@ -77,28 +77,82 @@ page_builder:
     type: ResultatenOverview
     enabled: true
   -
-    id: mjael5wp
-    color: '#f7e7de'
+    id: mldkepq2
     content:
       -
         type: set
         attrs:
-          id: mjaelhyg
+          id: mldkesce
           values:
             type: heading
             heading_size: M
             heading:
               -
-                type: paragraph
+                type: heading
                 attrs:
-                  class: null
+                  level: 2
                 content:
                   -
                     type: text
-                    text: 'Kantel Programma'
+                    text: 'Onze aanpak'
             show_tag: true
-            tag_text: 'Niet voor doetjes!'
+            tag_text: 'Werken aan herstel'
             tag_alignment: right
+      -
+        type: set
+        attrs:
+          id: mldkfgz0
+          values:
+            type: icon_list
+            iconlist:
+              -
+                id: mldkfhr5
+                fa_icon: 'fa-regular fa-trophy'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Unieke methode'
+              -
+                id: mldkfr48
+                fa_icon: 'fa-regular fa-heart'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Vertrouwen terug'
+              -
+                id: mldkgbnj
+                fa_icon: 'fa-regular fa-arrow-rotate-right'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '24/7 in jouw leven'
+              -
+                id: mldkgr7s
+                fa_icon: 'fa-regular fa-person-rays'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Body & Mind'
       -
         type: paragraph
         attrs:
@@ -106,151 +160,55 @@ page_builder:
         content:
           -
             type: text
-            text: 'Het programma geeft je toegang tot alle kennis en ervaring van Chantal en Paul in één heldere aanpak. Met een topsportbenadering leer je je leven 24/7 zo in te richten dat je lichaam kan herstellen en jij weer vertrouwen krijgt in je eigen lijf.'
-    items:
+            text: 'Wanneer het lichaam langdurig in een bescherm- of overleefstand staat, is herstellen niet mogelijk. Het systeem blijft dan gericht op volhouden, niet op herstel.'
       -
-        id: mjaelzgk
-        icon: 'fa-regular fa-trophy'
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Unieke methode'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Een topsportbenadering met begeleiding op alle fronten.'
-        type: new_set
-        enabled: true
+            type: text
+            text: 'Losse behandelingen grijpen vaak in op één moment of één onderdeel. Dat kan tijdelijk verlichting geven, maar verandert niet wat klachten in stand houdt in het dagelijks leven.'
       -
-        id: mjaemyc6
-        icon: 'fa-regular fa-heart'
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Vertrouwen terug'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je leert weer vertrouwen op een lichaam dat met je meewerkt.'
-        type: new_set
-        enabled: true
+            type: text
+            text: 'Daarom werken wij met online begeleiding. Zo kan ondersteuning plaatsvinden door de hele dag heen, op de momenten waarop het lichaam reageert, niet alleen tijdens een afspraak.'
       -
-        id: mjaennff
-        icon: 'fa-regular fa-arrow-rotate-right'
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: '24/7 in jouw leven'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Herstel als 24/7 leefwijze: elke keuze in je dag telt.'
-        type: new_set
-        enabled: true
+            type: text
+            text: 'We kijken naar het lichaam als één geheel. Naar de samenhang tussen alle ketens en factoren die herstel beïnvloeden. Op basis daarvan werken we gericht aan wat het herstel tegenwerkt, met een op maat gemaakt plan dat past bij jouw situatie en belastbaarheid.'
       -
-        id: mjaeoc81
-        icon: 'fa-regular fa-person-rays'
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+            type: text
+            text: 'Dit is geen quick fix, maar een traject met opbouw, herhaling en begeleiding.'
+      -
+        type: set
+        attrs:
+          id: mldkhgiv
+          values:
+            type: buttons
+            buttons:
               -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Body & Mind'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Body en Mind leren weer als één team samenwerken voor herstel.'
-        type: new_set
-        enabled: true
-    show_callout: true
-    callout:
-      content:
-        -
-          type: set
-          attrs:
-            id: mjaeqcoj
-            values:
-              type: heading
-              heading_size: XS
-              heading:
-                -
-                  type: heading
-                  attrs:
-                    level: 3
-                  content:
-                    -
-                      type: text
-                      text: 'Waarom werkt dit wel?'
-              show_tag: false
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Het werkt omdat we met een unieke kijk op herstel je hele systeem kantelen: body & mind, zenuwstelsel en dagelijks leven, zodat je lichaam écht de kans krijgt om te herstellen.'
-        -
-          type: set
-          attrs:
-            id: mjaeqs5z
-            values:
-              type: buttons
-              buttons:
-                -
-                  id: a2dClPDQ
-                  label: 'Start nu'
-                  link_type: link
-                  target_blank: false
-                  link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
-                  button_layout: solid
-                  button_colour: orange
+                id: GsNIXCn9
+                label: 'Meer informatie'
+                link_type: link
+                target_blank: false
+                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                button_layout: solid
+                button_colour: orange
+                umami_event_name: more-info-results-start-nu
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -264,7 +222,7 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: UspSection
+    type: IntoSection
     enabled: true
   -
     id: mjaesdo8
@@ -311,7 +269,7 @@ page_builder:
       spacing_mobile: standard
     type: PackageCards
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769978112
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1770544561
 use_white_header: false
 ---
