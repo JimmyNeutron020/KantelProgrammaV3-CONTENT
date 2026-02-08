@@ -36,22 +36,6 @@ page_builder:
             show_tag: true
             tag_text: 'Ontdek hoe'
             tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            text: 'Je klachten zijn geen teken dat je lichaam faalt. Ze zijn een signaal dat je te lang hebt moeten overleven. En dat er een andere manier nodig is.'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            text: 'In dit webinar nemen we je mee in een andere kijk op chronische bekkenpijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: big
@@ -91,26 +75,38 @@ page_builder:
     enabled: true
     anchor_id: inschrijven-webinar
   -
-    id: mlcqjwof
-    color: '#ffffff'
-    heading_size: M
-    show_tag: false
-    webinar_id: webinar_script_1
-    webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
+    id: mldlji21
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je klachten zijn geen teken dat je lichaam faalt. Ze zijn een signaal dat je te lang hebt moeten overleven. En dat er een andere manier nodig is.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'In dit webinar nemen we je mee in een andere kijk op chronische bekkenpijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
+      spacing_desktop: standard
+      spacing_mobile: standard
     outer_spacing_top:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: WebinarScript
+    type: IntoSection
     enabled: true
   -
     id: mij08w47
@@ -887,6 +883,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770546164
+updated_at: 1770546306
 use_white_header: true
 ---
