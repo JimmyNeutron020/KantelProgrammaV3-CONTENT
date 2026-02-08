@@ -26,7 +26,7 @@ page_builder:
           id: mhkyxgkr
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: heading
@@ -1496,6 +1496,6 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770508552
+updated_at: 1770509309
 use_white_header: false
 ---
