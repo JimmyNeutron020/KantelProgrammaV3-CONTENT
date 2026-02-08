@@ -93,6 +93,25 @@ page_builder:
           -
             type: text
             text: 'In dit webinar nemen we je mee in een andere kijk op chronische bekkenpijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+      -
+        type: set
+        attrs:
+          id: mldlm92e
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 6aUJy3qY
+                label: 'Meer informatie'
+                link_type: link
+                target_blank: false
+                link: '#herken-je-dit'
+                button_layout: solid
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: small
@@ -883,6 +902,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770546306
+updated_at: 1770546439
 use_white_header: true
 ---
