@@ -119,7 +119,7 @@ page_builder:
             buttons:
               -
                 id: I1E9iiKn
-                label: 'Persoonlijke vraag'
+                label: 'Stel je vraag'
                 link_type: link
                 target_blank: false
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
@@ -184,6 +184,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770545170
+updated_at: 1770550468
 use_white_header: false
 ---
