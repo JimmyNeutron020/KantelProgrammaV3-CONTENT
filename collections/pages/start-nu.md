@@ -40,7 +40,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: Aanmelden
+                    text: 'Je hoeft dit niet alleen te doen'
             show_tag: false
       -
         type: paragraph
@@ -54,30 +54,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
-      -
-        type: set
-        attrs:
-          id: mhl0zyu1
-          values:
-            type: buttons
-            buttons:
-              -
-                id: F8XozxA3
-                label: Aanmelden
-                link_type: link
-                target_blank: false
-                link: '#aanmelden'
-                button_layout: solid
-                button_colour: white
-              -
-                id: mhl106o0
-                label: 'Meer informatie'
-                link_type: link
-                target_blank: false
-                link: '#brief-aan-jou'
-                button_layout: standard
-                button_colour: white
+            text: 'Een gedragen herstelprogramma voor vrouwen met chronische bekkenpijn die al zoveel geprobeerd hebben en hun leven, stap voor stap, terug willen. '
     type: HeroSection
     enabled: true
   -
@@ -103,7 +80,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Deze begeleiding helpt je niet alleen vooruit. Het geeft je veiligheid, richting en rust in je herstel. Iemand die met je meekijkt wanneer het spannend wordt. Niet alleen wanneer het goed gaat, maar juist wanneer je lichaam of hoofd terugschiet.'
+            text: 'Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Deze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
       -
         type: paragraph
         attrs:
@@ -111,7 +88,16 @@ page_builder:
         content:
           -
             type: text
-            text: "Je betaalt niet voor modules, je investeert in 'je leven terug'. "
+            text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'je leven terug'
+          -
+            type: text
+            text: '. '
     color: '#ffffff'
     package_content:
       -
@@ -1472,7 +1458,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770581976
+updated_at: 1770582605
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
