@@ -25,7 +25,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: heading
@@ -42,19 +42,6 @@ page_builder:
                     text: 'Een andere kijk op chronische bekkenpijn'
             show_tag: false
       -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je hebt van alles al geprobeerd, maar je bekkenpijn blijft. In dit gratis webinar ontdek je waarom, en welke kanteling nodig is om weer rust, energie en vertrouwen in je lichaam te krijgen.'
-      -
         type: set
         attrs:
           id: mij5m7qm
@@ -63,7 +50,7 @@ page_builder:
             buttons:
               -
                 id: HlRgPtBF
-                label: 'Bekijk het webinar'
+                label: Inschrijven
                 link_type: link
                 target_blank: false
                 link: '#inschrijven-webinar'
@@ -72,7 +59,7 @@ page_builder:
                 email: chantal@kantelprogramma.nl
               -
                 id: mij5mkkf
-                label: 'Ontdek meer'
+                label: 'Meer informatie'
                 link_type: link
                 target_blank: false
                 link: '#herken-je-dit'
@@ -89,8 +76,8 @@ page_builder:
     webinar_identifier: 627df81c-d57f-434b-a823-e837c75eefb9
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
+      spacing_desktop: small
+      spacing_mobile: small
     inner_spacing_bottom:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
@@ -102,6 +89,7 @@ page_builder:
       spacing_mobile: standard
     type: WebinarScript
     enabled: true
+    anchor_id: inschrijven-webinar
   -
     id: miizf11s
     content:
@@ -166,7 +154,6 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
-    anchor_id: inschrijven-webinar
   -
     id: mlcqjwof
     color: '#ffffff'
@@ -963,7 +950,7 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770499752
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1770545912
 use_white_header: false
 ---
