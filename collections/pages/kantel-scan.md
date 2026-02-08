@@ -298,6 +298,27 @@ page_builder:
     id: mka3bweo
     content:
       -
+        type: set
+        attrs:
+          id: mldnqi1q
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: Intakeformulier
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
         type: paragraph
         attrs:
           class: null
@@ -370,7 +391,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Dan wil je dit niet missen. In ons '
+            text: 'In ons'
           -
             type: text
             marks:
@@ -380,7 +401,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'gratis webinar'
+            text: ' webinar'
           -
             type: text
             marks:
@@ -441,10 +462,8 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Eerst voelen of dit bij je past'
-            show_tag: true
-            tag_text: 'Zonder verplichtingen'
-            tag_alignment: right
+                    text: 'Eerst voelen of dit bij je past?'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -452,7 +471,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je hoeft hier niets te beslissen. Je kunt op je eigen tempo kennismaken met onze visie en manier van werken. Kies wat voor jou nu passend voelt.'
+            text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -499,7 +518,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Twijfels of vragen?'
+                    text: 'Vragen?'
             show_tag: false
       -
         type: paragraph
@@ -508,7 +527,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je nog tegenhoudt of vragen oproept, mag je aan ons voorleggen. '
+            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
       -
         type: paragraph
         attrs:
@@ -516,15 +535,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een persoonlijke vraag of twijfel, dan kun je ons rechtstreeks een bericht sturen. Volledig vertrouwelijk.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Veel vragen die je nu hebt, hadden andere vrouwen ook al vóórdat ze begonnen. Je vindt ze terug bij de veelgestelde vragen.'
+            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden? Kijk dan bij de veelgestelde vragen.'
       -
         type: paragraph
         attrs:
@@ -587,8 +598,8 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770499819
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1770550095
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
