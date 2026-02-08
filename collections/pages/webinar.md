@@ -732,6 +732,57 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
+    id: mldm3ly4
+    content:
+      -
+        type: set
+        attrs:
+          id: mldm3q1p
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: Inspiratie
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In hun verhalen delen zij hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+  -
     id: mij1y309
     heading_size: S
     heading:
@@ -965,6 +1016,6 @@ page_builder:
     type: WebinarScript
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770547055
+updated_at: 1770547281
 use_white_header: true
 ---
