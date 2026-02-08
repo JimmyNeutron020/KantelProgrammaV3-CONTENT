@@ -162,6 +162,10 @@ page_builder:
             type: text
             text: 'Dit is geen quick fix, maar een traject met opbouw, herhaling en begeleiding.'
       -
+        type: paragraph
+        attrs:
+          class: null
+      -
         type: set
         attrs:
           id: mldkhgiv
@@ -238,6 +242,6 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770544712
+updated_at: 1770544765
 use_white_header: false
 ---
