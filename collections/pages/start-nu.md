@@ -915,9 +915,7 @@ page_builder:
                   -
                     type: text
                     text: Inspiratie
-            show_tag: true
-            tag_text: 'Van ervaringsdeskundigen'
-            tag_alignment: right
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -1496,7 +1494,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770509444
+updated_at: 1770509623
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
