@@ -1383,15 +1383,8 @@ page_builder:
                 link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
                 button_layout: solid
                 button_colour: orange
-      -
-        type: set
-        attrs:
-          id: mlgblksi
-          values:
-            type: buttons
-            buttons:
               -
-                id: HjKyppDv
+                id: mlgbn6vt
                 label: 'Veelgestelde vragen'
                 link_type: link
                 target_blank: false
@@ -1443,7 +1436,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770711009
+updated_at: 1770711073
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
