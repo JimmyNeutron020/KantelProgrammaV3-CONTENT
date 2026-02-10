@@ -1346,7 +1346,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Twijfel of een vraag? '
+                    text: 'Vragen? '
             show_tag: false
       -
         type: paragraph
@@ -1364,6 +1364,40 @@ page_builder:
           -
             type: text
             text: 'In de veelgestelde vragen zie je vragen die bijna iedere vrouw stelt vóór ze de keuze maakt. Misschien herken je jezelf erin en voel je al wat rust bij het lezen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mlgbl4rn
+          values:
+            type: buttons
+            buttons:
+              -
+                id: HjKyppDv
+                label: 'Stel je vraag'
+                link_type: link
+                target_blank: false
+                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+                button_layout: solid
+                button_colour: orange
+      -
+        type: set
+        attrs:
+          id: mlgblksi
+          values:
+            type: buttons
+            buttons:
+              -
+                id: HjKyppDv
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -1408,8 +1442,8 @@ page_builder:
             type: text
             text: 'Kennis & nieuws'
     show_tag: false
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770585850
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1770711009
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
