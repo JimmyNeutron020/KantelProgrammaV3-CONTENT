@@ -13,9 +13,7 @@ media:
   video: true
   autoplay_video: false
   video_link: 'https://vimeo.com/953918952'
-  preview_image: paula2.jpg
-  images: {  }
-  show_swiper_controls: null
+  preview_image: schermafbeelding-2026-02-11-om-09.15.55.png
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -28,5 +26,5 @@ klachten:
   - rug
   - vermoeidheid
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767128437
+updated_at: 1770797815
 ---
