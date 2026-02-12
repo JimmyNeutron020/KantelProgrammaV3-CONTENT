@@ -161,11 +161,101 @@ page_builder:
     type: IntoSection
     enabled: true
   -
-    id: mlctw9pp
-    collection_type: members
-    display_mode: all
-    show_tag: false
-    show_settings: false
+    id: mljsx12z
+    color: '#f7e7de'
+    swap_layout: true
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - kantel-kompas.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Wil je alvast weten waar jij nu staat?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vrouwen starten na aanmelding voor het webinar met het '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Mini Boek'
+          -
+            type: text
+            text: ' | '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kantel Kompas'
+          -
+            type: text
+            text: ' '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Voor €4,95 krijg je helder inzicht in:'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '• waarom je klachten blijven terugkomen'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '• welke patronen je herstel blokkeren'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '• wat jouw eerstvolgende, veilige stap is'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Geen groot programma. Gewoon richting en overzicht.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '👉 Ja, ik wil mijn Kantel Kompas '
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -178,7 +268,7 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: TeamShowcase
+    type: QuestionsCtaSection
     enabled: true
   -
     id: mljstb6l
@@ -216,7 +306,27 @@ page_builder:
       spacing_mobile: standard
     type: FaqList
     enabled: true
+  -
+    id: mlctw9pp
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770921388
+updated_at: 1770922029
 use_white_header: false
 ---
