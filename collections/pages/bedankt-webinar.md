@@ -169,7 +169,7 @@ page_builder:
       autoplay_video: false
       images:
         - kantel-kompas.png
-      show_swiper_controls: false
+      show_swiper_controls: true
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -327,6 +327,6 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770922029
+updated_at: 1770923170
 use_white_header: false
 ---
