@@ -72,6 +72,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'Je aanmelding is gelukt!'
             show_tag: false
       -
@@ -175,7 +180,43 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
+  -
+    id: mljstb6l
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Veelgestelde vragen'
+    show_tag: false
+    color: '#ffffff'
+    layout_type: standard
+    content_source: module
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FaqList
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770501183
+updated_at: 1770921388
 use_white_header: false
 ---
