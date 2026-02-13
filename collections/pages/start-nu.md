@@ -380,7 +380,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'Fase 1 | Week 1 - 4'
+                text: 'Fase 1 | Module 1 - 4'
           -
             type: set
             attrs:
@@ -434,7 +434,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'Fase 2 | Week 5 - 9'
+                text: 'Fase 2 | Module 5 - 9'
           -
             type: set
             attrs:
@@ -488,7 +488,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'Fase 2 | Week 10 - 13, en de rest van jouw leven'
+                text: 'Fase 2 | Module 10 - 13'
           -
             type: set
             attrs:
@@ -504,7 +504,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Weer stralend leven'
+                        text: 'Van herstel naar verankering'
                 show_tag: false
           -
             type: paragraph
@@ -1679,7 +1679,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771002540
+updated_at: 1771002806
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
