@@ -168,10 +168,10 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - kantel-kompas.png
-      show_swiper_controls: true
-      autoplay: true
-      swiper_bullets: true
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
+      show_swiper_controls: false
+      autoplay: false
+      swiper_bullets: false
       play_pause_control: true
       sound_control: true
       fullscreen_control: true
@@ -251,10 +251,21 @@ page_builder:
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            text: '👉 Ja, ik wil mijn Kantel Kompas '
+      -
+        type: set
+        attrs:
+          id: mlku0ki5
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 6KwDVgM1
+                label: Downloaden
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-kompas'
+                button_layout: solid
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -326,7 +337,7 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1770923170
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1770983879
 use_white_header: false
 ---
