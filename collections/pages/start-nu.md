@@ -115,17 +115,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Investering in jouw herstel'
+                    text: 'Veilige eerste maand'
             show_tag: true
             tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Herstel is geen quickfix. Het is een proces dat tijd, begeleiding en aandacht vraagt. Als je voelt dat je niet langer wilt volhouden hoe pijn je leven bepaalt, dan is dit een begeleide manier om weer vertrouwen te krijgen in je lichaam en je leven terug te pakken. '
       -
         type: paragraph
         attrs:
@@ -136,13 +128,10 @@ page_builder:
             marks:
               -
                 type: bold
-              -
-                type: italic
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: '*Er zijn beperkte plekken beschikbaar om de begeleiding te kunnen waarborgen.'
+            text: '3 termijnen?'
+          -
+            type: text
+            text: ' In de eerste maand kun je stoppen. Alleen als je door wilt, volgt termijn 2.'
     pricing_tab_single_label: '3 Termijnen'
     pricing_tab_installments_label: Eenmalig
     price_single: '€ 499'
@@ -311,6 +300,42 @@ page_builder:
     type: EnrollmentProposal
     enabled: true
     anchor_id: aanmelden
+    price_content_single:
+      -
+        type: paragraph
+        attrs:
+          class: text-sm
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: '*Gelijk aan €125,- per week'
+    price_content_installments:
+      -
+        type: paragraph
+        attrs:
+          class: text-sm
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: '*Gelijk aan €111,- per week'
   -
     id: ml3t2w3y
     color: '#ffffff'
@@ -926,6 +951,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: mhl4c1fm
     heading_size: M
@@ -1458,7 +1484,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770983346
+updated_at: 1770998160
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
