@@ -115,7 +115,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Terug naar vertrouwen'
+                    text: 'Start met vertrouwen'
             show_tag: true
             tag_alignment: right
       -
@@ -271,7 +271,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Start mijn herstel'
+        label: 'Ik zet deze stap'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -1687,7 +1687,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771003413
+updated_at: 1771003711
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
