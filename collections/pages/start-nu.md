@@ -532,6 +532,148 @@ page_builder:
     type: ProgressSection
     enabled: true
   -
+    id: mlcyqqit
+    items:
+      -
+        id: mlcyqrt7
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mlcyqzbl
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Twijfel je of onze aanpak bij jou past?'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Zoomsessie op afspraak'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Geen standaard kennismakingsgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'een deskundige blik'
+              -
+                type: text
+                text: ' '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'op het geheel'
+              -
+                type: text
+                text: .
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'uitgebreid kantel scan formulier '
+              -
+                type: text
+                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens het gesprek onderzoeken we waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: mlcyrgmp
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: kTcYVpC1
+                    label: 'Plan afspraak'
+                    link_type: link
+                    target_blank: false
+                    link: '/kantel-scan#aanmeldformulier'
+                    button_layout: standard
+                    button_colour: orange
+                    umami_event_name: kantel-scan-from-aanmelden-kp
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: ml3t2w3y
     color: '#ffffff'
     background_image: brand/fotofolies-x-kantelprogramma_live-126.jpg
@@ -1179,148 +1321,6 @@ page_builder:
     enabled: true
     tag_text: Member
   -
-    id: mlcyqqit
-    items:
-      -
-        id: mlcyqrt7
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mlcyqzbl
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 2
-                    content:
-                      -
-                        type: text
-                        text: 'Twijfel je of onze aanpak bij jou past?'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'Zoomsessie op afspraak'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Geen standaard kennismakingsgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'een deskundige blik'
-              -
-                type: text
-                text: ' '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'op het geheel'
-              -
-                type: text
-                text: .
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'uitgebreid kantel scan formulier '
-              -
-                type: text
-                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Tijdens het gesprek onderzoeken we waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: set
-            attrs:
-              id: mlcyrgmp
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: kTcYVpC1
-                    label: 'Plan afspraak'
-                    link_type: link
-                    target_blank: false
-                    link: '/kantel-scan#aanmeldformulier'
-                    button_layout: standard
-                    button_colour: orange
-                    umami_event_name: kantel-scan-from-aanmelden-kp
-        type: new_set
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: true
-  -
     id: mika4xbu
     color: '#f7e7de'
     swap_layout: false
@@ -1679,7 +1679,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771002384
+updated_at: 1771002540
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
