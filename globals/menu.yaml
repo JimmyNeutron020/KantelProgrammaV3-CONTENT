@@ -44,6 +44,12 @@ data:
       link_type: internal
       target_blank: false
       internal_link: ba0a418f-5a92-40de-9945-5d60ba71d107
+    -
+      id: mll9t50k
+      label: 'Kantel Community'
+      link_type: internal
+      internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
+      target_blank: false
   show_featured_item: true
   heading_size: XS
   heading:
