@@ -145,9 +145,9 @@ page_builder:
             text: '*Er zijn beperkte plekken beschikbaar om de begeleiding te kunnen waarborgen.'
     pricing_tab_single_label: '3 Termijnen'
     pricing_tab_installments_label: Eenmalig
-    price_single: '€ 749'
+    price_single: '€ 499'
     show_discount_single: false
-    price_installments: '€ 2.147'
+    price_installments: '€ 1447'
     show_discount_installments: false
     features:
       -
@@ -1260,9 +1260,9 @@ page_builder:
             text: '*Er zijn beperkte plekken beschikbaar om de begeleiding te kunnen waarborgen.'
     pricing_tab_single_label: '3 Termijnen'
     pricing_tab_installments_label: Eenmalig
-    price_single: '€ 749'
+    price_single: '€ 499'
     show_discount_single: false
-    price_installments: '€ 2.147'
+    price_installments: '€ 1447'
     show_discount_installments: false
     features:
       -
@@ -1458,7 +1458,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770728708
+updated_at: 1770983346
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
