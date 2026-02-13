@@ -1292,7 +1292,7 @@ page_builder:
             buttons:
               -
                 id: xvwmjuxs
-                label: Aanmelden
+                label: 'Ik zet deze stap'
                 link_type: link
                 target_blank: false
                 link: '#prijzen'
@@ -1437,7 +1437,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
   -
-    id: mlcz25uh
+    id: mll6blya
     heading_size: M
     heading:
       -
@@ -1459,7 +1459,24 @@ page_builder:
         content:
           -
             type: text
-            text: 'Herstel vraagt geen perfect begin. Het vraagt veiligheid, begeleiding en iemand die met je meekijkt wanneer het spannend wordt. Niet alleen wanneer het goed gaat, maar juist wanneer je lichaam of hoofd terugschiet.'
+            text: 'Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Deze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'je leven terug'
+          -
+            type: text
+            text: '. '
     color: '#ffffff'
     package_content:
       -
@@ -1477,8 +1494,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Meld je hier aan'
-            show_tag: false
+                    text: 'Start met vertrouwen'
+            show_tag: true
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -1486,24 +1504,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Aanmelden betekent hier niet: “ik moet dit nu perfect kunnen”. Het betekent: ik hoef het niet langer alleen te dragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: '*Er zijn beperkte plekken beschikbaar om de begeleiding te kunnen waarborgen.'
+            text: 'Kies je voor betaling in 3 termijnen? In de eerste maand bepaal je of je het traject volledig wilt afronden.'
     pricing_tab_single_label: '3 Termijnen'
     pricing_tab_installments_label: Eenmalig
     price_single: '€ 499'
@@ -1522,15 +1523,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Deze 13 modules vormen één doorlopende herstelreis, geen losse puzzelstukjes. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je doorloopt alle fases: van veiligheid en regulatie tot opbouw, vertrouwen en blijvende integratie in je dagelijks leven. Dit is het volledige traject waarin niets wordt overgeslagen.'
+                text: "Geen standaard schema's of 'meer doen'. Je krijgt een specifiek bewegingsplan dat veilig is voor jouw lichaam en aansluit bij je belastbaarheid en meegroeit met je herstel. Gericht op vertrouwen en opbouw, niet op pushen of forceren."
         type: feature
         enabled: true
       -
@@ -1544,15 +1537,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je werkt met de volledige Kantel Methode zoals die al door vele vrouwen is doorlopen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Geen selectie, geen verkorte versie, maar het complete traject waarin body, mind, zenuwstelsel en gedrag samenkomen. Juist die samenhang maakt duurzaam herstel mogelijk.'
+                text: "Voeding als herstelvoorwaarde, niet als dieet. Je leert wat jouw lichaam nodig heeft om te herstellen, te ontprikkelen en energie op te bouwen. Praktisch toepasbaar in jouw leven met complete weekmenu's, recepten en kant en klare boodschappenlijsten. "
         type: feature
         enabled: true
       -
@@ -1566,20 +1551,12 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je wordt wekelijks meegenomen en ondersteund, zodat je niet afhankelijk bent van motivatie of geheugen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Deze combinatie helpt je om herstel niet alleen te begrijpen, maar ook daadwerkelijk toe te passen in je leven. Zo blijf je afgestemd, ook als het druk is of je hoofd vol zit.'
+                text: 'Korte, gerichte oefeningen, samen met Paul, die je zenuwstelsel tot rust brengen en je lichaam heel gericht stap voor stap weer laat samenwerken. Geen overload, geen prestatiedruk, wel continuïteit en veiligheid.'
         type: feature
         enabled: true
       -
         id: ml3sot37
-        feature_title: 'Opnames van alle live Q&A zoomsessies'
+        feature_title: 'Q&A zoomsessies'
         feature_content:
           -
             type: paragraph
@@ -1588,7 +1565,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'De Kantel Kroniek helpt je om bewust te blijven voelen, reflecteren en bijsturen. Niet om alles ‘goed’ te doen, maar om signalen van je lichaam tijdig te herkennen. Dit versterkt je eigen regie en voorkomt dat je over grenzen heen gaat.'
+                text: 'Je hoeft niets te missen of bij te houden. Deze opgenomen sessies kun je terugkijken op jouw moment precies passend bij de fase waarin je zit. Je voelt herkenning en leert van de processen van andere vrouwen in hetzelfde traject.'
         type: feature
         enabled: true
       -
@@ -1602,7 +1579,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Deze masterclass helpt je lichaam weer uit de overlevingsstand te komen. Je leert hoe energie, herstel en belastbaarheid samenhangen en hoe je dit veilig opbouwt. Een belangrijke stap richting weer vertrouwen voelen in je lijf.'
+                text: 'Inzicht in waarom herstel vastloopt en wat er écht nodig is om eruit te komen. Je leert anders kijken naar pijn, belasting, rust en grenzen. Zodat je snapt wat je doet en waarom het werkt.'
         type: feature
         enabled: true
       -
@@ -1616,15 +1593,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Hier kijk je naar de invloed van tempo, stress en moeten op je klachten.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je leert hoe je uit de constante ‘aan-stand’ komt zonder je leven stil te zetten. Essentieel om terugval te voorkomen en herstel te laten beklijven.'
+                text: 'Een begeleide manier van zelfreflectie om te leren luisteren naar je lichaam. Je deelt wekelijks wat er speelt, ontvangt feedback, richting en support en bouwt vertrouwen op in je eigen signalen en keuzes. '
         type: feature
         enabled: true
       -
@@ -1638,15 +1607,16 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Voeding wordt hier niet benaderd als dieet, maar als ondersteuning van je zenuwstelsel en herstelvermogen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                text: "Voor momenten waarop je even wilt voelen; '"
               -
                 type: text
-                text: 'Je leert wat jouw lichaam nodig heeft om te reguleren, herstellen en energie op te bouwen. Praktisch 13 weken is alles voor je ingepland, haalbaar en afgestemd op je dagelijks leven.'
+                marks:
+                  -
+                    type: italic
+                text: 'Ik ben niet alleen'
+              -
+                type: text
+                text: "'. Verhalen, inzichten en reflecties die je helpen, ook buiten de 'oefenmomenten' om."
         type: feature
         enabled: true
       -
@@ -1660,12 +1630,12 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je krijgt ruim de tijd om alles te doorlopen, te laten landen en toe te passen. Herstel is geen quickfix hoeft niet gehaast en mag zich ontwikkelen in jouw tempo. Deze periode is bewust gekozen om een echte transformatie mogelijk te maken.'
+                text: 'Je krijgt niet alleen 13 weken intensieve begeleiding, maar 26 weken de tijd om te leren, toe te passen en te integreren. Die extra tijd is bewust gekozen. Zodat je niet hoeft te haasten, kunt terugkijken, verdiepen en het herstel echt kunt verankeren voor de lange termijn.'
         type: feature
         enabled: true
       -
         id: mlct5l4v
-        feature_title: 'Kantel Moment livedag'
+        feature_title: 'Kantel Moment Live middag'
         feature_content:
           -
             type: paragraph
@@ -1674,13 +1644,13 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Een exclusieve middag met Chantal & Paul'
+                text: 'Een live dag waarin alles samenkomt. Verbinding, verdieping en ervaren wat er mogelijk is als body & mind weer samenwerken. Geen moeten, wel landen in wat je hebt opgebouwd. '
         type: feature
         enabled: true
     buttons:
       -
         id: yEqFfOKZ
-        label: Aanmelden
+        label: 'Ik zet deze stap'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -1703,8 +1673,36 @@ page_builder:
     type: EnrollmentProposal
     enabled: true
     anchor_id: aanmelden
+    price_content_single:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: '-'
+    price_content_installments:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: '-'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771004321
+updated_at: 1771004457
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
