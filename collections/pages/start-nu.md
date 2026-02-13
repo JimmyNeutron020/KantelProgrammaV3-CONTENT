@@ -54,7 +54,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een gedragen herstelprogramma voor vrouwen met chronische bekkenpijn die al zoveel geprobeerd hebben en hun leven terug willen. '
+            text: 'Een herstelprogramma voor vrouwen met chronische bekkenpijn die al zoveel geprobeerd hebben en hun leven terug willen. '
       -
         type: set
         attrs:
@@ -1702,7 +1702,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771004457
+updated_at: 1771004529
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
