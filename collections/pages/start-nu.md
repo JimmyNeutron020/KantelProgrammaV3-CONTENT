@@ -666,6 +666,78 @@ page_builder:
                     umami_event_name: kantel-scan-from-aanmelden-kp
         type: new_set
         enabled: true
+      -
+        id: mll60cuw
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma_live-131.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mll60n8j
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Een brief aan jou 🧡'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen, en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: '“Is dit het dan… blijft het altijd zo?”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Liefs, Chantal & Paul 😘'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -710,80 +782,6 @@ page_builder:
   -
     id: mik8s3ym
     items:
-      -
-        id: mik8s50y
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - brand/fotofolies-x-kantelprogramma_live-131.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mik8sr6o
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 2
-                    content:
-                      -
-                        type: text
-                        text: 'Een brief aan jou 🧡'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: hardBreak
-              -
-                type: text
-                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen, en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: '“Is dit het dan… blijft het altijd zo?”'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Liefs, Chantal & Paul 😘'
-        type: new_set
-        enabled: true
       -
         id: mlcwjugf
         swap: true
@@ -1687,7 +1685,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771003844
+updated_at: 1771003977
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
