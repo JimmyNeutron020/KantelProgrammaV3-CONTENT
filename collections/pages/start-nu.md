@@ -325,6 +325,215 @@ page_builder:
                   class: text-white
             text: '-'
   -
+    id: mll4udm9
+    content:
+      -
+        type: set
+        attrs:
+          id: mll4utx2
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Wat je kan verwachten'
+            show_tag: false
+    color: '#f7e7de'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+  -
+    id: mll4nn17
+    color: '#f7e7de'
+    phases:
+      -
+        id: mll4nr0e
+        icon: 'fa-regular fa-heart'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Fase 1 | Week 1 - 4'
+          -
+            type: set
+            attrs:
+              id: mll4ou36
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: 'Terug naar veiligheid en energie'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je lichaam en zenuwstelsel komen uit de overlevingsstand.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je begrijpt je pijn, kalmeert het systeem en legt de basis voor herstel.'
+        type: phase
+        enabled: true
+      -
+        id: mll4po92
+        icon: 'fa-regular fa-arrow-rotate-right'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Fase 2 | Week 5 - 9'
+          -
+            type: set
+            attrs:
+              id: mll4ou36
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: 'Het Kantel Punt'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vertrouwen, kracht en bewegen zonder angst. Je bouwt kracht en belastbaarheid op vanuit vertrouwen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niet om te presteren, maar zodat je lichaam weer op de nullijn uitkomt om te kunnen gaan leven.'
+        type: phase
+        enabled: true
+      -
+        id: mll4s4nt
+        icon: 'fa-regular fa-dove'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Fase 2 | Week 10 - 13, en de rest van jouw leven'
+          -
+            type: set
+            attrs:
+              id: mll4ou36
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: 'Weer stralend leven'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Leven, dromen die werkelijkheid mogen worden en blijven kantelen. Je past alles toe en combineert dat stap voor stap met moederschap, werk, reizen, sporten, plannen maken.'
+        type: phase
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ProgressSection
+    enabled: true
+  -
     id: ml3t2w3y
     color: '#ffffff'
     background_image: brand/fotofolies-x-kantelprogramma_live-126.jpg
@@ -1472,7 +1681,7 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771000790
+updated_at: 1771002013
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
