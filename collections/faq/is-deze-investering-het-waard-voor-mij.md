@@ -5,7 +5,7 @@ title: 'Is deze investering het waard voor mij?'
 faq_category:
   - prijzen
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1769879668
+updated_at: 1770989849
 duplicated_from: af2290c8-3f63-4e43-a296-98c63ba1fa2f
 content:
   -
@@ -15,12 +15,12 @@ content:
     content:
       -
         type: text
-        text: 'Dat is een heel begrijpelijke vraag.'
+        text: 'Dat is een begrijpelijke vraag.'
       -
         type: hardBreak
       -
         type: text
-        text: 'Niet omdat je twijfelt aan ons, maar omdat je al zo vaak hebt geïnvesteerd, in tijd, energie, hoop en niet opnieuw teleurgesteld wilt worden.'
+        text: 'Niet omdat je twijfelt aan ons, maar omdat je al zo vaak hebt geïnvesteerd in tijd, energie, hoop en niet opnieuw teleurgesteld wilt worden.'
   -
     type: paragraph
     attrs:
@@ -28,12 +28,7 @@ content:
     content:
       -
         type: text
-        text: 'In het Kantel Programma investeer je niet in dertien modules.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je investeert in je gezondheid, je energie en het vertrouwen in je lichaam.'
+        text: 'In het Kantel Programma investeer je niet in dertien modules. Je investeert in begeleiding. In richting. In een aanpak die je hele systeem meeneemt.'
   -
     type: paragraph
     attrs:
@@ -41,12 +36,12 @@ content:
     content:
       -
         type: text
-        text: 'Het gaat hier niet om zo snel mogelijk iets “terugverdienen”.'
+        text: 'Wat we doen is geen quick fix. We werken met een topsportbenadering die gericht is op duurzaam herstel.'
       -
         type: hardBreak
       -
         type: text
-        text: 'Die gedachte hoort bij dezelfde druk die je misschien eerder in quick fixes heeft vastgehouden  hard je best doen, hopen dat het deze keer wél lukt.'
+        text: 'Niet op forceren, maar op veiligheid, opbouw en vertrouwen. '
   -
     type: paragraph
     attrs:
@@ -54,26 +49,37 @@ content:
     content:
       -
         type: text
-        text: 'Wat wij doen is anders.'
+        text: 'Je leert wat jouw lichaam nodig heeft om uit de overlevingsstand te komen. Om weer belastbaar te worden.'
       -
         type: hardBreak
       -
         type: text
-        text: 'We werken met een topsportbenadering die gericht is op '
+        text: 'Om niet langer om je klachten heen te hoeven leven.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Veel vrouwen zeggen achteraf hetzelfde:“Het voelde als een grote stap. Maar het gaf me mijn energie, rust en vertrouwen terug.”'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Tegelijk snappen we dat je niet alleen op woorden wilt vertrouwen. Daarom starten we met een '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'duurzaam herstel'
+        text: 'veilige eerste maand'
       -
         type: text
-        text: ', niet op forceren.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je leert wat jouw lichaam nodig heeft om zich veilig te voelen, te herstellen en weer betrouwbaar te worden ook op de momenten dat het spannend wordt.'
+        text: .
   -
     type: paragraph
     attrs:
@@ -81,17 +87,7 @@ content:
     content:
       -
         type: text
-        text: 'Vrouwen die starten, zeggen achteraf vaak hetzelfde.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Dat het eerst voelde als een grote stap.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'En dat het uiteindelijk één van de meest waardevolle keuzes was die ze maakten omdat het hen vrijheid, energie en rust terugbracht in werk, gezin en dagelijks leven.'
+        text: 'Je kunt in de eerste maand ervaren of dit klopt voor jou. Voelt het niet passend? Dan stop je na termijn 1. Voelt het wél passend? Dan committeer je je aan het volledige traject zodat we het herstel echt kunnen afronden.'
   -
     type: paragraph
     attrs:
@@ -99,12 +95,12 @@ content:
     content:
       -
         type: text
-        text: 'Of het het “waard” is, kun je niet in euro’s uitrekenen.'
+        text: 'Of het het waard is, kun je niet in euro’s uitrekenen. Maar als je voelt dat je niet langer om je lichaam heen wilt leven,'
       -
         type: hardBreak
       -
         type: text
-        text: 'Maar als je voelt dat je niet langer om je lichaam heen wilt leven en bereid bent te kiezen voor begeleiding in plaats van nog een poging alleen, dan blijkt deze investering voor veel vrouwen veel meer op te leveren dan ze vooraf konden overzien.'
+        text: 'dan blijkt deze investering voor veel vrouwen uiteindelijk veel groter dan ze vooraf konden overzien.'
   -
     type: paragraph
     attrs:
@@ -112,10 +108,5 @@ content:
     content:
       -
         type: text
-        text: 'En belangrijk om te weten: je staat er niet alleen voor.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Wij begeleiden je juist ook wanneer het wiebelt, twijfelt of niet meteen lineair voelt.'
+        text: 'En belangrijk: je doet dit niet alleen. Juist als het wiebelt of niet lineair voelt, begeleiden we je.'
 ---
