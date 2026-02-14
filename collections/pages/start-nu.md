@@ -355,7 +355,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Dit gebeurd er in 13 modules'
+                    text: 'Dit gebeurt er in 13 modules'
             show_tag: false
     color: '#f7e7de'
     show_settings: true
@@ -1702,7 +1702,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771010852
+updated_at: 1771054939
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
