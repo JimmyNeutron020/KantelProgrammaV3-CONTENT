@@ -460,7 +460,7 @@ page_builder:
               -
                 id: mlcl4797
                 fa_icon: 'fa-regular fa-person-rays'
-                text: 'Begeleiding via de Kantel Kroniek'
+                text: 'Intensieve begeleiding via de Kantel Kroniek'
       -
         type: paragraph
         attrs:
@@ -479,23 +479,11 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. '
+            text: 'Wij begeleiden vrouwen zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiliheid ontstaat duurzaam herstel. '
       -
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            text: 'We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiliheid ontstaat duurzaam herstel. '
       -
         type: paragraph
         attrs:
@@ -514,15 +502,11 @@ page_builder:
         content:
           -
             type: text
-            text: 'In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. '
+            text: 'In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
       -
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            text: 'Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
       -
         type: paragraph
         attrs:
@@ -541,23 +525,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Herstel gebeurt niet in één uurtje per week. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Het gebeurt in hoe je opstaat \. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in werk, moederschap, relaties, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. '
+            text: 'Herstel gebeurt niet in één uurtje per week. Het gebeurt in hoe je opstaat \. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in werk, moederschap, relaties, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. '
       -
         type: paragraph
         attrs:
@@ -572,7 +540,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Begeleiding via de Kantel Kroniek'
+            text: 'Intensieve begeleiding via de Kantel Kroniek'
       -
         type: paragraph
         attrs:
@@ -580,23 +548,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je staat er niet alleen voor. Via de Kantel Kroniek deel je je wekelijkse proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Juist wanneer het systeem terugschiet.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel.'
+            text: 'Je staat er niet alleen voor. Veel herkenbaarheid want je volgt het programma tegelijk met veel andere vrouwen. Via de Kantel Kroniek deel je je wekelijkse proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Juist wanneer het systeem terugschiet. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1464,7 +1416,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771187235
+updated_at: 1771187559
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
