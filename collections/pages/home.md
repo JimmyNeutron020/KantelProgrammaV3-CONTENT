@@ -1007,7 +1007,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Eerst voelen of dit bij je past?'
+                    text: 'Wil je eerst voelen of dit bij je past?'
             show_tag: false
       -
         type: paragraph
@@ -1016,7 +1016,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
+            text: 'Je hoeft niet meteen te beslissen. Begin bijvoorbeeld met een gratis webinar, e-book of luister naar de podcast. Zonder verplichtingen. Mét richting, '
     items:
       -
         id: mhge0cl9
@@ -1310,7 +1310,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vragen? '
+                    text: 'Wat wordt jouw volgende stap?'
             show_tag: false
       -
         type: paragraph
@@ -1319,40 +1319,44 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je hoeft het nog niet zeker te weten. Soms helpt het om even te overleggen of iets uit te spreken. We lezen met aandacht en reageren persoonlijk.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'In de veelgestelde vragen zie je vragen die bijna iedere vrouw stelt vóór ze de keuze maakt. Misschien herken je jezelf erin en voel je al wat rust bij het lezen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            text: "Blijf je wachten tot het 'erger genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
       -
         type: set
         attrs:
-          id: mlgbl4rn
+          id: mlo7r3oz
           values:
             type: buttons
             buttons:
               -
-                id: HjKyppDv
-                label: 'Stel je vraag'
+                id: 9062PRLS
+                label: 'Start met het Kantel Programma'
                 link_type: link
                 target_blank: false
-                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+                link: 'https://kantelprogramma.nl/start-nu'
                 button_layout: solid
                 button_colour: orange
               -
-                id: mlgbn6vt
+                id: mlo7tknu
+                label: 'Plan een Kantel Scan'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.nl/kantel-scan'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: mlo7vi82
                 label: 'Veelgestelde vragen'
                 link_type: link
                 target_blank: false
                 link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
+              -
+                id: mlo7x7e2
+                label: 'Persoonlijke vraag'
+                link_type: email
+                target_blank: false
+                email: contact@kantelprogramma.nl
                 button_layout: standard
                 button_colour: orange
     show_settings: true
@@ -1400,7 +1404,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771187928
+updated_at: 1771188604
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
