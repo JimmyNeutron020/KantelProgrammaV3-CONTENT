@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Een leven zonder bekkenpijn'
+                    text: 'Leven zonder bekkenpijn'
             show_tag: false
       -
         type: paragraph
@@ -42,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: "Veel vrouwen met bekkenklachten krijgen te horen dat ze ermee moeten leren leven. Dat het 'erbij hoort'. Dat het nu eenmaal zo is. "
+            text: 'Voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en hun lichaam weer willen vertrouwen. '
       -
         type: paragraph
         attrs:
@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk. Wanneer je het hele systeem kantelt. Herstel begint met de juíste begeleiding, niet met harder je best doen.'
+            text: "Te veel vrouwen krijgen te horen dat ze ermee moeten leren leven. Dat het 'erbij hoort'. Dat het nu eenmaal zo is. Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk en begint met de juíste begeleiding, niet met harder je best doen."
       -
         type: set
         attrs:
@@ -73,11 +73,11 @@ page_builder:
                 button_colour: orange
               -
                 id: m7xw13ou
-                label: 'Kantel Programma'
+                label: 'Start veilig met maand 1'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
-                button_layout: standard
+                button_layout: solid
                 button_colour: white
     type: HeroSection
     enabled: true
@@ -479,7 +479,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiliheid ontstaat duurzaam herstel. '
+            text: 'Waar veel trajecten zich richten op losse oefeningen, begeleiden wij je zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiliheid ontstaat duurzaam herstel. '
       -
         type: paragraph
         attrs:
@@ -502,7 +502,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
+            text: 'IGeen eindeloos traject. Maar een duidelijke route naar zelfstandigheid. In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
       -
         type: paragraph
         attrs:
@@ -525,7 +525,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Herstel gebeurt niet in één uurtje per week. Het gebeurt in hoe je opstaat \. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in werk, moederschap, relaties, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. '
+            text: 'Herstel is geen uurtje per week. Het gebeurt in hoe je opstaat. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in werk, moederschap, relaties, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. Daarom werkt het ook als het spannend wordt.'
       -
         type: paragraph
         attrs:
@@ -548,7 +548,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je staat er niet alleen voor. Veel herkenbaarheid want je volgt het programma tegelijk met veel andere vrouwen. Via de Kantel Kroniek deel je je wekelijkse proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Juist wanneer het systeem terugschiet. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel.'
+            text: 'Je staat er niet alleen voor. Veel herkenbaarheid want je volgt het programma tegelijk met veel andere vrouwen. Via de Kantel Kroniek deel je je wekelijkse proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Juist wanneer het systeem terugschiet. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -717,6 +717,14 @@ page_builder:
             show_tag: true
             tag_text: Ciao
             tag_alignment: left
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wij begeleiden vrouwen met chronische pijn zoals we topsporters begeleiden; systemisch, 24/7 en met aandacht voor body & mind. '
       -
         type: paragraph
         attrs:
@@ -1404,7 +1412,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771188604
+updated_at: 1771189502
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
