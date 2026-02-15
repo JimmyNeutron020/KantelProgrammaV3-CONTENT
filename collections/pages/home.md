@@ -42,7 +42,33 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Veel vrouwen horen dat ze ermee moeten leren leven. Wij laten zien dat duurzaam herstel wél mogelijk is, wanneer je het hele systeem kantelt. Herstel begint met de juíste begeleiding, niet met harder je best doen.'
+            text: "Veel vrouwen met bekkenklachten krijgen te horen dat ze ermee moeten leren leven. Dat het 'erbij hoort'. Dat het nu eenmaal zo is. "
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk. Wanneer je het hele systeem kantelt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Herstel begint met de juíste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -1503,7 +1529,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771182619
+updated_at: 1771182793
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
