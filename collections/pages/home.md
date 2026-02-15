@@ -732,7 +732,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Onze aanpak ontstond niet online. Maar in ons leefstijlhotel waar vrouwen 24/7 aan herstel werkten.'
+            text: 'Jarenlang zagen wij hoe jonge moeders vastliepen in losse trajecten. En dat is precies waarom wij het anders zijn gaan doen. Onze aanpak ontstond niet online. Maar in ons leefstijlhotel waar vrouwen 24/7 aan herstel werkten.'
       -
         type: paragraph
         attrs:
@@ -740,7 +740,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Vanuit jarenlange ervarig in Jeugd GGZ, paramedische topsportbegeleiding op NOC-NSF-niveau, orthopedische- en hartrevalidatie obesitas begeleiding en meer dan duizend vrouwen met chronische klachten, hebben we alles wat werkte vertaald naa één geïntegreerde methode.'
+            text: 'Vanuit jarenlange ervaring in Jeugd GGZ, paramedische topsportbegeleiding op NOC-NSF-niveau, orthopedische- en hartrevalidatie obesitas begeleiding en meer dan duizend vrouwen met chronische klachten, hebben we alles wat werkte vertaald naa één geïntegreerde methode.'
       -
         type: paragraph
         attrs:
@@ -1327,7 +1327,15 @@ page_builder:
         content:
           -
             type: text
-            text: "Blijf je wachten tot het 'erger genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
+            text: "Je kunt blijven lopen dat het vanzelf verbetert. Of je kunt kiezen om je herstel serieus te nemen. Blijf je wachten tot het 'erg genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft het niet zeker te weten om de eerste stap te durven zetten.'
       -
         type: set
         attrs:
@@ -1337,7 +1345,7 @@ page_builder:
             buttons:
               -
                 id: 9062PRLS
-                label: 'Start met het Kantel Programma'
+                label: 'Start veilig met maand 1'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
@@ -1357,14 +1365,6 @@ page_builder:
                 link_type: link
                 target_blank: false
                 link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
-                button_colour: orange
-              -
-                id: mlo7x7e2
-                label: 'Persoonlijke vraag'
-                link_type: email
-                target_blank: false
-                email: contact@kantelprogramma.nl
                 button_layout: standard
                 button_colour: orange
     show_settings: true
@@ -1412,7 +1412,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771190483
+updated_at: 1771190772
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
