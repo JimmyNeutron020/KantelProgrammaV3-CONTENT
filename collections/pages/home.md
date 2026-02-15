@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: "Je hoeft niet te 'leren leven' met bekkenpijn"
+                    text: 'Een leven zonder bekkenpijn'
             show_tag: false
       -
         type: paragraph
@@ -42,20 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Als je al van alles hebt geprobeerd en niet meer weet wat nog helpt, ben je hier op de juiste plek. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Wél kunnen herstellen begint met de juiste begeleiding, niet met harder je best doen.'
+            text: 'Veel vrouwen horen dat ze ermee moeten leren leven. Wij laten zien dat duurzaam herstel wél mogelijk is, wanneer je het hele systeem kantelt. Herstel begint met de juíste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -65,7 +52,7 @@ page_builder:
             buttons:
               -
                 id: P8p6HQwK
-                label: 'Ontdek meer'
+                label: 'Hoe wij werken'
                 link_type: link
                 target_blank: false
                 link: '#ontdek-meer'
@@ -1474,7 +1461,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771180720
+updated_at: 1771181967
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
