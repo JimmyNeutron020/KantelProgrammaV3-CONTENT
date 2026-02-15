@@ -302,12 +302,12 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je bent niet de enige'
+                    text: 'Je hebt twee keuzes'
             show_tag: false
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-md
         content:
           -
             type: text
@@ -322,7 +322,45 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'De vrouwen die hier hun verhaal delen, hadden al zoveel geprobeerd. Hun ervaringen laten zien dat je weer vertrouwen in je lichaam kunt krijgen.'
+            text: 'Je kunt blijven leven rondom je klachten. Je dagen plannen op belastbaarheid. Altijd rekening houden. Altijd aanpassen. '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Of je kiest ervoor om het ander aan te pakken. Niet harder, Niet nog een behandeling. Maar fundamenteel anders.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Deze vrouwen hadden eerder ook al zoveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
       -
         type: set
         attrs:
@@ -371,7 +409,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Onze aanpak'
+                    text: "Waarom dit niet 'nog een traject' is"
             show_tag: true
             tag_text: 'Werken aan herstel'
             tag_alignment: right
@@ -1465,7 +1503,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771182248
+updated_at: 1771182619
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
