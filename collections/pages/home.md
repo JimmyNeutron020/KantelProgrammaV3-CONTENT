@@ -42,7 +42,20 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Als je al van alles hebt geprobeerd en niet meer weet wat wél helpt, ben je hier op de juiste plek. Herstel begint met de juiste begeleiding, niet met harder je best doen.'
+            text: 'Als je al van alles hebt geprobeerd en niet meer weet wat nog helpt, ben je hier op de juiste plek. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Wél kunnen herstellen begint met de juiste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -60,10 +73,10 @@ page_builder:
                 button_colour: orange
               -
                 id: m7xw13ou
-                label: 'Onze aanpak'
+                label: 'Kantel Programma'
                 link_type: link
                 target_blank: false
-                link: '#onze-aanpak'
+                link: 'https://kantelprogramma.nl/start-nu'
                 button_layout: standard
                 button_colour: white
     type: HeroSection
@@ -446,6 +459,7 @@ page_builder:
     type: IntoSection
     enabled: true
     anchor_id: onze-aanpak
+    color: '#ffffff'
   -
     id: mhj7tqg8
     color: '#f7e7de'
@@ -1086,6 +1100,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     anchor_id: over-chantal-en-paul
+    color: '#ffffff'
   -
     id: mikemtis
     color: '#ffffff'
@@ -1435,8 +1450,8 @@ page_builder:
             type: text
             text: 'Kennis & nieuws'
     show_tag: false
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770711073
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771180125
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
