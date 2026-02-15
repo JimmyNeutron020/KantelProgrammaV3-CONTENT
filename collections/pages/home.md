@@ -121,21 +121,10 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je gaat van behandeling naar behandeling. Je zag verschillende arsten, therapeuten en specialisten. Allemaal zonder blijvend resultaat. '
+                text: 'Je gaat van behandeling naar behandeling. Je zag verschillende arsten, therapeuten en specialisten. Je hebt al van alles geprobeerd. Fysiotherapie. Oefeningen. Rust. Doorzetten. Soms leek het even beter. Maar het kwam terug.  '
           -
             type: bulletList
             content:
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Je hebt al zoveel geprobeerd'
               -
                 type: listItem
                 content:
@@ -190,7 +179,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Je raakt het vertrouwen in je lichaam kwijt'
+                        text: 'Je twijfelt niet aan je inzet.'
               -
                 type: listItem
                 content:
@@ -201,7 +190,22 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Je hebt het gevoel dat er iets essentieels ontbreekt'
+                        text: 'Je twijfelt aan je lichaam.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'En misschien nog wel het meest... aan jezelf. '
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
           -
             type: paragraph
             attrs:
@@ -1461,7 +1465,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771181967
+updated_at: 1771182248
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
