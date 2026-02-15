@@ -436,7 +436,7 @@ page_builder:
                     type: text
                     text: 'Wat het Kantel Programma is?'
             show_tag: true
-            tag_text: 'Werken aan herstel'
+            tag_text: 'Wél herstellen'
             tag_alignment: right
       -
         type: set
@@ -448,19 +448,19 @@ page_builder:
               -
                 id: mlcl2psc
                 fa_icon: 'fa-regular fa-trophy'
-                text: 'Unieke methode'
+                text: 'Topsportbenadering van herstel'
               -
                 id: mlcl38io
                 fa_icon: 'fa-regular fa-heart'
-                text: 'Vertrouwen terug'
+                text: 'Naar eigen regie in 13 weken'
               -
                 id: mlcl40es
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: '24/7 in jouw leven'
+                text: 'Dagelijkse integratie 24/7 in jouw leven'
               -
                 id: mlcl4797
                 fa_icon: 'fa-regular fa-person-rays'
-                text: 'Body & Mind'
+                text: 'Begeleiding via de Kantel Kroniek'
       -
         type: paragraph
         attrs:
@@ -468,58 +468,135 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wanneer het lichaam langdurig in een bescherm- of overleefstand staat, is herstellen niet mogelijk. Het systeem blijft dan gericht op volhouden, niet op herstel.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Losse behandelingen grijpen vaak in op één moment of één onderdeel. Dat kan tijdelijk verlichting geven, maar verandert niet wat klachten in stand houdt in het dagelijks leven.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Daarom werken wij met online begeleiding. Zo kan ondersteuning plaatsvinden door de hele dag heen, op de momenten waarop het lichaam reageert, niet alleen tijdens een afspraak.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We kijken naar het lichaam als één geheel. Naar de samenhang tussen alle ketens en factoren die herstel beïnvloeden. Op basis daarvan werken we gericht aan wat het herstel tegenwerkt, met een op maat gemaakt plan dat past bij jouw situatie en belastbaarheid.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Dit is geen quick fix, maar een traject met opbouw, herhaling en begeleiding.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: mlcl1d6p
-          values:
-            type: buttons
-            buttons:
+            marks:
               -
-                id: yGDa9aQd
-                label: 'Meer informatie'
-                link_type: link
-                target_blank: false
-                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
-                button_layout: solid
-                button_colour: orange
+                type: bold
+            text: 'Topsportbenadering van herstel'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wij begeleiden vrouwen zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiliheid ontstaat duurzaam herstel. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Naar eigen regie in 13 weken'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dagelijkse integratie 24/7 in jouw leven'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Herstel gebeurt niet in één uurtje per week. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Het gebeurt in hoe je opstaat \. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in werk, moederschap, relaties, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Begeleiding via de Kantel Kroniek'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je staat er niet alleen voor. Via de Kantel Kroniek deel je je wekelijkse proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Juist wanneer het systeem terugschiet.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -567,18 +644,18 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: Topsportbenadering
+                    text: 'Waarom werkt dit wel?'
             show_tag: true
-            tag_text: 'Wat is dat?'
+            tag_text: 'Hoe dan'
             tag_alignment: left
       -
         type: paragraph
         attrs:
           class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
+        content:
+          -
+            type: text
+            text: 'Omdat je niet kapot bent. Je systeem staat op scherp. '
       -
         type: paragraph
         attrs:
@@ -586,16 +663,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wanneer een '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'topsporter geblesseerd '
-          -
-            type: text
-            text: 'raakt, is één ding vanzelfsprekend: er komt begeleiding omheen, er wordt zorgvuldig gekeken en alles staat in het teken van herstel. '
+            text: 'Veel behandelingen werken aan één stukje. Je bekken. Je spieren. Je houding. Je mindset.'
       -
         type: paragraph
         attrs:
@@ -603,30 +671,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Niemand zegt:\_"
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: “
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'Leer er maar mee leven'
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: '.” '
-          -
-            type: text
-            text: 'Precies zo serieus nemen wij ook jouw lichaam en jouw klachten. Dat is wat wij bedoelen met een topsportbenadering van herstel.'
+            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen veiligheid in je zenuwstelsel. Zodat je lichaam stopt met vechten. Zodat je niet meer hoeft te compenseren. Zodat vertrouwen terug komt. '
       -
         type: paragraph
         attrs:
@@ -634,34 +679,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Herstel vraagt\_dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'moe,'
-          -
-            type: text
-            text: ' '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: overbelast
-          -
-            type: text
-            text: ' en hebben hun lichaam al lange tijd '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'moeten dragen op wilskracht'
-          -
-            type: text
-            text: '. '
+            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. "
       -
         type: paragraph
         attrs:
@@ -669,7 +687,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We werken niet symptoomgericht, maar kijken naar het geheel. Je lichaam functioneert als één systeem waarin spieren, zenuwstelsel, stress, slaap, voeding, emoties, dagelijkse keuzes en belastbaarheid elkaar voortdurend beïnvloeden. Wanneer dat systeem te lang overbelast is, blijft het lichaam in een beschermstand staan en blijft herstel uit.'
+            text: 'Maar een topsportbenadering voor herstel. Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. '
       -
         type: paragraph
         attrs:
@@ -677,89 +695,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Daarom begeleiden we je stap voor stap in het creëren van veiligheid, rust en opbouw. In kleine, haalbare stappen die passen bij jouw leven. Zodat je lichaam wél duurzaam kan herstellen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: Topsportbenadering
-          -
-            type: text
-            text: ' betekent voor ons'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ': '
-          -
-            type: text
-            text: 'jij krijgt dezelfde'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' aandacht'
-          -
-            type: text
-            text: ', '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: structuur
-          -
-            type: text
-            text: ' en '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'toewijding '
-          -
-            type: text
-            text: 'die we voor een topsporter vanzelfsprekend vinden.'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: "En van jou vragen we\_commitment, geen perfectie: bereidheid om aanwezig te zijn in je proces. Je hoeft dit niet langer alleen te dragen."
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Zo kantelen we stap voor stap je hele systeem, zodat body en mind weer als één team samenwerken en jij wél herstelt.'
-      -
-        type: set
-        attrs:
-          id: mhj7w9jv
-          values:
-            type: buttons
-            buttons:
-              -
-                id: 6o3xmsPx
-                label: 'Meer informatie'
-                link_type: link
-                target_blank: false
-                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
-                button_layout: standard
-                button_colour: orange
+            text: 'We begeleiden jou daarbij. Stap voor stap. In je echte leven. Dat is waarom veel trajecten vatslopen. En waarom jij hier wél vooruit gaat.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -1528,7 +1464,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771183603
+updated_at: 1771187235
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
