@@ -28,12 +28,19 @@ page_builder:
             type: text
             marks:
               -
+                type: link
+                attrs:
+                  href: 'https://kantelprogramma.membirds.com/checkout/kantel-kompas'
+                  rel: null
+                  target: null
+                  title: 'Wil je alsvast meer inzichten?'
+              -
                 type: bold
-            text: 'Wil je alvast weten waar je  nu staat? '
+            text: 'Wil je alvast meer inzichten?'
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
@@ -50,29 +57,38 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
-            text: 'Veel vrouwen die zich inschrijven voelen dit. Niet omdat ze het niet willen, maar omdat ze al zo vaak teleurgesteld zijn en starten daarom hier op dit moment met '
+            text: 'Veel vrouwen die zich inschrijven voelen dit. Niet omdat ze het niet willen, maar omdat ze al zo vaak teleurgesteld zijn. Zij starten dan voor € 4,95 met '
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'Kantel Kompas € 4,95 '
+            text: 'Kantel Kompas  '
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
-            text: 'Geen uren werk. Geen groot programma. Meteen kort en helder inzicht in:'
+            text: 'Geen uren werk. Geen groot programma. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Meteen kort en helder inzicht '
+          -
+            type: text
+            text: 'in:'
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
@@ -90,7 +106,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
@@ -248,6 +264,6 @@ page_builder:
     type: FaqList
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771166230
+updated_at: 1771179548
 use_white_header: false
 ---
