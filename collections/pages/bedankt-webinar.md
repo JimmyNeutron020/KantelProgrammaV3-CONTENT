@@ -36,7 +36,7 @@ page_builder:
                   title: 'Wil je alsvast meer inzichten?'
               -
                 type: bold
-            text: 'Wil je alvast meer inzichten?'
+            text: 'Wil je nu alvast meer inzichten?'
       -
         type: paragraph
         attrs:
@@ -44,7 +44,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je aanmelding is gelukt. Neem even een moment om dit te laten landen. Dit is geen kleine stap, dit is kiezen voor jezelf. Misschien voel je nu al van alles: '
+            text: 'Je aanmelding is gelukt. Neem even een moment om dit te laten landen. Dit is kiezen voor jezelf. '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            text: 'Misschien voel je nu al van alles: '
           -
             type: text
             marks:
@@ -53,7 +61,20 @@ page_builder:
             text: 'hoop, twijfel, nieuwsgierigheid, spanning'
           -
             type: text
-            text: '. Dat is heel normaal. '
+            text: '. Dat is heel normaal. Veel vrouwen die zich inschrijven voelen dit. Niet omdat ze het niet willen, maar omdat ze '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'al zo vaak teleurgesteld'
+          -
+            type: text
+            text: ' zijn. '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
       -
         type: paragraph
         attrs:
@@ -61,30 +82,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Veel vrouwen die zich inschrijven voelen dit. Niet omdat ze het niet willen, maar omdat ze al zo vaak teleurgesteld zijn. Zij starten dan voor € 4,95 met '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Kantel Kompas  '
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            text: 'Geen uren werk. Geen groot programma. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Meteen kort en helder inzicht '
-          -
-            type: text
-            text: 'in:'
+            text: 'Zij starten dan voor € 4,95 met Kantel Kompas. Geen uren werk. Geen groot programma. Meteen kort en helder inzicht in:'
       -
         type: paragraph
         attrs:
@@ -178,11 +176,37 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-md
         content:
           -
             type: text
-            text: "Misschien voel je je alleen in jouw situatie? Daarom hieronder echte verhalen van vrouwen die hetzelfde hebben meegemaakt. Geen perfecte succesverhalen, maar echte processen, met twijfel, stappen en kantelmomenten. Kijk wat resoneert, laat liggen wat niet past. Je mag voelen: '"
+            text: 'Misschien voel je je alleen in jouw situatie? '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            text: 'Daarom hieronder echte verhalen van vrouwen die hetzelfde hebben meegemaakt. Geen perfecte succesverhalen, maar echte processen, met twijfel, stappen en kantelmomenten. Kijk wat resoneert, laat liggen wat niet past. '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            text: 'Je mag voelen:'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: " '"
           -
             type: text
             marks:
@@ -264,6 +288,6 @@ page_builder:
     type: FaqList
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771179548
+updated_at: 1771179924
 use_white_header: false
 ---
