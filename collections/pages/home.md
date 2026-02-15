@@ -55,20 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk. Wanneer je het hele systeem kantelt. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Herstel begint met de juíste begeleiding, niet met harder je best doen.'
+            text: 'Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk. Wanneer je het hele systeem kantelt. Herstel begint met de juíste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -147,7 +134,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je gaat van behandeling naar behandeling. Je zag verschillende arsten, therapeuten en specialisten. Je hebt al van alles geprobeerd. Fysiotherapie. Oefeningen. Rust. Doorzetten. Soms leek het even beter. Maar het kwam terug.  '
+                text: 'Je gaat van behandeling naar behandeling. Je zag verschillende arsten, therapeuten en specialisten. Je hebt al van alles geprobeerd. Fysiotherapie. Oefeningen. Rust. Doorzetten. Soms leek het even beter. Maar het kwam terug. Je kunt nog veel. Maar altijd met rekening houden. Altijd met twijfel. Altijd met die onderstroom van spanning.'
           -
             type: bulletList
             content:
@@ -184,17 +171,6 @@ page_builder:
                       -
                         type: text
                         text: 'Je plant je leven steeds meer om de pijn heen'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Je vraagt je af of het ooit nog anders wordt'
               -
                 type: listItem
                 content:
@@ -245,23 +221,27 @@ page_builder:
                 marks:
                   -
                     type: italic
-                text: '“ja… dit is precies waar ik nu sta”'
+                text: '“Ja… dit is precies waar ik nu sta”'
               -
                 type: text
-                text: ','
-              -
-                type: hardBreak
+                text: " en diep van binnen voel je: '"
               -
                 type: text
-                text: 'dan is dat heel herkenbaar. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: 'Dit kan toch niet de rest van mijn leven zijn'
               -
                 type: text
-                text: 'Als jonge vrouw met chronische pijn verlang je er naar om weer stralend door het leven te kunnen gaan. En dat is precies waar wij je mee helpen. '
+                marks:
+                  -
+                    type: bold
+                text: .
+              -
+                type: text
+                text: "' Dan is dit precies waar wij je kunnen helpen. "
           -
             type: set
             attrs:
@@ -348,7 +328,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je kunt blijven leven rondom je klachten. Je dagen plannen op belastbaarheid. Altijd rekening houden. Altijd aanpassen. '
+            text: 'Je kunt blijven aanpassen. Blijven palnnen rondom je klachten en je dagen plannen op belastbaarheid. Altijd rekening houden. Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert'
       -
         type: paragraph
         attrs:
@@ -367,7 +347,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Of je kiest ervoor om het ander aan te pakken. Niet harder, Niet nog een behandeling. Maar fundamenteel anders.'
+            text: 'Of je kiest voor een andere aanpak. '
       -
         type: paragraph
         attrs:
@@ -386,7 +366,26 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Deze vrouwen hadden eerder ook al zoveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
+            text: 'Niet harder werken. Niet nóg een behandeling. Maar fundamenteel anders kijken naar herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Deze vrouwen hadden eerder ook al zóveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
       -
         type: set
         attrs:
@@ -1529,7 +1528,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771182793
+updated_at: 1771183342
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
