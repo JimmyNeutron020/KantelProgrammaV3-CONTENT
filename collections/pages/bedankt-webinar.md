@@ -135,7 +135,17 @@ page_builder:
       -
         type: set
         attrs:
-          id: mlnu8rz6
+          id: mlnuilx4
+          values:
+            type: flex_icons
+            flex_icons:
+              -
+                id: mlnujafk
+                fa_icon: 'fa-regular fa-camera'
+      -
+        type: set
+        attrs:
+          id: mlnuj1gk
           values:
             type: heading
             heading_size: M
@@ -156,7 +166,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Misschien voel je je alleen in jouw situatie? Saarom hieronder echte verhalen van vrouwen die hetzelfde hebben meegemaakt. Geen perfecte succesverhalen, maar echte processen, met twijfel, stappen en kantelmomenten. Kijk wat resoneert, laat liggen wat niet past. Je mag voelen: '"
+            text: "Misschien voel je je alleen in jouw situatie? Daarom hieronder echte verhalen van vrouwen die hetzelfde hebben meegemaakt. Geen perfecte succesverhalen, maar echte processen, met twijfel, stappen en kantelmomenten. Kijk wat resoneert, laat liggen wat niet past. Je mag voelen: '"
           -
             type: text
             marks:
@@ -186,7 +196,7 @@ page_builder:
     collection_type: members
     display_mode: all
     show_tag: false
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -238,6 +248,6 @@ page_builder:
     type: FaqList
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771165910
+updated_at: 1771166230
 use_white_header: false
 ---
