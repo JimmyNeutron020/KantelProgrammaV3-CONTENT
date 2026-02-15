@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je hoeft niet te leren leven met bekkenpijn'
+                    text: "Je hoeft niet te 'leren leven' met bekkenpijn"
             show_tag: false
       -
         type: paragraph
@@ -125,7 +125,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Een bekend verhaal'
+                        text: 'Herken je dit?'
                 show_tag: false
           -
             type: paragraph
@@ -134,7 +134,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In onze gesprekken horen we dit verhaal zo vaak terug. Vrouwen die van behandeling naar behandeling zijn gegaan, bij verschillende specialisten, maar zonder blijvend resultaat. '
+                text: 'Je gaat van behandeling naar behandeling. Je zag verschillende arsten, therapeuten en specialisten. Allemaal zonder blijvend resultaat. '
           -
             type: bulletList
             content:
@@ -159,7 +159,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Je krijgt te horen dat je ermee moet leren leven'
+                        text: "Je krijgt te horen dat je 'ermee moet leren leven'"
               -
                 type: listItem
                 content:
@@ -236,7 +236,30 @@ page_builder:
                 type: hardBreak
               -
                 type: text
-                text: 'dan is dat heel begrijpelijk. Veel vrouwen komen op dit punt terecht, na alles wat ze al hebben meegemaakt.'
+                text: 'dan is dat heel herkenbaar. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Als jonge vrouw met chronische pijn verlang je er naar om weer stralend door het leven te kunnen gaan. En dat is precies waar wij je mee helpen. '
+          -
+            type: set
+            attrs:
+              id: mlo38car
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 2n1VsD5H
+                    label: 'MEER INFO'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.nl/start-nu'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -1451,7 +1474,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771180125
+updated_at: 1771180720
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
