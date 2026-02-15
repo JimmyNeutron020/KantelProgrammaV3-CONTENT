@@ -607,15 +607,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Omdat je niet kapot bent. Je systeem staat op scherp. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Veel behandelingen werken aan één stukje. Je bekken. Je spieren. Je houding. Je mindset.'
+            text: 'Omdat je niet kapot bent. Je systeem staat op scherp. Veel behandelingen werken aan het symptoom. Ze kijken naar één stukje. Je bekken. Je spieren. Je houding. Je mindset.'
       -
         type: paragraph
         attrs:
@@ -631,15 +623,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. "
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Maar een topsportbenadering voor herstel. Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. '
+            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. Maar een topsportbenadering voor herstel. Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. "
       -
         type: paragraph
         attrs:
@@ -731,7 +715,7 @@ page_builder:
                     type: text
                     text: 'Wij zijn Chantal & Paul'
             show_tag: true
-            tag_text: Hallo!
+            tag_text: Ciao
             tag_alignment: left
       -
         type: paragraph
@@ -740,7 +724,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen en adviezen. Onze manier van werken ontstond niet op papier, maar in de praktijk. In ons leefstijl hotel begeleidden we vrouwen die tijdelijk bij ons verbleven om 24/7 te werken aan herstel. Juist daar zagen we wat wél werkte en waarom.'
+            text: 'Onze aanpak ontstond niet online. Maar in ons leefstijlhotel waar vrouwen 24/7 aan herstel werkten.'
       -
         type: paragraph
         attrs:
@@ -748,7 +732,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Die inzichten zijn gevormd door onze eigen ervaringen met bekkenpijn en burn-out, jarenlange praktijk in de Jeugd GGZ, een paramedisch instituut op NOC*NSF-niveau en het begeleiden van inmiddels meer dan duizend vrouwen met complexe klachten.'
+            text: 'Vanuit jarenlange ervarig in Jeugd GGZ, paramedische topsportbegeleiding op NOC-NSF-niveau, orthopedische- en hartrevalidatie obesitas begeleiding en meer dan duizend vrouwen met chronische klachten, hebben we alles wat werkte vertaald naa één geïntegreerde methode.'
       -
         type: paragraph
         attrs:
@@ -756,7 +740,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wat daar samenkwam, hebben we vertaald naar het Kantel Programma. Een online traject waarin herstel geen losse momenten zijn, maar een leefwijze wordt. Gericht op duurzame verandering mét vertrouwen in je lichaam.'
+            text: 'Geen losse puzzelstukjes. Maar één samenhangend systeem.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -1416,7 +1400,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771187559
+updated_at: 1771187928
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
