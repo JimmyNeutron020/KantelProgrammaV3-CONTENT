@@ -80,7 +80,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat je niet meer nadenkt over elke beweging. Dat je niet plant rondom je pijn en energie. Dat je met je kinderen kunt spelen zonder na te denken. Dat je weer spontaan durft te leven. Sporten. Reizen. Werken . Intiem zijn. '
+            text: 'Dat je niet meer nadenkt over elke beweging. Dat je niet plant rondom je pijn en energie. Dat je met je kinderen kunt spelen zonder na te denken. Dat je weer spontaan durft te leven. Sporten. Reizen. Werken. Intiem zijn. '
       -
         type: paragraph
         attrs:
@@ -88,7 +88,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Niet omdat de pijn tijdelijk weg is. Maar omdat je lichaam zich weer veilig voelt. Dat is wat we herstellen. '
+            text: 'De pijn is weg is en je kunt je lichaam weer vertrouwen. Dat is wat herstel betekent. '
       -
         type: paragraph
         attrs:
@@ -1730,7 +1730,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771267978
+updated_at: 1771269044
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
