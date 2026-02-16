@@ -423,7 +423,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Wat het Kantel Programma is?'
+                    text: 'Wat het Kantel Programma is'
             show_tag: true
             tag_text: 'Wél herstellen'
             tag_alignment: right
@@ -491,7 +491,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'IGeen eindeloos traject. Maar een duidelijke route naar zelfstandigheid. In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
+            text: 'Geen eindeloos traject. Maar een duidelijke route naar zelfstandigheid. In 13 weken begeleiden we je stap voor stap van overlevingsstand naar vertrouwen. Je leert begrijpen wat je lichaam doet. Waarom het vastloopt. En wat het nodig heeft om wél weer mee te werken. Je wordt weer eigenaar en regiseur van je eigen lichaam. Zodat je niet langer afhankelijk bent van behandelingen of adviezen maar juist zelf weet wat werkt.'
       -
         type: paragraph
         attrs:
@@ -514,7 +514,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Herstel is geen uurtje per week. Het gebeurt in hoe je opstaat. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in werk, moederschap, relaties, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. Daarom werkt het ook als het spannend wordt.'
+            text: 'Herstel is geen uurtje per week. Het gebeurt in jouw dagen. Hoe je opstaat. Hoe je beweegt. Hoe je reageert op spanning. Hoe je rust neemt. Hoe je keuzes maakt. Daarom loopt dit programma mee in je dagelijks leven. Je leert herstel integreren in moederschap, relaties, werk, sport en sociale momenten. Zodat het geen tijdelijk traject of project blijft maar een nieuwe levenswijze. Daarom werkt het ook als het spannend wordt.'
       -
         type: paragraph
         attrs:
@@ -537,7 +537,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je staat er niet alleen voor. Veel herkenbaarheid want je volgt het programma tegelijk met veel andere vrouwen. Via de Kantel Kroniek deel je je wekelijkse proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Juist wanneer het systeem terugschiet. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
+            text: 'Je staat er niet alleen voor. Veel herkenbaarheid want je ziet in het programma veel andere vrouwen. Wekeleijks deel je via de zelfrefectie methodiek, de Kantel Kroniek, jouw proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1415,7 +1415,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771230988
+updated_at: 1771231303
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
