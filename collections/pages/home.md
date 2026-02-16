@@ -664,7 +664,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
     color: '#f5f5f7'
-    heading_size: XS
+    heading_size: S
     use_first_eight: true
     content:
       -
@@ -1006,7 +1006,7 @@ page_builder:
           id: m7ymsi5z
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -1017,6 +1017,10 @@ page_builder:
                     type: text
                     text: 'Wat wordt jouw volgende stap?'
             show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -1033,6 +1037,10 @@ page_builder:
           -
             type: text
             text: 'Je hoeft het niet zeker te weten om de eerste stap te durven zetten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
@@ -1393,7 +1401,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771243418
+updated_at: 1771243489
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
