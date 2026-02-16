@@ -647,47 +647,6 @@ page_builder:
     swap_layout: false
     anchor_id: topsport-benadering
   -
-    id: mlow8lup
-    content:
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Deze vrouwen begonnen met twijfel. Niet met zekerheid. Zij stonden waar jij nu staat. Echt! '
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Wat deze vrouwen gemeen hebben? Ze stopten met losse oplossingen. En kozen voor één samenhangend systeem.'
-    color: '#ffffff'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: IntoSection
-    enabled: true
-  -
     id: m9fijq9w
     show_settings: true
     inner_spacing_top:
@@ -724,6 +683,15 @@ page_builder:
                 button_layout: standard
                 button_colour: orange
     show_tag: false
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: Verhalen
   -
     id: m7xy3knc
     content:
@@ -1424,8 +1392,8 @@ page_builder:
             type: text
             text: 'Kennis & nieuws'
     show_tag: false
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771233402
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1771243355
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
