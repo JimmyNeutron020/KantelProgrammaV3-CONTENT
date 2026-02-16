@@ -1478,7 +1478,9 @@ page_builder:
     enabled: true
     show_tag: true
   -
-    id: mlpdcux1
+    id: mlpezjoj
+    full_height: true
+    layout_setting: media
     media:
       video: true
       autoplay_video: true
@@ -1489,20 +1491,7 @@ page_builder:
       play_pause_control: true
       sound_control: true
       fullscreen_control: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: ResultsCtaSection
+    type: HeroSection
     enabled: true
   -
     id: m7yosbje
@@ -1533,7 +1522,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771260634
+updated_at: 1771260931
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
