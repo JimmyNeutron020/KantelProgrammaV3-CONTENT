@@ -733,30 +733,20 @@ page_builder:
       -
         type: set
         attrs:
-          id: m7xy3sjr
+          id: mlowfhmx
           values:
             type: heading
             heading_size: M
             heading:
               -
-                type: heading
+                type: paragraph
                 attrs:
-                  level: 2
+                  class: null
                 content:
                   -
                     type: text
                     text: 'Wij zijn Chantal & Paul'
-            show_tag: true
-            tag_text: Ciao
-            tag_alignment: left
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Wij begeleiden vrouwen met chronische pijn zoals we topsporters begeleiden; systemisch, 24/7 en met aandacht voor body & mind. '
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -772,7 +762,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Vanuit jarenlange ervaring in Jeugd GGZ, paramedische topsportbegeleiding op NOC-NSF-niveau, orthopedische- en hartrevalidatie obesitas begeleiding en meer dan duizend vrouwen met chronische klachten, hebben we alles wat werkte vertaald naa één geïntegreerde methode.'
+            text: 'Vanuit ervaring in de Jeugd GGZ, paramedische topsportbegeleiding op NOC-NSF-niveau, orthopedische- en hartrevalidatie obesitas begeleiding en meer dan duizend vrouwen met chronische klachten, hebben we alles wat werkte vertaald naar réén geïntegreerde methode.'
       -
         type: paragraph
         attrs:
@@ -780,7 +770,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Geen losse puzzelstukjes. Maar één samenhangend systeem.'
+            text: 'Wij begeleiden vrouwen met chronische pijn zoals we topsporters begeleiden; systemisch, 24/7 en met aandacht voor body & mind. Geen losse puzzelstukjes. Maar één samenhangend systeem.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -1444,7 +1434,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771229445
+updated_at: 1771229764
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
