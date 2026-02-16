@@ -431,9 +431,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Wat het Kantel Programma is'
+                    text: 'Je leven terug'
             show_tag: true
-            tag_text: 'Wél herstellen'
+            tag_text: 'Met het Kantel Programma'
             tag_alignment: right
       -
         type: set
@@ -1423,7 +1423,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771232565
+updated_at: 1771232892
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
