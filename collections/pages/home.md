@@ -78,7 +78,7 @@ page_builder:
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
                 button_layout: solid
-                button_colour: white
+                button_colour: black
     type: HeroSection
     enabled: true
     media:
@@ -1481,7 +1481,7 @@ page_builder:
     id: mlpdcux1
     media:
       video: true
-      autoplay_video: false
+      autoplay_video: true
       video_link: 'https://vimeo.com/876507532'
       preview_image: lottelaan.jpg
       autoplay: true
@@ -1489,7 +1489,7 @@ page_builder:
       play_pause_control: true
       sound_control: true
       fullscreen_control: true
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -1533,7 +1533,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771260310
+updated_at: 1771260551
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
