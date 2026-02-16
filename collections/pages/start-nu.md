@@ -40,7 +40,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je hoeft dit niet alleen te doen'
+                    text: 'Van leven rondom je pijn naar leven vanuit vertrouwen in je lichaam'
             show_tag: false
       -
         type: paragraph
@@ -54,22 +54,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een herstelprogramma voor vrouwen met chronische bekkenpijn die al zoveel geprobeerd hebben en hun leven terug willen. '
-      -
-        type: set
-        attrs:
-          id: mll64sm9
-          values:
-            type: buttons
-            buttons:
-              -
-                id: 1vfjPesS
-                label: 'Meer informatie'
-                link_type: link
-                target_blank: false
-                link: '#aanmelden'
-                button_layout: solid
-                button_colour: white
+            text: 'Het Kantel Programma is een intensief hersteltraject met begeleiding, speciaal voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en klaar zijn om hun leven niet langer aan pijn aan te passen.'
     type: HeroSection
     enabled: true
   -
@@ -1701,8 +1686,8 @@ page_builder:
                 attrs:
                   class: text-white
             text: '-'
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771054939
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771266777
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
