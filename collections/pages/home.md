@@ -328,7 +328,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je kunt blijven aanpassen. Je dagen plannen rondom je pijn . Altijd rekening houden. Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert'
+            text: 'Je kunt blijven aanpassen. Je dagen plannen rondom je pijn . Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert'
       -
         type: paragraph
         attrs:
@@ -1407,7 +1407,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771230220
+updated_at: 1771230356
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
