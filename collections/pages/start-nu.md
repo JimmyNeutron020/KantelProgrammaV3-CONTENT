@@ -26,7 +26,7 @@ page_builder:
           id: mhkyxgkr
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: heading
@@ -64,15 +64,78 @@ page_builder:
       -
         type: heading
         attrs:
-          level: 2
+          level: 6
         content:
           -
             type: text
-            text: 'We dragen dit samen'
+            text: 'Hoe zou je leven eruit zien als je lichaam weer meewerkt?'
     show_tag: true
     tag_text: 'Stap voor stap'
     tag_alignment: center
     content:
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Dat je niet meer nadenkt over elke beweging. Dat je niet plant rondom je pijn en energie. Dat je met je kinderen kunt spelen zonder na te denken. Dat je weer spontaan durft te leven. Sporten. Reizen. Werken . Intiem zijn. '
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Niet omdat de pijn tijdelijk weg is. Maar omdat je lichaam zich weer veilig voelt. Dat is wat we herstellen. '
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Je hebt niet te weinig geprobeerd. Je systeem staat nog op overleven.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Veel trajecten focussen op losse oefeningen. Of alleen op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt hardr. Je probeert meer. Maar het blijft terugkomen.  En precies daar beginnen wij.'
+    color: '#ffffff'
+    package_content:
+      -
+        type: set
+        attrs:
+          id: ml3sep80
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Het Kantel Programma'
+            show_tag: true
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Een intensief traject van 13 modules met begeleiding, opgebouwd in 3 fases. Met maatwerk in beweging, voeding, ritme en herstel. En met dagelijkse integratie in jouw echte leven. Geen quick fix. Maar een structurele kanteling van je systeem.'
       -
         type: paragraph
         attrs:
@@ -98,26 +161,6 @@ page_builder:
           -
             type: text
             text: '. '
-    color: '#ffffff'
-    package_content:
-      -
-        type: set
-        attrs:
-          id: ml3sep80
-          values:
-            type: heading
-            heading_size: XS
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: 'Start met vertrouwen'
-            show_tag: true
-            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -1687,7 +1730,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771266777
+updated_at: 1771267978
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
