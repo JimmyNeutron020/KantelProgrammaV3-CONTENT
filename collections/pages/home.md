@@ -612,7 +612,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen veiligheid in je zenuwstelsel. Zodat je lichaam stopt met vechten. Zodat je niet meer hoeft te compenseren en vertrouwen terug komt. '
+            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen aan veiligheid in je zenuwstelsel, zodat je lichaam stopt met vechten. Niet langer hoeft te compenseren en jouw vertrouwen terug komt. '
       -
         type: paragraph
         attrs:
@@ -1423,7 +1423,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771232892
+updated_at: 1771233193
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
