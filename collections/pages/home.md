@@ -986,14 +986,119 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mlpbqirv
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Herstel chronische bekkenpijn met een bewezen topsportmethode. '
+    show_tag: true
+    tag_text: 'Van overleven naar leven'
+    tag_alignment: right
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Een compleet hersteltraject voor vrouwen met chronische bekkenklachten die vastlopen in losse behandelingen of eerdere revalidaties. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We begeleiden je zoals een topsporter ook wordt begeleid. Een andere kijk op herstel en op je levenswijze. Dit integreer je in jouw moederschap, je werk en je dagelijks leven, zodat herstel blijvend wordt.'
+    packages:
+      -
+        id: mlpckhci
+        heading_size: M
+        heading:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Kantel Programma'
+        show_tag: false
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je start met de eerste veilige maand van het volledige Kantel Programma. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Intensieve begeleiding, maatwerk en dagelijkse integratie in jouw leven. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Jij voelt of het klopt voor jou en beslist of we daarna samen verder gaan. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft het nog niet zeker te weten. Je mag beginnen.'
+        highlight: true
+        price: '€ 499'
+        show_discount: false
+        label: 'Ja, ik start mijn kanteling'
+        link_type: link
+        target_blank: false
+        link: 'https://kantelprogramma.nl/start-nu'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PropositionSection
+    enabled: true
+  -
     id: m7ymrmbz
     color: '#f7e7de'
     media:
       video: false
       autoplay_video: false
       images:
-        - 'brand/foto-18-01-2026,-11-40-15.jpg'
-      show_swiper_controls: false
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
+      show_swiper_controls: true
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -1373,6 +1478,33 @@ page_builder:
     enabled: true
     show_tag: true
   -
+    id: mlpdcux1
+    media:
+      video: true
+      autoplay_video: false
+      video_link: 'https://vimeo.com/876507532'
+      preview_image: lottelaan.jpg
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
+  -
     id: m7yosbje
     show_settings: false
     inner_spacing_top:
@@ -1400,8 +1532,8 @@ page_builder:
             type: text
             text: 'Kennis & nieuws'
     show_tag: false
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771243489
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771258319
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
