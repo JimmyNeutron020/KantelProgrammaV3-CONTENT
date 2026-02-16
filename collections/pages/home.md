@@ -328,7 +328,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je kunt blijven aanpassen. Blijven plannen rondom je klachten en je dagen plannen op belastbaarheid. Altijd rekening houden. Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert'
+            text: 'Je kunt blijven aanpassen. Je dagen plannen rondom je pijn . Altijd rekening houden. Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert'
       -
         type: paragraph
         attrs:
@@ -347,7 +347,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Of je kiest voor een andere aanpak. '
+            text: 'Of je kiest voor een andere aanpak. Niet harder werken. Niet nóg een behandeling. Maar fundamenteel anders kijken naar herstel.'
       -
         type: paragraph
         attrs:
@@ -366,26 +366,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Niet harder werken. Niet nóg een behandeling. Maar fundamenteel anders kijken naar herstel.'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Deze vrouwen hadden eerder ook al zóveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
+            text: 'Deze vrouwen hadden ook al zóveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
       -
         type: set
         attrs:
@@ -1426,7 +1407,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771229977
+updated_at: 1771230220
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
