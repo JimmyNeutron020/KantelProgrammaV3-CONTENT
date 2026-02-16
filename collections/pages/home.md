@@ -1374,14 +1374,6 @@ page_builder:
                 button_layout: solid
                 button_colour: orange
               -
-                id: mlo7tknu
-                label: 'Plan een Kantel Scan'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.nl/kantel-scan'
-                button_layout: solid
-                button_colour: orange
-              -
                 id: mlo7vi82
                 label: 'Veelgestelde vragen'
                 link_type: link
@@ -1434,7 +1426,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771229764
+updated_at: 1771229977
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
