@@ -686,7 +686,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Tijdens het gesprek onderzoeken we waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
+                text: 'Tijdens het gesprek geven we onze eerlijke analyse over de haalbaarheid. Je bent geen uitzondering ook al voelt dat wel vaak zo. We weten waar jij en vele andere vrouwen dagelijks mee te kampen hebben. Er is een uitweg.'
           -
             type: paragraph
             attrs:
@@ -1760,7 +1760,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771269693
+updated_at: 1771270299
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
