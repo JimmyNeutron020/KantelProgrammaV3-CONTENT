@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: "Te veel vrouwen krijgen te horen dat ze ermee moeten leren leven. Dat het 'erbij hoort'. Dat het nu eenmaal zo is. Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk en begint met de juíste begeleiding, niet met harder je best doen."
+            text: 'Te veel vrouwen krijgen te horen dat ze ermee moeten leren leven. Wij geloven dat dat niet klopt. Duurzaam herstel is mogelijk en begint met de juíste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -1412,7 +1412,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771190772
+updated_at: 1771229167
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
