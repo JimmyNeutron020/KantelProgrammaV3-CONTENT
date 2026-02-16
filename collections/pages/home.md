@@ -604,7 +604,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen veiligheid in je zenuwstelsel. Zodat je lichaam stopt met vechten. Zodat je niet meer hoeft te compenseren. Zodat vertrouwen terug komt. '
+            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen veiligheid in je zenuwstelsel. Zodat je lichaam stopt met vechten. Zodat je niet meer hoeft te compenseren en vertrouwen terug komt. '
       -
         type: paragraph
         attrs:
@@ -612,7 +612,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. Maar een topsportbenadering voor herstel. Herstel vraagt dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. "
+            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. Maar een topsportbenadering voor herstel. Met dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. "
       -
         type: paragraph
         attrs:
@@ -1415,7 +1415,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771231303
+updated_at: 1771231489
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
