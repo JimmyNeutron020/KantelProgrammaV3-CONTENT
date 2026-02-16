@@ -640,8 +640,8 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
     swap_layout: false
@@ -986,6 +986,93 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: m7ymrmbz
+    color: '#f7e7de'
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - 'brand/foto-18-01-2026,-11-40-15.jpg'
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: m7ymsi5z
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Wat wordt jouw volgende stap?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Je kunt blijven hopen dat het vanzelf verbetert. Of je kunt kiezen om je herstel serieus te nemen. Blijf je wachten tot het 'erg genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft het niet zeker te weten om de eerste stap te durven zetten.'
+      -
+        type: set
+        attrs:
+          id: mlo7r3oz
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 9062PRLS
+                label: 'Start veilig met maand 1'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.nl/start-nu'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: mlo7vi82
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: standard
+                button_colour: orange
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+    swap_layout: false
+  -
     id: mhgdhs2p
     heading_size: M
     content:
@@ -1278,93 +1365,6 @@ page_builder:
     enabled: true
     show_tag: true
   -
-    id: m7ymrmbz
-    color: '#f7e7de'
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - 'brand/foto-18-01-2026,-11-40-15.jpg'
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: m7ymsi5z
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Wat wordt jouw volgende stap?'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "Je kunt blijven hopen dat het vanzelf verbetert. Of je kunt kiezen om je herstel serieus te nemen. Blijf je wachten tot het 'erg genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hoeft het niet zeker te weten om de eerste stap te durven zetten.'
-      -
-        type: set
-        attrs:
-          id: mlo7r3oz
-          values:
-            type: buttons
-            buttons:
-              -
-                id: 9062PRLS
-                label: 'Start veilig met maand 1'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.nl/start-nu'
-                button_layout: solid
-                button_colour: orange
-              -
-                id: mlo7vi82
-                label: 'Veelgestelde vragen'
-                link_type: link
-                target_blank: false
-                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: QuestionsCtaSection
-    enabled: true
-    swap_layout: false
-  -
     id: m7yosbje
     show_settings: false
     inner_spacing_top:
@@ -1393,7 +1393,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771243355
+updated_at: 1771243418
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
