@@ -249,7 +249,15 @@ page_builder:
                 text: .
               -
                 type: text
-                text: "' Dan is dit precies waar wij je kunnen helpen. "
+                text: "' "
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dan is dit precies waar wij je kunnen helpen. '
           -
             type: set
             attrs:
@@ -468,7 +476,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Waar veel trajecten zich richten op losse oefeningen, begeleiden wij je zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiliheid ontstaat duurzaam herstel. '
+            text: 'Waar veel trajecten zich richten op losse oefeningen, begeleiden wij je zoals we een topsorter zouden begeleiden. Niet symptoomgericht. Niet oppervlakkig, Niet van het kastje naar de muur. We kijken naar je zenuwstelsel, belastbaarheid, herstelgedrag, beweging, voeding, slaap,en mentale patronen in samenhang. Geen losse oefeningen. Geen quick fix. Maar een systeem dat je veiligheid laat ervaren. En vanuit veiligheid ontstaat duurzaam herstel. '
       -
         type: paragraph
         attrs:
@@ -1415,7 +1423,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771231730
+updated_at: 1771231824
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
