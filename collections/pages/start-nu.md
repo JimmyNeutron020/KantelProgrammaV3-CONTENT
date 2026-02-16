@@ -107,7 +107,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Veel trajecten focussen op losse oefeningen. Of alleen op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt hardr. Je probeert meer. Maar het blijft terugkomen.  En precies daar beginnen wij.'
+            text: 'Veel trajecten focussen op losse oefeningen. Of alleen op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder. Je probeert meer. Maar het blijft terugkomen.  En precies daar beginnen wij.'
     color: '#ffffff'
     package_content:
       -
@@ -178,7 +178,7 @@ page_builder:
     features:
       -
         id: ml3sh7wa
-        feature_title: 'Een persoonlijk beweegplan op maat'
+        feature_title: 'Een persoonlijk beweegplan op maat met interventie instructies'
         feature_content:
           -
             type: paragraph
@@ -752,13 +752,27 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen, en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
+                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
               -
                 type: text
                 marks:
                   -
                     type: italic
-                text: '“Is dit het dan… blijft het altijd zo?”'
+                text: “
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: 'Is dit het dan… blijft het altijd zo?'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: ”
           -
             type: paragraph
             attrs:
@@ -766,7 +780,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
+                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. '
           -
             type: paragraph
             attrs:
@@ -774,7 +788,23 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
+                text: 'Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
           -
             type: paragraph
             attrs:
@@ -1730,7 +1760,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771269044
+updated_at: 1771269693
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
