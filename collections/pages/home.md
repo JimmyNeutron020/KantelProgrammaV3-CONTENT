@@ -650,6 +650,47 @@ page_builder:
     swap_layout: false
     anchor_id: topsport-benadering
   -
+    id: mlow8lup
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Deze vrouwen begonnen met twijfel. Niet met zekerheid. Zij stonden waar jij nu staat. Echt! '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Wat deze vrouwen gemeen hebben? Ze stopten met losse oplossingen. En kozen voor één samenhangend systeem.'
+    color: '#ffffff'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
     id: m9fijq9w
     show_settings: true
     inner_spacing_top:
@@ -669,15 +710,6 @@ page_builder:
     color: '#f5f5f7'
     heading_size: XS
     use_first_eight: true
-    heading:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Deze vrouwen begonnen met twijfel. Niet met zekerheid. Zij stonden waar jij nu staat. Echt! Wat deze vrouwen gemeen hebben? Ze stopten met losse oplossingen. En kozen voor één samenhangend systeem.'
     content:
       -
         type: set
@@ -1412,7 +1444,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771229259
+updated_at: 1771229445
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
