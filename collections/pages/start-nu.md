@@ -985,6 +985,253 @@ page_builder:
     type: ProgressSection
     enabled: true
   -
+    id: mlqvkyq5
+    items:
+      -
+        id: mlqvl10t
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - 'foto-18-01-2026,-16-50-32.jpg'
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mlqvwi8s
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: 'Voor wie dit programma bedoeld is'
+                show_tag: true
+                tag_text: 'En voor wie niet'
+                tag_alignment: center
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: mlqvys5g
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Dit is voor jou als ...'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je bent intelligent. Je verdiept je. Je analyseert. Je hebt al veel geprobeerd. Therapie. Oefeningen. Rust. Juist meer trainen. Podcasts. Nog een traject. Niet half. Maar serieus. En toch zit je vast. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je wilt geen standaard oefenschema meer. Je wilt begrijpen wat er écht speelt in je lichaam. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dit programma is voor jou als je:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'slim bent én bereid om niet alles zelf te blijven uitzoeken'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'voelt dat controle je tot hier heeft gebracht, maar dat je nu iets anders nodig hebt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'openstaat om je patronen onder ogen te zien'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'bereid bent om feedback te ontvangen, ook als die schuurt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'verantwoordelijkheid wilt nemen voor je herstelproces'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'niet zoekt naar een bevestiging maar naar een kanteling'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'verlangt naar vertrouwen in je lichaam, niet alleen minder pijn maar pijnvrij'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'klaar bent om je leven weer groter te maken dan je klachten'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft het niet al te kunnen. Maar je moet wél coachable zijn. Dat betekent dat je bereid bent om te luisteren naar adviezen. Om tijdelijk iets anders te doen dan je gewend bent.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: mlqw7030
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: 'Dit is niet voor jou als ...'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je vooral wilt horen dat je niets hoeft te veranderen. Je bij elk advies eerst in de weerstand schiet. Je eigenlijk hoopt dat wij je vooraf overtuigen zonder dat jij echt hoeft te bewegen. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "Als je vooral zekerheid zoekt vóór je start. Als je garanties wilt. Als je het traject wil 'proberen'. Dan is dit waarschijnlijk niet jouw plek. Niet omdat je het niet verdient. Maar omdat echte kanteling vraagt dat jij instapt. Als je daartoe  nog niet bereid bent, dan is dit waarschijnlijk niet het juiste moment."
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En dat is oké.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mik9r3v5
     content:
       -
@@ -1690,7 +1937,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771344687
+updated_at: 1771351338
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
