@@ -599,7 +599,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Korte, gerichte oefeningen, samen met Paul, die je zenuwstelsel tot rust brengen en je lichaam heel gericht stap voor stap weer laat samenwerken. Geen overload, geen prestatiedruk, wel continuïteit en veiligheid.'
+                text: 'Korte, gerichte oefeningen, samen met Paul, die je zenuwstelsel tot rust brengen en je lichaam heel gericht stap voor stap weer laat samenwerken. Geen overbelasting, geen prestatiedruk, wel continuïteit en veiligheid.'
         type: feature
         enabled: true
       -
@@ -2041,7 +2041,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771356164
+updated_at: 1771356596
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
