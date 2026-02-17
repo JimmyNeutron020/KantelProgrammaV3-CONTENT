@@ -173,7 +173,7 @@ data:
           content:
             -
               type: text
-              text: 'Van overleven naar leven.'
+              text: 'Van overleven naar leven'
       show_tag: false
       content:
         -
@@ -269,6 +269,38 @@ data:
       featured_image: brand/fotofolies-x-kantelprogramma_sneak-preview-23.jpg
       exclude_from_pages:
         - 631dd581-8207-4fe0-81e5-2becf841200f
+    -
+      id: mlqf45vo
+      icon: 'fa-sharp fa-solid fa-at'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'De eerste kanteling'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: '🎙️Kantel Kompas | Een praktisch mini-boek waarmee je ziet waar jouw energie vastzit en hoe je weer richting krijgt'
+      label: 'Kantel Kompas'
+      link_type: link
+      target_blank: false
+      link: 'https://kantelprogramma.membirds.com/checkout/kantel-kompas'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: kantel-kompas-webiste.png
   general_info: '© 2025 Kantel Programma. All rights reserved.'
   social_icons:
     -
