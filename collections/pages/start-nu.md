@@ -1325,146 +1325,10 @@ page_builder:
     show_discount_single: false
     price_installments: '€ 1447'
     show_discount_installments: false
-    features:
-      -
-        id: ml3sh7wa
-        feature_title: 'Een persoonlijk beweegplan op maat'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: "Geen standaard schema's of 'meer doen'. Je krijgt een specifiek bewegingsplan dat veilig is voor jouw lichaam en aansluit bij je belastbaarheid en meegroeit met je herstel. Gericht op vertrouwen en opbouw, niet op pushen of forceren."
-        type: feature
-        enabled: true
-      -
-        id: ml3sibpc
-        feature_title: 'Een volledig voedingsplan dat je herstel ondersteunt'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: "Voeding als herstelvoorwaarde, niet als dieet. Je leert wat jouw lichaam nodig heeft om te herstellen, te ontprikkelen en energie op te bouwen. Praktisch toepasbaar in jouw leven met complete weekmenu's, recepten en kant en klare boodschappenlijsten. "
-        type: feature
-        enabled: true
-      -
-        id: ml3sktvs
-        feature_title: 'Wekelijkse beweegopdrachten en trainingsvideo’s'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Korte, gerichte oefeningen, samen met Paul, die je zenuwstelsel tot rust brengen en je lichaam heel gericht stap voor stap weer laat samenwerken. Geen overload, geen prestatiedruk, wel continuïteit en veiligheid.'
-        type: feature
-        enabled: true
-      -
-        id: ml3sot37
-        feature_title: 'Q&A zoomsessies'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je hoeft niets te missen of bij te houden. Deze opgenomen sessies kun je terugkijken op jouw moment precies passend bij de fase waarin je zit. Je voelt herkenning en leert van de processen van andere vrouwen in hetzelfde traject.'
-        type: feature
-        enabled: true
-      -
-        id: ml3smzv1
-        feature_title: 'Wekelijkse Kantel Kennis en verdiepende masterclasses'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Inzicht in waarom herstel vastloopt en wat er écht nodig is om eruit te komen. Je leert anders kijken naar pijn, belasting, rust en grenzen. Zodat je snapt wat je doet en waarom het werkt.'
-        type: feature
-        enabled: true
-      -
-        id: ml3snj41
-        feature_title: 'Kantel Kroniek zelfreflectie methodiek'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Een begeleide manier van zelfreflectie om te leren luisteren naar je lichaam. Je deelt wekelijks wat er speelt, ontvangt feedback, richting en support en bouwt vertrouwen op in je eigen signalen en keuzes. '
-        type: feature
-        enabled: true
-      -
-        id: ml3soan9
-        feature_title: 'Inspirerende Kantel Vodcasts'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: "Voor momenten waarop je even wilt voelen; '"
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: 'Ik ben niet alleen'
-              -
-                type: text
-                text: "'. Verhalen, inzichten en reflecties die je helpen, ook buiten de 'oefenmomenten' om."
-        type: feature
-        enabled: true
-      -
-        id: ml3sq19w
-        feature_title: '26 weken toegang tot het programma'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je krijgt niet alleen 13 weken intensieve begeleiding, maar 26 weken de tijd om te leren, toe te passen en te integreren. Die extra tijd is bewust gekozen. Zodat je niet hoeft te haasten, kunt terugkijken, verdiepen en het herstel echt kunt verankeren voor de lange termijn.'
-        type: feature
-        enabled: true
-      -
-        id: mlct5l4v
-        feature_title: 'Kantel Moment Live middag'
-        feature_content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Een live dag waarin alles samenkomt. Verbinding, verdieping en ervaren wat er mogelijk is als body & mind weer samenwerken. Geen moeten, wel landen in wat je hebt opgebouwd. '
-        type: feature
-        enabled: true
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Ik zet deze stap'
+        label: KANTELEN
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -2177,7 +2041,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771355194
+updated_at: 1771355796
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
