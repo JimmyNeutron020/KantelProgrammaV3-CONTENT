@@ -1232,6 +1232,156 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mlqwxtor
+    items:
+      -
+        id: mlqwy07n
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/img_2677.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mlqwzh5u
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wat we vaak zien'
+                show_tag: true
+                tag_text: 'We dragen het samen'
+                tag_alignment: right
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je twijfelt niet aan de inhoud. Je twijfelt aan jezelf. Aan jouw lichaam. Je hebt al zoveel geprobeerd. Je bent slim. Je bent zorgvuldig. Je wilt geen verkeerde keuze meer maken. En dus stel je uit.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '"'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Misschien moet ik eerst nog'
+              -
+                type: text
+                text: ' ... "'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '"'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Misschien is dit niet het juiste moment'
+              -
+                type: text
+                text: '."'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '"'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Wat als dit ook niet werkt'
+              -
+                type: text
+                text: '?"'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wat we vaak zien, is dat vrouwen zoals jij niet bang zijn voor inzet. Ze zijn bang om wéér teleurgesteld te worden. En tegelijk voelen ze diep van binnen; "'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Zo wil ik niet langer doorgaan'
+              -
+                type: text
+                text: '."'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien is het juiste moment niet wanneer alles zeker voelt. Misschien is het het moment waarop je voelt dat je het anders wilt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft niet zonder twijfel te beginnen. Je hoeft alleen bereid te zijn om een eerste stap te zetten. En vanaf daar dragen we het samen.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mik9r3v5
     content:
       -
@@ -1937,7 +2087,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771351338
+updated_at: 1771351930
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
