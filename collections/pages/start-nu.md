@@ -2084,7 +2084,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat is Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
+            text: 'Dat is oké. Een grote stap zet je niet gedachteloos. '
       -
         type: paragraph
         attrs:
@@ -2092,42 +2092,23 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden? Kijk dan bij de veelgestelde vragen.'
+            text: 'Misschien heb je nog vragen. Misschien wil je even voelen of dit klopt voor jou. '
       -
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            text: 'Ja mag ons alles vragen. Rechtstreeks. Persoonlijk. Zonder oordeel. '
       -
-        type: set
+        type: paragraph
         attrs:
-          id: mika5cyc
-          values:
-            type: buttons
-            buttons:
-              -
-                id: wT7uPq97
-                label: 'Stel je vraag'
-                link_type: link
-                target_blank: false
-                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
-                button_layout: solid
-                button_colour: orange
-              -
-                id: mika5t4r
-                label: 'Veelgestelde vragen'
-                link_type: link
-                target_blank: false
-                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
-                button_colour: orange
-              -
-                id: mlqykanj
-                label: 'Meer over Paul & Chantal'
-                link_type: link
-                target_blank: false
-                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
-                button_layout: solid
-                button_colour: white
+          class: null
+        content:
+          -
+            type: text
+            text: 'En als je vooral wilt weten hoe andere vrouwen hun keuze maakten, kijk dan bij de veelgestelde vragen.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2165,7 +2146,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771354432
+updated_at: 1771354738
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
