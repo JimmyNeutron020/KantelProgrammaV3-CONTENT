@@ -350,12 +350,12 @@ page_builder:
             buttons:
               -
                 id: JbZyEcgp
-                label: 'Bekijk verhalen'
+                label: 'Dit is wat mogelijk is voor jou'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: solid
-                button_colour: white
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -2060,7 +2060,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771326776
+updated_at: 1771327060
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
