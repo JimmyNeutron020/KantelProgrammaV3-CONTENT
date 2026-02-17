@@ -36,7 +36,7 @@ data:
       button_colour: orange
     -
       id: mhhtdhmf
-      label: Aanmelden
+      label: Kantelen
       link_type: link
       target_blank: false
       link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
