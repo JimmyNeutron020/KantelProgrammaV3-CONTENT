@@ -291,7 +291,7 @@ data:
           content:
             -
               type: text
-              text: '🎙️Kantel Kompas | Een praktisch mini-boek waarmee je ziet waar jouw energie vastzit en hoe je weer richting krijgt'
+              text: '🧭Kantel Kompas | Een praktisch mini-boek waarmee je ziet waar jouw energie vastzit en hoe je weer richting krijgt'
       label: 'Kantel Kompas'
       link_type: link
       target_blank: false
