@@ -88,10 +88,10 @@ data:
               marks:
                 -
                   type: bold
-              text: '🧡Kantel Webinar'
+              text: 🧡
             -
               type: text
-              text: ' waarin je ontdekt waarom je klachten blijven en wat er nodig is om weet pijnvrij te leven.'
+              text: 'Kantel Webinar | Gratis sessie (75 minuten) waarin je ontdekt waarom je klachten blijven en wat er nodig is om weet pijnvrij te leven.'
       label: 'Kantel Webinar'
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
@@ -128,10 +128,28 @@ data:
               marks:
                 -
                   type: bold
-              text: '📹Kantel Scan '
+              text: 📹
             -
               type: text
-              text: 'met Paul waarin je, tijdens een zoomsessie, helder krijgt wat jouw lichaam nú nodig heeft om uit de pijncirkel te komen.'
+              text: 'Kantel Scan'
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: ' '
+            -
+              type: text
+              text: '|'
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: ' '
+            -
+              type: text
+              text: 'Zoomsessie 1 op 1 met Paul waarin je helder krijgt wat jouw lichaam nú nodig heeft om uit de pijncirkel te komen.'
       label: 'Kantel Scan'
       link_type: link
       target_blank: false
@@ -155,7 +173,7 @@ data:
           content:
             -
               type: text
-              text: 'De 6 sleutels. Van overleven naar leven.'
+              text: 'Van overleven naar leven.'
       show_tag: false
       content:
         -
@@ -165,7 +183,7 @@ data:
           content:
             -
               type: text
-              text: '📚Kantel Quickstart, een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
+              text: '📚Kantel Quickstart | Een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
       label: 'Kantel Quickstart'
       link_type: link
       target_blank: false
@@ -202,10 +220,10 @@ data:
               marks:
                 -
                   type: bold
-              text: '📩Kantel Vragen'
+              text: 📩
             -
               type: text
-              text: ', stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
+              text: 'Kantel Vragen | Stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
       label: 'Kantel Vragen'
       link_type: link
       target_blank: false
@@ -239,16 +257,7 @@ data:
           content:
             -
               type: text
-              text: 🎙️
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: 'Kantel Kracht'
-            -
-              type: text
-              text: ', luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
+              text: '🎙️Kantel Kracht | Luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
       label: 'Kantel Kracht'
       link_type: link
       target_blank: false
