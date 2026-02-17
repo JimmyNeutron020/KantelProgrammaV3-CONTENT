@@ -14,16 +14,16 @@ data:
       target_blank: false
       internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
     -
+      id: mlr07537
+      label: 'Gratis Webinar'
+      link_type: internal
+      internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
+      target_blank: false
+    -
       id: mlcn7mwy
       label: 'Veelgestelde vragen'
       link_type: internal
       internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
-      target_blank: false
-    -
-      id: miytf7s9
-      label: 'Persoonlijke vragen'
-      link_type: internal
-      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
       target_blank: false
   menu_items_small:
     -
@@ -38,6 +38,12 @@ data:
       link_type: internal
       target_blank: false
       internal_link: ba0a418f-5a92-40de-9945-5d60ba71d107
+    -
+      id: mlr05uuc
+      label: 'Persoonlijke Vragen'
+      link_type: internal
+      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
+      target_blank: false
     -
       id: mll77whe
       label: 'Zorgeloos zwanger'
