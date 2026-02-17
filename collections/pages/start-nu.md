@@ -2109,6 +2109,37 @@ page_builder:
           -
             type: text
             text: 'En als je vooral wilt weten hoe andere vrouwen hun keuze maakten, kijk dan bij de veelgestelde vragen.'
+      -
+        type: set
+        attrs:
+          id: mlqz2bvx
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 56A4O8VU
+                label: 'Veelgestelde vragen'
+                link_type: link
+                target_blank: false
+                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: mlqz3dp3
+                label: 'Stel je vraag'
+                link_type: email
+                target_blank: false
+                email: support@kantelprogramma.nl
+                button_layout: solid
+                button_colour: white
+              -
+                id: mlqz46yf
+                label: 'Over Chantal & Paul'
+                link_type: link
+                target_blank: false
+                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
+                button_layout: standard
+                button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2146,7 +2177,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771354738
+updated_at: 1771355194
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
