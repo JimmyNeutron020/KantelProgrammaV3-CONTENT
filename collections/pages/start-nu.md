@@ -2120,6 +2120,14 @@ page_builder:
                 link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
                 button_layout: standard
                 button_colour: orange
+              -
+                id: mlqykanj
+                label: 'Meer over Paul & Chantal'
+                link_type: link
+                target_blank: false
+                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
+                button_layout: solid
+                button_colour: white
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2135,8 +2143,29 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mlqylj07
+    heading_size: M
+    show_tag: false
+    color: '#ffffff'
+    use_first_eight: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsSlider
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771354108
+updated_at: 1771354432
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
