@@ -3,7 +3,7 @@ data:
   menu_items_big:
     -
       id: mhhuizrn
-      label: Aanmelden
+      label: Kantelen
       link_type: internal
       target_blank: false
       internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
