@@ -1038,7 +1038,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je brengt alles wat je hebt geleerd stap voor stap terug in je echte leven: moederschap, werk, sport, reizen en dromen. Fase 1 & 2 hebben je veiligheid en vertrouwen gegeven. Vanaf hier leer je schakel je onder eigen regie, omdat herstel geen traject meer is, maar je gekantelde basis. '
+                text: 'Je brengt alles wat je hebt geleerd stap voor stap terug in je echte leven: moederschap, werk, sport, reizen en dromen. Fase 1 & 2 hebben je veiligheid en vertrouwen gegeven. Vanaf hier schakel je onder eigen regie, omdat herstel geen traject meer is, maar je gekantelde basis. '
         type: phase
         enabled: true
     show_settings: true
@@ -2052,7 +2052,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771342067
+updated_at: 1771342534
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
