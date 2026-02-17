@@ -1057,254 +1057,6 @@ page_builder:
     type: ProgressSection
     enabled: true
   -
-    id: mlcyqqit
-    items:
-      -
-        id: mlcyqrt7
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mlcyqzbl
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 2
-                    content:
-                      -
-                        type: text
-                        text: 'Twijfel je of onze aanpak bij jou past?'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'Zoomsessie op afspraak'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Geen standaard kennismakingsgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'een deskundige blik'
-              -
-                type: text
-                text: ' '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'op het geheel'
-              -
-                type: text
-                text: .
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'uitgebreid kantel scan formulier '
-              -
-                type: text
-                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Tijdens het gesprek geven we onze eerlijke analyse over de haalbaarheid. Je bent geen uitzondering ook al voelt dat wel vaak zo. We weten waar jij en vele andere vrouwen dagelijks mee te kampen hebben. Er is een uitweg.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: set
-            attrs:
-              id: mlcyrgmp
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: kTcYVpC1
-                    label: 'Plan afspraak'
-                    link_type: link
-                    target_blank: false
-                    link: '/kantel-scan#aanmeldformulier'
-                    button_layout: standard
-                    button_colour: orange
-                    umami_event_name: kantel-scan-from-aanmelden-kp
-        type: new_set
-        enabled: true
-      -
-        id: mll60cuw
-        swap: true
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - brand/fotofolies-x-kantelprogramma_live-131.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mll60n8j
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 2
-                    content:
-                      -
-                        type: text
-                        text: 'Een brief aan jou 🧡'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: “
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: 'Is dit het dan… blijft het altijd zo?'
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: ”
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Liefs, Chantal & Paul 😘'
-        type: new_set
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: true
-  -
     id: ml3t2w3y
     color: '#ffffff'
     background_image: brand/fotofolies-x-kantelprogramma_live-126.jpg
@@ -2051,8 +1803,256 @@ page_builder:
                 attrs:
                   class: text-white
             text: '-'
+  -
+    id: mlcyqqit
+    items:
+      -
+        id: mlcyqrt7
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mlcyqzbl
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Een eerlijke analyse'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Zoomsessie op afspraak'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Geen standaard kennismakingsgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'een deskundige blik'
+              -
+                type: text
+                text: ' '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'op het geheel'
+              -
+                type: text
+                text: .
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'uitgebreid kantel scan formulier '
+              -
+                type: text
+                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens het gesprek geven we onze eerlijke analyse over de haalbaarheid. Je bent geen uitzondering ook al voelt dat wel vaak zo. We weten waar jij en vele andere vrouwen dagelijks mee te kampen hebben. Er is een uitweg.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: mlcyrgmp
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: kTcYVpC1
+                    label: 'Plan afspraak'
+                    link_type: link
+                    target_blank: false
+                    link: '/kantel-scan#aanmeldformulier'
+                    button_layout: standard
+                    button_colour: orange
+                    umami_event_name: kantel-scan-from-aanmelden-kp
+        type: new_set
+        enabled: true
+      -
+        id: mll60cuw
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma_live-131.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mll60n8j
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        text: 'Een brief aan jou 🧡'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien lees je dit met pijn in je lijf en een hoofd dat nooit echt uitstaat. Je hebt al zoveel geprobeerd, therapieën, adviezen, behandelingen en toch voelt het alsof je telkens weer terug bij af bent. Je energie is schaars, je agenda draait om je klachten en ergens vraag je je af: '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: “
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: 'Is dit het dan… blijft het altijd zo?'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: ”
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'We willen dat je weet: wij zien je. Je bent niet “lastig” of “aanstellerig”, maar een jonge vrouw met echte klachten, echte verantwoordelijkheden en een groot hart voor je gezin, je werk en de mensen om je heen. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je verlangt naar iets wat verder gaat dan losse puzzelstukjes: helderheid, een totaalplaatje, een plan dat klopt voor jóúw lichaam én zenuwstelsel. Zodat je weer kunt vertrouwen op je lichaam, je energie en je leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je verdient het om niet langer te overleven, maar weer voluit te leven. Vrijer, lichter, met meer rust en plezier. Niet pas “ooit”, maar vanaf nu. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het Kantel Programma is er precies voor vrouwen zoals jij: die voelen dat er meer mogelijk is dan alleen leren omgaan met bekkenpijn, en die klaar zijn om de stap te zetten naar een leven waarin jij weer de regie hebt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Liefs, Chantal & Paul 😘'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771342534
+updated_at: 1771342669
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
