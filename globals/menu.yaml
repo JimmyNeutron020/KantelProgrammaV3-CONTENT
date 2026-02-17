@@ -75,7 +75,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Webinar'
+              text: 'Voorgoed afscheid van chronische bekkenpijn'
       show_tag: false
       content:
         -
@@ -85,7 +85,13 @@ data:
           content:
             -
               type: text
-              text: 'Voorgoed afscheid van chronische bekkenpijn.'
+              marks:
+                -
+                  type: bold
+              text: 'Kantel Webinar'
+            -
+              type: text
+              text: ' waarin je ontdekt waarom je klachten blijven en wat er nodig is om weet pijnvrij te leven.'
       label: 'Kantel Webinar'
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
@@ -109,7 +115,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Scan'
+              text: 'Jouw doorbraak gesprek'
       show_tag: false
       content:
         -
@@ -119,7 +125,13 @@ data:
           content:
             -
               type: text
-              text: 'Persoonlijke call over wat jouw lichaam wél nodig heeft.'
+              marks:
+                -
+                  type: bold
+              text: '📹Kantel Scan '
+            -
+              type: text
+              text: 'met Paul waarin je, tijdens een zoomsessie, helder krijgt wat jouw lichaam nú nodig heeft om uit de pijncirkel te komen.'
       label: 'Kantel Scan'
       link_type: link
       target_blank: false
@@ -143,7 +155,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Quickstart'
+              text: 'De 6 sleutels. Van overleven naar leven.'
       show_tag: false
       content:
         -
@@ -153,7 +165,7 @@ data:
           content:
             -
               type: text
-              text: 'De 6 sleutels. Van overleven naar stralend leven. '
+              text: '📚Kantel Quickstart, een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
       label: 'Kantel Quickstart'
       link_type: link
       target_blank: false
@@ -177,7 +189,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Vragen'
+              text: 'Helderheid in je hoofd'
       show_tag: false
       content:
         -
@@ -187,7 +199,13 @@ data:
           content:
             -
               type: text
-              text: 'Persoonlijke vragen direct via mail'
+              marks:
+                -
+                  type: bold
+              text: '📩Kantel Vragen'
+            -
+              type: text
+              text: ', stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
       label: 'Kantel Vragen'
       link_type: link
       target_blank: false
@@ -211,7 +229,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Kracht'
+              text: 'Vertrouwen in je lichaam'
       show_tag: false
       content:
         -
@@ -221,7 +239,16 @@ data:
           content:
             -
               type: text
-              text: 'Podcast te beluisteren op Spotify'
+              text: 🎙️
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: 'Kantel Kracht'
+            -
+              type: text
+              text: ', luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
       label: 'Kantel Kracht'
       link_type: link
       target_blank: false
