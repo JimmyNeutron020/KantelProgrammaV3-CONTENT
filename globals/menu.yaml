@@ -88,10 +88,10 @@ data:
               marks:
                 -
                   type: bold
-              text: 🧡
+              text: 'Kantel Webinar'
             -
               type: text
-              text: 'Kantel Webinar | Gratis sessie (75 minuten) waarin je ontdekt waarom je klachten blijven en wat er nodig is om weet pijnvrij te leven.'
+              text: ' | Gratis sessie (75 minuten) waarin je ontdekt waarom je klachten blijven en wat er nodig is om weet pijnvrij te leven.'
       label: 'Kantel Webinar'
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
@@ -128,16 +128,7 @@ data:
               marks:
                 -
                   type: bold
-              text: 📹
-            -
-              type: text
-              text: 'Kantel Scan'
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: ' '
+              text: 'Kantel Scan '
             -
               type: text
               text: '|'
@@ -183,7 +174,13 @@ data:
           content:
             -
               type: text
-              text: '📚Kantel Quickstart | Een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
+              marks:
+                -
+                  type: bold
+              text: 'Kantel Quickstart'
+            -
+              type: text
+              text: ' | Een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
       label: 'Kantel Quickstart'
       link_type: link
       target_blank: false
@@ -220,10 +217,10 @@ data:
               marks:
                 -
                   type: bold
-              text: 📩
+              text: 'Kantel Vragen'
             -
               type: text
-              text: 'Kantel Vragen | Stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
+              text: ' | Stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
       label: 'Kantel Vragen'
       link_type: link
       target_blank: false
@@ -257,7 +254,13 @@ data:
           content:
             -
               type: text
-              text: '🎙️Kantel Kracht | Luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
+              marks:
+                -
+                  type: bold
+              text: 'Kantel Kracht'
+            -
+              type: text
+              text: ' | Luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
       label: 'Kantel Kracht'
       link_type: link
       target_blank: false
@@ -291,7 +294,13 @@ data:
           content:
             -
               type: text
-              text: '🧭Kantel Kompas | Een praktisch mini-boek waarmee je ziet waar jouw energie vastzit en hoe je weer richting krijgt'
+              marks:
+                -
+                  type: bold
+              text: 'Kantel Kompas'
+            -
+              type: text
+              text: ' | Een praktisch mini-boek waarmee je ziet waar jouw energie vastzit en hoe je weer richting krijgt'
       label: 'Kantel Kompas'
       link_type: link
       target_blank: false
