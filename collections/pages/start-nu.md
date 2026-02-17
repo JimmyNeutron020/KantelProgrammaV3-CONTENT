@@ -865,7 +865,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Dit gebeurt er in 13 modules'
+                    text: 'De kanteling'
             show_tag: false
     color: '#f7e7de'
     show_settings: true
@@ -2052,7 +2052,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771342669
+updated_at: 1771342916
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
