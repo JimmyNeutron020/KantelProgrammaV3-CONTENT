@@ -750,6 +750,104 @@ page_builder:
                   class: text-white
             text: '-'
   -
+    id: mik9r3v5
+    content:
+      -
+        type: set
+        attrs:
+          id: mik9ra92
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'We weten hoe jij je voelt'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In hun verhalen hoor je hoe zij twijfelden en hoe ze er aan toe waren. Ze delen hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
+      -
+        type: set
+        attrs:
+          id: mikb5t9j
+          values:
+            type: buttons
+            buttons:
+              -
+                id: xvwmjuxs
+                label: 'Ik zet deze stap'
+                link_type: link
+                target_blank: false
+                link: '#prijzen'
+                button_layout: solid
+                button_colour: orange
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+    color: '#ffffff'
+  -
+    id: mhl4c1fm
+    heading_size: M
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Our Members'
+    show_tag: true
+    collection_type: members
+    display_mode: all
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
+    tag_text: Member
+  -
     id: mll4udm9
     content:
       -
@@ -1606,104 +1704,6 @@ page_builder:
     enabled: true
     anchor_id: brief-aan-jou
   -
-    id: mik9r3v5
-    content:
-      -
-        type: set
-        attrs:
-          id: mik9ra92
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'We weten hoe jij je voelt'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'In hun verhalen delen zij hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
-      -
-        type: set
-        attrs:
-          id: mikb5t9j
-          values:
-            type: buttons
-            buttons:
-              -
-                id: xvwmjuxs
-                label: 'Ik zet deze stap'
-                link_type: link
-                target_blank: false
-                link: '#prijzen'
-                button_layout: solid
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
-    color: '#ffffff'
-  -
-    id: mhl4c1fm
-    heading_size: M
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Our Members'
-    show_tag: true
-    collection_type: members
-    display_mode: all
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TeamShowcase
-    enabled: true
-    tag_text: Member
-  -
     id: mika4xbu
     color: '#f7e7de'
     swap_layout: false
@@ -2060,7 +2060,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771327060
+updated_at: 1771332078
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
