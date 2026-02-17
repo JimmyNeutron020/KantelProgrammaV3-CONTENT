@@ -1002,8 +1002,10 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'We weten hoe jij je voelt'
-            show_tag: false
+                    text: 'Je bent niet zwak. Je bent niet alleen.'
+            show_tag: true
+            tag_text: 'Je bent niet gek'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -1011,7 +1013,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
+            text: 'Deze vrouwen weten hoe het voelt om jarenlang te leven met pijn Om sterk te blijven voor anderen, terwijl je lichaam je in de steek lijkt te laten.'
       -
         type: paragraph
         attrs:
@@ -1019,22 +1021,23 @@ page_builder:
         content:
           -
             type: text
-            text: 'In hun verhalen hoor je hoe zij twijfelden en hoe ze er aan toe waren. Ze delen hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
+            text: 'Ze twijfelden. Ze waren moe van alles proberen. Ze beschermde zich tegen weer een teleurstelling. Ze vroegen zich af of dit hun nieuwe normaal zou worden. '
       -
-        type: set
+        type: paragraph
         attrs:
-          id: mikb5t9j
-          values:
-            type: buttons
-            buttons:
-              -
-                id: xvwmjuxs
-                label: 'Ik zet deze stap'
-                link_type: link
-                target_blank: false
-                link: '#prijzen'
-                button_layout: solid
-                button_colour: orange
+          class: null
+        content:
+          -
+            type: text
+            text: 'Totdat ze besloten: dit kan niet mijn verhaal blijven. In hun verhalen hoor je geen perfecte succesverhalen. Je hoort twijfel. Angst. Doorbraakmomenten. En hoe vertrouwen langzaam terug kwam. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien herken je jezelf. Misschien is dit het moment waarop jij ziet: herstel is wél mogelijk. Bekijk hun kantelmoment'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -1687,7 +1690,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771343582
+updated_at: 1771344226
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
