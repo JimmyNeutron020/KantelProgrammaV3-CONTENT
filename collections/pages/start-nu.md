@@ -55,10 +55,324 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Het Kantel Programma is een intensief hersteltraject met begeleiding, speciaal voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en klaar zijn om hun leven niet langer aan pijn aan te passen.'
+      -
+        type: set
+        attrs:
+          id: mlqgo1kg
+          values:
+            type: buttons
+            buttons:
+              -
+                id: j597kdT8
+                label: 'Ik zet de eerste stap'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                button_layout: solid
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
-    id: ml3samkz
+    id: mll4nn17
+    color: '#fff'
+    phases:
+      -
+        id: mll4nr0e
+        icon: 'fa-regular fa-heart'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Je bent niet zwak'
+          -
+            type: set
+            attrs:
+              id: mll4ou36
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 5
+                    content:
+                      -
+                        type: text
+                        text: 'Je bent moe van het zoeken'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "Je hebt van alles geprobeerd, van therapie naar therapie en van arts naar specialist. Je weet wat oefeningen zijn. Je weet wat 'je moet doen'. "
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'En toch komt de pijn terug. Blijft je lichaam gespannen. Vertrouw je het niet meer. Plan je je leven rondom wat je aankunt. En dat is het echte verlies. Niet alleen de pijn. Maar de vrijheid.'
+        type: phase
+        enabled: true
+      -
+        id: mll4po92
+        icon: 'fa-regular fa-arrow-rotate-right'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Waar anderen stoppen'
+          -
+            type: set
+            attrs:
+              id: mll4ou36
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 5
+                    content:
+                      -
+                        type: text
+                        text: 'Geen symptoombestrijding'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Veel trajecten focussen op losse oefeningen. Of alleen op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder. Je probeert meer. Maar het blijft terugkomen.  '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En precies daar beginnen wij. Wij werken niet symptoomgericht. Wij begeleiden je zoals je een topsporter zou begeleiden; 24/7 geïntegreerd in je leven.'
+        type: phase
+        enabled: true
+      -
+        id: mll4s4nt
+        icon: 'fa-regular fa-dove'
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Niet meer durven denken'
+          -
+            type: set
+            attrs:
+              id: mll4ou36
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 5
+                    content:
+                      -
+                        type: text
+                        text: 'Wat je eigenlijk verlangt'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je wilt niet minder pijn. Je wilt pijnvrij leven. Wakker worden zonder dat je meteen checkt hoe je lichaam voelt. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "Je wilt bewegen zonder dat je vooraf berekent wat het kost. Je wilt op de grond zitten met je kinderen zonder nareactie. Je wilt weer spontaan zijn. Weer 'ja' kunnen zeggen. Weer plannen maken zonder onzekerheid. Je wilt niet leven in overleven. Je wilt vertrouwen."
+        type: phase
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: big
+      spacing_mobile: big
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ProgressSection
+    enabled: true
+  -
+    id: mik84ac0
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: mik85d2w
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Je wilt vertrouwen'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Vertrouwen dat je lichaam meewerkt. Vertrouwen dat je belastbaar bent. Vertrouwen dat dit niet je nieuwe normaal hoeft te zijn.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'En misschien is dat het moeilijkste:'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Je wilt weer durven dromen. Zonder dat pijn je beperkt!'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mik866r4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: JbZyEcgp
+                label: 'Bekijk verhalen'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: solid
+                button_colour: white
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
+  -
+    id: mlqgmmlf
     heading_size: M
     heading:
       -
@@ -68,7 +382,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Hoe zou je leven eruit zien als je lichaam weer meewerkt?'
+            text: 'Precies daar beginnen we'
     show_tag: true
     tag_text: 'Stap voor stap'
     tag_alignment: center
@@ -135,32 +449,22 @@ page_builder:
         content:
           -
             type: text
-            text: 'Een intensief traject van 13 modules met begeleiding, opgebouwd in 3 fases. Met maatwerk in beweging, voeding, ritme en herstel. En met dagelijkse integratie in jouw echte leven. Geen quick fix. Maar een structurele kanteling van je systeem.'
+            text: 'Een intensief traject van 13 modules met begeleiding, opgebouwd in 3 fases. Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Onze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
           class: null
         content:
-          -
-            type: text
-            text: 'Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Deze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: '
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'je leven terug'
-          -
-            type: text
-            text: '. '
+            text: Topsportbenadering
       -
         type: paragraph
         attrs:
@@ -168,7 +472,87 @@ page_builder:
         content:
           -
             type: text
-            text: 'Kies je voor betaling in 3 termijnen? In de eerste maand bepaal je of je het traject volledig wilt afronden, of dat je stopt na deze maand.'
+            text: 'We begeleiden je zoals je een topsporter zou begeleiden: met aandacht voor het hele systeem, niet alleen het symptoom'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Integratie in jouw leven'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Herstel gebeurt niet in een behandelkamer, maar in je dagelijkse leven. Daarom integreren we alles 24/7'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Zenuwstelsel eerst'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We beginnen waar anderen stoppen.: bij veiligheid. Zonder veiligheid geen blijvend herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Veilige eerste maand'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft geen alles of niets beslissing te maken. Je mag starten en voelen. Kies je voor betaling in 3 termijnen? In de eerste maand bepaal je of je het traject volledig wilt afronden, of dat je stopt na deze maand.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: je leven terug. '
     pricing_tab_single_label: '3 Termijnen'
     pricing_tab_installments_label: Eenmalig
     price_single: '€ 499'
@@ -402,7 +786,7 @@ page_builder:
     type: IntoSection
     enabled: true
   -
-    id: mll4nn17
+    id: mlqhbjxz
     color: '#f7e7de'
     phases:
       -
@@ -1222,90 +1606,6 @@ page_builder:
     enabled: true
     anchor_id: brief-aan-jou
   -
-    id: mik84ac0
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/996074037'
-      preview_image: screenshot-2025-11-24-at-08.51.40.png
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: false
-      sound_control: false
-      fullscreen_control: false
-    content:
-      -
-        type: set
-        attrs:
-          id: mik85d2w
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je bent niet de enige'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'De vrouwen die hier hun verhaal delen, hadden al zoveel geprobeerd. Hun ervaringen laten zien dat je weer vertrouwen in je lichaam kunt krijgen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: mik866r4
-          values:
-            type: buttons
-            buttons:
-              -
-                id: JbZyEcgp
-                label: 'Bekijk verhalen'
-                link_type: link
-                target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: solid
-                button_colour: white
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: ResultsCtaSection
-    enabled: true
-  -
     id: mik9r3v5
     content:
       -
@@ -1760,7 +2060,7 @@ page_builder:
                   class: text-white
             text: '-'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771270299
+updated_at: 1771326776
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
