@@ -54,22 +54,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Het Kantel Programma is een intensief hersteltraject met begeleiding, speciaal voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en klaar zijn om hun leven niet langer aan pijn aan te passen.'
-      -
-        type: set
-        attrs:
-          id: mlqgo1kg
-          values:
-            type: buttons
-            buttons:
-              -
-                id: j597kdT8
-                label: 'Ik zet de eerste stap'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
-                button_layout: solid
-                button_colour: orange
+            text: 'Het Kantel Programma is een intensief hersteltraject mét begeleiding. Speciaal voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en die hun leven niet langer willen aanpassen aan de pijn.'
     type: HeroSection
     enabled: true
   -
@@ -2286,7 +2271,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771426184
+updated_at: 1771426341
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
