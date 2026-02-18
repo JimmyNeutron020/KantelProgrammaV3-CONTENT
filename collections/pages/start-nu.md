@@ -1237,7 +1237,7 @@ page_builder:
     tag_text: Member
   -
     id: mll6blya
-    heading_size: L
+    heading_size: M
     heading:
       -
         type: paragraph
@@ -1307,139 +1307,77 @@ page_builder:
                     text: 'Wat vrouwen na het Kantel Programma ervaren ...'
             show_tag: false
       -
-        type: bulletList
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Pijnvrij bewegen, ook bij activiteiten die eerst onmogelijk leken'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Pijnvrij bewegen, ook bij activiteiten die eerst onmogelijk leken'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Spelen, tillen, reizen, sporten, dansen, allemaal zónder angst'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Spelen, tillen, reizen, sporten, dansen, allemaal zónder angst'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Energie hebben én overhouden'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Energie hebben én overhouden'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Niet meer afhankelijk zijn van therapieën of pijnstillers'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Niet meer afhankelijk zijn van therapieën of pijnstillers'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Rust in je hoofd, geen constante alertheid'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Rust in je hoofd, geen constante alertheid'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Vertrouwen in je lichaam'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Vertrouwen in je lichaam'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Weten wat je moet doen als je systeem wordt uitgedaagd'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Weten wat je moet doen als je systeem wordt uitgedaagd'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Zelfstandig duurzaam klachtenvrij blijven'
-              -
-                type: paragraph
-                attrs:
-                  class: null
+            type: text
+            text: 'Zelfstandig duurzaam klachtenvrij blijven'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Weer durven dromen, misschien zelfs van nog een kindje'
+            type: text
+            text: 'Weer durven dromen, misschien zelfs van nog een kindje'
     color: '#f7e7de'
     package_content:
       -
@@ -2271,7 +2209,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771426341
+updated_at: 1771426525
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
