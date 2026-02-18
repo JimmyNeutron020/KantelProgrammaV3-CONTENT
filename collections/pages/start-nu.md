@@ -1495,6 +1495,25 @@ page_builder:
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            text: 'Misschien voel je tijdens het lezen al iets. Geen druk. Geen overtuiging. Maar een stille gedacht: "'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Wat als dit ook voor mij mogelijk is?'
+          -
+            type: text
+            text: '" Je hoeft het niet zeker te weten. Je hoeft alleen te voelen dat je niet langer wilt blijven waar je nu bent. Als je merkt dat dit je raakt, dan is dit misschien jouw moment.🧡'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -1554,7 +1573,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: KANTELEN
+        label: 'Ik start mijn kanteling'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -2267,7 +2286,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771424859
+updated_at: 1771425088
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
