@@ -957,7 +957,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Onder eigen regie van herstel naar verankering'
+                        text: 'Onder eigen regie naar verankering'
                 show_tag: false
           -
             type: paragraph
@@ -966,7 +966,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je brengt alles wat je hebt geleerd stap voor stap terug in je echte leven: moederschap, werk, sport, reizen en dromen. Fase 1 & 2 hebben je veiligheid en vertrouwen gegeven. Vanaf hier schakel je onder eigen regie, omdat herstel geen traject meer is, maar je gekantelde basis. '
+                text: "Fase 1 & 2 hebben je veiligheid en vertrouwen terug gegeven. Je lichaam heeft zich aangepast naar je gekantelde basis. Vanaf week 14 schakel je onder eigen regie 'naar de volgende versnelling'. Alle randvoorwaarden zijn in orde. Je gaat verder 'boven de nullijn' en geniet weer van moederschap, werk, sport, reizen en dromen."
         type: phase
         enabled: true
     show_settings: true
@@ -2286,7 +2286,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771425088
+updated_at: 1771425643
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
