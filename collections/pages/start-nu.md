@@ -1252,46 +1252,210 @@ page_builder:
     tag_text: Member
   -
     id: mll6blya
-    heading_size: M
+    heading_size: L
     heading:
       -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'We dragen dit samen'
-    show_tag: true
-    tag_text: 'Stap voor stap'
-    tag_alignment: center
-    content:
-      -
         type: paragraph
         attrs:
           class: null
         content:
-          -
-            type: text
-            text: 'Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Deze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: '
           -
             type: text
             marks:
               -
-                type: bold
-            text: 'je leven terug'
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Zo voelt het als je kantelt'
+    show_tag: true
+    tag_text: 'Vertrouwen terug'
+    tag_alignment: right
+    content:
+      -
+        type: set
+        attrs:
+          id: mls3vyao
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Stel je voor ... '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
             type: text
-            text: '. '
-    color: '#ffffff'
+            text: "Dat je 's ochtends opstaat en niet al doodmoe bent en eerst moeten checken hoe het met de pijn is. Dat je je kind optilt zonder spanning in je lijf. Dat je 'ja' zegt tegen een etentje, een wandeling, een vakantie. Zónder in je hoofd alvast te plannen rondom de pijn of nareactie. Dat je lichaam geen tegenstander meer is, maar weer van jou voelt."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: ' '
+      -
+        type: set
+        attrs:
+          id: mls3z7i8
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Wat vrouwen na het Kantel Programma ervaren ...'
+            show_tag: false
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Pijnvrij bewegen, ook bij activiteiten die eerst onmogelijk leken'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Spelen, tillen, reizen, sporten, dansen, allemaal zónder angst'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Energie hebben én overhouden'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Niet meer afhankelijk zijn van therapieën of pijnstillers'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Rust in je hoofd, geen constante alertheid'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Vertrouwen in je lichaam'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Weten wat je moet doen als je systeem wordt uitgedaagd'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Zelfstandig duurzaam klachtenvrij blijven'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Weer durven dromen, misschien zelfs van nog een kindje'
+    color: '#f7e7de'
     package_content:
       -
         type: set
@@ -1299,18 +1463,80 @@ page_builder:
           id: ml3sep80
           values:
             type: heading
-            heading_size: XS
+            heading_size: M
             heading:
               -
-                type: heading
+                type: paragraph
                 attrs:
-                  level: 3
+                  class: null
                 content:
                   -
                     type: text
-                    text: 'Start met vertrouwen'
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Het grootste verschil'
             show_tag: true
             tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dat je niet langer leeft rondom je pijn. Dat je weer leeft vanuit vertrouwen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Onze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Je investeert hier niet in losse modules. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Je investeert in iets groters: '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'je leven terug'
+                  -
+                    type: text
+                    text: '. '
       -
         type: paragraph
         attrs:
@@ -2041,7 +2267,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771356596
+updated_at: 1771424859
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
