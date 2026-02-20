@@ -32,7 +32,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Voorgoed afrekenen met chronische bekkenpijn'
+                    text: 'Voorgoed afrekenen met chronische pijn'
             show_tag: true
             tag_text: 'Ontdek hoe'
             tag_alignment: right
@@ -51,6 +51,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: mij3d05u
     color: '#ffffff'
@@ -92,7 +93,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'In dit webinar nemen we je mee in een andere kijk op chronische bekkenpijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
+            text: 'In dit webinar nemen we je mee in een andere kijk op chronische pijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
       -
         type: paragraph
         attrs:
@@ -127,6 +128,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: mij08w47
     items:
@@ -782,6 +784,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: mlctsqfp
     collection_type: members
@@ -995,6 +998,7 @@ page_builder:
     type: IntoSection
     enabled: true
     anchor_id: inschrijven-webinar-2
+    color: '#ffffff'
   -
     id: mij4m66i
     color: '#ffffff'
@@ -1015,7 +1019,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: WebinarScript
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770550763
+updated_by: df706966-2cce-4398-8c60-055fb6df4804
+updated_at: 1771598109
 use_white_header: true
 ---
