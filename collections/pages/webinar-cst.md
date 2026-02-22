@@ -1,8 +1,7 @@
 ---
 id: 30c318bf-74b9-4f4c-ada6-ea070534f915
-published: false
 blueprint: page
-title: 'Kantel Webinar (Gekopieerd)'
+title: 'Kantel Webinar'
 page_builder:
   -
     id: miizf11s
@@ -76,6 +75,7 @@ page_builder:
     type: WebinarScript
     enabled: true
     anchor_id: inschrijven-webinar
+    enable_cst: false
   -
     id: mldlji21
     content:
@@ -1020,8 +1020,10 @@ page_builder:
       spacing_mobile: no_spacing
     type: WebinarScript
     enabled: true
+    enable_cst: false
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771763385
+updated_at: 1771763435
 use_white_header: true
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
+seo_noindex: true
 ---
