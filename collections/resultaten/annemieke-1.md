@@ -1,0 +1,24 @@
+---
+id: 3e3a5699-d2f1-4f13-bade-0a6345fb6862
+blueprint: resultaten
+title: Annemieke
+naam: Annemieke
+profession: 'Eigenaresse Atelier Leuker Gemaakt'
+media:
+  video: true
+  autoplay_video: false
+  video_link: 'https://vimeo.com/899209121?share=copy&fl=sv&fe=ci'
+  preview_image: annemieke-dorenbos.png
+  autoplay: true
+  swiper_bullets: true
+  play_pause_control: true
+  sound_control: true
+  fullscreen_control: true
+klachten:
+  - migraine
+  - oedeem
+  - vermoeidheid
+  - post-covid
+updated_by: df706966-2cce-4398-8c60-055fb6df4804
+updated_at: 1771782774
+---
