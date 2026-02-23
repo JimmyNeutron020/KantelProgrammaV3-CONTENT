@@ -3,7 +3,7 @@ id: 3e4f795a-d008-4f2c-8dc6-5614c0179701
 blueprint: resultaten
 title: Marieke
 naam: Marieke
-profession: 'Moeder van 2 kinderen'
+profession: 'Onderwijskundige uit Ede'
 social_links:
   -
     id: ml3rvwhu
@@ -22,8 +22,8 @@ media:
 klachten:
   - bekken
   - rug
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769952462
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771861584
 content:
   -
     type: paragraph
