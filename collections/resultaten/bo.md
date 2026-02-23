@@ -3,7 +3,7 @@ id: 6870ce00-f123-4c63-b29a-eccae75c3960
 blueprint: resultaten
 title: Bo
 naam: Bo
-profession: '34 jaar, uit Almere. Certification Engineer'
+profession: '34 jaar, certification engineer uit Almere'
 social_links:
   -
     id: mjsg8ew0
@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/928545282?share=copy'
   preview_image: bo-de-jong.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -26,6 +24,6 @@ klachten:
   - rug
   - bil
   - been
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767090846
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771862220
 ---
