@@ -3,7 +3,7 @@ id: c544ec39-1b38-4bf9-b75a-cc0177f6e1b2
 blueprint: resultaten
 title: Dana
 naam: Dana
-profession: '33 jaar, uit Mechelen. Ondernemer'
+profession: '33 jaar, marketing manager uit Mechelen'
 social_links:
   -
     id: mjst5nl9
@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/900060689?share=copy'
   preview_image: 'dana-steep,-33-jaar.png'
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -28,6 +26,6 @@ klachten:
   - duizeligheid
   - migraine
   - rug
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767112531
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771862092
 ---
