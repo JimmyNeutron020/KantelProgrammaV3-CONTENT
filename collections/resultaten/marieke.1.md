@@ -23,7 +23,7 @@ klachten:
   - bekken
   - rug
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771861584
+updated_at: 1771862265
 content:
   -
     type: paragraph
