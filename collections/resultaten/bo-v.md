@@ -3,7 +3,7 @@ id: 7822fbf7-b41f-458f-8637-6f131dc7a198
 blueprint: resultaten
 title: Bo
 naam: Bo
-profession: '34 jaar, uit Hoef en Haag. Trouwambtenaar'
+profession: '34 jaar, communicatie manager & trouwambtenaar uit Hoef en Haag'
 social_links:
   -
     id: mjsgao7s
@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/900109011?share=copy'
   preview_image: bo-van-vliet.jpg
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -26,6 +24,6 @@ klachten:
   - nek
   - rug
   - vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767090922
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771862124
 ---
