@@ -3,7 +3,7 @@ id: 80ffb0c4-2aa4-4219-bf91-ccf2bb13f011
 blueprint: resultaten
 title: Heike
 naam: Heike
-profession: '36 jaar. Dierenarts'
+profession: '36 jaar, dierenarts uit Deest'
 media:
   video: true
   autoplay_video: false
@@ -18,6 +18,6 @@ klachten:
   - bekken
   - rug
   - been
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1770215558
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771861036
 ---
