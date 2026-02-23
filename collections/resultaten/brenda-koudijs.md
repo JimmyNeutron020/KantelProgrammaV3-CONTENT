@@ -3,14 +3,12 @@ id: 21c6737d-f5a9-4ddc-9370-b92ea5780408
 blueprint: resultaten
 title: Brenda
 naam: Brenda
-profession: '37 jaar, uit Nijkerk. Online Business Manager'
+profession: '37 jaar, Online Business Manager uit Nijkerk'
 media:
   video: true
   autoplay_video: false
   video_link: 'https://vimeo.com/953888377'
   preview_image: members/brendalacht.jpeg
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -27,8 +25,8 @@ klachten:
   - rug
   - vermoeidheid
   - endometriose
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767091017
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771860980
 social_links:
   -
     id: mjsgcvb2
