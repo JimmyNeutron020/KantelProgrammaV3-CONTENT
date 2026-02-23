@@ -3,7 +3,7 @@ id: cd749209-5713-4911-a6b4-334398b93bea
 blueprint: resultaten
 title: Anouk
 naam: Anouk
-profession: '34 jaar, uit Weesp. Organisatie Adviseur'
+profession: '34 jaar, organisatie adviseur uit Weesp'
 social_links:
   -
     id: mjsfs9el
@@ -26,8 +26,8 @@ klachten:
   - darmen
   - rug
   - vermoeidheid
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769951956
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771862250
 content:
   -
     type: paragraph
