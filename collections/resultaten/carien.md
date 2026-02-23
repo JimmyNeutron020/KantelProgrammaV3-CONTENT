@@ -3,7 +3,7 @@ id: b8bac67e-a23b-4e9d-9f64-22bb1fdcac00
 blueprint: resultaten
 title: Carien
 naam: Carien
-profession: '32 jaar, uit Adorp. Orthopedagoog'
+profession: '32 jaar, orthopedagoog-generalist uit Adorp'
 social_links:
   -
     id: mjsgdrtk
@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/901245289?share=copy'
   preview_image: carien-kroeze.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -28,6 +26,6 @@ klachten:
   - nek
   - schouder
   - vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767091098
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771861762
 ---
