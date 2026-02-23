@@ -3,7 +3,7 @@ id: 5b477a4b-486a-4fd9-b11c-4a3e8c9a1d3a
 blueprint: resultaten
 title: Elnaz
 naam: Elnaz
-profession: '34 jaar, uit Bergschenhoek. Advocaat'
+profession: '34 jaar, advocaat uit Bergschenhoek'
 social_links:
   -
     id: mjsxio0e
@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/957723673'
   preview_image: elnaz-fotowatsb-(34-jaar).jpg
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -28,6 +26,6 @@ klachten:
   - schouder
   - si
   - rug
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767119877
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771862337
 ---
