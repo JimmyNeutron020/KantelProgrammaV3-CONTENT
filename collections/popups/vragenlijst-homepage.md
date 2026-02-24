@@ -22,7 +22,7 @@ popup_builder:
                 content:
                   -
                     type: text
-                    text: 'Kantel Doorbraak Sessie🧡'
+                    text: 'Je bent niet de enige en niet alleen'
             show_tag: false
       -
         type: paragraph
@@ -39,7 +39,7 @@ popup_builder:
         content:
           -
             type: text
-            text: 'Blijf je al een tijd zoeken naar helderheid over je klachten? Je bent niet de enige. '
+            text: 'Blijf je al een tijd zoeken naar helderheid over je klachten? Het ligt niet aan jouw inzet, maar aan de vele losse puzzelstukjes en het ontbreken van de juiste begeleiding. '
       -
         type: paragraph
         attrs:
@@ -47,7 +47,16 @@ popup_builder:
         content:
           -
             type: text
-            text: 'Vaak ligt het niet aan inzet, maar aan het ontbreken van het juiste inzicht. '
+            text: 'Elke maand bieden we twee vrouwen een '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kantel Doorbraak Sessie '
+          -
+            type: text
+            text: 'aan. Een persoonlijk gesprek waarin we samen kijken wat er speelt en waar ruimte zit om wél te kunnen herstellen. Tijd voor jouw verhaal, rustig en zónder verplichtingen. '
       -
         type: paragraph
         attrs:
@@ -55,23 +64,7 @@ popup_builder:
         content:
           -
             type: text
-            text: 'Elke maand bieden we twee vrouwen een Kantel Doorbraak Sessie aan. Een persoonlijk gesprek waarin we samen kijken wat er speelt en waar ruimte zit om wél te kunnen herstellen.  '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Tijd voor jouw verhaal, rustig en zónder verplichtingen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Wil je onderzoeken of dit jou kan helpen? Beantwoord dan 5 korte vragen:'
+            text: 'Wil je onderzoeken of dit jou kan helpen? Beantwoord dan deze 5 korte vragen:'
     color: '#f7e7de'
     show_settings: true
     inner_spacing_top:
@@ -114,5 +107,5 @@ trigger_delay_seconds: 20
 frequency: once_per_session
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771956531
+updated_at: 1771956659
 ---
