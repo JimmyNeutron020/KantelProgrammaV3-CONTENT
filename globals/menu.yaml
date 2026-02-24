@@ -316,6 +316,20 @@ data:
       type: card_item
       enabled: true
       featured_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-100.jpg
+  address_content:
+    -
+      type: paragraph
+      attrs:
+        class: null
+      content:
+        -
+          type: text
+          text: 'Henry Dunanstraat 2'
+        -
+          type: hardBreak
+        -
+          type: text
+          text: '5914CJ Venlo'
   general_info: '© 2025 Kantel Programma. All rights reserved.'
   social_icons:
     -
