@@ -81,7 +81,7 @@ data:
           content:
             -
               type: text
-              text: 'Voorgoed afscheid van chronische bekkenpijn'
+              text: 'Kantel Webinar'
       show_tag: false
       content:
         -
@@ -94,7 +94,7 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Kantel Webinar'
+              text: 'Voorgoed afscheid van chronische pijn'
             -
               type: text
               text: ' | Gratis sessie (75 minuten) waarin je ontdekt waarom je klachten blijven en wat er nodig is om weet pijnvrij te leven.'
@@ -110,8 +110,8 @@ data:
       exclude_from_pages:
         - d81e8a34-e412-443e-b24b-f46726b1d854
     -
-      id: mhhv3oxo
-      icon: 'fa-regular fa-person-arrow-up-from-line'
+      id: mhhv234l
+      icon: 'fa-regular fa-book'
       heading_size: XS
       heading:
         -
@@ -121,7 +121,7 @@ data:
           content:
             -
               type: text
-              text: 'Jouw doorbraak gesprek'
+              text: 'Kantel Quickstart '
       show_tag: false
       content:
         -
@@ -134,7 +134,85 @@ data:
               marks:
                 -
                   type: bold
+              text: 'Van overleven naar leven'
+            -
+              type: text
+              text: ' | Een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
+      label: 'Kantel Quickstart'
+      link_type: link
+      target_blank: false
+      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+      exclude_from_pages:
+        - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
+    -
+      id: mlqf45vo
+      icon: 'fa-sharp fa-solid fa-at'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Kantel Kompas'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: 'De eerste kanteling'
+            -
+              type: text
+              text: ' | Een praktisch mini-boek waarmee je meteen aan de slag kunt'
+      label: 'Kantel Kompas'
+      link_type: link
+      target_blank: false
+      link: 'https://kantelprogramma.membirds.com/checkout/kantel-kompas'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-100.jpg
+    -
+      id: mhhv3oxo
+      icon: 'fa-regular fa-person-arrow-up-from-line'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
               text: 'Kantel Scan '
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: 'Jouw doorbraak gesprek '
             -
               type: text
               text: '|'
@@ -159,86 +237,6 @@ data:
       exclude_from_pages:
         - 37fe9b56-749b-4049-9173-064c8aa11ba3
     -
-      id: mhhv234l
-      icon: 'fa-regular fa-book'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Van overleven naar leven'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: 'Kantel Quickstart'
-            -
-              type: text
-              text: ' | Een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
-      label: 'Kantel Quickstart'
-      link_type: link
-      target_blank: false
-      link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
-      exclude_from_pages:
-        - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
-    -
-      id: mhhv3mmy
-      icon: 'fa-regular fa-message-lines'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: 'Helderheid in je hoofd'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: 'Kantel Vragen'
-            -
-              type: text
-              text: ' | Stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
-      label: 'Kantel Vragen'
-      link_type: link
-      target_blank: false
-      link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
-      exclude_from_pages:
-        - 69a5080a-2257-4213-a2fc-605373a33691
-    -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
       heading_size: XS
@@ -250,7 +248,7 @@ data:
           content:
             -
               type: text
-              text: 'Vertrouwen in je lichaam'
+              text: 'Kantel Kracht '
       show_tag: false
       content:
         -
@@ -263,7 +261,7 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Kantel Kracht'
+              text: 'Vertrouwen in je lichaam'
             -
               type: text
               text: ' | Luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
@@ -279,8 +277,8 @@ data:
       exclude_from_pages:
         - 631dd581-8207-4fe0-81e5-2becf841200f
     -
-      id: mlqf45vo
-      icon: 'fa-sharp fa-solid fa-at'
+      id: mhhv3mmy
+      icon: 'fa-regular fa-message-lines'
       heading_size: XS
       heading:
         -
@@ -290,7 +288,7 @@ data:
           content:
             -
               type: text
-              text: 'De eerste kanteling'
+              text: 'Kantel Vragen'
       show_tag: false
       content:
         -
@@ -303,19 +301,21 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Kantel Kompas'
+              text: 'Helderheid in je hoofd'
             -
               type: text
-              text: ' | Een praktisch mini-boek waarmee je ziet waar jouw energie vastzit en hoe je weer richting krijgt'
-      label: 'Kantel Kompas'
+              text: ' | Stel je vragen persoonlijk via e-mail en krijg richting in wat voor jou nu echt de volgende stap is.'
+      label: 'Kantel Vragen'
       link_type: link
       target_blank: false
-      link: 'https://kantelprogramma.membirds.com/checkout/kantel-kompas'
+      link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
       button_layout: standard
       button_colour: orange
       type: card_item
       enabled: true
-      featured_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-100.jpg
+      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
+      exclude_from_pages:
+        - 69a5080a-2257-4213-a2fc-605373a33691
   address_content:
     -
       type: paragraph
