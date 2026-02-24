@@ -177,6 +177,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: miyzo5qk
     items:
@@ -326,7 +327,7 @@ page_builder:
           -
             type: text
             text: 'Zodra je het onderstaande formulier hebt ingevuld ontvang van je een link naar de agenda van Paul voor het boeken van een afspraak.'
-    tally_form_id: A72gWk
+    tally_form_id: kdyqde
     anchor_id: aanmeldformulier
     show_settings: true
     inner_spacing_top:
@@ -629,6 +630,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: mlctv55o
     collection_type: members
@@ -650,7 +652,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770550282
+updated_at: 1771943128
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
