@@ -83,7 +83,7 @@ popup_builder:
     enabled: true
   -
     id: mm0wpkkd
-    tally_form_id: r/KY6Kz7
+    tally_form_id: KY6Kz7
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -107,5 +107,5 @@ trigger_delay_seconds: 20
 frequency: once_per_session
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771956864
+updated_at: 1771957040
 ---
