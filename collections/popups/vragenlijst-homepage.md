@@ -2,7 +2,7 @@
 id: d6614911-c037-46d0-90bc-50fc73782ee2
 blueprint: popup
 title: 'VRAGENLIJST HOMEPAGE'
-popup_layout: centered
+popup_layout: fullscreen
 popup_builder:
   -
     id: mm0wj2n1
@@ -22,7 +22,7 @@ popup_builder:
                 content:
                   -
                     type: text
-                    text: 'Wat fijn dat je onze website bezoekt🧡'
+                    text: 'Kantel Doorbraak Sessie🧡'
             show_tag: false
       -
         type: paragraph
@@ -31,7 +31,7 @@ popup_builder:
         content:
           -
             type: text
-            text: 'Misschien herken je iets in wat we hier delen. Misschien loop je al een tijd rond met klachten en voelt het soms alsof je blijft zoeken naar helderheid. We weten hoe verwarrend dat kan zijn. Niet omdat je niet je best doet. Maar omdat je simpelweg nog niet het juiste inzicht hebt gevonden.'
+            text: 'Wat fijn dat je er bent. Blijf je al een tijd zoeken naar helderheid over je klachten? Je bent niet de enige. Vaak ligt het niet aan inzet, maar aan het ontbreken van het juiste inzicht. '
       -
         type: paragraph
         attrs:
@@ -39,7 +39,7 @@ popup_builder:
         content:
           -
             type: text
-            text: 'Daarom bieden we elke maand twee vrouwen een Kantel Doorbraak Sessie aan. Een rustig 1-op-1 gesprek waarin we samen kijken wat er in jouw situatie speelt en waar mogelijk ruimte zit voor herstel.'
+            text: 'Elke maand bieden we twee vrouwen een Kantel Doorbraak Sessie aan. Een persoonlijk gesprek waarin we samen kijken wat er speelt en waar ruimte zit om wél te kunnen herstellen.  Tijd voor jouw verhaal, rustig en zónder verplichtingen.'
       -
         type: paragraph
         attrs:
@@ -47,15 +47,7 @@ popup_builder:
         content:
           -
             type: text
-            text: 'Zónder druk. Zónder verplichtingen. Wel met aandacht en richting. Voelt dit als iets wat jou kan helpen om uit die vicieuze cirkel van zoeken te stappen? Dan kun je een paar korte vragen beantwoorden (3-5 minuten).'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "We lezen alles persoonlijk, je ontvangt sowieso een reactie en we nemen persoonlijk contact met je op \_als jij één van de twee plekken krijgt."
+            text: 'Wil je onderzoeken of dit jou kan helpen? Beantwoord dan 5 korte vragen:'
     color: '#f7e7de'
     show_settings: true
     inner_spacing_top:
@@ -98,5 +90,5 @@ trigger_delay_seconds: 20
 frequency: once_per_session
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771955951
+updated_at: 1771956421
 ---
