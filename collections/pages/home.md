@@ -1483,7 +1483,7 @@ page_builder:
     layout_setting: media
     media:
       video: true
-      autoplay_video: false
+      autoplay_video: true
       video_link: 'https://vimeo.com/1167813041/213e002aee?share=copy&fl=sv&fe=ci'
       preview_image: lottelaan.jpg
       autoplay: true
@@ -1493,6 +1493,31 @@ page_builder:
       fullscreen_control: true
     type: HeroSection
     enabled: true
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Chronische bekkenpijn zien je niet. Tot iemand durft te spreken!'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Achter haar online zichtbaarheid ging jarenlange onzichtbare pijn schuil. Lotte (@lotteballijns op Instagram) volgde het Kantel Programma niet als influencer, maar op eigen kosten, als jonge moeder die vastliep in haar herstel. Ze stond op hetzelfde punt als jij. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Met deze boodschap wil ze laten zien: je bent niet gek, je bent niet zwak en je hoeft hier niet alleen doorheen.'
   -
     id: m7yosbje
     show_settings: false
@@ -1522,7 +1547,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771954682
+updated_at: 1771955100
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
