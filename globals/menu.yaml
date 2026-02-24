@@ -188,6 +188,44 @@ data:
       enabled: true
       featured_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-100.jpg
     -
+      id: mm0tufaj
+      icon: 'fa-sharp fa-solid fa-at'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Ratrace Reset'
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: 'Doorbreek de Ratrace '
+            -
+              type: text
+              text: '| Paul & Chantal nemen je mee in de lessen uit Blue Zone Sardinië, waar gezondheid geen trucje is maar een levenswijze. Ontdek hoe je uit de overleefstand stapt en een levensritme creëert dat je energie, rust en veerkracht terugbrengt.'
+      label: 'Ratrace Reset'
+      link_type: link
+      target_blank: false
+      link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: photo-2022-07-12-12-53-19.jpg
+    -
       id: mhhv3oxo
       icon: 'fa-regular fa-person-arrow-up-from-line'
       heading_size: XS
@@ -312,7 +350,7 @@ data:
       button_layout: standard
       button_colour: orange
       type: card_item
-      enabled: true
+      enabled: false
       featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
       exclude_from_pages:
         - 69a5080a-2257-4213-a2fc-605373a33691
