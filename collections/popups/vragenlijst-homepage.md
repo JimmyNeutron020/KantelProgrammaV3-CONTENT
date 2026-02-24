@@ -22,16 +22,8 @@ popup_builder:
                 content:
                   -
                     type: text
-                    text: 'Je bent niet de enige en niet alleen'
+                    text: 'Wat fijn dat je er bent🧡'
             show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Wat fijn dat je er bent. '
       -
         type: paragraph
         attrs:
@@ -106,6 +98,6 @@ trigger_type: time_delay
 trigger_delay_seconds: 20
 frequency: once_per_session
 min_page_views: 0
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771957137
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1771957187
 ---
