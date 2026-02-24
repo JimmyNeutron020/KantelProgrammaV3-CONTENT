@@ -81,7 +81,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Webinar'
+              text: '📹 Kantel Webinar'
       show_tag: false
       content:
         -
@@ -121,7 +121,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Quickstart '
+              text: '📩 Kantel Quickstart '
       show_tag: false
       content:
         -
@@ -161,7 +161,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Kompas'
+              text: '📚 Kantel Kompas'
       show_tag: false
       content:
         -
@@ -199,7 +199,7 @@ data:
           content:
             -
               type: text
-              text: 'Ratrace Reset'
+              text: '🧡 Ratrace Reset'
       show_tag: false
       content:
         -
@@ -237,7 +237,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Scan '
+              text: '🗓️ Kantel Scan '
       show_tag: false
       content:
         -
@@ -286,7 +286,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Kracht '
+              text: '🎙️ Kantel Kracht '
       show_tag: false
       content:
         -
@@ -326,7 +326,7 @@ data:
           content:
             -
               type: text
-              text: 'Kantel Vragen'
+              text: '❔ Kantel Vragen'
       show_tag: false
       content:
         -
