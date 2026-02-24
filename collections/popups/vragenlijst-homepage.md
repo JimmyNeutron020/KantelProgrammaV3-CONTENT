@@ -106,6 +106,6 @@ trigger_type: time_delay
 trigger_delay_seconds: 20
 frequency: once_per_session
 min_page_views: 0
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771957040
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1771957137
 ---
