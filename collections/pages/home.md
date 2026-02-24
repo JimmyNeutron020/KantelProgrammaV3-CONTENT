@@ -1495,13 +1495,22 @@ page_builder:
     enabled: true
     content:
       -
-        type: paragraph
+        type: set
         attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Chronische bekkenpijn zien je niet. Tot iemand durft te spreken!'
+          id: mm0wd46n
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 3
+                content:
+                  -
+                    type: text
+                    text: 'Chronische bekkenpijn zie je niet. Tot iemand durft te spreken!'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -1547,7 +1556,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771955100
+updated_at: 1771955261
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
