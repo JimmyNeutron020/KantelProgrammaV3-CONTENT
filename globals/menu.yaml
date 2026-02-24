@@ -362,12 +362,15 @@ data:
       content:
         -
           type: text
-          text: 'Henry Dunanstraat 2'
-        -
-          type: hardBreak
+          text: 'PRAKTIJK NEDERLAND | Henry Dunantstraat 2, 5914CJ Venlo'
+    -
+      type: paragraph
+      attrs:
+        class: null
+      content:
         -
           type: text
-          text: '5914CJ Venlo'
+          text: "PRAKTIJK SARDINIË | Via Eleonora 'd Arborea 47, 08020 Ollolai"
   general_info: '© 2025 Kantel Programma. All rights reserved.'
   social_icons:
     -
