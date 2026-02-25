@@ -22,6 +22,94 @@ page_builder:
     type: HeroSection
     enabled: true
   -
+    id: mm23g1r2
+    color: '#ffffff'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wij zijn Paul & Chantal en zetten ons in om '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'chronische bekkenpijn'
+          -
+            type: text
+            text: " bij vrouwen uit de sfeer van '"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'het hoort erbij'
+          -
+            type: text
+            text: "' te halen en zichtbaar te maken als een serieus en structureel onderschat gezondheidsvraagstuk. "
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wij zien dagelijks wat er verandert wanneer een moeder weer vertrouwen krijgt in haar lichaam; haar energie keert terug, haar gezin profiteert mee en de dynamiek thuis verschuift van overleven naar leven. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ons doel is een blijvende verschuiving in hoe Nederland kijkt naar vrouwengezondheid, herstel én de dagelijkse impact daarvan op de gezinnen van nu en van toekomstige generaties. '
+      -
+        type: set
+        attrs:
+          id: mm23i92m
+          values:
+            type: buttons
+            buttons:
+              -
+                id: xMAi2lU7
+                label: 'over ons'
+                link_type: link
+                target_blank: false
+                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
+                button_layout: standard
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+  -
     id: mm22i6k0
     content:
       -
@@ -81,7 +169,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij delen '
+            text: 'Hieronder delen wij  '
           -
             type: text
             marks:
@@ -90,7 +178,15 @@ page_builder:
             text: 'verhalen van ervaringsdeskundige vrouwen '
           -
             type: text
-            text: 'van verschillende leeftijden en achtergronden, evenals deskundige duiding op systeemniveau. Persoonlijke verhalen kunnen altijd worden gecombineerd met feitelijke onderbouwing en actuele praktijkinzichten. '
+            text: 'van verschillende leeftijden en achtergronden, evenals deskundige duiding op systeemniveau. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Persoonlijke verhalen kunnen altijd worden gecombineerd met feitelijke onderbouwing en actuele praktijkinzichten. '
     color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
@@ -148,5 +244,5 @@ page_builder:
     enabled: true
 use_white_header: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772027509
+updated_at: 1772027999
 ---
