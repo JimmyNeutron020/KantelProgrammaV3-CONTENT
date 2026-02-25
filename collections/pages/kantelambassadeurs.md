@@ -9,7 +9,7 @@ page_builder:
     layout_setting: media
     media:
       video: true
-      autoplay_video: true
+      autoplay_video: false
       video_link: 'https://vimeo.com/1126169555/156b210537'
       autoplay: true
       swiper_bullets: true
@@ -100,5 +100,5 @@ page_builder:
     enabled: true
 use_white_header: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772026875
+updated_at: 1772026981
 ---
