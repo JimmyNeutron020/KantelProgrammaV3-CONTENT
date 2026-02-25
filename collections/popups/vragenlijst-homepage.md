@@ -24,7 +24,7 @@ popup_builder:
                     type: text
                     text: 'Wat fijn dat je er bent🧡'
             show_tag: false
-    color: '#f7e7de'
+    color: '#fff'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -80,5 +80,5 @@ frequency: once_per_x_days
 frequency_days: 2
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771957696
+updated_at: 1772030874
 ---
