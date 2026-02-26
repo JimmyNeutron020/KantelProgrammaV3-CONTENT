@@ -470,7 +470,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als revalidatie therapeut. Daarnaast is hij fitness-expert, kadertrainer atletiek, medisch personal trainer met specialisaties zoals obesitas, diabetes, hartrevalidatie. Hij blijft leergierig.'
+                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als revalidatie therapeut. Daarnaast is hij fitness-expert, kadertrainer atletiek, medisch personal trainer met specialisaties zoals obesitas, diabetes, orthopedische- & hartrevalidatie. Hij blijft leergierig.'
           -
             type: paragraph
             attrs:
@@ -877,7 +877,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772130805
+updated_at: 1772131136
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
