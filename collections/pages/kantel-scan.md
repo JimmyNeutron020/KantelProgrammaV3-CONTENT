@@ -322,7 +322,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Jij hoeft haar niet te redden. En zij hoeft het niet alleen te dragen '
+            text: 'Jij hoeft haar niet te redden. En zij hoeft het niet alleen te dragen.'
       -
         type: paragraph
         attrs:
@@ -877,7 +877,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772130660
+updated_at: 1772130805
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
