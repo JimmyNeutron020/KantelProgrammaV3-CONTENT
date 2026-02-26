@@ -53,7 +53,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een persoonlijk 1-op-1 gesprek. In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
+            text: 'Een persoonlijk 1-op-1 gesprek voor jullie samen. In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
     type: HeroSection
     enabled: true
   -
@@ -85,9 +85,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Helderheid over jouw herstel '
+                    text: 'Chronische pijn raakt nooit één persoon'
             show_tag: true
-            tag_text: 'Persoonlijk & vertrouwelijk'
+            tag_text: 'Het raakt jou én je partner'
             tag_alignment: right
       -
         type: paragraph
@@ -96,25 +96,258 @@ page_builder:
         content:
           -
             type: text
-            text: 'Als je voelt dat je lichaam toe is aan een nieuw verhaal. Geen standaard kennismakingsgesprek. Geen vrijblijvende intake zoals je die misschien gewend bent. Maar '
+            text: 'Een Kantel Scan is een gesprek voor jullie samen. Chronische pijn raakt nooit één persoon. Het raakt jullie allebei. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien heb jij al jaren van alles geprobeerd. Misschien staat je partner al net zo lang naast je. Hoopvol. Bezorgd. Soms moedeloos. Soms geïrriteerd. En vaak gewoon moe van het steeds opnieuw proberen. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De Kantel Scan is daarom geen gesprek alleen voor jou. Het is een gesprek voor jullie samen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mm3sfglz
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 6
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange-light
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Voor de partner'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien lees jij mee met gemengde gevoelens. Je hebt gezien hoeveel energie het kost. Hoe vaak ze hoopte. Hoe vaak het weer tegenviel. Misschien denk je:'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '"'
           -
             type: text
             marks:
               -
-                type: bold
-            text: 'een deskundige blik'
+                type: italic
+            text: 'Is dit niet gewoon weet iets nieuws'
           -
             type: text
-            text: ' '
+            text: '? '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '"'
           -
             type: text
             marks:
               -
-                type: bold
-            text: 'op het geheel'
+                type: italic
+            text: 'Wat als het weer niets wordt?'
           -
             type: text
-            text: .
+            text: '"'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '"'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Kunnen we dit nog een keer aan?'
+          -
+            type: text
+            text: '"'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Die vragen zijn logisch. In de Kantel Scan nemen we ze serieus. Geen verkooppraat. Geen druk. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We kijken eerlijk naar:'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Wat er al geprobeerd is'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Waarom dat niet (blijvend) werkte'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Wat er nu anders zou zijn'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Of dit écht past bij jullie situatie'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En als het niet past, zeggen we dat ook. Het is geen intake om je te overtuigen. Het is een helder gesprek om samen te bepalen: Is dit een verstandige (laatste) stap? '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We leggen uit hoe ons herstelkader werkt. Wat het vraagt. Wat het realistisch kan opleveren. Zodat jullie samen een weloverwogen beslissing kunnen nemen.'
+      -
+        type: set
+        attrs:
+          id: mm3sp4nn
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange-light
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Waarom we de partner ook uitnodigen'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Omdat herstel alleen werkt als het thuis veilig is. Als jullie het (tijdelijk) samen dragen. Als er begrip is in plaats van frustratie.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Jij hoeft haar niet te redden. En zij hoeft het niet alleen te dragen '
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mm3ssvc7
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: ' Een deskundige blik op het geheel'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -138,14 +371,6 @@ page_builder:
               -
                 type: bold
             text: ' '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Tijdens het gesprek onderzoeken we waar je nu staat en wat jouw lichaam nodig heeft om een volgende stap te zetten in herstel.'
       -
         type: set
         attrs:
@@ -245,7 +470,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als fitness-expert, atletiek- en medisch personal trainer met specialisaties zoals obesitas, diabetes, orthopedische- en hartrevalidatie. Hij blijft leergierig.'
+                text: 'Zijn passie begon al in zijn puberjaren, geïnspireerd door dr. Franco Columbu. Hij werkte in krachtsport en atletiek en is opgeleid als revalidatie therapeut. Daarnaast is hij fitness-expert, kadertrainer atletiek, medisch personal trainer met specialisaties zoals obesitas, diabetes, hartrevalidatie. Hij blijft leergierig.'
           -
             type: paragraph
             attrs:
@@ -651,8 +876,8 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771943128
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1772130660
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
