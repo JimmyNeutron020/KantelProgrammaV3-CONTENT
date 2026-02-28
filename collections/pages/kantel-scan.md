@@ -381,18 +381,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'analyseren we jouw fysieke belastbaarheid'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'doen we gerichte tests'
+                        text: 'analyseren we jouw fysieke belastbaarheid en doen we gerichte tests'
               -
                 type: listItem
                 content:
@@ -1245,7 +1234,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772288765
+updated_at: 1772288888
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
