@@ -144,7 +144,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Voor hen is er de mogelijkheid om direct te starten. Zonder intake. Zonder voorafgaande scan.  Wel meteen toegang tot een fijne aftrap-sessie. Online, maar niet alleen. Met volledige begeleiding volgens onze topsportmethode. '
+                text: 'Voor hen is er de mogelijkheid om direct te starten. Zonder intake. Zonder voorafgaande scan.  Wel meteen toegang tot een fijne aftrap-sessie. Online, maar niet alleen. Met volledige begeleiding volgens onze topsport principes. '
           -
             type: paragraph
             attrs:
@@ -152,7 +152,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We begeleiden vrouwen zoals we een topsporter zouden begeleiden. Met maatwerk in beweging, voeding, slaap, ontspanning, mindset en zenuwstelselregulatie. '
+                text: 'We begeleiden je zoals we een topsporter zouden begeleiden. Met maatwerk in beweging, voeding, slaap, ontspanning, mindset en zenuwstelselregulatie. '
           -
             type: paragraph
             attrs:
@@ -403,7 +403,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'ontvang je een helder en persoonlijk herstelplan'
+                        text: 'ontvang je een helder en persoonlijk advies'
           -
             type: paragraph
             attrs:
@@ -546,7 +546,7 @@ page_builder:
             marks:
               -
                 type: italic
-            text: 'Is dit niet gewoon weet iets nieuws'
+            text: 'Is dit niet gewoon weer iets nieuws'
           -
             type: text
             text: '? '
@@ -635,7 +635,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Wat er nu anders zou zijn'
+                    text: 'Wat er nu anders zou kunnen'
           -
             type: listItem
             content:
@@ -1234,7 +1234,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772288888
+updated_at: 1772294378
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
