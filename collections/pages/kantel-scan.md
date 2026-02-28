@@ -291,7 +291,7 @@ page_builder:
                     type: bold
                 text: ' '
         highlight: false
-        price: GRATIS
+        price: '€ 0'
         show_discount: false
         label: 'PLAN EEN ZOOMSESSIE'
         link_type: link
@@ -770,7 +770,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-    color: '#ffffff'
+    color: '#f7e7de'
   -
     id: miyzo5qk
     items:
@@ -1245,7 +1245,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772287676
+updated_at: 1772287922
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
