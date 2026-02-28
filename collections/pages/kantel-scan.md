@@ -67,9 +67,9 @@ page_builder:
         content:
           -
             type: text
-            text: 'Helderheid over jouw herstel zónder verplichtingen'
+            text: 'Helderheid over jouw herstel '
     show_tag: true
-    tag_text: 'Je hoeft niet alles alleen uit te zoeken'
+    tag_text: 'Je hoeft het niet alleen te doen'
     tag_alignment: right
     content:
       -
@@ -87,7 +87,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Er zijn 3 manieren om helderheid te krijgen.'
+            text: 'Er zijn 3 routes om helderheid te krijgen. Zónder verplichtingen'
     packages:
       -
         id: mm6b88mk
@@ -107,7 +107,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 1'
         show_tag: true
-        tag_text: 'meteen 24/7 begeleiding'
+        tag_text: '24/7 begeleiding'
         tag_alignment: left
         description:
           -
@@ -190,7 +190,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 2 '
         show_tag: true
-        tag_text: 'zoom | 20 minuten'
+        tag_text: 'zoom 20 minuten'
         tag_alignment: right
         description:
           -
@@ -203,7 +203,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL SCAN | ZOOM SESSIE'
+                text: 'KANTEL SCAN '
           -
             type: paragraph
             attrs:
@@ -319,7 +319,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 3'
         show_tag: true
-        tag_text: 'live | 75 minuten'
+        tag_text: 'live 75 minuten'
         tag_alignment: right
         description:
           -
@@ -356,7 +356,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Tijdens deze 75 minuten bij ons op locatie in Venlo:'
+                text: 'Tijdens deze 75 minuten bij ons in de praktijk in Venlo:'
           -
             type: bulletList
             content:
@@ -422,7 +422,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Deze sessie staat los van het Kantel Programma en is een zelfstandige keuze'
+                text: 'Deze sessie staat los van het Kantel Programma en is een zelfstandige keuze.'
         highlight: false
         price: '€ 225'
         show_discount: false
@@ -1245,7 +1245,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772287922
+updated_at: 1772288531
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
