@@ -57,6 +57,266 @@ page_builder:
     type: HeroSection
     enabled: true
   -
+    id: mm6b7wds
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Helderheid over jouw herstel zónder verplichtingen'
+    show_tag: true
+    tag_text: 'Je hoeft niet alles alleen uit te zoeken'
+    tag_alignment: right
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien loop je al een tijd rond met klachten. Misschien heb je één of meerdere diagnoses. Misschien twijfel je of herstel voor jou nog haalbaar is.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Er zijn 3 manieren om helderheid te krijgen.'
+    packages:
+      -
+        id: mm6b88mk
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 6
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'ROUTE 1'
+        show_tag: true
+        tag_text: 'meteen 24/7 begeleiding'
+        tag_alignment: left
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'DIRECT STARTEN'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Sommige vrouwen weten het eigenlijk al. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ze hebben alles geprobeerd. Ze herkennen zich in ons verhaal. En ze voelen; ik wil niet nóg langer wachten en een stap ervoor zetten. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor hen is er de mogelijkheid om direct te starten. Zonder intake. Zonder voorafgaande scan.  Wel meteen toegang tot een fijne aftrap-sessie. Online, maar niet alleen. Met volledige begeleiding volgens onze topsportmethode. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'We begeleiden vrouwen zoals we een topsporter zouden begeleiden. Met maatwerk in beweging, voeding, slaap, ontspanning, mindset en zenuwstelselregulatie. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niet als losse oefeningen, maar als een levenswijze die herstel 24 uur per dag ondersteunt. '
+        highlight: false
+        price: '€ 499'
+        show_discount: false
+        label: 'Zet de eerste stap'
+        link_type: link
+        target_blank: false
+        link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+      -
+        id: mm6bs9ot
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 6
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'ROUTE 2 '
+        show_tag: true
+        tag_text: '20 minuten'
+        tag_alignment: right
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'KANTEL SCAN ZOOMSESSIE'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een persoonlijk online gesprek waarin we samen kijken naar:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'waar je nu staat'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'wat jouw herstel mogelijk tegenhoudt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'wat in jouw situatie realistisch is'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'of het Kantel Programma passend is'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Geen standaard intake. Geen snelle conclusie. Wel inzicht en richting. Een deskundige blik op het geheel. Voor de meeste vrouwen is dit helpend om een besluit te nemen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'uitgebreid kantel scan formulier '
+              -
+                type: text
+                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' '
+        highlight: false
+        price: GRATIS
+        show_discount: false
+        label: 'PLAN EEN ZOOMSESSIE'
+        link_type: link
+        target_blank: false
+        link: '#aanmeldformulier'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PropositionSection
+    enabled: true
+  -
     id: miyyu8y1
     content:
       -
@@ -69,7 +329,7 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-person-rays'
-                text: 'Zoomsessie op afspraak'
+                text: 'ONLINE OF LIVE SESSIE'
       -
         type: set
         attrs:
@@ -328,49 +588,9 @@ page_builder:
         attrs:
           class: null
       -
-        type: set
-        attrs:
-          id: mm3ssvc7
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: ' Een deskundige blik op het geheel'
-            show_tag: false
-      -
         type: paragraph
         attrs:
           class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'uitgebreid kantel scan formulier '
-          -
-            type: text
-            text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
       -
         type: set
         attrs:
@@ -380,10 +600,25 @@ page_builder:
             buttons:
               -
                 id: S7Fvfeug
-                label: 'PLAN AFSPRAAK'
+                label: 'PLAN AFSPRAAK ZOOMSESSIE'
                 link_type: link
                 target_blank: false
                 link: '#aanmeldformulier'
+                button_layout: solid
+                button_colour: orange
+      -
+        type: set
+        attrs:
+          id: mm6cokrc
+          values:
+            type: buttons
+            buttons:
+              -
+                id: S7Fvfeug
+                label: 'PLAN AFSPRAAK LIVE SESSIE'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-scan-live'
                 button_layout: solid
                 button_colour: orange
     anchor_id: plan-afspraak
@@ -877,7 +1112,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772131136
+updated_at: 1772286971
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
