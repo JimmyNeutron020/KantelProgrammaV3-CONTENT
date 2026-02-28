@@ -107,8 +107,8 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 1'
         show_tag: true
-        tag_text: '24/7 begeleiding'
-        tag_alignment: left
+        tag_text: '24/7 thuis'
+        tag_alignment: right
         description:
           -
             type: paragraph
@@ -190,7 +190,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 2 '
         show_tag: true
-        tag_text: 'zoom 20 minuten'
+        tag_text: zoom
         tag_alignment: right
         description:
           -
@@ -274,7 +274,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
+                text: 'Het zoomgesprek | 20 minuten | met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
               -
                 type: text
                 marks:
@@ -319,7 +319,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 3'
         show_tag: true
-        tag_text: 'live 75 minuten'
+        tag_text: live
         tag_alignment: right
         description:
           -
@@ -356,7 +356,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Tijdens deze 75 minuten bij ons in de praktijk in Venlo:'
+                text: 'Tijdens deze sessie | 75 minuten | bij ons in de praktijk in Venlo:'
           -
             type: bulletList
             content:
@@ -1245,7 +1245,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772288531
+updated_at: 1772288765
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
