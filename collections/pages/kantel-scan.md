@@ -164,7 +164,7 @@ page_builder:
         highlight: false
         price: '€ 499'
         show_discount: false
-        label: 'Zet de eerste stap'
+        label: 'Veilige eerste maand'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -190,7 +190,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 2 '
         show_tag: true
-        tag_text: '20 minuten'
+        tag_text: 'zoom | 20 minuten'
         tag_alignment: right
         description:
           -
@@ -203,7 +203,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL SCAN ZOOMSESSIE'
+                text: 'KANTEL SCAN | ZOOM SESSIE'
           -
             type: paragraph
             attrs:
@@ -297,6 +297,139 @@ page_builder:
         link_type: link
         target_blank: false
         link: '#aanmeldformulier'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+      -
+        id: mm6e147n
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 6
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'ROUTE 3'
+        show_tag: true
+        tag_text: 'live | 75 minuten'
+        tag_alignment: right
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'KANTEL SCAN INTENSIEF'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Sommige vrouwen voelen dat ze ons eerst live willen ontmoeten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien ben je al vaak teleurgesteld. Misschien wil je je fysieke belastbaarheid laten testen. Misschien heb je medicatie of een diagnose waar je vragen over hebt. Misschien vind je het fijn als je partner ook echt betrokken wordt. Misschien geeft het je simpelweg meer vertrouwen om ons live te spreken. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens deze 75 minuten bij ons op locatie in Venlo:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'luisteren we met aandacht naar je hele verhaal'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'analyseren we jouw fysieke belastbaarheid'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'doen we gerichte tests'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'geven we indien passend een behandeling'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'ontvang je een helder en persoonlijk herstelplan'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Deze sessie staat los van het Kantel Programma en is een zelfstandige keuze'
+        highlight: false
+        price: '€ 225'
+        show_discount: false
+        label: 'PLAN EEN LIVE SESSIE'
+        link_type: link
+        target_blank: false
+        link: 'https://kantelprogramma.membirds.com/checkout/kantel-scan-live'
         button_layout: solid
         button_colour: orange
         type: package
@@ -1112,7 +1245,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772286971
+updated_at: 1772287676
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
