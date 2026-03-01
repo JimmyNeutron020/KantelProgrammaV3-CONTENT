@@ -50,6 +50,8 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
@@ -62,6 +64,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: btsSpan
                 attrs:
@@ -1261,7 +1265,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772366090
+updated_at: 1772366180
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
