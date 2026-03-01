@@ -53,7 +53,20 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een persoonlijk 1-op-1 gesprek voor jullie samen. In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
+            text: 'Een persoonlijk gesprek voor jullie samen. Live bij ons op locatie of online via zoom. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
     type: HeroSection
     enabled: true
   -
@@ -1248,7 +1261,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772365935
+updated_at: 1772366090
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
