@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een persoonlijk gesprek voor jullie samen. Live bij ons op locatie of online via zoom. '
+            text: 'Een persoonlijk gesprek voor jullie samen; voor jou én je partner. Live bij ons op locatie of online via zoom. '
       -
         type: paragraph
         attrs:
@@ -1265,7 +1265,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772366180
+updated_at: 1772366247
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
