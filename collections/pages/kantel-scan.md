@@ -162,8 +162,8 @@ page_builder:
                 type: text
                 text: 'Niet als losse oefeningen, maar als een levenswijze die herstel 24 uur per dag ondersteunt. '
         highlight: false
-        price: '€ 499'
-        show_discount: false
+        price: '€ 599'
+        show_discount: true
         label: 'Veilige eerste maand'
         link_type: link
         target_blank: false
@@ -172,6 +172,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        discount_price: '€ 499'
       -
         id: mm6bs9ot
         heading_size: S
@@ -291,8 +292,8 @@ page_builder:
                     type: bold
                 text: ' '
         highlight: false
-        price: '€ 0'
-        show_discount: false
+        price: '€ 49'
+        show_discount: true
         label: 'PLAN EEN ZOOMSESSIE'
         link_type: link
         target_blank: false
@@ -301,6 +302,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        discount_price: '€ 0'
       -
         id: mm6e147n
         heading_size: S
@@ -425,7 +427,7 @@ page_builder:
                 text: 'Deze sessie staat los van het Kantel Programma en is een zelfstandige keuze'
         highlight: false
         price: '€ 225'
-        show_discount: false
+        show_discount: true
         label: 'PLAN EEN LIVE SESSIE'
         link_type: link
         target_blank: false
@@ -434,6 +436,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        discount_price: '€ 199'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1245,7 +1248,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772294752
+updated_at: 1772365935
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
