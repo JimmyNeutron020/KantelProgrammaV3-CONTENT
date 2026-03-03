@@ -5,42 +5,6 @@ title: 'VRAGENLIJST HOMEPAGE'
 popup_layout: centered
 popup_builder:
   -
-    id: mm0wj2n1
-    content:
-      -
-        type: set
-        attrs:
-          id: mm0wnv85
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Wat fijn dat je er bent🧡'
-            show_tag: false
-    color: '#f7e7de'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: IntoSection
-    enabled: true
-  -
     id: mm0wpkkd
     tally_form_id: KY6Kz7
     show_settings: true
@@ -80,5 +44,5 @@ frequency: once_per_x_days
 frequency_days: 2
 min_page_views: 0
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1772547815
+updated_at: 1772547972
 ---
