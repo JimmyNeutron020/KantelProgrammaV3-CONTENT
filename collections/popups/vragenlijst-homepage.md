@@ -2,7 +2,7 @@
 id: d6614911-c037-46d0-90bc-50fc73782ee2
 blueprint: popup
 title: 'VRAGENLIJST HOMEPAGE'
-popup_layout: fullscreen
+popup_layout: centered
 popup_builder:
   -
     id: mm0wj2n1
@@ -24,7 +24,7 @@ popup_builder:
                     type: text
                     text: 'Wat fijn dat je er bent🧡'
             show_tag: false
-    color: '#fff'
+    color: '#f7e7de'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -79,6 +79,6 @@ trigger_delay_seconds: 15
 frequency: once_per_x_days
 frequency_days: 2
 min_page_views: 0
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772030874
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1772547815
 ---
