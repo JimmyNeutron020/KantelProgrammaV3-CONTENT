@@ -1495,6 +1495,53 @@ page_builder:
           fullscreen_control: true
         type: new_set
         enabled: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mmapb91t
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Chronische bekkenpijn zie je niet. Totdat iemand durft te spreken.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Achter haar online zichtbaarheid ging jarenlange onzichtbare pijn schuil. '
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Lotte (@lotteballijns op Instagram) volgde het Kantel Programma niet als influencer maar, op eigen kosten, als jonge moeder die vastliep in haar herstel. Ze stond op hetzelfde punt als jij.'
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Met deze boodschap wil ze je laten zien: je bent niet gek, je bent niet zwak en je hoeft hier niet alleen doorheen.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -1539,7 +1586,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772547556
+updated_at: 1772548176
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
