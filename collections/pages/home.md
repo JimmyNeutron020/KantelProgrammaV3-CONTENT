@@ -1478,55 +1478,38 @@ page_builder:
     enabled: true
     show_tag: true
   -
-    id: mlpezjoj
-    full_height: true
-    layout_setting: media
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/1167813041/213e002aee?share=copy&fl=sv&fe=ci'
-      preview_image: lottelaan.jpg
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    type: HeroSection
+    id: mmaownhy
+    items:
+      -
+        id: mmaowpf2
+        swap: false
+        media:
+          video: true
+          autoplay_video: true
+          video_link: 'https://vimeo.com/1167813041/213e002aee?share=copy&fl=sv&fe=ci'
+          preview_image: lottelaan.jpg
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
     enabled: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mm0wd46n
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 3
-                content:
-                  -
-                    type: text
-                    text: 'Chronische bekkenpijn zie je niet. Tot iemand durft te spreken!'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Achter haar online zichtbaarheid ging jarenlange onzichtbare pijn schuil. Lotte (@lotteballijns op Instagram) volgde het Kantel Programma niet als influencer, maar op eigen kosten, als jonge moeder die vastliep in haar herstel. Ze stond op hetzelfde punt als jij. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Met deze boodschap wil ze laten zien: je bent niet gek, je bent niet zwak en je hoeft hier niet alleen doorheen.'
   -
     id: m7yosbje
     show_settings: false
@@ -1556,7 +1539,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772547200
+updated_at: 1772547370
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
