@@ -10,10 +10,8 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
-        - 231128-paul-en-chantal-_78237.jpg
+        - 'kantel-programma--paul-&-chantal.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -55,7 +53,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Vul het formulier zo volledig mogelijk in. Vul je het nu in voor de Kantel Scan, dan hoeft het na je aanmelding voor de Shine Sprint niet opnieuw.'
+            text: 'Wij bereiden ons graag goed voor. Wil je het onderstaande formulier daarom zo volledig mogelijk invullen?'
     type: HeroSection
     enabled: true
   -
@@ -76,6 +74,7 @@ page_builder:
       spacing_mobile: standard
     type: TallyForms
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1767967781
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1772696635
+use_white_header: false
 ---
