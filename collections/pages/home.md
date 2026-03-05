@@ -990,13 +990,18 @@ page_builder:
     heading_size: M
     heading:
       -
-        type: paragraph
+        type: heading
         attrs:
-          class: null
+          level: 5
         content:
           -
             type: text
-            text: 'Herstel chronische bekkenpijn met een bewezen topsportmethode. '
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Bewezen Beter Kantel Methode'
     show_tag: true
     tag_text: 'Van overleven naar leven'
     tag_alignment: right
@@ -1020,7 +1025,7 @@ page_builder:
     packages:
       -
         id: mlpckhci
-        heading_size: M
+        heading_size: S
         heading:
           -
             type: paragraph
@@ -1029,7 +1034,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Kantel Programma'
+                text: 'Kantel Programma Start'
         show_tag: false
         description:
           -
@@ -1065,8 +1070,8 @@ page_builder:
                 type: text
                 text: 'Je hoeft het nog niet zeker te weten. Je mag beginnen.'
         highlight: true
-        price: '€ 499'
-        show_discount: false
+        price: '€ 599'
+        show_discount: true
         label: 'Ja, ik start mijn kanteling'
         link_type: link
         target_blank: false
@@ -1075,6 +1080,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        discount_price: '€ 547'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1586,7 +1592,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772548176
+updated_at: 1772734499
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
