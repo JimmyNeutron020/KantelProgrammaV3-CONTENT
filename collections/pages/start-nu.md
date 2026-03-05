@@ -1487,11 +1487,11 @@ page_builder:
           -
             type: text
             text: 'Kies je voor betaling in 3 termijnen? In de eerste maand bepaal je of je het traject volledig wilt afronden, of dat je stopt na deze maand.'
-    pricing_tab_single_label: '3 Termijnen'
-    pricing_tab_installments_label: Eenmalig
-    price_single: '€ 549'
+    pricing_tab_single_label: Eenmalig
+    pricing_tab_installments_label: '3 Termijnen'
+    price_single: '€ 1447'
     show_discount_single: false
-    price_installments: '€ 1447'
+    price_installments: '€ 549'
     show_discount_installments: false
     buttons:
       -
@@ -2209,7 +2209,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772702993
+updated_at: 1772703146
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
