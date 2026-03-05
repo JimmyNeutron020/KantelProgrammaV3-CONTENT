@@ -1028,47 +1028,55 @@ page_builder:
         heading_size: S
         heading:
           -
-            type: paragraph
+            type: heading
             attrs:
-              class: null
+              level: 1
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
                 text: 'Kantel Programma'
         show_tag: false
         description:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-md
             content:
               -
                 type: text
-                text: 'Je start met de eerste veilige maand van het volledige Kantel Programma. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Intensieve begeleiding, maatwerk en dagelijkse integratie in jouw leven. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Jij voelt of het klopt voor jou en beslist of we daarna samen verder gaan. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
+                marks:
+                  -
+                    type: bold
                 text: 'Je hoeft het nog niet zeker te weten. Je mag beginnen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je kunt kiezen voor de aanschaf van het volledige programma ineens of je start met de eerste veilige maand van het Kantel Programma. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In beide gevallen intensieve begeleiding, maatwerk en dagelijkse integratie in jouw leven. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Kies je voor de eerste veilig maand? Dan voel je of het klopt voor jou en beslis je in de eerste maand of we daarna samen verder gaan. '
         highlight: true
         show_discount: true
         label: 'Ja, vertel mij meer'
@@ -1590,7 +1598,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772734736
+updated_at: 1772736250
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
