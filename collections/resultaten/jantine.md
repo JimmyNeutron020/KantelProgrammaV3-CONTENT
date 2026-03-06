@@ -27,7 +27,12 @@ klachten:
   - gewrichtsklachten
   - onrustige-benen
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772829188
+updated_at: 1772829201
+excerpt:
+  -
+    type: paragraph
+    attrs:
+      class: null
 content:
   -
     type: paragraph
