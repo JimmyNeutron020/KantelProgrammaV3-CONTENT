@@ -127,7 +127,7 @@ page_builder:
               id: mlcj256v
               values:
                 type: heading
-                heading_size: S
+                heading_size: M
                 heading:
                   -
                     type: paragraph
@@ -136,6 +136,15 @@ page_builder:
                     content:
                       -
                         type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange-light
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
                         text: 'Misschien herken je jezelf hierin'
                 show_tag: false
           -
@@ -899,7 +908,7 @@ page_builder:
                 text: 'En dat alleen al geeft rust.'
         type: new_set
         enabled: true
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -932,6 +941,17 @@ page_builder:
       spacing_mobile: standard
     type: TestimonialBubbles
     enabled: true
+    selected_entries:
+      - 5ac75b9c-d535-47cf-9c4d-faaf8670629f
+      - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
+      - ef496077-0ae2-4572-b93e-430b6ac53df0
+      - 13e97665-901d-4b8b-9d4a-97fd8c1dcf5c
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
+      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
+      - 474d9ca3-9a8c-4f54-9041-15b5362216c9
+      - d3bc2bd0-76b3-4825-a1ff-2ceba1ac77d7
+      - 0aa06c46-0f4d-4675-bbcf-612794d61142
   -
     id: m9fijq9w
     show_settings: true
@@ -969,6 +989,20 @@ page_builder:
                 button_layout: standard
                 button_colour: orange
     show_tag: false
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: '"Had ik dit maar jaren eerder ontdekt"'
   -
     id: m7xy3knc
     content:
@@ -1875,7 +1909,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772828518
+updated_at: 1772829689
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
