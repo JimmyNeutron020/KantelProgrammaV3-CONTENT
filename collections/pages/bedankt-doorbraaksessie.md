@@ -65,13 +65,14 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+    color: '#ffffff'
   -
     id: mmf41atc
     content:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -85,11 +86,11 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -106,11 +107,11 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -127,11 +128,11 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -163,7 +164,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-md
+                  class: text-base
                 content:
                   -
                     type: text
@@ -177,7 +178,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-md
+                  class: text-base
                 content:
                   -
                     type: text
@@ -191,7 +192,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-md
+                  class: text-base
                 content:
                   -
                     type: text
@@ -205,7 +206,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-md
+                  class: text-base
                 content:
                   -
                     type: text
@@ -216,7 +217,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -230,11 +231,11 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -242,7 +243,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -268,5 +269,5 @@ page_builder:
     enabled: true
 use_white_header: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772814936
+updated_at: 1772815101
 ---
