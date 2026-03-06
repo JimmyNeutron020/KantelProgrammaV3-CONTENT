@@ -1,7 +1,7 @@
 ---
 id: d6614911-c037-46d0-90bc-50fc73782ee2
 blueprint: popup
-title: 'VRAGENLIJST HOMEPAGE'
+title: 'KANTEL DOORBRAAK SESSIE (5 VRAGEN HOMEPAGE)'
 popup_layout: centered
 popup_builder:
   -
@@ -38,10 +38,12 @@ target_pages:
   - d8d1ecce-9d67-435c-8451-ca7c4ee86dda
   - 30c318bf-74b9-4f4c-ada6-ea070534f915
   - 37fe9b56-749b-4049-9173-064c8aa11ba3
+  - 798268e6-e179-42ee-9dc8-35a62106109e
+  - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
 trigger_type: time_delay
 trigger_delay_seconds: 45
 frequency: once_per_session
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772647862
+updated_at: 1772815017
 ---
