@@ -322,7 +322,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
@@ -341,7 +341,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
@@ -360,7 +360,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
@@ -385,7 +385,7 @@ page_builder:
             buttons:
               -
                 id: ckyWOwGl
-                label: 'Hoe het voelt wanneer je lichaam weer meewerkt'
+                label: 'Echte verhalen'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -411,7 +411,7 @@ page_builder:
     items:
       -
         id: mmfb6kjz
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -524,10 +524,6 @@ page_builder:
             type: paragraph
             attrs:
               class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
             content:
               -
                 type: text
@@ -550,6 +546,89 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mhj7tqg8
+    color: '#f7e7de'
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mhj7v0dl
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Waarom werkt dit wel?'
+            show_tag: true
+            tag_text: 'Hoe dan'
+            tag_alignment: left
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel behandelingen richten zich op het bestrijden van klachten. Meer oefeningen. Meer behandelingen. Meer onderzoek. Meer adviezen. Maar wanneer je lichaam voortdurend in een staat van spanning of bescherming staat blijft het reageren. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Het Kantel Programma kijkt daarom naar iets anders. Omdat je niet kapot bent. Je systeem staat op scherp. Veel behandelingen werken aan het symptoom. Ze kijken naar één stukje. Je bekken. Je spieren. Je houding. Je mindset.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen aan veiligheid in je zenuwstelsel, zodat je lichaam stopt met vechten. Niet langer hoeft te compenseren en jouw vertrouwen terug komt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. Maar een integrale benadering met 24/7 begeleiding. Zoals in de topsport heel normaal is. Wel met dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft dus niet hard(er) te trainen of sportief te zijn. De meeste vrouwen die bij ons starten zijn juist ontzettend moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht.  "
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: QuestionsCtaSection
+    enabled: true
+    swap_layout: false
+    anchor_id: topsport-benadering
+  -
     id: mlckz6f1
     content:
       -
@@ -569,7 +648,7 @@ page_builder:
                     type: text
                     text: 'Je leven terug'
             show_tag: true
-            tag_text: 'Met het Kantel Programma'
+            tag_text: 'Kantel Programma'
             tag_alignment: right
       -
         type: set
@@ -700,72 +779,127 @@ page_builder:
     anchor_id: onze-aanpak
     color: '#ffffff'
   -
-    id: mhj7tqg8
-    color: '#f7e7de'
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-118.jpg
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
+    id: mmfbz3ta
+    items:
       -
-        type: set
-        attrs:
-          id: mhj7v0dl
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
+        id: mmfbz8ae
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - denise-ijpelaar-1.jpeg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mmfc0zlv
+              values:
                 type: heading
-                attrs:
-                  level: 2
-                content:
+                heading_size: M
+                heading:
                   -
-                    type: text
-                    text: 'Waarom werkt dit wel?'
-            show_tag: true
-            tag_text: 'Hoe dan'
-            tag_alignment: left
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Wat veel vrouwen al in de eerste weken merken'
+                show_tag: false
           -
-            type: text
-            text: 'Omdat je niet kapot bent. Je systeem staat op scherp. Veel behandelingen werken aan het symptoom. Ze kijken naar één stukje. Je bekken. Je spieren. Je houding. Je mindset.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Veel vrouwen denken dat herstel pas aan het einde van een traject begint. Maar vaak gebeurt er eerder iets. Niet omdat alles meteen opgelost is. Maar omdat je lichaam anders begint te reageren.'
           -
-            type: text
-            text: 'Maar jij bent geen losse puzzel. Wij kijken naar het geheel. Wij bouwen aan veiligheid in je zenuwstelsel, zodat je lichaam stopt met vechten. Niet langer hoeft te compenseren en jouw vertrouwen terug komt. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Veel vrouwen merken bijvoorbeeld:'
           -
-            type: text
-            text: "Geen quick fix. Geen trucje. Geen 'doe meer je best'. Maar een topsportbenadering voor herstel. Met dezelfde voorwaarden als topsport, niet dezelfde intensiteit. Je hoeft niet harder te trainen of extreem fit te zijn. De meeste vrouwen die bij ons starten zijn juist moe, overbelast en hebben hun lichaam al lange tijd moeten dragen op wilskracht. "
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: set
+            attrs:
+              id: mmfc2ymd
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mmfc32ie
+                    fa_icon: 'fa-solid fa-album-circle-plus'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'dat ze hun lichaam beter begrijpen'
+                  -
+                    id: mmfc3ymi
+                    fa_icon: 'fa-solid fa-album-circle-plus'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'dat ze meer energie voelen'
+                  -
+                    id: mmfc4awc
+                    fa_icon: 'fa-solid fa-album-circle-plus'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'dat beweging minder spannend voelt'
+                  -
+                    id: mmfc5elt
+                    fa_icon: 'fa-solid fa-album-circle-plus'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'dat ze minder bezig zijn met de klachten'
           -
-            type: text
-            text: 'We begeleiden jou daarbij. Stap voor stap. In je echte leven. Dat is waarom veel trajecten vatslopen. En waarom jij hier wél vooruit gaat.'
-    show_settings: true
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En dat alleen al geeft rust.'
+        type: new_set
+        enabled: true
+    show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -773,15 +907,31 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
+      spacing_desktop: standard
+      spacing_mobile: standard
     outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: QuestionsCtaSection
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
     enabled: true
-    swap_layout: false
-    anchor_id: topsport-benadering
+  -
+    id: mmfcat34
+    color: '#ffffff'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
   -
     id: m9fijq9w
     show_settings: true
@@ -819,15 +969,6 @@ page_builder:
                 button_layout: standard
                 button_colour: orange
     show_tag: false
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: Verhalen
   -
     id: m7xy3knc
     content:
@@ -1734,7 +1875,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772827130
+updated_at: 1772828518
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
