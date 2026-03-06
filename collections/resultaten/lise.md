@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/899809513'
   preview_image: lise-beckmann.png
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -26,6 +24,15 @@ klachten:
   - si
   - stuit
   - vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767126215
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1772829269
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Ik heb weer energie aan het einde van de dag.'
 ---
