@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van leven rondom pijn naar een lichaam dat je weer vertrouwt'
+                    text: 'Van leven rondom pijn naar vertrouwen in je lichaam '
             show_tag: false
       -
         type: paragraph
@@ -44,22 +44,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Voor vrouwen die klaar zijn met zoeken en willen leren hoe hun lichaam écht herstelt. '
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Duurzaam herstel is wél mogelijk en begint met de juíste begeleiding, niet met harder je best doen.'
+            text: 'Voor vrouwen die klaar zijn met zoeken en willen leren hoe hun lichaam werkelijk herstelt. '
       -
         type: set
         attrs:
@@ -138,30 +123,36 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je bent een vrouw die verantwoordelijkheid neemt voor haar gezondheid.'
+                text: 'Je bent een vrouw die verantwoordelijkheid neemt voor haar gezondheid. Je hebt al veel geprobeerd. Niet omdat je zwak bent maar omdat je wilde begrijpen wat er met je lichaam gebeurt. '
           -
             type: paragraph
             attrs:
               class: null
-            content:
-              -
-                type: text
-                text: 'Je hebt al veel geprobeerd. Niet omdat je zwak bent maar omdat je wilde begrijpen wat er met je lichaam gebeurt. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: ' Je gaat nog door op wilskracht. Altijd rekening houden met de pijn. En altijd met die twijfel en spanning.'
           -
             type: bulletList
             content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je gaat nog door op wilskracht. '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Altijd rekening houden met de pijn. '
               -
                 type: listItem
                 content:
@@ -422,12 +413,12 @@ page_builder:
             buttons:
               -
                 id: ckyWOwGl
-                label: 'Bekijk verhalen'
+                label: 'Hoe het voelt wanneer je lichaam weer meewerkt'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: solid
-                button_colour: white
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -1628,7 +1619,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772821556
+updated_at: 1772823570
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
