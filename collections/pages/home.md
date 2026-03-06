@@ -11,15 +11,15 @@ page_builder:
       -
         type: set
         attrs:
-          id: m7xvzbzf
+          id: mmfa4s89
           values:
             type: heading
             heading_size: M
             heading:
               -
-                type: heading
+                type: paragraph
                 attrs:
-                  level: 1
+                  class: null
                 content:
                   -
                     type: text
@@ -28,23 +28,45 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van leven rondom pijn naar vertrouwen in je lichaam '
+                    text: 'Van leven rondom je klachten naar een lichaam dat je weer vertrouwt.'
             show_tag: false
       -
-        type: paragraph
+        type: set
         attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
+          id: mmfa7ndx
+          values:
+            type: heading
+            heading_size: XS
+            heading:
               -
-                type: bold
-              -
-                type: btsSpan
+                type: heading
                 attrs:
-                  class: text-white
-            text: 'Voor vrouwen die klaar zijn met zoeken en willen leren hoe hun lichaam werkelijk herstelt. '
+                  level: 5
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Voor vrouwen die al veel geprobeerd hebben'
+                  -
+                    type: hardBreak
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'en nu willen begrijpen hoe hun lichaam écht werkt zodat herstel wel mogelijk wordt.'
+            show_tag: false
       -
         type: set
         attrs:
@@ -66,8 +88,8 @@ page_builder:
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
-                button_layout: solid
-                button_colour: white
+                button_layout: standard
+                button_colour: orange
     type: HeroSection
     enabled: true
     media:
@@ -1619,7 +1641,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772823570
+updated_at: 1772825181
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
