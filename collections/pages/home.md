@@ -28,34 +28,38 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Leven zonder bekkenpijn'
+                    text: 'Van leven rondom pijn naar een lichaam dat je weer vertrouwt'
             show_tag: false
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
         content:
           -
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en hun lichaam weer willen vertrouwen. '
+            text: 'Voor vrouwen die klaar zijn met zoeken en willen leren hoe hun lichaam écht herstelt. '
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
         content:
           -
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Te veel vrouwen krijgen te horen dat ze ermee moeten leren leven. Wij weten dat dat niet klopt. Duurzaam herstel is wél mogelijk en begint met de juíste begeleiding, niet met harder je best doen.'
+            text: 'Duurzaam herstel is wél mogelijk en begint met de juíste begeleiding, niet met harder je best doen.'
       -
         type: set
         attrs:
@@ -73,12 +77,12 @@ page_builder:
                 button_colour: orange
               -
                 id: m7xw13ou
-                label: 'Start veilig met maand 1'
+                label: 'Ik wil mijn lichaam weer vertrouwen'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
-                button_layout: standard
-                button_colour: orange
+                button_layout: solid
+                button_colour: white
     type: HeroSection
     enabled: true
     media:
@@ -125,7 +129,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Herken je dit?'
+                        text: 'Je bent niet op zoek naar een volgende behandeling'
                 show_tag: false
           -
             type: paragraph
@@ -134,7 +138,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je gaat van behandeling naar behandeling. Je zag verschillende arsten, therapeuten en specialisten. Je hebt al van alles geprobeerd. '
+                text: 'Je bent een vrouw die verantwoordelijkheid neemt voor haar gezondheid.'
           -
             type: paragraph
             attrs:
@@ -142,7 +146,19 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Soms leek het even beter. Maar het komt terug. Je gaat nog door op wilskracht. Altijd rekening houden met de pijn. En altijd met die twijfel en spanning.'
+                text: 'Je hebt al veel geprobeerd. Niet omdat je zwak bent maar omdat je wilde begrijpen wat er met je lichaam gebeurt. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: ' Je gaat nog door op wilskracht. Altijd rekening houden met de pijn. En altijd met die twijfel en spanning.'
           -
             type: bulletList
             content:
@@ -212,10 +228,47 @@ page_builder:
                       -
                         type: text
                         text: 'En misschien nog wel het meest... aan jezelf. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je wilt niet nog een traject waarin iemand iets '
+              -
+                type: text
+                marks:
                   -
-                    type: paragraph
-                    attrs:
-                      class: null
+                    type: italic
+                text: 'bij je doet.'
+              -
+                type: text
+                text: ' Je wilt begrijpen:'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻waarom je lichaam reageert zoals het doet'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻hoe herstel werkelijk werkt'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻en hoe je weer op je lichaam kunt vertrouwen'
           -
             type: paragraph
             attrs:
@@ -249,30 +302,7 @@ page_builder:
                 text: .
               -
                 type: text
-                text: "' "
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Dan is dit precies waar wij je kunnen helpen. '
-          -
-            type: set
-            attrs:
-              id: mlo38car
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: 2n1VsD5H
-                    label: 'MEER INFO'
-                    link_type: link
-                    target_blank: false
-                    link: 'https://kantelprogramma.nl/start-nu'
-                    button_layout: solid
-                    button_colour: orange
+                text: "' Dat is dit precies waar het Kantel Programma voor bedoeld is."
         type: new_set
         enabled: true
     show_settings: false
@@ -1598,7 +1628,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772736250
+updated_at: 1772821556
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
