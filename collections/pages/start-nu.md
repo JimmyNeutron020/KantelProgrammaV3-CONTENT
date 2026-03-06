@@ -40,7 +40,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van leven rondom je pijn naar vertrouwen in je lichaam'
+                    text: 'Stel je voor dat je je lichaam weer kunt vertrouwen'
             show_tag: false
       -
         type: paragraph
@@ -54,7 +54,35 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Het Kantel Programma is een intensief hersteltraject mét begeleiding. Speciaal voor vrouwen met chronische bekkenklachten die al zoveel geprobeerd hebben en die hun leven niet langer willen aanpassen aan de pijn.'
+            text: 'Niet eke dag nadenken over wat wel of niet kan. Niet steeds rekening houden met pijn. Maar gewoon bewegen, groots durven dromen en doen. Leven in plaats van overleven. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Het Kantel Programma is een hersteltraject mét begeleiding waarin je leert waarom je lichaam zo reageert en wat er nodig is voor herstel. '
+      -
+        type: set
+        attrs:
+          id: mmfdfwu4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: PzgI3Kmg
+                label: 'Ik wil kantelen'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                button_layout: solid
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -2209,7 +2237,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772703453
+updated_at: 1772830505
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
