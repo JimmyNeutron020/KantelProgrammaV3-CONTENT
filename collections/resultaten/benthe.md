@@ -24,5 +24,14 @@ klachten:
   - nek
   - schouder
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771862145
+updated_at: 1772828927
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Voor het eerst voelde ik: iemand begrijpt wat er in mijn lichaam gebeurt'
 ---
