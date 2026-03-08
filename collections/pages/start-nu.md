@@ -186,7 +186,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel trajecten focussen op losse oefeningen. Of alleen op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder. Je probeert meer. Maar het blijft terugkomen.  '
+                text: 'Veel trajecten focussen op losse oefeningen en op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder. Je probeert meer. Maar het blijft terugkomen. Er is dus iets anders nodig. En precies daar beginnen wij. '
           -
             type: paragraph
             attrs:
@@ -194,7 +194,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'En precies daar beginnen wij. Wij werken niet symptoomgericht. Wij begeleiden je zoals je een topsporter zou begeleiden; 24/7 geïntegreerd in je leven.'
+                text: 'Wij werken niet symptoomgericht en begeleiden je zoals we een topsporter zouden begeleiden; een integrale aanpak van 24/7 in jouw dagelijkse leven.'
         type: phase
         enabled: true
       -
@@ -427,14 +427,6 @@ page_builder:
               -
                 type: bold
             text: 'Je hebt niet te weinig geprobeerd. Je systeem staat nog op overleven.'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            text: 'Veel trajecten focussen op losse oefeningen. Of alleen op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder. Je probeert meer. Maar het blijft terugkomen.  En precies daar beginnen wij.'
     color: '#ffffff'
     package_content:
       -
@@ -2237,7 +2229,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772830505
+updated_at: 1772994851
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
