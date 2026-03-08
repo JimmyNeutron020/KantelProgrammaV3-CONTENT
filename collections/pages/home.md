@@ -394,7 +394,7 @@ page_builder:
             buttons:
               -
                 id: ckyWOwGl
-                label: 'Echte verhalen'
+                label: 'Echte verhalen. Echte vrouwen.'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -537,6 +537,21 @@ page_builder:
               -
                 type: text
                 text: 'Niet omdat alles perfect is. Maar omdat je lichaam weer voelt als iets waar je op kunt bouwen.'
+          -
+            type: set
+            attrs:
+              id: mmi3pw2c
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: HElAVPQi
+                    label: 'Dit wil ik'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -770,6 +785,21 @@ page_builder:
           -
             type: text
             text: 'Je staat er niet alleen voor. Er is vaak herkenbaarheid, want je ziet in het programma veel andere vrouwen. Wekelijks deel je ,via de zelfrefectie methodiek, jouw proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
+      -
+        type: set
+        attrs:
+          id: mmi3snl2
+          values:
+            type: buttons
+            buttons:
+              -
+                id: Mw3qCD9A
+                label: 'Mijn leven terug'
+                link_type: link
+                target_blank: false
+                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                button_layout: solid
+                button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -834,7 +864,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel vrouwen denken dat herstel pas aan het einde van een traject merkbaar is. Maar vaak gebeurt er eerder iets. Niet omdat alles meteen opgelost is. Maar omdat je lichaam anders begint te reageren.'
+                text: 'Vaak denken vrouwen dat herstel pas aan het einde van een traject merkbaar is. Maar er gebeurt eerder iets. Niet omdat alles meteen is opgelost. Maar omdat je lichaam anders begint te reageren.'
           -
             type: paragraph
             attrs:
@@ -842,7 +872,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel vrouwen merken bijvoorbeeld:'
+                text: 'Vrouwen merken bijvoorbeeld:'
           -
             type: set
             attrs:
@@ -906,6 +936,21 @@ page_builder:
               -
                 type: text
                 text: 'En dat alleen al geeft rust.'
+          -
+            type: set
+            attrs:
+              id: mmi449zg
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: wVe0Wh60
+                    label: 'MEER INFO'
+                    link_type: link
+                    target_blank: false
+                    link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                    button_layout: standard
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: true
@@ -969,7 +1014,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: ResultsSlider
     enabled: true
-    color: '#f5f5f7'
+    color: '#f7e7de'
     heading_size: S
     use_first_eight: true
     content:
@@ -988,7 +1033,7 @@ page_builder:
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: standard
                 button_colour: orange
-    show_tag: false
+    show_tag: true
     heading:
       -
         type: paragraph
@@ -1002,7 +1047,9 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: '"Had ik dit maar jaren eerder ontdekt"'
+            text: '"Had ik dit maar jaren eerder ontdekt." '
+    tag_text: "Bekijk hier de resultaat video's"
+    tag_alignment: center
   -
     id: m7xy3knc
     content:
@@ -1024,7 +1071,7 @@ page_builder:
                     text: 'Wij zijn Chantal & Paul'
             show_tag: true
             tag_text: Ciao
-            tag_alignment: right
+            tag_alignment: center
       -
         type: paragraph
         attrs:
@@ -1032,7 +1079,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Jarenlang zagen wij hoe jonge moeders vastliepen in losse trajecten. En dat is precies waarom wij het anders zijn gaan doen. Onze aanpak ontstond niet online. Maar in ons leefstijlhotel waar vrouwen 24/7 aan herstel werkten.'
+            text: 'Jarenlang zagen wij hoe jonge moeders vastliepen in losse behandelingen en trajecten. En dat is precies waarom wij het anders zijn gaan doen. Onze aanpak ontstond niet online. Maar in ons leefstijlhotel waar vrouwen 24/7 aan herstel werkten.'
       -
         type: paragraph
         attrs:
@@ -1065,7 +1112,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     anchor_id: over-chantal-en-paul
-    color: '#f7e7de'
+    color: '#fff'
   -
     id: mikemtis
     color: '#ffffff'
@@ -1909,7 +1956,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772995300
+updated_at: 1772996170
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
