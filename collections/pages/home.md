@@ -145,7 +145,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Misschien herken je jezelf hierin'
+                        text: 'Misschien herken je jezelf?'
                 show_tag: false
           -
             type: paragraph
@@ -603,7 +603,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Het Kantel Programma kijkt daarom naar iets anders. Omdat je niet kapot bent. Je systeem staat op scherp. Veel behandelingen werken aan het symptoom. Ze kijken naar één stukje. Je bekken. Je spieren. Je houding. Je mindset.'
+            text: "Het Kantel Programma kijkt daarom naar iets anders. Omdat je niet 'stuk' bent. Je systeem staat op scherp. Veel behandelingen werken aan het symptoom. Ze kijken naar één stukje. Je bekken. Je spieren. Je houding. Je mindset."
       -
         type: paragraph
         attrs:
@@ -769,7 +769,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je staat er niet alleen voor. Veel herkenbaarheid want je ziet in het programma veel andere vrouwen. Wekelijks deel je ,via de zelfrefectie methodiek, jouw proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
+            text: 'Je staat er niet alleen voor. Er is vaak herkenbaarheid, want je ziet in het programma veel andere vrouwen. Wekelijks deel je ,via de zelfrefectie methodiek, jouw proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Je ontvangt gerichte begeleiding, support en feedback. Ook wanneer het schuurt. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -834,7 +834,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel vrouwen denken dat herstel pas aan het einde van een traject begint. Maar vaak gebeurt er eerder iets. Niet omdat alles meteen opgelost is. Maar omdat je lichaam anders begint te reageren.'
+                text: 'Veel vrouwen denken dat herstel pas aan het einde van een traject merkbaar is. Maar vaak gebeurt er eerder iets. Niet omdat alles meteen opgelost is. Maar omdat je lichaam anders begint te reageren.'
           -
             type: paragraph
             attrs:
@@ -1048,7 +1048,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij begeleiden vrouwen met chronische pijn zoals we topsporters begeleiden; systemisch, 24/7 en met aandacht voor body & mind. Geen losse puzzelstukjes. Maar één samenhangend systeem.'
+            text: 'Wij begeleiden vrouwen met chronische pijn zoals we topsporters begeleiden; systemisch, 24/7 en met aandacht voor body & mind. Geen losse puzzelstukjes. Maar één samenhangende dynamische aanpak.'
     type: IntoSection
     enabled: true
     show_settings: true
@@ -1909,7 +1909,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772829689
+updated_at: 1772995300
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
