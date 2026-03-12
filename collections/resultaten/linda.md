@@ -16,7 +16,6 @@ media:
   preview_image: linda-knoll-(33-jaar).jpg
   images:
     - linda-knoll-(33-jaar).jpg
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -28,6 +27,15 @@ klachten:
   - eczeem
   - prikkelbaar-darm-syndroom
   - vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767123773
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773347725
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Eindelijk begon mijn lichaam te ontspannen en kreeg ik weer vertrouwen.'
 ---
