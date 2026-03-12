@@ -84,7 +84,7 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: 'Je energie terug. Een lichaam dat meewerkt.'
+                text: 'RESET Mini-Programma'
       -
         type: set
         attrs:
@@ -100,9 +100,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Stel je eens voor..'
+                    text: 'Stel je eens voor ...'
             show_tag: true
-            tag_text: Resetten
+            tag_text: 'Je energie terug!'
             tag_alignment: right
       -
         type: paragraph
@@ -111,31 +111,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je wordt wakker zonder dat je lichaam al gespannen aanvoelt. Je hebt energie die niet na een paar uur al op is.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hoofd voelt rustiger en je lijf werkt weer mee. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hoeft niet meer constant te plannen, te doseren of te vechten tegen je eigen lichaam. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hebt weer ruimte om te leven.'
+            text: 'Je wordt wakker zonder dat je lichaam al gespannen aanvoelt. Je hebt energie die niet na een paar uur al op is. Je hoofd voelt rustiger en je lijf werkt weer mee. Je hoeft niet meer constant te plannen, te doseren of te vechten tegen je eigen lichaam. Je hebt weer ruimte om te leven.'
       -
         type: paragraph
         attrs:
@@ -218,19 +194,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Altijd doorgaan. Altijd verantwoordelijk zijn. Altijd zorgen voor alles en iedereen. Werk, gezin, verplichtingen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'En ondertussen probeert je lichaam iets duidelijk te maken.'
+                text: 'Altijd doorgaan. Altijd verantwoordelijk zijn. Altijd zorgen voor alles en iedereen. Werk, gezin, verplichtingen. En ondertussen probeert je lichaam iets duidelijk te maken.'
           -
             type: set
             attrs:
@@ -281,15 +245,21 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel vrouwen denken dat ze gewoon sterker moeten zijn of dat ze nog beter hun best moeten doen.'
+                text: 'Veel vrouwen denken dat ze gewoon sterker moeten zijn of dat ze nog beter hun best moeten doen. Maar vaak ligt het probleem ergens anders.'
           -
-            type: paragraph
+            type: set
             attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Maar vaak ligt het probleem ergens anders.'
+              id: mmnxrhca
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: AFJ1HZ1l
+                    label: 'dat herken ik'
+                    link_type: link
+                    target_blank: false
+                    button_layout: standard
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -337,7 +307,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wanneer je zenuwstelsel lange tijd onder druk staat, kan je lichaam blijven hangen in een staat van alertheid.'
+            text: 'Wanneer je zenuwstelsel lange tijd onder druk staat, kan je lichaam blijven hangen in een staat van alertheid. Dat betekent dat het systeem dat bedoeld is om je te beschermen, continu aan blijft staan.'
       -
         type: paragraph
         attrs:
@@ -345,23 +315,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat betekent dat het systeem dat bedoeld is om je te beschermen, continu aan blijft staan.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Herstel krijgt dan minder ruimte. Spanning bouwt zich sneller op. Pijnsignalen blijven langer aanwezig.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Veel vrouwen merken dat hun lichaam pas echt kan gaan herstellen wanneer hun zenuwstelsel weer meer rust ervaart.'
+            text: 'Herstel krijgt dan minder ruimte. Spanning bouwt zich sneller op. Pijnsignalen blijven langer aanwezig. Veel vrouwen merken dat hun lichaam pas echt kan gaan herstellen wanneer hun zenuwstelsel weer meer rust ervaart.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -415,7 +369,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'ervaar hoe je uit de overlevingsstand kunt stappen.'
+                        text: 'Hoe je uit de overlevingsstand kunt stappen'
                 show_tag: false
           -
             type: paragraph
@@ -512,7 +466,7 @@ page_builder:
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
                 button_layout: solid
-                button_colour: white
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -520,7 +474,7 @@ page_builder:
     items:
       -
         id: mmnueemx
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -630,6 +584,21 @@ page_builder:
               -
                 type: text
                 text: 'Het gaat niet om perfect leven. Het gaat om begrijpen hoe je lichaam werkt en hoe je het kunt ondersteunen.'
+          -
+            type: set
+            attrs:
+              id: mmnwv7ur
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: LSYshyxw
+                    label: 'RESET MINI-PROGRAMMA'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -650,7 +619,7 @@ page_builder:
   -
     id: mmnuruc9
     color: '#f7e7de'
-    swap_layout: true
+    swap_layout: false
     media:
       video: false
       autoplay_video: false
@@ -678,7 +647,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Voor wie dit programma bedoeld is'
+                    text: 'Voor wie '
             show_tag: false
       -
         type: paragraph
@@ -763,7 +732,7 @@ page_builder:
     items:
       -
         id: mmnuz620
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -813,7 +782,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Daarin vind je een uitgebreide video les (34 minuten) waarin alles stap voor stap wordt uitgelegd.'
+                text: '👉🏻Daarin vind je een uitgebreide video les (34 minuten) waarin alles stap voor stap wordt uitgelegd.'
           -
             type: paragraph
             attrs:
@@ -821,7 +790,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Praktische oefeningen die je helpen je zenuwstelsel tot rust te brengen'
+                text: '👉🏻Praktische oefeningen die je helpen je zenuwstelsel tot rust te brengen'
           -
             type: paragraph
             attrs:
@@ -829,7 +798,7 @@ page_builder:
             content:
               -
                 type: text
-                text: ' Kantel Kennis sheets met theorie inzichten die je direct kunt toepassen in je dagelijkse leven.'
+                text: '👉🏻Kantel Kennis sheets met theorie inzichten die je direct kunt toepassen in je dagelijkse leven.'
           -
             type: paragraph
             attrs:
@@ -837,7 +806,15 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Een inspirerende vodcast die normaal alleen in het volledige Kantel Programma te zien is. '
+                text: '👉🏻Een inspirerende vodcast (68 minuten) die normaal alleen in het volledige Kantel Programma te zien is. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je kunt het programma op je eigen moment en op je eigen tempo volgen.'
         type: new_set
         enabled: true
     show_settings: false
@@ -856,16 +833,84 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: mmnvpfxb
-    media:
-      video: true
-      autoplay_video: false
-      video_link: 'https://vimeo.com/974351568/993f686ff4'
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
+    id: mmnwbf53
+    items:
+      -
+        id: mmnwbhws
+        swap: false
+        media:
+          video: true
+          autoplay_video: true
+          video_link: 'https://vimeo.com/974351568/993f686ff4'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mmnwcgjv
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Begin vandaag'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In deze korte video krijg je een klein inkijkje in één van de inzichten uit het programma. Voor veel vrouwen is het RESET mini-programma het moment waarop er ineens iets op zijn plek valt en ze begrijpen waarom hun lichaam zo lang in de overlevingsstand blijft hangen. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Bekijk het fragment en ontdek waarom dit voor zoveel vrouwen het begin van een echte verandering, wij noemen het kanteling, is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft niet te wachten tot je lichaam vanzelf verandert. Je kunt vandaag beginnen met het creëren van meer rust, energie en vertrouwen in je lichaam. Na aanmelding krijg je direct toegang tot het programma.'
+          -
+            type: set
+            attrs:
+              id: mmnx6t9f
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: xwEJFqzN
+                    label: 'JA, IK WIL MEER WETEN'
+                    link_type: link
+                    target_blank: false
+                    link: 'Twijfel je nog  Misschien herken je jezelf in dit verhaal, maar denk je ook:  "Is dit wel iets voor mij?"  "Kan mijn lichaam nog wel herstellen?"  "Moet ik hier niet eerst meer energie voor hebben?"  Die twijfel is heel begrijpelijk. Veel vrouwen die beginnen met dit mini programma voelen zich juist moe, gespannen of uitgeput.  Daarom is dit geen intensief traject. Het is juist bedoeld als een zcahte eerste stap.  Een manier om te ontdekken wat er gebeurt wanneer je je lichaam weer de rust geeft die het nodig heeft.  Je hoeft niets perfect te doen. Je hoeft niet ineens alles te veranderen. Soms begint herstel simpelweg met begrijpen wat er in je lichaam gebeurt en kleine keuzes die je systeem weer meer rust geven.  En vaak merken vrouwen al snel dat alleen dát al een verschil maakt.'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -879,10 +924,193 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: ResultsCtaSection
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: mmnwz0vn
+    content:
+      -
+        type: set
+        attrs:
+          id: mmnwz5i2
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Twijfel je nog'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Misschien herken je jezelf in dit verhaal, maar denk je ook:'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '🟠 "Is dit wel iets voor mij?"'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '🟠 "Kan mijn lichaam nog wel herstellen?"'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '🟠 "Moet ik hier niet eerst meer energie voor hebben?"'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Die twijfel is heel begrijpelijk. Veel vrouwen die beginnen met dit mini programma voelen zich juist moe, gespannen of uitgeput.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Daarom is dit'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' geen intensief traject'
+          -
+            type: text
+            text: '. Het is juist bedoeld als een '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'zachte eerste stap'
+          -
+            type: text
+            text: '. Een manier om te ontdekken wat er gebeurt wanneer je je lichaam weer dat geeft wat het nodig heeft.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            text: 'Je hoeft niets perfect te doen. Je hoeft niet ineens alles te veranderen. Soms begint herstel simpelweg met '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'begrijpen wat er in je lichaam gebeurt '
+          -
+            type: text
+            text: 'en kleine keuzes die je systeem weer meer rust geven. En vaak merken vrouwen al snel dat alleen dát al een verschil maakt.'
+      -
+        type: set
+        attrs:
+          id: mmnxhfsw
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 3jOLrEZW
+                label: 'ik wil die eerste stap'
+                link_type: link
+                target_blank: false
+                button_layout: standard
+                button_colour: orange
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: mmnx7yxe
+    color: '#eb8d7a'
+    selected_entries:
+      - 611fb9ce-1bfe-4d28-9866-c55d38258859
+      - bc6f0407-772f-4f8a-aad8-85958b339cde
+      - 8db09704-b71d-43ed-a6e9-71a71a5080d4
+      - 6e39a02d-5b15-4dee-b940-8fcd4ff7f3b0
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
+    id: mmnxgt2p
+    color: '#ffffff'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773345006
+updated_at: 1773348526
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
