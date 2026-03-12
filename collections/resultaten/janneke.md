@@ -9,8 +9,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/1110224133?share=copy#t=0'
   preview_image: jannekedenengelsman.jpg
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -21,6 +19,15 @@ klachten:
   - migraine
   - slaapproblemen
   - chronische-vermoeidheid
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767121747
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773347595
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Na deze uitleg viel er voor mij zoveel op zijn plek. Ineens begreep ik wat mijn lichaam al die tijd probeerde te vertellen.'
 ---
