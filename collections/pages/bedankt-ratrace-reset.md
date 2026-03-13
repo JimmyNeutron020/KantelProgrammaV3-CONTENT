@@ -191,7 +191,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - favicons/kantel-programma-favicon.svg
+        - brand/ella-olsson-kpdbryfotne-unsplash.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -289,7 +289,7 @@ page_builder:
             buttons:
               -
                 id: 4kMOBnQP
-                label: 'BEKIJK VOEDING ALS BRANDSTOF VOOR HERSTEL'
+                label: "BEKIJK 'VOEDING ALS BRANDSTOF VOOR HERSTEL'"
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
@@ -315,7 +315,7 @@ page_builder:
     items:
       -
         id: mmoyi6q8
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -371,15 +371,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Complete begeleiding, recepten, boodschappenlijst en uitleg.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Investering € 85'
+                text: 'Complete begeleiding, recepten, boodschappenlijst en uitleg. Investering eenmalig € 85'
           -
             type: set
             attrs:
@@ -412,8 +404,103 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+  -
+    id: mmoyr088
+    color: '#ffffff'
+    selected_entries:
+      - 53a7192e-f73e-4ef3-bd92-e82726526bdd
+      - d1aed089-64d3-47cc-80dd-f66eed1ab0a1
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+      - b14cf75f-4060-45d3-b22a-642f65592c47
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
+    id: mmoz1kmv
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Benieuwd naar het complete Kantel Programma?'
+    show_tag: false
+    content:
+      -
+        type: set
+        attrs:
+          id: mmoz4kxb
+          values:
+            type: buttons
+            buttons:
+              -
+                id: JSOm6YvI
+                label: 'KANTEL PROGRAMMA COMPLEET'
+                link_type: link
+                target_blank: false
+                link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+                button_layout: solid
+                button_colour: orange
+    color: '#f5f5f7'
+    layout_type: standard
+    content_source: module
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FaqList
+    enabled: true
+  -
+    id: mmoz5u0n
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773410205
+updated_at: 1773411080
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
