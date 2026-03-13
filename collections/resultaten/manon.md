@@ -14,8 +14,6 @@ media:
   autoplay_video: false
   video_link: 'https://vimeo.com/899790235'
   preview_image: 'manon-brekelmans,-38-jaar.png'
-  images: {  }
-  show_swiper_controls: null
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -25,6 +23,15 @@ klachten:
   - bekken
   - lage-rug
   - si
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1767126843
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773410702
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Mijn energie kwam terug en bleef stabiel binnen een paar weken.'
 ---
