@@ -104,8 +104,9 @@ page_builder:
                 label: 'Ik wil een stap verder'
                 link_type: link
                 target_blank: false
-                button_layout: standard
+                button_layout: solid
                 button_colour: orange
+                link: 'entry::2cee2c71-03db-4e68-a104-2d37d81b873c'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -122,8 +123,40 @@ page_builder:
     type: IntoSection
     enabled: true
     color: '#fff'
+  -
+    id: mmow6zol
+    items:
+      -
+        id: mmow73c5
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773403099
+updated_at: 1773406542
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
