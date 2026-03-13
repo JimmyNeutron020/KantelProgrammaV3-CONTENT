@@ -56,7 +56,7 @@ page_builder:
               -
                 id: mjspjnbb
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: "Let's go!"
+                text: 'RESET MINI-PROGRAMMA'
       -
         type: set
         attrs:
@@ -72,9 +72,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je gaat starten met jouw Ratrace Reset. Een ontzettend goede keuze!'
+                    text: 'Je gaat starten met jouw Reset. Een ontzettend goede keuze!'
             show_tag: true
-            tag_text: Super!
+            tag_text: 'Eerste stap'
             tag_alignment: right
     show_settings: true
     inner_spacing_top:
@@ -91,8 +91,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769361114
+    color: '#ffffff'
+updated_by: df706966-2cce-4398-8c60-055fb6df4804
+updated_at: 1773391982
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
