@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-grey
-                    text: Bedankt!
+                    text: 'Je bent gestart! Mooi dat je deze stap hebt gezet.'
             show_tag: false
     type: HeroSection
     enabled: true
@@ -72,10 +72,40 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je gaat starten met jouw Reset. Een ontzettend goede keuze!'
+                    text: 'De eerste stap naar jouw kanteling'
             show_tag: true
-            tag_text: 'Eerste stap'
+            tag_text: 'een goede keuze'
             tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vrouwen merken dat alleen al het begrijpen van wat er in hun lichaam gebeurt een enorme opluchting geeft. Het helpt om anders naar je klachten te kijken en geeft vaak het eerste gevoel van rust en hoop.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Voor sommige vrouwen blijft het daar niet bij. Zij willen ook ontdekken hoe ze deze inzichten verder kunnen toepassen in hun dagelijkse leven.'
+      -
+        type: set
+        attrs:
+          id: mmoudrfc
+          values:
+            type: buttons
+            buttons:
+              -
+                id: hxZJeJcd
+                label: 'Ik wil een stap verder'
+                link_type: link
+                target_blank: false
+                button_layout: standard
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -91,9 +121,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-    color: '#ffffff'
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1773391982
+    color: '#fff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773403099
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
