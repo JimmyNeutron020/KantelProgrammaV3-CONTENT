@@ -4,14 +4,14 @@ blueprint: page
 title: 'Bedankt Ratrace Reset'
 page_builder:
   -
-    id: mmowimjo
+    id: mmp52rhy
     full_height: true
     layout_setting: media
     media:
       video: false
       autoplay_video: false
       images:
-        - eten-dat-heelt/menuut-breed-(1600-x-1067-px).png
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-112.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -22,18 +22,25 @@ page_builder:
       -
         type: set
         attrs:
-          id: mmoxab8z
+          id: mmp53706
           values:
-            type: buttons
-            buttons:
+            type: heading
+            heading_size: M
+            heading:
               -
-                id: xmvfpjlE
-                label: '13 WEKEN | BEGELEIDING, INSPIRATIE & VARIATIE | € 85'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
-                button_layout: solid
-                button_colour: white
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Gelukt! We hebben nog iets voor je ..'
+            show_tag: false
     type: HeroSection
     enabled: true
   -
@@ -183,6 +190,39 @@ page_builder:
     type: IntoSection
     enabled: true
     color: '#f5f5f7'
+  -
+    id: mmowimjo
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - eten-dat-heelt/menuut-breed-(1600-x-1067-px).png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mmoxab8z
+          values:
+            type: buttons
+            buttons:
+              -
+                id: xmvfpjlE
+                label: '13 WEKEN | BEGELEIDING, INSPIRATIE & VARIATIE | € 85'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
+                button_layout: solid
+                button_colour: white
+    type: HeroSection
+    enabled: true
   -
     id: mmox2qob
     color: '#f7e7de'
@@ -500,7 +540,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773411080
+updated_at: 1773421095
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
