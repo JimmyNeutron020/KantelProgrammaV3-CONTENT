@@ -260,6 +260,7 @@ page_builder:
                     target_blank: false
                     button_layout: standard
                     button_colour: orange
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
         type: new_set
         enabled: true
     show_settings: false
@@ -709,7 +710,7 @@ page_builder:
                 label: 'JA DAT BEN IK'
                 link_type: link
                 target_blank: false
-                link: 'op energie, spanning en herstel'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
                 button_layout: solid
                 button_colour: orange
     show_settings: false
@@ -906,7 +907,7 @@ page_builder:
                     label: 'JA, IK WIL MEER WETEN'
                     link_type: link
                     target_blank: false
-                    link: 'Twijfel je nog  Misschien herken je jezelf in dit verhaal, maar denk je ook:  "Is dit wel iets voor mij?"  "Kan mijn lichaam nog wel herstellen?"  "Moet ik hier niet eerst meer energie voor hebben?"  Die twijfel is heel begrijpelijk. Veel vrouwen die beginnen met dit mini programma voelen zich juist moe, gespannen of uitgeput.  Daarom is dit geen intensief traject. Het is juist bedoeld als een zcahte eerste stap.  Een manier om te ontdekken wat er gebeurt wanneer je je lichaam weer de rust geeft die het nodig heeft.  Je hoeft niets perfect te doen. Je hoeft niet ineens alles te veranderen. Soms begint herstel simpelweg met begrijpen wat er in je lichaam gebeurt en kleine keuzes die je systeem weer meer rust geven.  En vaak merken vrouwen al snel dat alleen dát al een verschil maakt.'
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -1052,6 +1053,7 @@ page_builder:
                 target_blank: false
                 button_layout: standard
                 button_colour: orange
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
     color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
@@ -1110,7 +1112,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1773390338
+updated_at: 1773390706
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
