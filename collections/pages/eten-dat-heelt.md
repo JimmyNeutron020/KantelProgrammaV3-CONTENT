@@ -45,15 +45,6 @@ page_builder:
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Voeding als brandstof voor je lijf.'
       -
         type: set
         attrs:
@@ -63,7 +54,7 @@ page_builder:
             buttons:
               -
                 id: PhcXgfu5
-                label: Download
+                label: 'VOEDING ALS BRANDSTOF VOOR HERSTEL'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
@@ -100,7 +91,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Één van de meest onderschatte sleutels is bij herstel van chronische pijn'
+                    text: 'Één van de meest onderschatte sleutels bij herstel van chronische pijn'
             show_tag: true
             tag_text: Voeding!
             tag_alignment: right
@@ -111,15 +102,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Veel vrouwen weten niet dat wat ze eten direct invloed heeft op hoe snel hun lichaam kan herstellen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Niet alleen op hun energie maar op het zenuwstelsel zelf. Je zenuwstelsel is de regiekamer van je hele lichaam.'
+            text: 'Veel vrouwen weten niet dat wat ze eten direct invloed heeft op hoe snel hun lichaam kan herstellen. Niet alleen op hun energie maar op het zenuwstelsel zelf. Je zenuwstelsel is de regiekamer van je hele lichaam.'
       -
         type: paragraph
         attrs:
@@ -138,15 +121,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Óf het juist onbewust blijven prikkelen, waardoor herstel veel langer duurt.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'En dat betekent dat jij, door slimme, haalbare voedingskeuzes, vandaag al kunt beginnen met je lijf de signalen geven:'
+            text: 'Óf het juist onbewust blijven prikkelen, waardoor herstel veel langer duurt. En dat betekent dat jij, door slimme, haalbare voedingskeuzes, vandaag al kunt beginnen met je lijf de signalen geven:'
       -
         type: paragraph
         attrs:
@@ -169,7 +144,7 @@ page_builder:
             buttons:
               -
                 id: wKEY7d9r
-                label: Download
+                label: 'DIRECT TOEGANG | 13 WEKEN BEGELEIDING'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
@@ -190,8 +165,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769359034
+    color: '#ffffff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773421549
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
