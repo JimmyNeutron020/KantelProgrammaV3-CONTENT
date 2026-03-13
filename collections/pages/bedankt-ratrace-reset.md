@@ -81,7 +81,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Je herstel nog een extra boost geven?'
+                    text: 'Je herstel een extra boost geven?'
             show_tag: true
             tag_text: '13 weken begeleiding, inspiratie & variatie'
             tag_alignment: right
@@ -540,7 +540,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773421095
+updated_at: 1773421261
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
