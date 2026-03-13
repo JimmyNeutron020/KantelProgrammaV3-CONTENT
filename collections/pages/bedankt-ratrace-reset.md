@@ -4,14 +4,14 @@ blueprint: page
 title: 'Bedankt Ratrace Reset'
 page_builder:
   -
-    id: mjspfhci
-    full_height: false
+    id: mmowimjo
+    full_height: true
     layout_setting: media
     media:
       video: false
       autoplay_video: false
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-112.jpg
+        - eten-dat-heelt/menuut-breed-(1600-x-1067-px).png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -22,25 +22,18 @@ page_builder:
       -
         type: set
         attrs:
-          id: mjsphamm
+          id: mmoxab8z
           values:
-            type: heading
-            heading_size: L
-            heading:
+            type: buttons
+            buttons:
               -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-grey
-                    text: 'Je bent gestart! '
-            show_tag: false
+                id: xmvfpjlE
+                label: '13 WEKEN | BEGELEIDING, INSPIRATIE & VARIATIE | € 85'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
+                button_layout: solid
+                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -56,7 +49,7 @@ page_builder:
               -
                 id: mjspjnbb
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: 'RESET MINI-PROGRAMMA'
+                text: 'VOEDING ALS BRANDSTOF VOOR HERSTEL'
       -
         type: set
         attrs:
@@ -81,9 +74,9 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Je herstel meteen een extra boost geven'
+                    text: 'Je herstel nog een extra boost geven?'
             show_tag: true
-            tag_text: 'inzichten & praktische tips'
+            tag_text: '13 weken begeleiding, inspiratie & variatie'
             tag_alignment: right
       -
         type: paragraph
@@ -92,7 +85,18 @@ page_builder:
         content:
           -
             type: text
-            text: 'Veel vrouwen staan er niet bij stil hoeveel invloed voeding heeft op het herstel van hun lichaam. Wat je eet kan energie opbouwen, je zenuwstelsel kalmereen herstellen. .. maar het kan ook onbewust juist meer spanning en laaggradige ontsteking veroorzaken. Daarom hebben we een praktisch vervolg gemaakt:'
+            marks:
+              -
+                type: bold
+            text: 'Veel vrouwen ontdekken pas later dat voeding een enorme invloed heeft op hun energie, pijn en herstel. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wat je eet kan energie opbouwen, je zenuwstelsel kalmereen herstellen. .. maar het kan ook onbewust juist meer spanning en laaggradige ontsteking veroorzaken. Daarom hebben we een praktisch vervolg gemaakt:'
       -
         type: set
         attrs:
@@ -115,7 +119,24 @@ page_builder:
         content:
           -
             type: text
-            text: "In 'Voeding als brandstof voor je herstel' ervaar je al binnen 2 weken stap wat  voeding doet bij het ondersteunen van je lichaam in herstel én in energie. Fit de dag beginnen zónder opgeblazen gevoel en zónder ups en downs gedurende de dag."
+            text: "In 'Voeding als brandstof voor je herstel' "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'ervaar je al bínnen 2 weken wat  voeding doet '
+          -
+            type: text
+            text: 'bij het ondersteunen van je lichaam in herstel én in energie. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '👉🏻 Weer fit de dag beginnen zónder opgeblazen gevoel en zónder ups en downs gedurende de dag.'
       -
         type: paragraph
         attrs:
@@ -161,40 +182,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-    color: '#f7e7de'
-  -
-    id: mmowimjo
-    full_height: true
-    layout_setting: media
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - eten-dat-heelt/menuut-breed-(1600-x-1067-px).png
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mmoxab8z
-          values:
-            type: buttons
-            buttons:
-              -
-                id: xmvfpjlE
-                label: '13 WEKEN | BEGELEIDING, INSPIRATIE & VARIATIE | € 85'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
-                button_layout: solid
-                button_colour: white
-    type: HeroSection
-    enabled: true
+    color: '#f5f5f7'
   -
     id: mmox2qob
     color: '#f7e7de'
@@ -322,8 +310,110 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mmoyi1kp
+    items:
+      -
+        id: mmoyi6q8
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-153.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mmoyjvug
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Speciaal voor jou'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Omdat je vandaag al een stap hebt gezet richting herstel, kun je dit programma nu direct toevoegen.'
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Eten dat heelt | Voeding als brandstof voor herstel'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Complete begeleiding, recepten, boodschappenlijst en uitleg.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Investering € 85'
+          -
+            type: set
+            attrs:
+              id: mmoym6hc
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: h87bMdXB
+                    label: 'Bekijk het programma'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/vitale-voeding'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773409515
+updated_at: 1773410205
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
