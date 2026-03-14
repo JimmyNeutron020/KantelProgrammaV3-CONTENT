@@ -137,7 +137,7 @@ data:
               text: 'Van overleven naar leven'
             -
               type: text
-              text: ' | Een compact e-book waarin je de eerste sleutels krijgt om weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
+              text: ' | Een compact e-book met de 6 sleutels die je helpen weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
       label: 'Kantel Quickstart'
       link_type: link
       target_blank: false
@@ -177,7 +177,7 @@ data:
               text: 'De eerste kanteling'
             -
               type: text
-              text: ' | Een praktisch mini-boek waarmee je meteen aan de slag kunt'
+              text: ' | Een praktisch mini-boek met korte uitleg en bruikbare tips waarmee je meteen in je dagelijkse leven aan de slag kunt.'
       label: 'Kantel Kompas'
       link_type: link
       target_blank: false
@@ -215,7 +215,7 @@ data:
               text: 'Pak je energie terug '
             -
               type: text
-              text: '| Paul & Chantal nemen je mee in de lessen uit Blue Zone Sardinië, waar gezondheid geen trucje is maar een levenswijze. Ontdek hoe je uit de overleefstand stapt en een levensritme creëert dat je energie, rust en veerkracht terugbrengt.'
+              text: '| Paul & Chantal nemen je mee in de lessen uit Blue Zone Sardinië, waar gezondheid geen trucje is maar een levenswijze. Ontdek hoe jij ook uit de overleefstand kunt stappen en je energie terugpakt.'
       label: 'Ratrace Reset'
       link_type: link
       target_blank: false
