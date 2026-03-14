@@ -602,7 +602,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Ik start mijn kanteling'
+        label: 'Ik verzeker me van een plek'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -653,6 +653,8 @@ page_builder:
                 attrs:
                   class: text-white
             text: '-'
+    pricing_tab_single_label: Eenmalig
+    pricing_tab_installments_label: '3 Termijnen'
   -
     id: mll4udm9
     content:
@@ -1171,7 +1173,7 @@ page_builder:
               -
                 type: bold
             text: 'Je hebt niet te weinig geprobeerd. Je systeem staat nog op overleven.'
-    color: '#ffffff'
+    color: '#f7e7de'
     package_content:
       -
         type: set
@@ -1301,7 +1303,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: je leven terug. '
+            text: 'Je investeert hier niet in losse behandelingen, oefeningen of modules. Je investeert in iets groters: je leven terug. '
     pricing_tab_single_label: Eenmalig
     pricing_tab_installments_label: '3 Termijnen'
     price_single: 'Volledige kanteling eenmalig € 1447'
@@ -1447,7 +1449,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Ik zet deze stap'
+        label: 'Ik start in de groep van 12 april (vol=vol)'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -2160,7 +2162,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773426187
+updated_at: 1773516170
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
