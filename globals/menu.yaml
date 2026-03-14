@@ -199,7 +199,7 @@ data:
           content:
             -
               type: text
-              text: '🧡 Ratrace Reset'
+              text: '🧡 Reset Mini Programma'
       show_tag: false
       content:
         -
@@ -212,7 +212,7 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Doorbreek de Ratrace '
+              text: 'Pak je energie terug '
             -
               type: text
               text: '| Paul & Chantal nemen je mee in de lessen uit Blue Zone Sardinië, waar gezondheid geen trucje is maar een levenswijze. Ontdek hoe je uit de overleefstand stapt en een levensritme creëert dat je energie, rust en veerkracht terugbrengt.'
