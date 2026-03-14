@@ -96,7 +96,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Vanuit heel ons hart willen we je bedanken voor je vertrouwen in jezelf en in ons.'
+            text: 'Vanuit heel ons hart willen we je bedanken voor je vertrouwen in jezelf en in ons. '
       -
         type: paragraph
         attrs:
@@ -104,7 +104,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Met jouw aankoop investeer je niet alleen in een mooi programma, maar vooral in jouw gezondheid, jouw kracht en jouw toekomst.'
+            text: 'Met jouw aankoop investeer je niet alleen in een mooi programma, maar vooral in jouw gezondheid, jouw kracht en jouw toekomst. Je laat zien dat je gelooft in herstel, in groei en in de mogelijkheid om je weer vrij, fit en energiek te voelen.'
       -
         type: paragraph
         attrs:
@@ -112,23 +112,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je laat zien dat je gelooft in herstel, in groei en in de mogelijkheid om je weer vrij, fit en energiek te voelen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We staan klaar om je te begeleiden op deze reis.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Weet dat je er niet alleen voor staat: wij zijn er om je via de wekelijkse Kantel Kroniek te ondersteunen, te inspireren en te herinneren aan de enorme veerkracht die al in jou aanwezig is.'
+            text: 'We staan klaar om je te begeleiden op deze reis. Weet dat je er niet alleen voor staat: wij zijn er om je via de wekelijkse Kantel Kroniek te ondersteunen, te inspireren en te herinneren aan de enorme veerkracht die al in jou aanwezig is.'
       -
         type: paragraph
         attrs:
@@ -168,7 +152,7 @@ page_builder:
             marks:
               -
                 type: italic
-            text: 'Ps. Wij verwerken je aanmelding. Binnen 24 uur heb je toegang!'
+            text: 'Ps. Wij verwerken je aanmelding. En per mail ontvang je de bevestiging en alle benodigde praktische informatie.'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -184,8 +168,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769360395
+    color: '#ffffff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773515757
 duplicated_from: f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
 use_white_header: false
 ---
