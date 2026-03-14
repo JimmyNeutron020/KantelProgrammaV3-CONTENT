@@ -314,7 +314,7 @@ page_builder:
         label: 'PLAN EEN ZOOMSESSIE'
         link_type: link
         target_blank: false
-        link: '#aanmeldformulier'
+        link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
         button_layout: solid
         button_colour: orange
         type: package
@@ -441,7 +441,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Deze sessie staat los van het Kantel Programma en is een zelfstandige keuze'
+                text: 'Deze sessie staat los van het Kantel Programma en is een extra optie.'
         highlight: false
         price: '€ 225'
         show_discount: true
@@ -1265,7 +1265,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772366247
+updated_at: 1773517513
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
