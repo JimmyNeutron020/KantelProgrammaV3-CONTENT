@@ -28,8 +28,10 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van leven rondom je klachten naar een lichaam dat je weer vertrouwt.'
-            show_tag: false
+                    text: 'Van leven rondom je klachten naar een lichaam dat je weer kunt vertrouwen.'
+            show_tag: true
+            tag_text: WELKOM
+            tag_alignment: center
       -
         type: set
         attrs:
@@ -41,7 +43,7 @@ page_builder:
               -
                 type: heading
                 attrs:
-                  level: 5
+                  level: 6
                 content:
                   -
                     type: text
@@ -50,6 +52,14 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange-light
                     text: 'Voor vrouwen die al veel geprobeerd hebben'
                   -
                     type: hardBreak
@@ -58,6 +68,14 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange-light
                   -
                     type: text
                     marks:
@@ -65,8 +83,18 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'en nu willen begrijpen hoe hun lichaam écht werkt zodat herstel wel mogelijk wordt.'
-            show_tag: false
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange-light
+                    text: 'en nu willen begrijpen hoe hun lichaam echt werkt zodat herstel wél mogelijk wordt.'
+            show_tag: true
+            tag_text: welkom
+            tag_alignment: right
       -
         type: set
         attrs:
@@ -1973,7 +2001,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773516772
+updated_at: 1773517922
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
