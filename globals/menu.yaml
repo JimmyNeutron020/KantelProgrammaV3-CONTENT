@@ -237,7 +237,7 @@ data:
           content:
             -
               type: text
-              text: '🗓️ Kantel Scan '
+              text: '🗓️ Kantel Scan Kennismaking'
       show_tag: false
       content:
         -
