@@ -14,7 +14,6 @@ page_builder:
       preview_image: brand/screenshot-2025-12-01-at-08.34.48.png
       images:
         - brand/fotofolies-x-kantelprogramma_live-77.jpg
-      show_swiper_controls: null
       autoplay: true
       swiper_bullets: true
       play_pause_control: false
@@ -106,7 +105,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Daar gaan Paul & Chantal het over hebben tijdens 'Kantel Inzicht'."
+            text: "Daar praten Paul & Chantal samen over tijdens de 7 gratis voice-notes van  'Kantel Inzicht'."
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -122,7 +121,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1764575228
+    color: '#ffffff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773667353
 duplicated_from: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
+use_white_header: false
 ---
