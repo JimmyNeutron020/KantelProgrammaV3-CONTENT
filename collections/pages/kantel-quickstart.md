@@ -66,7 +66,7 @@ page_builder:
                 label: Download
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/6-sleutels-naar-fit-energiek-en-pijnvrij'
+                link: '#kp-popup-kantel-quickstart-download'
                 button_layout: solid
                 button_colour: white
                 umami_event_name: kantel-quickstart-download-hero
@@ -153,6 +153,7 @@ page_builder:
     type: IntoSection
     enabled: true
     anchor_id: intro
+    color: '#ffffff'
   -
     id: millgpeh
     items:
@@ -517,7 +518,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770551022
+updated_at: 1773745255
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
