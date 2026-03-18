@@ -14,7 +14,7 @@ page_builder:
           id: mmfa4s89
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: paragraph
@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van leven rondom je klachten naar een lichaam dat je weer kunt vertrouwen.'
+                    text: 'Van aanhoudende klachten naar een lichaam dat je weer kunt vertrouwen.'
             show_tag: true
             tag_text: WELKOM
             tag_alignment: center
@@ -55,43 +55,8 @@ page_builder:
                       -
                         type: btsSpan
                         attrs:
-                          class: text-grey
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange-light
-                    text: 'Voor vrouwen die al veel geprobeerd hebben'
-                  -
-                    type: hardBreak
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-grey
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange-light
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-grey
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange-light
-                    text: 'en nu willen begrijpen hoe hun lichaam echt werkt zodat herstel wél mogelijk wordt.'
+                          class: text-orange
+                    text: 'Je hebt al veel geprobeerd. Nu wil je begrijpen hoe je lichaam echt werkt en hoe je wél kunt herstellen.'
             show_tag: true
             tag_text: welkom
             tag_alignment: right
@@ -104,7 +69,7 @@ page_builder:
             buttons:
               -
                 id: P8p6HQwK
-                label: 'Hoe wij werken'
+                label: 'GRATIS WEBINAR'
                 link_type: link
                 target_blank: false
                 link: '#ontdek-meer'
@@ -117,7 +82,7 @@ page_builder:
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
                 button_layout: standard
-                button_colour: orange
+                button_colour: white
     type: HeroSection
     enabled: true
     media:
@@ -2116,7 +2081,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773843977
+updated_at: 1773873413
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
