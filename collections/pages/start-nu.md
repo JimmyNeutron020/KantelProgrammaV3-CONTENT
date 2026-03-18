@@ -2069,7 +2069,16 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat is oké. Een grote stap zet je niet gedachteloos. '
+            text: 'Dat is oké. Een grote stap zet je niet gedachteloos. Misschien heb je nog vragen. Misschien wil je even voelen of dit klopt voor jou. Ja mag ons alles vragen. Wil je ons eerst persoonlijk spreken over jouw specifieke situatie. Dat kan in een '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kantel Scan Kennismaking'
+          -
+            type: text
+            text: '; live of via zoom.'
       -
         type: paragraph
         attrs:
@@ -2077,23 +2086,16 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien heb je nog vragen. Misschien wil je even voelen of dit klopt voor jou. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            text: 'En als je vooral wilt weten hoe andere vrouwen hun keuze maakten, kijk dan bij de '
           -
             type: text
-            text: 'Ja mag ons alles vragen. Rechtstreeks. Persoonlijk. Zonder oordeel. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            marks:
+              -
+                type: bold
+            text: 'veelgestelde vragen'
           -
             type: text
-            text: 'En als je vooral wilt weten hoe andere vrouwen hun keuze maakten, kijk dan bij de veelgestelde vragen.'
+            text: .
       -
         type: set
         attrs:
@@ -2102,19 +2104,20 @@ page_builder:
             type: buttons
             buttons:
               -
+                id: mlqz3dp3
+                label: 'KANTEL SCAN KENNISMAKING'
+                link_type: link
+                target_blank: false
+                email: support@kantelprogramma.nl
+                button_layout: solid
+                button_colour: orange
+                link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
+              -
                 id: 56A4O8VU
                 label: 'Veelgestelde vragen'
                 link_type: link
                 target_blank: false
                 link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: solid
-                button_colour: orange
-              -
-                id: mlqz3dp3
-                label: 'Stel je vraag'
-                link_type: email
-                target_blank: false
-                email: support@kantelprogramma.nl
                 button_layout: solid
                 button_colour: white
               -
@@ -2162,7 +2165,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773519141
+updated_at: 1773841063
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
