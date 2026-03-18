@@ -120,7 +120,34 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien heb je al een tijd pijn. Misschien voel je je vaak moe. Misschien merk je dat je lichaam steeds sneller overbelast raakt. '
+            text: 'Misschien heb je al een tijd'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' pijn'
+          -
+            type: text
+            text: '. Misschien voel je je vaak'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' moe'
+          -
+            type: text
+            text: '. Misschien merk je dat je lichaam steeds sneller '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: overbelast
+          -
+            type: text
+            text: ' raakt. En misschien heb je al van alles geprobeerd. Artsen. Fysiotherapie. Rust nemen. Oefeningen. Maar toch lijkt het alsof je lichaam niet wil herstellen.'
       -
         type: paragraph
         attrs:
@@ -128,23 +155,34 @@ page_builder:
         content:
           -
             type: text
-            text: 'En misschien heb je al van alles geprobeerd. Artsen. Fysiotherapie. Rust nemen. Oefeningen. Maar toch lijkt het alsof je lichaam niet wil herstellen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            text: 'Veel vrouwen met '
           -
             type: text
-            text: 'Veel vrouwen met aanhoudende lichamelijk klachten lopen op een bepaald moment vast. Van het kastje naar de muur. Niets helpt echt. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            marks:
+              -
+                type: bold
+            text: 'aanhoudende lichamelijk klachten'
           -
             type: text
-            text: 'Hun klachten zijn echt. Maar het lichaam wordt als losse puzzelstukjes bekeken. Terwijl herstel meestal ontstaat wanneer je het geheel ziet.'
+            text: ' lopen op een bepaald moment vast. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Van het kastje naar de muur'
+          -
+            type: text
+            text: '. Niets helpt duurzaam. De pijn en  klachten zijn echt. Maar het lichaam wordt als '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'losse puzzelstukjes'
+          -
+            type: text
+            text: ' bekeken. Terwijl herstel meestal ontstaat wanneer je het geheel ziet.'
       -
         type: set
         attrs:
@@ -177,7 +215,7 @@ page_builder:
     type: IntoSection
     enabled: true
     anchor_id: intro
-    color: '#ffffff'
+    color: '#f7e7de'
   -
     id: millgpeh
     items:
@@ -207,11 +245,16 @@ page_builder:
                   -
                     type: heading
                     attrs:
-                      level: 2
+                      level: 1
                     content:
                       -
                         type: text
-                        text: 'Herstel begint bij inzicht. In de Kantel Quickstart ontdek je:'
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Kantel Check'
                 show_tag: false
           -
             type: paragraph
@@ -220,57 +263,35 @@ page_builder:
             content:
               -
                 type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Voor je gezin én voor jezelf'
+                text: 'In het Kantel Programma kijken we naar het lichaam als één geheel. '
           -
-            type: bulletList
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: "Waarom pijn soms blijft, ook als er 'niets mis' lijkt."
+                type: text
+                text: 'Niet alleen naar pijn. Niet alleen naar beweging. Maar naar de factoren die bepalen of jouw lichaam kan herstellen. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Hoe je weer leert vertrouwen op je lichaam.'
+                type: text
+                text: 'De Kantel Check helpt je om daar inzicht in te krijgen. In deze korte check kijken we naar zeven belangrijke pijlers die samen jouw energie en herstelvermogen bepalen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
               -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Welke simpele keuzes jouw pijn dagelijks kunnen verminderen.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Waarom een topsportbenadering onmisbaar is voor herstel.'
+                type: text
+                text: 'Wanneer één of meerdere van deze pijlers uit balans raken, kan het lichaam in een overlevingsstand blijven hangen. En dan kan pijn blijven bestaan.'
+          -
+            type: paragraph
+            attrs:
+              class: null
           -
             type: set
             attrs:
@@ -542,7 +563,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773859895
+updated_at: 1773860662
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
