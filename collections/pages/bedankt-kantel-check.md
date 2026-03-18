@@ -1,7 +1,7 @@
 ---
 id: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 blueprint: page
-title: 'Bedankt Kantel Quickstart'
+title: 'Bedankt Kantel Check'
 page_builder:
   -
     id: mjspfhci
@@ -158,8 +158,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769360652
+    color: '#ffffff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773859944
 duplicated_from: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 use_white_header: false
 ---
