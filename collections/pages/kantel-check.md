@@ -1,7 +1,7 @@
 ---
 id: ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 blueprint: page
-title: 'Kantel Quickstart'
+title: 'Kantel Check'
 page_builder:
   -
     id: miiyjz79
@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Kantel Quickstart'
+                    text: 'Kantel Check'
             show_tag: false
       -
         type: paragraph
@@ -53,7 +53,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een nuchtere quickstart voor vrouwen die te vaak geen duidelijk pad kregen.'
+            text: 'Ontdek waar jouw lichaam energie verliest en waar herstel kan beginnen.'
       -
         type: set
         attrs:
@@ -109,7 +109,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'De 6 sleutels. Van overleven naar stralend leven. '
+                    text: 'Je voelt dat er iets niet klopt. '
             show_tag: true
             tag_text: Gratis!
             tag_alignment: right
@@ -120,7 +120,31 @@ page_builder:
         content:
           -
             type: text
-            text: 'Chronische pijn is niet “normaal”. Jouw pijn is echt. Wat vaak ontbreekt: erkenning, één taal en een concreet stappenplan. Deze quickstart geeft je taal, richting en 6 sleutels om vandaag nog aan de juiste knoppen te draaien. Geen loze beloftes. Wel overzicht en houvast.'
+            text: 'Misschien heb je al een tijd pijn. Misschien voel je je vaak moe. Misschien merk je dat je lichaam steeds sneller overbelast raakt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En misschien heb je al van alles geprobeerd. Artsen. Fysiotherapie. Rust nemen. Oefeningen. Maar toch lijkt het alsof je lichaam niet wil herstellen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vrouwen met aanhoudende lichamelijk klachten lopen op een bepaald moment vast. Van het kastje naar de muur. Niets helpt echt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Hun klachten zijn echt. Maar het lichaam wordt als losse puzzelstukjes bekeken. Terwijl herstel meestal ontstaat wanneer je het geheel ziet.'
       -
         type: set
         attrs:
@@ -517,8 +541,8 @@ page_builder:
       spacing_mobile: standard
     type: PackageCards
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1773745827
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773859895
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
