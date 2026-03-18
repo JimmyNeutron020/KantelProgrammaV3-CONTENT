@@ -72,7 +72,7 @@ page_builder:
                 label: 'GRATIS WEBINAR'
                 link_type: link
                 target_blank: false
-                link: '#ontdek-meer'
+                link: 'https://kantelprogramma.webinargeek.com/de-5-strategieen-die-jonge-moeders-met-chronische-bekkenpijn-echt-helpen-herstellen-zonder-nog-harder-te-moeten-vechten'
                 button_layout: solid
                 button_colour: orange
               -
@@ -2081,7 +2081,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773873413
+updated_at: 1773873558
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
