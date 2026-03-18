@@ -67,7 +67,8 @@ data:
         -
           type: text
           text: 'Eerst voelen of dit bij jou past?'
-  show_tag: false
+  show_tag: true
+  tag_alignment: right
   package_cards:
     -
       id: mhhv3spg
@@ -137,7 +138,7 @@ data:
               text: 'Van overleven naar leven'
             -
               type: text
-              text: ' | Een compact e-book met de 6 sleutels die je helpen weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
+              text: ' | Een mini-boek met de 6 sleutels die je helpen weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
       label: 'Kantel Quickstart'
       link_type: link
       target_blank: false
@@ -302,7 +303,7 @@ data:
               text: 'Vertrouwen in je lichaam'
             -
               type: text
-              text: ' | Luister naar de podcast op spotify met inspirerende verhalen die je uitnodigen om stap voor stap terug te keren naar leven in plaats van overleven.'
+              text: " | Luister naar de podcast Kantel Kracht. Inspirerende verhalen op spotify die je uitnodigen om ook te kantelen 'van overleven naar leven'."
       label: 'Kantel Kracht'
       link_type: link
       target_blank: false
