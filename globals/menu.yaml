@@ -122,7 +122,7 @@ data:
           content:
             -
               type: text
-              text: '📩 Kantel Quickstart '
+              text: '📩 Kantel Check'
       show_tag: false
       content:
         -
@@ -139,7 +139,7 @@ data:
             -
               type: text
               text: ' | Een mini-boek met de 6 sleutels die je helpen weer ruimte, energie en vertrouwen te gaan voelen in je lichaam.'
-      label: 'Kantel Quickstart'
+      label: 'Kantel Check'
       link_type: link
       target_blank: false
       link: 'entry::ab60f2c9-652b-4e74-9c6f-e6b8805f0723'
