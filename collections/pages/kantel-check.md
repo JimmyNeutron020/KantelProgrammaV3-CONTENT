@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Kantel Check'
+                    text: 'Ontdek waar jouw lichaam energie verliest'
             show_tag: false
       -
         type: paragraph
@@ -50,10 +50,12 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Ontdek waar jouw lichaam energie verliest en waar herstel kan beginnen.'
+            text: 'De Kantel Check is voor vrouwen die al langer pijn of aanhoudende klachten hebben die maar niet verdwijnen.'
       -
         type: set
         attrs:
@@ -184,6 +186,23 @@ page_builder:
             type: text
             text: ' bekeken. Terwijl herstel meestal ontstaat wanneer je het geheel ziet.'
       -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daarom hebben wij de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kantel Check'
+          -
+            type: text
+            text: ' ontwikkeld. Een korte check waarmee je ontdekt waar jouw lichaam mogelijk energie verliest en waar herstel kan beginnen.'
+      -
         type: set
         attrs:
           id: millxqj4
@@ -192,7 +211,7 @@ page_builder:
             buttons:
               -
                 id: hQQwxb5Q
-                label: Download
+                label: 'Download gratis'
                 link_type: link
                 target_blank: false
                 link: '#kp-popup-kantel-quickstart-download'
@@ -563,7 +582,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773860662
+updated_at: 1773861158
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
