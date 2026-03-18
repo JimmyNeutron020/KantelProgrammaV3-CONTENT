@@ -95,7 +95,7 @@ page_builder:
               -
                 id: millwlsi
                 fa_icon: 'fa-regular fa-glasses-round'
-                text: '15 minuten leestijd'
+                text: 'Misschien herken je dit'
       -
         type: set
         attrs:
@@ -111,45 +111,92 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je voelt dat er iets niet klopt. '
+                    text: 'Je voelt dat er iets niet klopt'
             show_tag: true
             tag_text: Gratis!
             tag_alignment: right
       -
-        type: paragraph
-        attrs:
-          class: null
+        type: bulletList
         content:
           -
-            type: text
-            text: 'Misschien heb je al een tijd'
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: ' pijn'
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Misschien heb je al een tijd'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: ' pijn'
+                  -
+                    type: text
+                    text: .
           -
-            type: text
-            text: '. Misschien voel je je vaak'
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: ' moe'
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Misschien voel je je vaak'
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: ' moe'
           -
-            type: text
-            text: '. Misschien merk je dat je lichaam steeds sneller '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: overbelast
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Misschien merk je dat je lichaam steeds sneller '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: overbelast
+                  -
+                    type: text
+                    text: ' raakt'
           -
-            type: text
-            text: ' raakt. En misschien heb je al van alles geprobeerd. Artsen. Fysiotherapie. Rust nemen. Oefeningen. Maar toch lijkt het alsof je lichaam niet wil herstellen.'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'En misschien heb je al van alles geprobeerd. Artsen. Fysiotherapie. Rust. Oefeningen. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Maar toch lijkt het alsof je lichaam niet wil herstellen'
       -
         type: paragraph
         attrs:
@@ -245,7 +292,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - 'brand/foto-18-01-2026,-11-40-15.jpg'
+            - kantel-check-mock-up.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -273,7 +320,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Kantel Check'
+                        text: 'Wat is de Kantel Check'
                 show_tag: false
           -
             type: paragraph
@@ -282,7 +329,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In het Kantel Programma kijken we naar het lichaam als één geheel. '
+                text: 'De Kantel Check is een mini boek met een korte zelfcheck die kijkt naar zeven belangrijke pijlers van herstel. Slaap. Stress. Ademhaling. Immuunsysteem. Voeding. Vochthuishouding. Beweging.'
           -
             type: paragraph
             attrs:
@@ -290,7 +337,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet alleen naar pijn. Niet alleen naar beweging. Maar naar de factoren die bepalen of jouw lichaam kan herstellen. '
+                text: 'Deze pijlers bepalen samen hoe jouw lichaam energie opbouwt, spanning verwerkt en kan herstellen. '
           -
             type: paragraph
             attrs:
@@ -298,15 +345,11 @@ page_builder:
             content:
               -
                 type: text
-                text: 'De Kantel Check helpt je om daar inzicht in te krijgen. In deze korte check kijken we naar zeven belangrijke pijlers die samen jouw energie en herstelvermogen bepalen.'
+                text: 'Wanneer meerdere pijlers uit balans zijn, kan pijn blijven bestaan. Met deze check ontdek je waar jouw lichaam mogelijk om aandacht vraagt. '
           -
             type: paragraph
             attrs:
               class: null
-            content:
-              -
-                type: text
-                text: 'Wanneer één of meerdere van deze pijlers uit balans raken, kan het lichaam in een overlevingsstand blijven hangen. En dan kan pijn blijven bestaan.'
           -
             type: paragraph
             attrs:
@@ -320,7 +363,7 @@ page_builder:
                 buttons:
                   -
                     id: Z7xQDSjt
-                    label: Download
+                    label: 'download | Kantel Check mini-boek'
                     link_type: link
                     target_blank: false
                     link: '#kp-popup-kantel-quickstart-download'
@@ -343,6 +386,223 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: milmdwvu
+    color: '#f7e7de'
+    swap_layout: true
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-143.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: milmfzi9
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Voor wie is deze check'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De Kantel Check is gemaakt voor vrouwen die'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'al langer rondlopen met pijnklachten'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'het gevoel hebben dat hun lichaam niet meer meewerkt'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'veel geprobeerd hebben maar nog geen blijvende oplossing vonden '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'weer vertrouwen willen krijgen in hun lichaam'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vrouwen die wij spreken hebben bijvoorbeeld klachten als; bekkenpijn, rugpijn, chronische vermoeidheid, spanning in het lichaam, buikpijn, fibromyalgie, endometriose, en en ....'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mmwgdw3i
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    text: 'Wat je ontdekt met de Kantel Check'
+            show_tag: false
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Waar jouw lichaam energie verliest.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Welke factoren herstel blokkeren'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Waarom klachten kunnen blijven terugkomen'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Waar jouw lichaam juist ruimte heeft om herstel in te zetten'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je kunt na het lezen kun je ook nog een korte vragenlijst invullen. Wij sturen je daarna een persoonlijk bericht met onze eerste inzichten en advies. '
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Wil je ontdekken waar jouw lichaam signalen geeft en waar herstel mogelijk kan beginnen?'
+      -
+        type: set
+        attrs:
+          id: mmwgjohh
+          values:
+            type: buttons
+            buttons:
+              -
+                id: tnmAm7ZX
+                label: 'Download de Kantel Check'
+                link_type: link
+                target_blank: false
+                link: '#kp-popup-kantel-quickstart-download'
+                button_layout: solid
+                button_colour: orange
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
     enabled: true
   -
     id: milm7cb1
@@ -448,7 +708,7 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
-    id: milmdwvu
+    id: mmwg0avl
     color: '#f7e7de'
     swap_layout: false
     media:
@@ -582,7 +842,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773861158
+updated_at: 1773864177
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
