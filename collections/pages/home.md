@@ -86,7 +86,7 @@ page_builder:
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
                 button_layout: standard
-                button_colour: white
+                button_colour: orange
     type: HeroSection
     enabled: true
     media:
@@ -2085,7 +2085,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773924613
+updated_at: 1773924764
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
