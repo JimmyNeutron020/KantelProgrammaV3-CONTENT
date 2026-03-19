@@ -746,7 +746,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Heb je een vraag over de Kantel Quickstart, twijfel je of het bij jouw situatie past of wil je gewoon iets met ons delen? '
+            text: 'Heb je een vraag over de Kantel Check, twijfel je of het bij jouw situatie past of wil je gewoon iets met ons delen? '
       -
         type: paragraph
         attrs:
@@ -841,7 +841,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773864547
+updated_at: 1773911280
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
