@@ -14,7 +14,7 @@ page_builder:
           id: mmfa4s89
           values:
             type: heading
-            heading_size: L
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -56,6 +56,10 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange-light
                     text: 'Je hebt al veel geprobeerd. Nu wil je begrijpen hoe je lichaam echt werkt en hoe je wél kunt herstellen.'
             show_tag: true
             tag_text: welkom
@@ -2080,8 +2084,8 @@ page_builder:
             type: text
             text: 'Kennis & nieuws'
     show_tag: false
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1773922082
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1773924613
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
