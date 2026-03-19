@@ -840,8 +840,8 @@ page_builder:
       spacing_mobile: standard
     type: PackageCards
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773911280
+updated_by: df706966-2cce-4398-8c60-055fb6df4804
+updated_at: 1773921146
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
