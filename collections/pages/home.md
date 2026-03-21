@@ -291,133 +291,11 @@ page_builder:
     enabled: true
     anchor_id: ontdek-meer
   -
-    id: m7ylis1b
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/996074037'
-      preview_image: screenshot-2025-11-24-at-08.51.40.png
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: false
-      sound_control: false
-      fullscreen_control: false
-    content:
-      -
-        type: set
-        attrs:
-          id: m7ylj64g
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je hebt twee keuzes'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je kunt blijven aanpassen. Je dagen plannen rondom je pijn . Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert.'
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Of je kiest voor een andere aanpak. Niet harder werken. Niet nóg een behandeling. Maar fundamenteel anders kijken naar herstel.'
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Deze vrouwen hadden ook al zóveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
-      -
-        type: set
-        attrs:
-          id: m7yljr8q
-          values:
-            type: buttons
-            buttons:
-              -
-                id: ckyWOwGl
-                label: 'Echte verhalen. Echte vrouwen.'
-                link_type: link
-                target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: solid
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsCtaSection
-    enabled: true
-  -
     id: mmfb5v3r
     items:
       -
         id: mmfb6kjz
-        swap: true
+        swap: false
         media:
           video: false
           autoplay_video: false
@@ -676,7 +554,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: QuestionsCtaSection
     enabled: true
-    swap_layout: false
+    swap_layout: true
     anchor_id: topsport-benadering
   -
     id: mlckz6f1
@@ -1670,6 +1548,223 @@ page_builder:
     enabled: true
     swap_layout: false
   -
+    id: mmaownhy
+    items:
+      -
+        id: mmaowpf2
+        swap: false
+        media:
+          video: true
+          autoplay_video: true
+          video_link: 'https://vimeo.com/1167813041'
+          preview_image: lottelaan.jpg
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mmapb91t
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Chronische bekkenpijn zie je niet.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Totdat iemand durft te spreken.'
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Achter haar online zichtbaarheid ging jarenlange onzichtbare pijn schuil. '
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Lotte (@lotteballijns op Instagram) volgde het Kantel Programma niet als influencer maar, op eigen kosten, als jonge moeder die vastliep in haar herstel. Ze stond op hetzelfde punt als jij.'
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Met deze boodschap wil ze je laten zien: je bent niet gek, je bent niet zwak en je hoeft hier niet alleen doorheen.'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: m7ylis1b
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: m7ylj64g
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Je hebt twee keuzes'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Je kunt blijven aanpassen. Je dagen plannen rondom je pijn . Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Of je kiest voor een andere aanpak. Niet harder werken. Niet nóg een behandeling. Maar fundamenteel anders kijken naar herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-grey
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Deze vrouwen hadden ook al zóveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
+      -
+        type: set
+        attrs:
+          id: m7yljr8q
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ckyWOwGl
+                label: 'Echte verhalen. Echte vrouwen.'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: solid
+                button_colour: orange
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsCtaSection
+    enabled: true
+  -
     id: mhgdhs2p
     heading_size: M
     content:
@@ -1962,101 +2057,6 @@ page_builder:
     enabled: true
     show_tag: true
   -
-    id: mmaownhy
-    items:
-      -
-        id: mmaowpf2
-        swap: false
-        media:
-          video: true
-          autoplay_video: true
-          video_link: 'https://vimeo.com/1167813041'
-          preview_image: lottelaan.jpg
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        type: new_set
-        enabled: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mmapb91t
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Chronische bekkenpijn zie je niet.'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'Totdat iemand durft te spreken.'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                text: 'Achter haar online zichtbaarheid ging jarenlange onzichtbare pijn schuil. '
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                text: 'Lotte (@lotteballijns op Instagram) volgde het Kantel Programma niet als influencer maar, op eigen kosten, als jonge moeder die vastliep in haar herstel. Ze stond op hetzelfde punt als jij.'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                text: 'Met deze boodschap wil ze je laten zien: je bent niet gek, je bent niet zwak en je hoeft hier niet alleen doorheen.'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: true
-  -
     id: m7yosbje
     show_settings: false
     inner_spacing_top:
@@ -2085,7 +2085,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773924764
+updated_at: 1774093093
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
