@@ -40,10 +40,11 @@ target_pages:
   - 37fe9b56-749b-4049-9173-064c8aa11ba3
   - 798268e6-e179-42ee-9dc8-35a62106109e
   - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
+  - e5b50ba8-0197-4833-9acf-504ef247e1db
 trigger_type: time_delay
 trigger_delay_seconds: 45
 frequency: once_per_session
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772815017
+updated_at: 1774173929
 ---
