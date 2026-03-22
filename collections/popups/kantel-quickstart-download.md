@@ -1,7 +1,7 @@
 ---
 id: 403cfc4c-dfbd-4aae-b6e5-d6e0b61795c0
 blueprint: popup
-title: 'Kantel Quickstart Download'
+title: 'Kantel Check'
 popup_layout: centered
 popup_builder:
   -
@@ -29,7 +29,7 @@ trigger_type: scroll_depth
 frequency: once_per_x_days
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774174254
+updated_at: 1774175164
 target_pages:
   - 78ef22f5-be55-47cf-9d14-17a61cd06e01
   - 33e3e8b7-4bf3-4228-a8ab-9394f21aa08c
