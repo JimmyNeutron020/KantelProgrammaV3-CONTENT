@@ -147,47 +147,9 @@ data:
       button_colour: orange
       type: card_item
       enabled: true
-      featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+      featured_image: kantel-check-mock-up.png
       exclude_from_pages:
         - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
-    -
-      id: mlqf45vo
-      icon: 'fa-sharp fa-solid fa-at'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: '📚 Kantel Kompas'
-      show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: 'De eerste kanteling'
-            -
-              type: text
-              text: ' | Een praktisch mini-boek met korte uitleg en bruikbare tips waarmee je meteen in je dagelijkse leven aan de slag kunt.'
-      label: 'Kantel Kompas'
-      link_type: link
-      target_blank: false
-      link: 'https://kantelprogramma.membirds.com/checkout/kantel-kompas'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-      featured_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-100.jpg
     -
       id: mm0tufaj
       icon: 'fa-sharp fa-solid fa-at'
