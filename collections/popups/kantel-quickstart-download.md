@@ -23,12 +23,23 @@ popup_builder:
     type: TallyForms
     enabled: true
 anchor_link_info: '#kp-popup-'
-auto_trigger: false
-target_mode: all
-trigger_type: time_delay
-trigger_delay_seconds: 3
-frequency: once_per_session
+auto_trigger: true
+target_mode: exclude
+trigger_type: exit_intent
+frequency: every_visit
 min_page_views: 0
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1773745186
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1774174128
+target_pages:
+  - 78ef22f5-be55-47cf-9d14-17a61cd06e01
+  - 33e3e8b7-4bf3-4228-a8ab-9394f21aa08c
+  - 84e93a62-c1cd-4ec3-9bd2-06e30909f119
+  - e5b50ba8-0197-4833-9acf-504ef247e1db
+  - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
+  - d0a15dd0-6027-47e2-b2da-619fd7b251cc
+  - d234ac9f-17f1-4ade-a133-11e3ea87c414
+  - 1e9453f0-adfd-4963-9c06-c795fb4ee323
+  - 798268e6-e179-42ee-9dc8-35a62106109e
+  - d8d1ecce-9d67-435c-8451-ca7c4ee86dda
+  - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 ---
