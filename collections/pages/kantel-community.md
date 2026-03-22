@@ -744,7 +744,7 @@ page_builder:
           id: mll9imwo
           values:
             type: heading
-            heading_size: S
+            heading_size: L
             heading:
               -
                 type: heading
@@ -753,9 +753,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Hoe meld je je aan?'
+                    text: 'Maak kennis met een aantal Kantel Members'
             show_tag: false
-    color: '#f7e7de'
+    color: '#fff'
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -771,7 +771,27 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
+  -
+    id: mn1l8ul4
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
+    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774173712
+updated_at: 1774173857
 use_white_header: true
 ---
