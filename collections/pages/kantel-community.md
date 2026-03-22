@@ -50,17 +50,7 @@ page_builder:
             text: 'de regie terug'
           -
             type: text
-            text: ' te nemen over je lichaam, je energie en je leven.'
-          -
-            type: hardBreak
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'En misschien voel je het ook: '
+            text: ' te nemen over je lichaam, je energie en je leven. En misschien voel je het ook: '
           -
             type: text
             marks:
@@ -83,15 +73,7 @@ page_builder:
             text: 'Kantel Community'
           -
             type: text
-            text: ' is ontstaan voor vrouwen die verder willen bouwen op hun kanteling.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Voor wie '
+            text: ' is ontstaan voor vrouwen die verder willen bouwen op hun kanteling. Voor wie '
           -
             type: text
             marks:
@@ -128,15 +110,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dit is geen standaard vrouwennetwerk of businessclub.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'De Kantel Community is een levendige, warme omgeving vol herkenning, verdieping en groei voor vrouwen die niet langer willen overleven, maar voluit willen leven.'
+            text: 'Dit is geen standaard vrouwennetwerk of businessclub. De Kantel Community is een levendige, warme omgeving vol herkenning, verdieping en groei voor vrouwen die niet langer willen overleven, maar voluit willen leven.'
       -
         type: paragraph
         attrs:
@@ -797,174 +771,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: IntoSection
     enabled: true
-  -
-    id: mll9hxrn
-    color: '#f7e7de'
-    phases:
-      -
-        id: mll9i0sh
-        icon: 'fa-regular fa-1'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Klik op de button hieronder en schaf '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'KANTEL MEMBER EXCLUSIVE'
-              -
-                type: text
-                text: ' aan.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Voor vrouwen die niet alleen verbonden willen blijven, maar ook verdieping zoeken.'
-        type: phase
-        enabled: true
-      -
-        id: mll9k1b6
-        icon: 'fa-regular fa-2'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Vul het korte '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: aanvraagformulier
-              -
-                type: text
-                text: ' in.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'We kijken niet alleen naar waar je nu staat, maar vooral naar je motivatie en hoe jij jouw plek in de community ziet.'
-        type: phase
-        enabled: true
-      -
-        id: mll9kzza
-        icon: 'fa-regular fa-3'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je ontvangt binnen '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: '14 dagen persoonlijk bericht'
-              -
-                type: text
-                text: ' van Paul & Chantal.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'We nemen elke aanvraag zorgvuldig door, zodat de Kantel Community een plek blijft waar iedereen zich veilig, gezien en gedragen voelt.'
-        type: phase
-        enabled: true
-      -
-        id: mll9lkwi
-        icon: 'fa-regular fa-4'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Mocht blijken dat het op dit moment geen match is, dan ontvang je uiteraard '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'het volledige bedrag direct terug.'
-        type: phase
-        enabled: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ProgressSection
-    enabled: true
-  -
-    id: mll9merg
-    content:
-      -
-        type: set
-        attrs:
-          id: mll9mr3f
-          values:
-            type: buttons
-            buttons:
-              -
-                id: Jra7mFkj
-                label: Aanmelden
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/kantel-member-exclusive'
-                button_layout: solid
-                button_colour: orange
-                umami_event_name: kantel-community-aanmelding
-    color: '#f7e7de'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: big
-      spacing_mobile: big
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1771010157
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1774173712
 use_white_header: true
 ---
