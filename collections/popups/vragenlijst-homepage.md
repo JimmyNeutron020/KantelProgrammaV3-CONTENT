@@ -42,9 +42,10 @@ target_pages:
   - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
   - e5b50ba8-0197-4833-9acf-504ef247e1db
 trigger_type: time_delay
-trigger_delay_seconds: 45
-frequency: once_per_session
+trigger_delay_seconds: 60
+frequency: once_per_x_days
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774173929
+updated_at: 1774174325
+frequency_days: 3
 ---
