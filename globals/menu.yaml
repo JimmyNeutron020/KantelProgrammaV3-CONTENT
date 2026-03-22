@@ -66,7 +66,7 @@ data:
       content:
         -
           type: text
-          text: 'Eerst voelen of dit bij jou past?'
+          text: 'Onze meest gebruikte eerste stappen'
   show_tag: true
   tag_alignment: right
   package_cards:
