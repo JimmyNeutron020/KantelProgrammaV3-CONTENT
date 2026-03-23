@@ -5,8 +5,17 @@ title: 'Waarom jouw lichaam niet zwakker wordt van stress... maar van wantrouwen
 template: blog
 author: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
 preview_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-111.jpg
+excerpt:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je doet alles goed… en toch blijven pijn en vermoeidheid. Wat als je lichaam niet kapot is, maar je systeem continu “aan” staat? Ontdek waarom herstel niet draait om harder werken, maar om veiligheid, vertrouwen en je zenuwstelsel.'
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774021804
+updated_at: 1774259929
 content:
   -
     type: paragraph
