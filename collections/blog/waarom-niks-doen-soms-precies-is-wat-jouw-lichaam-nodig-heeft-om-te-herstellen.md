@@ -5,8 +5,17 @@ title: 'Waarom “niks doen” soms precies is wat jouw lichaam nodig heeft om t
 template: blog
 author: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
 preview_image: photo-2026-03-22-13-43-07.jpg
+excerpt:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Je hebt eindelijk rust… en toch voelt stilzitten onrustig. Wat als juist dát de reden is dat je niet herstelt? Ontdek waarom niets doen zo moeilijk is en waarom het precies daar begint als je van pijn en spanning af wilt.'
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774258299
+updated_at: 1774259972
 content:
   -
     type: paragraph
