@@ -17,7 +17,7 @@ excerpt:
 category_group:
   - kennis
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774259012
+updated_at: 1774339207
 content:
   -
     type: paragraph
@@ -26,6 +26,9 @@ content:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Je eet gezond. Je probeert te bewegen. Je hebt al van alles geprobeerd.'
   -
     type: paragraph
@@ -62,6 +65,9 @@ content:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Je lichaam is geen los systeem'
   -
     type: paragraph
@@ -78,37 +84,7 @@ content:
     content:
       -
         type: text
-        text: 'Het reageert continu op signalen:'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Licht
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Geluid
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Prikkels
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Stress
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Relaties
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Ritme
+        text: 'Het reageert continu op signalen: licht. Geluid. Prikkels. Stress. Relaties . Ritme'
   -
     type: paragraph
     attrs:
@@ -147,6 +123,9 @@ content:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Dan denkt jouw lichaam: “We moeten alert blijven.” En een alert lichaam… herstelt niet.'
   -
     type: paragraph
@@ -157,17 +136,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Dit is waarom jij blijft hangen. Dit is het pijnlijke stuk. Want jij doet waarschijnlijk al veel goed.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: Alleen…
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je omgeving werkt tegen je. En dat zie je niet. Dat voel je alleen als: moe wakker worden. Sneller overprikkeld zijn. Meer pijn ervaren. Minder herstel voelen'
+        text: 'Dit is waarom jij blijft hangen. Dit is het pijnlijke stuk. Want jij doet waarschijnlijk al veel goed. Alleen… Je omgeving werkt tegen je. En dat zie je niet. Dat voel je alleen als: moe wakker worden. Sneller overprikkeld zijn. Meer pijn ervaren. Minder herstel voelen'
   -
     type: paragraph
     attrs:
@@ -175,7 +144,11 @@ content:
     content:
       -
         type: text
-        text: 'Dus je gaat nóg harder je best doen. Maar dat is precies wat het probleem versterkt. Herstel begint niet met meer doen'
+        text: 'Dus je gaat nóg harder je best doen. Maar dat is precies wat het probleem versterkt. Herstel begint niet met meer doen.'
+  -
+    type: paragraph
+    attrs:
+      class: null
   -
     type: paragraph
     attrs:
@@ -198,7 +171,21 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Kleine shifts, grote impact. Denk niet dat je alles moet omgooien. Maar besef wel: elke dag dat jouw omgeving jouw systeem “aan” houdt… blijft jouw herstel uit. En elke kleine aanpassing richting rust en veiligheid… is een signaal naar je lichaam dat het mag loslaten.'
+        marks:
+          -
+            type: bold
+        text: 'Kleine shifts, grote impact.'
+      -
+        type: text
+        text: ' '
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Denk niet dat je alles moet omgooien. Maar besef wel: elke dag dat jouw omgeving jouw systeem “aan” houdt… blijft jouw herstel uit. En elke kleine aanpassing richting rust en veiligheid… is een signaal naar je lichaam dat het mag loslaten.'
   -
     type: paragraph
     attrs:
@@ -247,7 +234,18 @@ content:
     content:
       -
         type: text
-        text: '👉 kantelprogramma.nl/kantel-check'
+        text: '👉 '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: kantelprogramma.nl/kantel-check
+              rel: null
+              target: null
+              title: null
+        text: kantelprogramma.nl/kantel-check
   -
     type: paragraph
     attrs:
