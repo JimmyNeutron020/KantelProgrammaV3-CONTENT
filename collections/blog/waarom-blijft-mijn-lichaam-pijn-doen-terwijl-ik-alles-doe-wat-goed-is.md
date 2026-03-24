@@ -4,6 +4,7 @@ blueprint: blog
 title: 'Waarom blijft mijn lichaam pijn doen terwijl ik alles doe wat “goed” is?'
 template: blog
 author: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+preview_image: live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-143.jpg
 excerpt:
   -
     type: paragraph
@@ -14,7 +15,7 @@ excerpt:
         type: text
         text: 'Je doet alles goed… en toch blijf je vastlopen. Wat als niet je inzet het probleem is, maar de druk eronder? Ontdek waarom “nodig hebben dat het beter gaat” je herstel blokkeert en wat er verandert als die spanning wegvalt.'
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774338839
+updated_at: 1774339026
 content:
   -
     type: paragraph
