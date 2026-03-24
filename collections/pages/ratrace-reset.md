@@ -1,7 +1,7 @@
 ---
 id: babc9d5b-c875-4aaf-a85a-5dec77141630
 blueprint: page
-title: 'Ratrace Reset'
+title: 'Kantel Reset | Stop met uitgeput wakker worden en voel weer energie in je lichaam'
 page_builder:
   -
     id: miiyjz79
@@ -1111,8 +1111,8 @@ page_builder:
       spacing_mobile: standard
     type: ResultatenOverview
     enabled: true
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1773390706
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1774346947
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
