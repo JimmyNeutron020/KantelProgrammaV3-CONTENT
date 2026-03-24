@@ -84,7 +84,7 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: 'RESET Mini-Programma'
+                text: 'MINI RESET voor je lichaam zodat herstel weer mogelijk wordt'
       -
         type: set
         attrs:
@@ -102,7 +102,7 @@ page_builder:
                     type: text
                     text: 'Stel je eens voor ...'
             show_tag: true
-            tag_text: 'Je energie terug!'
+            tag_text: 'Je energie terug'
             tag_alignment: right
       -
         type: paragraph
@@ -111,7 +111,39 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je wordt wakker zonder dat je lichaam al gespannen aanvoelt. Je hebt energie die niet na een paar uur al op is. Je hoofd voelt rustiger en je lijf werkt weer mee. Je hoeft niet meer constant te plannen, te doseren of te vechten tegen je eigen lichaam. Je hebt weer ruimte om te leven.'
+            text: 'Je wordt wakker zónder dat je lichaam al gespannen aanvoelt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hebt energie die niet na een paar uur al op is. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoofd voelt rustiger en je lijf werkt weer mee. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft niet meer constant te plannen, te doseren of te vechten tegen je eigen lichaam. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hebt weer ruimte om voluit te genieten van je kinderen.'
       -
         type: paragraph
         attrs:
@@ -125,7 +157,7 @@ page_builder:
             buttons:
               -
                 id: 0DHExgmb
-                label: 'Ik ga resetten!'
+                label: 'Ik wil een MINI-reset'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
@@ -245,7 +277,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel vrouwen denken dat ze gewoon sterker moeten zijn of dat ze nog beter hun best moeten doen. Maar vaak ligt het probleem ergens anders.'
+                text: "Veel vrouwen denken dat ze gewoon 'even' moeten doorzetten of dat ze nog beter hun best moeten doen. Maar vaak ligt het probleem ergens anders."
           -
             type: set
             attrs:
@@ -317,7 +349,22 @@ page_builder:
           -
             type: text
             text: 'Herstel krijgt dan minder ruimte. Spanning bouwt zich sneller op. Pijnsignalen blijven langer aanwezig. Veel vrouwen merken dat hun lichaam pas echt kan gaan herstellen wanneer hun zenuwstelsel weer meer rust ervaart.'
-    show_settings: false
+      -
+        type: set
+        attrs:
+          id: mn4jfita
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ZgxkJWOj
+                label: 'ik wil een mini-reset'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                button_layout: standard
+                button_colour: orange
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -379,7 +426,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In dit RESET mini-programma leer je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
+                text: 'In deze mini RESET ervaar je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
           -
             type: paragraph
             attrs:
@@ -462,7 +509,7 @@ page_builder:
             buttons:
               -
                 id: kFQjZo0F
-                label: 'IK WIL OOK DIE RESET'
+                label: 'IK WIL OOK een mini-RESET'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
@@ -594,7 +641,7 @@ page_builder:
                 buttons:
                   -
                     id: LSYshyxw
-                    label: 'RESET MINI-PROGRAMMA'
+                    label: 'MINI RESET'
                     link_type: link
                     target_blank: false
                     link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
@@ -815,7 +862,22 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je kunt het programma op je eigen moment en op je eigen tempo volgen.'
+                text: 'Je kunt het mini programma op je eigen moment en op je eigen tempo volgen.'
+          -
+            type: set
+            attrs:
+              id: mn4jnnzi
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: n9UDVk3m
+                    label: 'mini reset'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    button_layout: standard
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -1012,7 +1074,7 @@ page_builder:
             text: ' geen intensief traject'
           -
             type: text
-            text: '. Het is juist bedoeld als een '
+            text: '. Het is juist bedoeld als mini-reset, een '
           -
             type: text
             marks:
@@ -1112,7 +1174,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774347579
+updated_at: 1774352560
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
