@@ -238,6 +238,46 @@ data:
       exclude_from_pages:
         - 37fe9b56-749b-4049-9173-064c8aa11ba3
     -
+      id: mn4tyued
+      icon: 'fa-duotone fa-light fa-face-thinking'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: '💡 Kantel Inzicht '
+      show_tag: false
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: 'Kantel Inzicht '
+            -
+              type: text
+              text: '| Je bent moeder en zó moe. Ontdek de 6 sleutels waarom jouw klachten aanhouden en hoe je eindelijk weer energie opbouwt.'
+      label: 'Kantel Inzicht'
+      link_type: link
+      target_blank: false
+      link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-65.jpg
+      exclude_from_pages:
+        - 4dadc8b8-a53e-4bbf-8d95-74dba81adaf8
+    -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
       heading_size: XS
