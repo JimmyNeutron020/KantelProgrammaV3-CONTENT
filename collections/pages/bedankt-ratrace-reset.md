@@ -25,7 +25,7 @@ page_builder:
           id: mmp53706
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Gelukt! We hebben nog iets voor je ..'
+                    text: 'Gelukt! Je eerste stap naar herstel is gezet! Maar dit is pas het begin...'
             show_tag: false
     type: HeroSection
     enabled: true
@@ -63,7 +63,7 @@ page_builder:
           id: mjspjfkj
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -72,18 +72,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-grey
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: 'Je herstel een extra boost geven?'
+                    text: "We hebben nog iets extra's voor je dat helpt om jouw herstel écht te ondersteunen."
             show_tag: true
-            tag_text: '13 weken begeleiding, inspiratie & variatie'
+            tag_text: '13 weken begeleiding'
             tag_alignment: right
       -
         type: paragraph
@@ -268,7 +259,7 @@ page_builder:
         content:
           -
             type: text
-            text: '🧡 duidelijke video uitleg over hoe voeding het herstel van jouw aanhoudende lichamelijke klachten ondersteunt'
+            text: "🧡 heldere video's waarin je precies leert welke voeding jouw lichaam helpt herstellen bij aanhoudende lichamelijke klachten"
       -
         type: paragraph
         attrs:
@@ -276,7 +267,13 @@ page_builder:
         content:
           -
             type: text
-            text: '🧡 prkatische begeleiding zodat je niet meer na hoeft te denken wat je ult eten'
+            text: "🧡 dag tot dag begeleiding zodat je nooit meer hoeft te twijfelen; '"
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: "wat ik eet ik vandaag wel/niet'"
       -
         type: paragraph
         attrs:
@@ -284,7 +281,7 @@ page_builder:
         content:
           -
             type: text
-            text: '🧡 voedzame recepten die eenvoudig te maken zijn'
+            text: '🧡 snelle, voedzame recepten voor ontbijt, lunch en diner, geen ingewikkeld gedoe, wél resultaat'
       -
         type: paragraph
         attrs:
@@ -293,14 +290,6 @@ page_builder:
           -
             type: text
             text: '🧡 wekelijks een complete boodschappenlijst zodat je direct kunt starten'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '🧡 inzichten in ingrediënten die je lichaam helpen herstellen'
       -
         type: paragraph
         attrs:
@@ -319,7 +308,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Met dit programma krijg je alles wat je nodig hebt om voeding te gebruiken als brandstof voor herstel.'
+            text: "Met dit programma gebruik je voeding niet meer als 'iets wat moet, maar als een concreet hulpmiddel om je lichaam stap voor stap te laten herstellen. "
       -
         type: set
         attrs:
@@ -540,7 +529,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774353200
+updated_at: 1774358430
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
