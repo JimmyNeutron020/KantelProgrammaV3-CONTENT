@@ -29,7 +29,7 @@ trigger_type: scroll_depth
 frequency: once_per_x_days
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774175201
+updated_at: 1774352702
 target_pages:
   - 78ef22f5-be55-47cf-9d14-17a61cd06e01
   - 33e3e8b7-4bf3-4228-a8ab-9394f21aa08c
@@ -42,6 +42,10 @@ target_pages:
   - 798268e6-e179-42ee-9dc8-35a62106109e
   - d8d1ecce-9d67-435c-8451-ca7c4ee86dda
   - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
+  - babc9d5b-c875-4aaf-a85a-5dec77141630
+  - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
+  - 37fe9b56-749b-4049-9173-064c8aa11ba3
+  - 4dadc8b8-a53e-4bbf-8d95-74dba81adaf8
 trigger_scroll_percent: 50
 frequency_days: 3
 ---
