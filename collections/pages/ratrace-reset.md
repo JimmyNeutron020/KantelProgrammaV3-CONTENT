@@ -25,7 +25,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: heading
@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van overleven naar leven'
+                    text: 'Stop met uitgeput wakker worden en voel weer energie in je lichaam'
             show_tag: false
       -
         type: paragraph
@@ -53,7 +53,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Herstel je energie, kalmeer je zenuwstelsel en krijg je lichaam weer mee. Je lijf resetten en je leven terugpakken. Speciaal voor jonge moeders (25-45) met aanhoudende klachten.'
+            text: 'Je hebt al van alles geprobeerd, maar je lichaam blijft tegenwerken. Je bent moe, hebt pijn en bent stiekem bang dat het nooit meer overgaat. Speciaal voor jonge moeders (25-45) met aanhoudende lichamelijke klachten.'
       -
         type: set
         attrs:
@@ -63,7 +63,7 @@ page_builder:
             buttons:
               -
                 id: PhcXgfu5
-                label: 'Ik ga resetten'
+                label: 'Ja, ik wil energiek en pijnvrij leven'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
@@ -1112,7 +1112,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774346947
+updated_at: 1774347579
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
