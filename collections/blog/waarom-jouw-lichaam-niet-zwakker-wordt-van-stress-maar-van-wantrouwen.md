@@ -15,7 +15,7 @@ excerpt:
         type: text
         text: 'Je doet alles goed… en toch blijven pijn en vermoeidheid. Wat als je lichaam niet kapot is, maar je systeem continu “aan” staat? Ontdek waarom herstel niet draait om harder werken, maar om veiligheid, vertrouwen en je zenuwstelsel.'
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774259929
+updated_at: 1774338522
 content:
   -
     type: paragraph
@@ -24,57 +24,7 @@ content:
     content:
       -
         type: text
-        text: 'Je doet alles goed.'
-      -
-        type: hardBreak
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'Je blijft doorgaan.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je zorgt.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je probeert sterk te zijn.'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'En toch… voelt je lichaam alsof het je in de steek laat.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'De pijn blijft.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'De vermoeidheid blijft.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'De twijfel groeit.'
+        text: 'Je doet alles goed. Je blijft doorgaan. Je zorgt. Je probeert sterk te zijn. En toch… voelt je lichaam alsof het je in de steek laat. De pijn blijft. De vermoeidheid blijft. De twijfel groeit.'
   -
     type: paragraph
     attrs:
@@ -99,6 +49,9 @@ content:
         type: hardBreak
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Je lichaam is niet tegen je. Het beschermt je.'
       -
         type: hardBreak
@@ -126,7 +79,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Alleen…als die beschermstand te lang aan blijft staan, dan wordt dat jouw nieuwe normaal. En daar begint het probleem.'
+        text: 'Alleen… als die beschermstand te lang aan blijft staan, dan wordt dat jouw nieuwe normaal. En daar begint het probleem.'
   -
     type: paragraph
     attrs:
@@ -136,7 +89,13 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Chronische klachten zijn vaak geen schadeprobleem, maar een alarmsysteem. Veel vrouwen blijven zoeken naar de oorzaak: Een scan. Een diagnose. Een verklaring.'
+        marks:
+          -
+            type: bold
+        text: 'Chronische klachten zijn vaak geen schadeprobleem, maar een alarmsysteem.'
+      -
+        type: text
+        text: ' Veel vrouwen blijven zoeken naar de oorzaak: Een scan. Een diagnose. Een verklaring.'
   -
     type: paragraph
     attrs:
@@ -161,17 +120,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'En dat lijkt misschien functioneel… maar onder de oppervlakte gebeurt iets anders:'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je lichaam krijgt nooit het signaal dat het veilig is. En zonder veiligheid… geen herstel. Angst onderdrukt letterlijk je herstelvermogen. Kortdurende stress is niet het probleem. Sterker nog: dat maakt je juist sterker.'
+        text: 'En dat lijkt misschien functioneel… maar onder de oppervlakte gebeurt iets anders: je lichaam krijgt nooit het signaal dat het veilig is. En zonder veiligheid… geen herstel. Angst onderdrukt letterlijk je herstelvermogen. Kortdurende stress is niet het probleem. Sterker nog: dat maakt je juist sterker.'
   -
     type: paragraph
     attrs:
@@ -243,15 +192,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Want vertrouwen betekent: Niet direct oplossen. Niet direct controleren. Niet direct fixen'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'Maar leren voelen: wat heeft mijn lichaam nodig? '
+        text: 'Want vertrouwen betekent: Niet direct oplossen. Niet direct controleren. Niet direct fixen. Maar leren voelen: wat heeft mijn lichaam nodig? '
       -
         type: hardBreak
       -
@@ -281,6 +222,9 @@ content:
         type: hardBreak
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'Maar herstel werkt anders.'
       -
         type: hardBreak
@@ -305,10 +249,8 @@ content:
       -
         type: hardBreak
       -
-        type: hardBreak
-      -
         type: text
-        text: "\_Wat dit betekent voor jou"
+        text: 'Wat dit betekent voor jou'
       -
         type: hardBreak
       -
@@ -336,32 +278,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'En misschien voel je dit al… Dat je moe bent van het zoeken. Moe van het proberen. Moe van het “goed doen”'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'En diep vanbinnen weet: zo wil ik niet verder.'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Dat is geen zwakte.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Dat is het begin van verandering.'
+        text: 'En misschien voel je dit al… Dat je moe bent van het zoeken. Moe van het proberen. Moe van het “goed doen”. En diep vanbinnen weet: zo wil ik niet verder. Dat is geen zwakte. Dat is het begin van verandering.'
       -
         type: hardBreak
   -
@@ -396,11 +313,4 @@ content:
               target: null
               title: null
         text: 'https://kantelprogramma.nl/kantel-check'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
 ---
