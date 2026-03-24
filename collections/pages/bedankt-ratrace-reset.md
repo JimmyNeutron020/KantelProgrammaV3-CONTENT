@@ -1,7 +1,7 @@
 ---
 id: d234ac9f-17f1-4ade-a133-11e3ea87c414
 blueprint: page
-title: 'Kantel Reset'
+title: 'Bedankt | Kantel Reset'
 page_builder:
   -
     id: mmp52rhy
@@ -540,7 +540,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774353155
+updated_at: 1774353200
 duplicated_from: 1e9453f0-adfd-4963-9c06-c795fb4ee323
 use_white_header: false
 ---
