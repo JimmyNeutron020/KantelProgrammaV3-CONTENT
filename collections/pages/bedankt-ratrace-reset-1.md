@@ -2,7 +2,7 @@
 id: 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
 published: false
 blueprint: page
-title: 'Bedankt | Kantel Reset (Gekopieerd)'
+title: 'Bedankt | Kantel Inzicht'
 page_builder:
   -
     id: mmp52rhy
@@ -530,7 +530,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774369090
+updated_at: 1774369134
 duplicated_from: d234ac9f-17f1-4ade-a133-11e3ea87c414
 use_white_header: false
 ---
