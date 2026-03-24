@@ -15,7 +15,7 @@ excerpt:
         type: text
         text: 'Je doet alles goed… en toch blijven pijn en vermoeidheid. Wat als je lichaam niet kapot is, maar je systeem continu “aan” staat? Ontdek waarom herstel niet draait om harder werken, maar om veiligheid, vertrouwen en je zenuwstelsel.'
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774338522
+updated_at: 1774339057
 content:
   -
     type: paragraph
