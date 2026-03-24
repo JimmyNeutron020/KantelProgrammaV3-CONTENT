@@ -11,6 +11,7 @@ page_builder:
       video: true
       autoplay_video: false
       video_link: 'https://vimeo.com/1176648067/9d4c661cf8?share=copy&fl=sv&fe=ci'
+      preview_image: fotofolies-x-kantelprogramma-paul-en-chantal-134.jpg
       images:
         - live-dag-14-september-2025/ratrace-reset.jpg
       autoplay: true
@@ -39,7 +40,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Stop met uitgeput wakker worden en voel weer energie in je lichaam'
+                    text: 'Je bent moeder en zó moe!'
             show_tag: false
       -
         type: paragraph
@@ -53,7 +54,33 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je hebt al van alles geprobeerd, maar je lichaam blijft tegenwerken. Je bent moe, hebt pijn en bent stiekem bang dat het nooit meer overgaat. Speciaal voor jonge moeders (25-45) met aanhoudende lichamelijke klachten.'
+            text: 'Je wordt al moe wakker. Alsof je lichaam de nacht niet heeft gebruikt om op te laden, maar om nog verder leeg te raken. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Ontdek de 6 sleutels die bepalen waarom jouw lichaam blijft hangen in klachten, en hoe je eindelijk weer energie opbouwt. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Speciaal voor jonge moeders (25-45) met aanhoudende lichamelijke klachten.'
       -
         type: set
         attrs:
@@ -63,10 +90,10 @@ page_builder:
             buttons:
               -
                 id: PhcXgfu5
-                label: 'Ja, ik wil energiek en pijnvrij leven'
+                label: 'Ja, ik wil inzicht IN DE 6 SLEUTELS'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                 button_layout: solid
                 button_colour: orange
     type: HeroSection
@@ -84,7 +111,7 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-arrow-rotate-right'
-                text: 'MINI RESET voor je lichaam zodat herstel weer mogelijk wordt'
+                text: 'KANTEL INZICHT'
       -
         type: set
         attrs:
@@ -157,10 +184,10 @@ page_builder:
             buttons:
               -
                 id: 0DHExgmb
-                label: 'Ik wil een MINI-reset'
+                label: 'Ik wil INZICHT'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -292,7 +319,7 @@ page_builder:
                     target_blank: false
                     button_layout: standard
                     button_colour: orange
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
         type: new_set
         enabled: true
     show_settings: false
@@ -358,10 +385,10 @@ page_builder:
             buttons:
               -
                 id: ZgxkJWOj
-                label: 'ik wil een mini-reset'
+                label: 'ik wil INZICHT'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                 button_layout: standard
                 button_colour: orange
     show_settings: true
@@ -455,7 +482,7 @@ page_builder:
                     label: 'DIRECT TOEGANG'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                     button_layout: solid
                     button_colour: orange
                     umami_event_name: RATRACE
@@ -509,10 +536,9 @@ page_builder:
             buttons:
               -
                 id: kFQjZo0F
-                label: 'IK WIL OOK een mini-RESET'
+                label: 'IK WIL OOK INZICHT IN DE 6 SLEUTELS'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
                 button_layout: solid
                 button_colour: orange
     type: HeroSection
@@ -641,10 +667,10 @@ page_builder:
                 buttons:
                   -
                     id: LSYshyxw
-                    label: 'MINI RESET'
+                    label: 'DE 6 SLEUTELS'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -757,7 +783,7 @@ page_builder:
                 label: 'JA DAT BEN IK'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                 button_layout: solid
                 button_colour: orange
     show_settings: false
@@ -822,7 +848,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wanneer je start, krijg je direct toegang tot het volledige online RESET mini-programma.'
+                text: 'Wanneer je start, krijg je direct toegang tot het volledige online Kantel Inzicht Module.'
           -
             type: paragraph
             attrs:
@@ -830,7 +856,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '👉🏻Daarin vind je twee uitgebreide video lessen (34 + 10 minuten) waarin alles stap voor stap wordt uitgelegd.'
+                text: '👉🏻Daarin vind je een mini-boek met inzicht in de 6 sleutels die invloed hebben op aanhoudende lichamelijke klachten'
           -
             type: paragraph
             attrs:
@@ -838,7 +864,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '👉🏻Praktische oefeningen die je helpen je zenuwstelsel tot rust te brengen'
+                text: '👉🏻7 voice-notes (elk ongeveer 10 minuten) waarin Paul & Chantal je meenemen in hun inzichten over chronische klachten'
           -
             type: paragraph
             attrs:
@@ -846,7 +872,11 @@ page_builder:
             content:
               -
                 type: text
-                text: '👉🏻Kantel Kennis sheets met theorie inzichten die je direct kunt toepassen in je dagelijkse leven.'
+                text: "👉🏻Opnames van twee zeer interessante webinars over 'Neem afscheid van chronische klachten'"
+          -
+            type: paragraph
+            attrs:
+              class: null
           -
             type: paragraph
             attrs:
@@ -854,15 +884,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '👉🏻Een inspirerende vodcast (68 minuten) die normaal alleen in het volledige Kantel Programma te zien is. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je kunt het mini programma op je eigen moment en op je eigen tempo volgen.'
+                text: 'Je kunt de inzichten op je eigen moment en op je eigen tempo doornemen, beluisteren en bekijken.'
           -
             type: set
             attrs:
@@ -872,10 +894,10 @@ page_builder:
                 buttons:
                   -
                     id: n9UDVk3m
-                    label: 'mini reset'
+                    label: 'Ja, ik wil dat inzicht'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
                     button_layout: standard
                     button_colour: orange
         type: new_set
@@ -990,6 +1012,71 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mn4xgfnq
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - brand/fotofolies-x-kantelprogramma_sneak-preview-19.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mn4xirwc
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Wij zijn Chantal & Paul'
+            show_tag: true
+            tag_text: aangenaam
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit is ons verhaal in het kort. Chantal ervaringsdeskundige, leefstijl expert en oprichter. Paul gezondheidsexpert met een topsportblik. Samen bundelen we kennis, praktijk en menselijkheid. '
+      -
+        type: set
+        attrs:
+          id: mn4xmet3
+          values:
+            type: buttons
+            buttons:
+              -
+                id: lULh8HcD
+                label: 'KLIK VOOR ONZE WEG, ERVARING EN DE MIJLPALEN'
+                link_type: link
+                target_blank: false
+                link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
+                button_layout: standard
+                button_colour: orange
+    type: HeroSection
+    enabled: true
+  -
     id: mmnwz0vn
     content:
       -
@@ -1057,7 +1144,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Die twijfel is heel begrijpelijk. Veel vrouwen die beginnen met dit mini programma voelen zich juist moe, gespannen of uitgeput.'
+            text: 'Die twijfel is heel begrijpelijk. Veel vrouwen die beginnen met deze eerste stap voelen zich juíst moe, gespannen of uitgeput.'
       -
         type: paragraph
         attrs:
@@ -1074,7 +1161,7 @@ page_builder:
             text: ' geen intensief traject'
           -
             type: text
-            text: '. Het is juist bedoeld als mini-reset, een '
+            text: '. Het is juist bedoeld als inzicht, een '
           -
             type: text
             marks:
@@ -1113,9 +1200,9 @@ page_builder:
                 label: 'ik wil die eerste stap'
                 link_type: link
                 target_blank: false
-                button_layout: standard
+                button_layout: solid
                 button_colour: orange
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal'
     color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
@@ -1174,7 +1261,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774373555
+updated_at: 1774376070
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
