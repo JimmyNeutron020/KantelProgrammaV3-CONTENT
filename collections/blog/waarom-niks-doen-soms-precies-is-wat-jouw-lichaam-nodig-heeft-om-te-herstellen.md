@@ -15,7 +15,7 @@ excerpt:
         type: text
         text: 'Je hebt eindelijk rust… en toch voelt stilzitten onrustig. Wat als juist dát de reden is dat je niet herstelt? Ontdek waarom niets doen zo moeilijk is en waarom het precies daar begint als je van pijn en spanning af wilt.'
 updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774259972
+updated_at: 1774339530
 content:
   -
     type: paragraph
@@ -29,17 +29,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'De kinderen spelen. Je agenda is leeg. Je hebt… tijd.'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'En toch voelt het onrustig.'
+        text: 'De kinderen spelen. Je agenda is leeg. Je hebt… tijd. En toch voelt het onrustig.'
       -
         type: hardBreak
       -
@@ -54,12 +44,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Dus pak je je telefoon. Of je staat weer op. Of je bedenkt nog “even snel” iets nuttigs.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'En precies daar… gaat het mis.'
+        text: 'Dus pak je je telefoon. Of je staat weer op. Of je bedenkt nog “even snel” iets nuttigs. En precies daar… gaat het mis.'
   -
     type: paragraph
     attrs:
@@ -149,6 +134,15 @@ content:
     content:
       -
         type: hardBreak
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Rust is dus geen luxe.'
+      -
+        type: text
+        text: ' '
   -
     type: paragraph
     attrs:
@@ -156,7 +150,7 @@ content:
     content:
       -
         type: text
-        text: 'Rust is dus geen luxe. Rust is letterlijk een biologische voorwaarde voor herstel. “Durf rust te nemen” is geen zachte uitspraak. Het is topsport. Wat jij doet als je blijft doorgaan ondanks pijn, dat kennen we. Maar wat jij doet als je gaat liggen… als je niets doet… als je jezelf toestaat om te “lummelen”…'
+        text: 'Rust is letterlijk een biologische voorwaarde voor herstel. “Durf rust te nemen” is geen zachte uitspraak. Het is topsport. Wat jij doet als je blijft doorgaan ondanks pijn, dat kennen we. Maar wat jij doet als je gaat liggen… als je niets doet… als je jezelf toestaat om te “lummelen”…'
   -
     type: paragraph
     attrs:
@@ -201,47 +195,7 @@ content:
         type: hardBreak
       -
         type: text
-        text: 'Met een moment zoals dit:'
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: hardBreak
-  -
-    type: paragraph
-    attrs:
-      class: null
-    content:
-      -
-        type: text
-        text: 'Een stoel in de zon.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Je lichaam dat zakt.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Een kop dampende thee.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Geen doel.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Geen moeten.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Alleen zijn.'
+        text: 'Met een moment zoals dit: Een stoel in de zon. Je lichaam dat zakt. Een kop dampende thee. Geen doel. Geen moeten. Alleen zijn.'
   -
     type: paragraph
     attrs:
@@ -351,7 +305,18 @@ content:
     content:
       -
         type: text
-        text: 'Ga naar: kantelprogramma.nl/kantel-check'
+        text: 'Ga naar: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: kantelprogramma.nl/kantel-check
+              rel: null
+              target: null
+              title: null
+        text: kantelprogramma.nl/kantel-check
   -
     type: paragraph
     attrs:
