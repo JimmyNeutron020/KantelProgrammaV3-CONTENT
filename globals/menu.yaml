@@ -179,10 +179,10 @@ data:
             -
               type: text
               text: '| Paul & Chantal nemen je mee in de lessen uit Blue Zone Sardinië, waar gezondheid geen trucje is maar een levenswijze. Ontdek hoe jij ook uit de overleef stand kunt stappen en je energie terug pakt.'
-      label: 'Ratrace Reset'
+      label: 'Mini Reset'
       link_type: link
       target_blank: false
-      link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+      link: 'entry::babc9d5b-c875-4aaf-a85a-5dec77141630'
       button_layout: standard
       button_colour: orange
       type: card_item
