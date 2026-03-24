@@ -1,7 +1,7 @@
 ---
 id: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 blueprint: page
-title: 'Bedankt Kantel Check'
+title: 'Bedankt | Kantel Check'
 page_builder:
   -
     id: mjspfhci
@@ -324,7 +324,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774354455
+updated_at: 1774354489
 duplicated_from: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 use_white_header: false
 ---
