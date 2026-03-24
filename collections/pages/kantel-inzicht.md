@@ -926,7 +926,6 @@ page_builder:
         media:
           video: true
           autoplay_video: true
-          video_link: 'https://vimeo.com/974351568/993f686ff4'
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -962,7 +961,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In deze korte video krijg je een klein inkijkje in één van de inzichten uit het programma. Voor veel vrouwen is het RESET mini-programma het moment waarop er ineens iets op zijn plek valt en ze begrijpen waarom hun lichaam zo lang in de overlevingsstand blijft hangen. '
+                text: 'In deze korte video krijg je een klein inkijkje in één van de inzichten uit het programma. Voor veel vrouwen is het KANTEL INZICHT mini-programma het moment waarop er ineens iets op zijn plek valt en ze begrijpen waarom hun lichaam zo lang in de overlevingsstand blijft hangen. '
           -
             type: paragraph
             attrs:
@@ -1261,7 +1260,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774376070
+updated_at: 1774376643
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
