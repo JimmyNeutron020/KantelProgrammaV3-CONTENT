@@ -8,11 +8,11 @@ page_builder:
     full_height: false
     layout_setting: media
     media:
-      video: false
+      video: true
       autoplay_video: false
+      video_link: 'https://vimeo.com/1176648067/9d4c661cf8?share=copy&fl=sv&fe=ci'
       images:
         - live-dag-14-september-2025/ratrace-reset.jpg
-      show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -1174,7 +1174,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774373197
+updated_at: 1774373555
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
