@@ -26,7 +26,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -118,7 +118,7 @@ page_builder:
           id: miyyvcpn
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -230,7 +230,7 @@ page_builder:
               id: mmnsuz56
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -339,7 +339,7 @@ page_builder:
     enabled: true
   -
     id: mmntd69b
-    heading_size: M
+    heading_size: S
     heading:
       -
         type: heading
@@ -357,7 +357,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: 'Het zenuwstelsel speelt een grotere rol dan veel mensen denken.'
+            text: 'Het hoeft niet zo te zijn'
     show_tag: false
     content:
       -
@@ -365,6 +365,12 @@ page_builder:
         attrs:
           class: null
         content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'En dat is precies waarom we dit ontwikkeld hebben. '
           -
             type: text
             text: 'Wanneer je zenuwstelsel lange tijd onder druk staat, kan je lichaam blijven hangen in een staat van alertheid. Dat betekent dat het systeem dat bedoeld is om je te beschermen, continu aan blijft staan.'
@@ -430,7 +436,7 @@ page_builder:
               id: mmntnhka
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -525,7 +531,7 @@ page_builder:
           id: mmnu35iz
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             show_tag: false
       -
         type: set
@@ -567,7 +573,7 @@ page_builder:
               id: mmnuh4mx
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -712,7 +718,7 @@ page_builder:
           id: mmnutg54
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -825,7 +831,7 @@ page_builder:
               id: mmnv2zu7
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -939,7 +945,7 @@ page_builder:
               id: mmnwcgjv
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -1085,7 +1091,7 @@ page_builder:
           id: mmnwz5i2
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -1293,7 +1299,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774620899
+updated_at: 1774625050
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
