@@ -459,7 +459,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In deze mini RESET ervaar je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
+                text: 'In Kantel Inzicht ervaar je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
           -
             type: paragraph
             attrs:
@@ -1100,8 +1100,19 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Twijfel je nog'
+                    text: 'Ná Kantel Inzicht heb je ...'
             show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '... helder inzicht waarom jouw lichaam tot nu toe niet kon herstellen terwijl je wel je best daarvoor deed. En praktische tips waarmee je meteen in jouw dagelijks leven als moeder aan de slag kunt.'
       -
         type: paragraph
         attrs:
@@ -1299,7 +1310,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774625050
+updated_at: 1774625432
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
