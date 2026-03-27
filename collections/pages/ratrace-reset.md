@@ -25,7 +25,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -91,7 +91,7 @@ page_builder:
           id: miyyvcpn
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -203,7 +203,7 @@ page_builder:
               id: mmnsuz56
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -312,7 +312,7 @@ page_builder:
     enabled: true
   -
     id: mmntd69b
-    heading_size: M
+    heading_size: S
     heading:
       -
         type: heading
@@ -330,9 +330,20 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: 'Het zenuwstelsel speelt een grotere rol dan veel mensen denken.'
+            text: 'Het hoeft niet zo te zijn'
     show_tag: false
     content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'En dat is precies waarom we Mini Reset ontwikkeld hebben!'
       -
         type: paragraph
         attrs:
@@ -403,7 +414,7 @@ page_builder:
               id: mmntnhka
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -426,7 +437,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In deze mini RESET ervaar je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
+                text: 'In deze mini RESET voel je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
           -
             type: paragraph
             attrs:
@@ -434,7 +445,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet door nog meer discipline of door jezelf te forceren, maar door beter te begrijpen wat je lichaam nodig heeft.'
+                text: 'Niet door nog meer discipline of door jezelf te forceren, maar door beter te begrijpen wat je lichaam nodig heeft. En direct aan de slag te gaan met tips voor in je dagelijkse leven.'
           -
             type: paragraph
             attrs:
@@ -442,7 +453,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wanneer dat gebeurt, ontstaat er weer ruimte voor herstel. En met herstel komt energie.'
+                text: 'Wanneer je dat doet, ontstaat er weer ruimte voor herstel. En met herstel komt energie.'
           -
             type: set
             attrs:
@@ -498,7 +509,7 @@ page_builder:
           id: mmnu35iz
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             show_tag: false
       -
         type: set
@@ -541,7 +552,7 @@ page_builder:
               id: mmnuh4mx
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: heading
@@ -686,7 +697,7 @@ page_builder:
           id: mmnutg54
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -799,7 +810,7 @@ page_builder:
               id: mmnv2zu7
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -917,7 +928,7 @@ page_builder:
               id: mmnwcgjv
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -998,7 +1009,7 @@ page_builder:
           id: mmnwz5i2
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -1007,8 +1018,19 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Twijfel je nog'
+                    text: 'Ná het volgen van Mini Reset'
             show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '... weet je precies hoe je met kleine stappen, grote verschillen kunt maken en ervaar je direct een verschil in energie!'
       -
         type: paragraph
         attrs:
@@ -1206,7 +1228,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774621814
+updated_at: 1774627491
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
