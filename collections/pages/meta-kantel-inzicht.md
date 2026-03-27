@@ -541,6 +541,7 @@ page_builder:
                 target_blank: false
                 button_layout: solid
                 button_colour: orange
+                link: 'https://kantelprogramma.membirds.com/checkout/kantel-inzicht-7-voice-notes-van-paul-chantal/s/meta'
     type: HeroSection
     enabled: true
   -
@@ -1293,7 +1294,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: f2158f5a-8972-4b72-b7e7-d1a483979e9f
-updated_at: 1774624466
+updated_at: 1774624664
 duplicated_from: a3d8b21b-2251-41c7-95ea-f2089c4ff776
 use_white_header: false
 ---
