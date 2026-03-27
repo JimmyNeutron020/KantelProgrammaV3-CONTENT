@@ -459,7 +459,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'In Kantel Inzicht ervaar je hoe je lichaam weer meer veiligheid en rust kan ervaren.'
+                text: 'In Kantel Inzicht ervaar je meteen hoe je lichaam weer meer veiligheid en rust kan ervaren.'
           -
             type: paragraph
             attrs:
@@ -467,7 +467,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet door nog meer discipline of door jezelf te forceren, maar door beter te begrijpen wat je lichaam nodig heeft.'
+                text: 'Niet door nog meer discipline of door jezelf te forceren, maar door beter te begrijpen wat je lichaam nodig heeft. Je gaat aan de slag met eenvoudige tips. '
           -
             type: paragraph
             attrs:
@@ -475,7 +475,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wanneer dat gebeurt, ontstaat er weer ruimte voor herstel. En met herstel komt energie.'
+                text: 'Wanneer je dat doet, ontstaat er weer ruimte voor herstel. En met herstel komt energie.'
           -
             type: set
             attrs:
@@ -1310,7 +1310,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774625432
+updated_at: 1774625569
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
