@@ -26,10 +26,26 @@ klachten:
   - vermoeidheid
   - endometriose
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771860980
+updated_at: 1774621950
 social_links:
   -
     id: mjsgcvb2
     platform: instagram
     link: 'https://www.instagram.com/brendakoudijs/'
+content:
+  -
+    type: set
+    attrs:
+      id: mn902nr6
+      values:
+        type: buttons
+        buttons:
+          -
+            id: 4fDfeEav
+            label: 'volledige video'
+            link_type: link
+            target_blank: false
+            link: 'https://vimeo.com/1177704504?share=copy&fl=sv&fe=ci'
+            button_layout: solid
+            button_colour: orange
 ---
