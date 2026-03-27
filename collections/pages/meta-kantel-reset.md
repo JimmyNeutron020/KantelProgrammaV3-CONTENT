@@ -1,6 +1,5 @@
 ---
 id: 083cff0a-660c-4ddc-b23d-c9cb308da729
-published: false
 blueprint: page
 title: 'META METING Kantel Reset'
 page_builder:
