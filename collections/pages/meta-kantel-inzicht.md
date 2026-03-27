@@ -1,6 +1,5 @@
 ---
 id: ce720b86-3dee-4e7c-afb9-34e2dad33f33
-published: false
 blueprint: page
 title: 'META METING Kantel Inzicht'
 page_builder:
