@@ -736,7 +736,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dit RESET mini-programma is voor vrouwen die merken dat hun lichaam al langere tijd signalen geeft. Die verlangen naar:'
+            text: 'Kantel Inzicht is voor vrouwen die merken dat hun lichaam al langere tijd signalen geeft. Die verlangen naar:'
       -
         type: paragraph
         attrs:
@@ -1310,7 +1310,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774625569
+updated_at: 1774626475
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
