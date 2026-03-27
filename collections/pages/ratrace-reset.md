@@ -903,7 +903,7 @@ page_builder:
         swap: false
         media:
           video: true
-          autoplay_video: true
+          autoplay_video: false
           video_link: 'https://vimeo.com/974351568/993f686ff4'
           autoplay: true
           swiper_bullets: true
@@ -1133,6 +1133,38 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mn8zym3m
+    items:
+      -
+        id: mn8zyorx
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1177704504?share=copy&fl=sv&fe=ci'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mmnx7yxe
     color: '#eb8d7a'
     selected_entries:
@@ -1174,7 +1206,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774352560
+updated_at: 1774621814
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
