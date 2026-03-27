@@ -1261,7 +1261,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774620235
+updated_at: 1774620418
 duplicated_from: a3d8b21b-2251-41c7-95ea-f2089c4ff776
 use_white_header: false
 ---
