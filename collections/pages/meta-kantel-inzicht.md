@@ -1220,6 +1220,38 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mn8zbbss
+    items:
+      -
+        id: mn8zbkby
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1177704276?fl=ip&fe=ec'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mmnx7yxe
     color: '#eb8d7a'
     selected_entries:
@@ -1261,7 +1293,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774620418
+updated_at: 1774620759
 duplicated_from: a3d8b21b-2251-41c7-95ea-f2089c4ff776
 use_white_header: false
 ---
