@@ -26,7 +26,7 @@ klachten:
   - vermoeidheid
   - endometriose
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774621950
+updated_at: 1774622552
 social_links:
   -
     id: mjsgcvb2
@@ -45,7 +45,6 @@ content:
             label: 'volledige video'
             link_type: link
             target_blank: false
-            link: 'https://vimeo.com/1177704504?share=copy&fl=sv&fe=ci'
-            button_layout: solid
+            button_layout: standard
             button_colour: orange
 ---
