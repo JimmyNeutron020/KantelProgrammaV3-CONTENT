@@ -66,7 +66,7 @@ page_builder:
                 label: 'Ja, ik wil energiek en pijnvrij leven'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                 button_layout: solid
                 button_colour: orange
     type: HeroSection
@@ -160,7 +160,7 @@ page_builder:
                 label: 'Ik wil een MINI-reset'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -292,7 +292,7 @@ page_builder:
                     target_blank: false
                     button_layout: standard
                     button_colour: orange
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
         type: new_set
         enabled: true
     show_settings: false
@@ -361,7 +361,7 @@ page_builder:
                 label: 'ik wil een mini-reset'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                 button_layout: standard
                 button_colour: orange
     show_settings: true
@@ -455,7 +455,7 @@ page_builder:
                     label: 'DIRECT TOEGANG'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                     button_layout: solid
                     button_colour: orange
                     umami_event_name: RATRACE
@@ -512,7 +512,7 @@ page_builder:
                 label: 'IK WIL OOK een mini-RESET'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                 button_layout: solid
                 button_colour: orange
     type: HeroSection
@@ -644,7 +644,7 @@ page_builder:
                     label: 'MINI RESET'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -757,7 +757,7 @@ page_builder:
                 label: 'JA DAT BEN IK'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                 button_layout: solid
                 button_colour: orange
     show_settings: false
@@ -875,7 +875,7 @@ page_builder:
                     label: 'mini reset'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                     button_layout: standard
                     button_colour: orange
         type: new_set
@@ -969,7 +969,7 @@ page_builder:
                     label: 'JA, IK WIL MEER WETEN'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                    link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -1115,7 +1115,7 @@ page_builder:
                 target_blank: false
                 button_layout: standard
                 button_colour: orange
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset/s/meta'
     color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
@@ -1173,8 +1173,8 @@ page_builder:
       spacing_mobile: standard
     type: ResultatenOverview
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774618358
+updated_by: f2158f5a-8972-4b72-b7e7-d1a483979e9f
+updated_at: 1774624004
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
