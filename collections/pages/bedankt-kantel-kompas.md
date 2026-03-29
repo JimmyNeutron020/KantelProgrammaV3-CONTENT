@@ -1,7 +1,7 @@
 ---
 id: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 blueprint: page
-title: 'Bedankt Kantel Kompas'
+title: 'Kantel Kompas | Bedankt'
 page_builder:
   -
     id: mjspfhci
@@ -97,8 +97,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769354139
+    color: '#ffffff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1774794335
 duplicated_from: 78ef22f5-be55-47cf-9d14-17a61cd06e01
 use_white_header: false
 ---
