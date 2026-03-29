@@ -451,7 +451,7 @@ page_builder:
         label: 'PLAN EEN LIVE SESSIE'
         link_type: link
         target_blank: false
-        link: 'https://kantelprogramma.membirds.com/checkout/kantel-scan-live'
+        link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
         button_layout: solid
         button_colour: orange
         type: package
@@ -1268,7 +1268,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774795967
+updated_at: 1774796072
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
