@@ -457,6 +457,86 @@ page_builder:
         type: package
         enabled: true
         discount_price: '€ 175'
+      -
+        id: mnc13zm0
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 6
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'ROUTE 4'
+        show_tag: true
+        tag_text: gratis
+        tag_alignment: right
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'KANTEL DOORBRAAK SESSIE'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Elke week kiezen wij twee vrouwen uit voor een gratis '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'persoonlijke Kantel Doorbraak Sessie'
+              -
+                type: text
+                text: ' (60 minuten). Geen standaard intake. Geen oppervlakkige tips. Maar één doel: helder krijgen wat jouw herstel nog tegenhoudt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Voel jij dat je vastloopt, ondanks alles wat je al hebt geprobeerd?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vul dit korte formulier (5 vragen | 5 minuten) in. Misschien ben jij één van de vrouwen die wij begeleiden in haar doorbraak.'
+        highlight: false
+        price: '€ 99'
+        show_discount: true
+        label: 'MAAK KANS OP EEN GRATIS ONLINE SESSIE'
+        link_type: link
+        target_blank: false
+        link: 'https://tally.so/r/KY6Kz7'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+        discount_price: '€ 0'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1268,7 +1348,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774800698
+updated_at: 1774805306
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
