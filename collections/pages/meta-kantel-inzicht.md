@@ -1,7 +1,7 @@
 ---
 id: ce720b86-3dee-4e7c-afb9-34e2dad33f33
 blueprint: page
-title: 'META METING Kantel Inzicht'
+title: 'Kantel Inzicht | META METING'
 page_builder:
   -
     id: miiyjz79
@@ -1316,7 +1316,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774626237
+updated_at: 1774794082
 duplicated_from: a3d8b21b-2251-41c7-95ea-f2089c4ff776
 use_white_header: false
 ---
