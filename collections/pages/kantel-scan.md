@@ -759,7 +759,7 @@ page_builder:
                 label: 'PLAN AFSPRAAK ZOOMSESSIE'
                 link_type: link
                 target_blank: false
-                link: '#aanmeldformulier'
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
                 button_layout: solid
                 button_colour: orange
       -
@@ -774,7 +774,7 @@ page_builder:
                 label: 'PLAN AFSPRAAK LIVE SESSIE'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/kantel-scan-live'
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
                 button_layout: solid
                 button_colour: orange
     anchor_id: plan-afspraak
@@ -959,7 +959,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: TallyForms
-    enabled: true
+    enabled: false
   -
     id: miyzswpo
     media:
@@ -1268,7 +1268,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774796072
+updated_at: 1774800698
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
