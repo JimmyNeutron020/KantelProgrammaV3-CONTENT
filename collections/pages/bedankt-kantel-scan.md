@@ -1,7 +1,7 @@
 ---
 id: a203ba5f-4950-4053-be31-1224c1fe6f88
 blueprint: page
-title: 'Bedankt | Kantel Scan'
+title: 'Kantel Scan | Bedankt'
 page_builder:
   -
     id: mmp52rhy
@@ -529,7 +529,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774793029
+updated_at: 1774793903
 duplicated_from: 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
 use_white_header: false
 ---
