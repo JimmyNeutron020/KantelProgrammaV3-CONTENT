@@ -66,7 +66,7 @@ data:
       content:
         -
           type: text
-          text: 'Onze meest gebruikte eerste stappen'
+          text: 'De meest gekozen eerste stappen'
   show_tag: true
   tag_alignment: right
   package_cards:
