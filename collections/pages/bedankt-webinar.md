@@ -1,7 +1,7 @@
 ---
 id: f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
 blueprint: page
-title: 'Bedankt Webinar'
+title: 'Kantel Webinar | Bedankt'
 page_builder:
   -
     id: mljsx12z
@@ -288,6 +288,6 @@ page_builder:
     type: FaqList
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1771179924
+updated_at: 1774793667
 use_white_header: false
 ---
