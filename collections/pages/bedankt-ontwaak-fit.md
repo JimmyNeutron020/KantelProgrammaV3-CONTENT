@@ -1,7 +1,7 @@
 ---
 id: d8d1ecce-9d67-435c-8451-ca7c4ee86dda
 blueprint: page
-title: 'Bedankt Ontwaak fit'
+title: 'Ontwaak fit | Bedankt'
 page_builder:
   -
     id: mjspfhci
@@ -91,8 +91,9 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769361374
+    color: '#ffffff'
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1774794256
 duplicated_from: d234ac9f-17f1-4ade-a133-11e3ea87c414
 use_white_header: false
 ---
