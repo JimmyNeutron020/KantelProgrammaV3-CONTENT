@@ -312,7 +312,7 @@ page_builder:
                     type: bold
                 text: ' '
         highlight: false
-        price: '€ 99'
+        price: '€ 79'
         show_discount: true
         label: 'PLAN EEN ZOOMSESSIE'
         link_type: link
@@ -1268,7 +1268,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774791582
+updated_at: 1774791961
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
