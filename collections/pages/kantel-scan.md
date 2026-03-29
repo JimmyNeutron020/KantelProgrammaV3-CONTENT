@@ -104,7 +104,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Er zijn 3 manieren om helderheid te krijgen.'
+            text: 'Er zijn meerdere manieren om helderheid te krijgen.'
     packages:
       -
         id: mm6b88mk
@@ -122,7 +122,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'ROUTE 1'
+                text: 'SNELSTE ROUTE'
         show_tag: true
         tag_text: '24/7 begeleiding'
         tag_alignment: right
@@ -194,136 +194,6 @@ page_builder:
         enabled: true
         discount_price: '€ 1447'
       -
-        id: mm6bs9ot
-        heading_size: S
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 6
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'ROUTE 2 '
-        show_tag: true
-        tag_text: '30 minuten'
-        tag_alignment: right
-        description:
-          -
-            type: paragraph
-            attrs:
-              class: text-md
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'KANTEL SCAN | ONLINE SESSIE'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Een persoonlijk online gesprek waarin we samen kijken naar:'
-          -
-            type: bulletList
-            content:
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'waar je nu staat'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'wat jouw herstel mogelijk tegenhoudt'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'wat in jouw situatie realistisch is'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'of het Kantel Programma passend is'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Geen standaard intake. Geen snelle conclusie. Wel inzicht en richting. Een deskundige blik op het geheel. Voor de meeste vrouwen is dit helpend om een besluit te nemen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het zoomgesprek met Paul is zonder verdere verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'uitgebreid kantel scan formulier '
-              -
-                type: text
-                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' '
-        highlight: false
-        price: '€ 79'
-        show_discount: true
-        label: 'PLAN EEN ONLINE SESSIE'
-        link_type: link
-        target_blank: false
-        link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
-        button_layout: solid
-        button_colour: orange
-        type: package
-        enabled: true
-        discount_price: '€ 49'
-      -
         id: mm6e147n
         heading_size: S
         heading:
@@ -339,7 +209,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'ROUTE 3'
+                text: 'EERST LIVE KENNISMAKEN'
         show_tag: true
         tag_text: '60 minuten'
         tag_alignment: right
@@ -458,6 +328,136 @@ page_builder:
         enabled: true
         discount_price: '€ 175'
       -
+        id: mm6bs9ot
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 6
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'EERST ONLINE KENNISMAKEN'
+        show_tag: true
+        tag_text: '30 minuten'
+        tag_alignment: right
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'KANTEL SCAN | ONLINE SESSIE'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een persoonlijk online gesprek waarin we samen kijken naar:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'waar je nu staat'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'wat jouw herstel mogelijk tegenhoudt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'wat in jouw situatie realistisch is'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'of het Kantel Programma passend is'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Geen standaard intake. Geen snelle conclusie. Wel inzicht en richting. Een deskundige blik op het geheel. Voor de meeste vrouwen is dit helpend om een besluit te nemen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het zoomgesprek met Paul is zonder verdere verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'uitgebreid kantel scan formulier '
+              -
+                type: text
+                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' '
+        highlight: false
+        price: '€ 79'
+        show_discount: true
+        label: 'PLAN EEN ONLINE SESSIE'
+        link_type: link
+        target_blank: false
+        link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+        discount_price: '€ 49'
+      -
         id: mnc13zm0
         heading_size: S
         heading:
@@ -473,7 +473,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'ROUTE 4'
+                text: 'KANS OP GRATIS KENNISMAKING'
         show_tag: true
         tag_text: gratis
         tag_alignment: right
@@ -1348,7 +1348,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774806310
+updated_at: 1774806621
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
