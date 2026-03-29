@@ -33,8 +33,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'KANTEL QUICK START'
-            show_tag: false
+                    text: 'KANTEL CHECK'
+            show_tag: true
+            tag_alignment: right
       -
         type: set
         attrs:
@@ -76,7 +77,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien heb je al vaker zo’n e-book gedownload. Een lijstje met tips. Een paar oefeningen. Iets met rust nemen of beter naar je lichaam luisteren. En misschien dacht je ergens diep vanbinnen: ja, dat weet ik allemaal al. '
+            text: 'Misschien heb je al vaker iets gedownload. Een lijstje met tips. Een paar oefeningen. Iets met rust nemen of beter naar je lichaam luisteren. En misschien dacht je ergens diep vanbinnen: ja, dat weet ik allemaal al. '
           -
             type: text
             marks:
@@ -125,6 +126,21 @@ page_builder:
           -
             type: text
             text: .
+      -
+        type: set
+        attrs:
+          id: mnbycr6f
+          values:
+            type: buttons
+            buttons:
+              -
+                id: F5I5qM2g
+                label: 'DOWNLOAD GRATIS'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/6-sleutels-naar-fit-energiek-en-pijnvrij'
+                button_layout: solid
+                button_colour: orange
       -
         type: paragraph
         attrs:
@@ -269,5 +285,5 @@ page_builder:
     enabled: true
 use_white_header: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774793939
+updated_at: 1774800463
 ---
