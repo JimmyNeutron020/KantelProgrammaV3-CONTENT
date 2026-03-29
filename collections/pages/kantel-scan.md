@@ -124,8 +124,8 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 1'
         show_tag: true
-        tag_text: 'meteen 24/7 begeleiding'
-        tag_alignment: left
+        tag_text: '24/7 begeleiding'
+        tag_alignment: right
         description:
           -
             type: paragraph
@@ -137,7 +137,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'DIRECT AANMELDEN'
+                text: 'KANTEL PROGRAMMA | DIRECT AANMELDEN'
           -
             type: paragraph
             attrs:
@@ -184,7 +184,7 @@ page_builder:
         highlight: false
         price: '€ 1750'
         show_discount: true
-        label: 'geen twijfel'
+        label: 'geen twijfel, IK START'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -211,7 +211,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 2 '
         show_tag: true
-        tag_text: 'zoom | 30 minuten'
+        tag_text: '30 minuten'
         tag_alignment: right
         description:
           -
@@ -224,7 +224,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL SCAN | ZOOM SESSIE'
+                text: 'KANTEL SCAN | ONLINE SESSIE'
           -
             type: paragraph
             attrs:
@@ -314,7 +314,7 @@ page_builder:
         highlight: false
         price: '€ 79'
         show_discount: true
-        label: 'PLAN EEN ZOOMSESSIE'
+        label: 'PLAN EEN ONLINE SESSIE'
         link_type: link
         target_blank: false
         link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
@@ -341,7 +341,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 3'
         show_tag: true
-        tag_text: 'live | 60 minuten'
+        tag_text: '60 minuten'
         tag_alignment: right
         description:
           -
@@ -488,7 +488,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL DOORBRAAK SESSIE'
+                text: 'KANTEL DOORBRAAK | ONLINE SESSIE'
           -
             type: paragraph
             attrs:
@@ -1348,7 +1348,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774805306
+updated_at: 1774806310
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
