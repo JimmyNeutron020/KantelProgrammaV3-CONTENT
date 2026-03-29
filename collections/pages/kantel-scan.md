@@ -211,7 +211,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 2 '
         show_tag: true
-        tag_text: 'zoom | 20 minuten'
+        tag_text: 'zoom | 30 minuten'
         tag_alignment: right
         description:
           -
@@ -295,7 +295,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Het zoomgesprek met Paul is kosteloos en zonder verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou oprechtheid, intentie en een '
+                text: 'Het zoomgesprek met Paul is zonder verdere verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou '
               -
                 type: text
                 marks:
@@ -312,7 +312,7 @@ page_builder:
                     type: bold
                 text: ' '
         highlight: false
-        price: '€ 49'
+        price: '€ 99'
         show_discount: true
         label: 'PLAN EEN ZOOMSESSIE'
         link_type: link
@@ -322,7 +322,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        discount_price: '€ 0'
+        discount_price: '€ 49'
       -
         id: mm6e147n
         heading_size: S
@@ -446,7 +446,7 @@ page_builder:
                 type: text
                 text: 'Deze sessie staat los van het Kantel Programma en is een extra optie.'
         highlight: false
-        price: '€ 225'
+        price: '€ 199'
         show_discount: true
         label: 'PLAN EEN LIVE SESSIE'
         link_type: link
@@ -1268,7 +1268,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774790205
+updated_at: 1774791582
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
