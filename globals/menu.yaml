@@ -175,10 +175,10 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Pak je energie terug '
+              text: 'Niet langer om 19 uur uitgeput, tegelijk met de kinderen naar bed '
             -
               type: text
-              text: '| Paul & Chantal nemen je mee in de lessen uit Blue Zone Sardinië, waar gezondheid geen trucje is maar een levenswijze. Ontdek hoe jij ook uit de overleef stand kunt stappen en je energie terug pakt.'
+              text: '| De eerste stap naar een lichaam dat weer energie geeft in plaats van energie kost. Je wordt wakker en voelt het meteen. Die vermoeidheid die er al is voordat de dag überhaupt begonnen is. '
       label: 'Mini Reset'
       link_type: link
       target_blank: false
@@ -187,7 +187,7 @@ data:
       button_colour: orange
       type: card_item
       enabled: true
-      featured_image: photo-2022-07-12-12-53-19.jpg
+      featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-66.jpg
     -
       id: mhhv3oxo
       icon: 'fa-regular fa-person-arrow-up-from-line'
