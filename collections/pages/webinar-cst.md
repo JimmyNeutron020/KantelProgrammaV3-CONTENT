@@ -1,7 +1,7 @@
 ---
 id: 30c318bf-74b9-4f4c-ada6-ea070534f915
 blueprint: page
-title: 'METING Kantel Webinar'
+title: 'Kantel Webinar | METING'
 page_builder:
   -
     id: miizf11s
@@ -1022,7 +1022,7 @@ page_builder:
     enabled: true
     enable_cst: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774618420
+updated_at: 1774793856
 use_white_header: true
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 seo_noindex: true
