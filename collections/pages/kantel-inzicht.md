@@ -1,7 +1,7 @@
 ---
 id: a3d8b21b-2251-41c7-95ea-f2089c4ff776
 blueprint: page
-title: 'Kantel Inzicht | Je bent moeder en zó moe!'
+title: 'Kantel Inzicht'
 page_builder:
   -
     id: miiyjz79
@@ -1310,7 +1310,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774626475
+updated_at: 1774794032
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
