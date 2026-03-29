@@ -137,7 +137,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'DIRECT STARTEN'
+                text: 'DIRECT AANMELDEN'
           -
             type: paragraph
             attrs:
@@ -145,7 +145,18 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Sommige vrouwen weten het eigenlijk al. '
+                text: 'Sommige vrouwen weten het eigenlijk al. Van alles geprobeerd. Ze herkennen zich in de verhalen. En ze voelen: "'
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: 'Ik wil niet nóg langer twijfelen en wachten maar ik heb nú het lef om de stap te zetten'
+              -
+                type: text
+                text: '." '
           -
             type: paragraph
             attrs:
@@ -153,7 +164,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Ze hebben alles geprobeerd. Ze herkennen zich in ons verhaal. En ze voelen; ik wil niet nóg langer wachten en een stap ervoor zetten. '
+                text: 'Super knap, respect!  💪🏻'
           -
             type: paragraph
             attrs:
@@ -161,7 +172,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Voor hen is er de mogelijkheid om direct te starten. Zonder intake. Zonder voorafgaande scan.  Wel meteen toegang tot een fijne aftrap-sessie. Online, maar niet alleen. Met volledige begeleiding volgens onze topsportmethode. '
+                text: "Ben jij zo'n vrouw?  Dan is er de mogelijkheid om je te verzekeren van een plek in de eerstvolgende groep starters. Zónder intake. Zónder voorafgaande scan.  Wel verzekerd van een plek en toegang tot een fijne aftrap-sessie in het programma. Online, maar niet alleen. "
           -
             type: paragraph
             attrs:
@@ -169,19 +180,11 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We begeleiden vrouwen zoals we een topsporter zouden begeleiden. Met maatwerk in beweging, voeding, slaap, ontspanning, mindset en zenuwstelselregulatie. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Niet als losse oefeningen, maar als een levenswijze die herstel 24 uur per dag ondersteunt. '
+                text: 'Uiteraard met volledige begeleiding volgens onze topsportbenadering. Precies zoals we een topsporter zouden begeleiden. Met maatwerk in beweging, voeding, slaap, ontspanning, mindset en zenuwstelselregulatie. Niet als losse oefeningen, maar als een levenswijze die herstel 24 uur per dag ondersteunt. '
         highlight: false
-        price: '€ 599'
+        price: '€ 1750'
         show_discount: true
-        label: 'Veilige eerste maand'
+        label: 'geen twijfel'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -189,7 +192,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        discount_price: '€ 499'
+        discount_price: '€ 1447'
       -
         id: mm6bs9ot
         heading_size: S
@@ -338,7 +341,7 @@ page_builder:
                       class: text-orange
                 text: 'ROUTE 3'
         show_tag: true
-        tag_text: 'live | 75 minuten'
+        tag_text: 'live | 60 minuten'
         tag_alignment: right
         description:
           -
@@ -351,7 +354,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL SCAN INTENSIEF'
+                text: 'KANTEL SCAN | LIVE SESSIE'
           -
             type: paragraph
             attrs:
@@ -375,7 +378,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Tijdens deze 75 minuten bij ons op locatie in Venlo:'
+                text: 'Tijdens deze 60 minuten bij ons op locatie in Venlo:'
           -
             type: bulletList
             content:
@@ -453,7 +456,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        discount_price: '€ 199'
+        discount_price: '€ 175'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1265,7 +1268,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773519942
+updated_at: 1774790205
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
