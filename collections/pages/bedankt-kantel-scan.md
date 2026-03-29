@@ -1,6 +1,5 @@
 ---
 id: a203ba5f-4950-4053-be31-1224c1fe6f88
-published: false
 blueprint: page
 title: 'Bedankt | Kantel Scan'
 page_builder:
@@ -530,7 +529,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774792974
+updated_at: 1774793029
 duplicated_from: 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
 use_white_header: false
 ---
