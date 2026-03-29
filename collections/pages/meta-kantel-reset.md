@@ -1,7 +1,7 @@
 ---
 id: 083cff0a-660c-4ddc-b23d-c9cb308da729
 blueprint: page
-title: 'META METING Kantel Reset'
+title: 'Kantel Reset | META METING'
 page_builder:
   -
     id: miiyjz79
@@ -1196,7 +1196,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774629110
+updated_at: 1774794209
 duplicated_from: babc9d5b-c875-4aaf-a85a-5dec77141630
 use_white_header: false
 ---
