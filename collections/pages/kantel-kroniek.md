@@ -10,8 +10,6 @@ page_builder:
     media:
       video: false
       autoplay_video: false
-      video_link: null
-      preview_image: null
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
       show_swiper_controls: false
@@ -20,42 +18,6 @@ page_builder:
       play_pause_control: true
       sound_control: true
       fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mka6cs7n
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Kantel Kroniek'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Vul hier onder jouw Kantel Kroniek in! '
     type: HeroSection
     enabled: true
   -
@@ -76,6 +38,7 @@ page_builder:
       spacing_mobile: standard
     type: TallyForms
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1768162846
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1774961414
+use_white_header: false
 ---
