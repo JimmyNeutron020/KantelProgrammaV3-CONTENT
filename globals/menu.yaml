@@ -219,19 +219,10 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Vrijblijvend kennismakingsgesprek '
+              text: 'Jouw lichaam is niet stuk | '
             -
               type: text
-              text: '|'
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: ' '
-            -
-              type: text
-              text: 'Keuze uit een live of zoomsessie,1-op-1 met Paul, waarin je helder krijgt wat jouw lichaam nú nodig heeft om uit de pijncirkel te komen.'
+              text: 'Live of online 1-op-1 doorbraak sessie met Paul, waarin je ervaart wat jouw lichaam nú nodig heeft om definitief van je klachten af te komen.'
       label: 'Kantel Scan'
       link_type: link
       target_blank: false
@@ -268,10 +259,10 @@ data:
               marks:
                 -
                   type: bold
-              text: 'Kantel Inzicht '
+              text: 'Je bent moeder en zó moe'
             -
               type: text
-              text: '| Je bent moeder en zó moe. Ontdek de 6 sleutels waarom jouw klachten aanhouden en hoe je eindelijk weer energie opbouwt.'
+              text: ' | Ontdek de 6 sleutels waarom jouw klachten aanhouden en hoe je eindelijk weer energie opbouwt.'
       label: 'Kantel Inzicht'
       link_type: link
       target_blank: false
@@ -282,7 +273,7 @@ data:
       enabled: true
       featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-65.jpg
       exclude_from_pages:
-        - 4dadc8b8-a53e-4bbf-8d95-74dba81adaf8
+        - a3d8b21b-2251-41c7-95ea-f2089c4ff776
     -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
