@@ -749,10 +749,10 @@ page_builder:
                 buttons:
                   -
                     id: mkU3X10o
-                    label: 'Plan afspraak'
+                    label: 'Meer over Paul & Chantal'
                     link_type: link
                     target_blank: false
-                    link: '#aanmeldformulier'
+                    link: 'entry::ba0a418f-5a92-40de-9945-5d60ba71d107'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -870,7 +870,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'In ons'
+            text: 'In ons gratis'
           -
             type: text
             marks:
@@ -888,7 +888,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: ' delen we hoe je de sleutels toepast in je dagelijkse leven. Je ontdekt waarom je herstel vaak stokt en welke concrete acties vandaag al verschil maken.'
+            text: ' (+/- 75 minuten) delen we hoe je de 6 belangrijke sleutels toepast in je dagelijkse leven. Je ontdekt waarom je herstel vaak stokt en welke concrete acties vandaag al verschil maken.'
       -
         type: paragraph
         attrs:
@@ -1130,7 +1130,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775146945
+updated_at: 1775147167
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
