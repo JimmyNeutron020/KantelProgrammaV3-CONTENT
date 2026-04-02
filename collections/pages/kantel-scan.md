@@ -965,6 +965,78 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: PackageCards
+    enabled: false
+  -
+    id: mldnwh59
+    content:
+      -
+        type: set
+        attrs:
+          id: mldnwj5k
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Je bent niet alleen'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In hun verhalen delen zij hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: IntoSection
+    enabled: true
+    color: '#ffffff'
+  -
+    id: mlctv55o
+    collection_type: members
+    display_mode: all
+    show_tag: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TeamShowcase
     enabled: true
   -
     id: miz017il
@@ -1057,80 +1129,8 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
-  -
-    id: mldnwh59
-    content:
-      -
-        type: set
-        attrs:
-          id: mldnwj5k
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Je bent niet alleen'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Deze vrouwen weten hoe het voelt om jarenlang beperkt te zijn door pijn. Vandaag zijn zij volledig pijnvrij en leven ze weer voluit.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'In hun verhalen delen zij hoe zij hun herstel hebben ingezet, wat daarin voor hen het verschil maakte en hoe hun leven er nu uitziet. Verhalen die inspireren, juist omdat ze beginnen bij waar het zo lang vastzat.'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
-    color: '#ffffff'
-  -
-    id: mlctv55o
-    collection_type: members
-    display_mode: all
-    show_tag: false
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TeamShowcase
-    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775146595
+updated_at: 1775146945
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
