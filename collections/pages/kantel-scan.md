@@ -1,7 +1,7 @@
 ---
 id: 37fe9b56-749b-4049-9173-064c8aa11ba3
 blueprint: page
-title: 'Kantel Scan'
+title: 'Kantel Doorbraak Sessie'
 page_builder:
   -
     id: miiyjz79
@@ -1348,7 +1348,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774806621
+updated_at: 1775139034
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
