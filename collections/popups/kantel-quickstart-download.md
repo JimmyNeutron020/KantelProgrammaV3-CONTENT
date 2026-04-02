@@ -25,11 +25,11 @@ popup_builder:
 anchor_link_info: '#kp-popup-'
 auto_trigger: true
 target_mode: exclude
-trigger_type: scroll_depth
-frequency: once_per_x_days
+trigger_type: exit_intent
+frequency: every_visit
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774352702
+updated_at: 1775147766
 target_pages:
   - 78ef22f5-be55-47cf-9d14-17a61cd06e01
   - 33e3e8b7-4bf3-4228-a8ab-9394f21aa08c
@@ -45,7 +45,6 @@ target_pages:
   - babc9d5b-c875-4aaf-a85a-5dec77141630
   - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
   - 37fe9b56-749b-4049-9173-064c8aa11ba3
-  - 4dadc8b8-a53e-4bbf-8d95-74dba81adaf8
-trigger_scroll_percent: 50
-frequency_days: 3
+  - a3d8b21b-2251-41c7-95ea-f2089c4ff776
+  - a203ba5f-4950-4053-be31-1224c1fe6f88
 ---
