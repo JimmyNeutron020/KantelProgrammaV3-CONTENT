@@ -529,7 +529,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774793903
+updated_at: 1775140175
 duplicated_from: 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
 use_white_header: false
 ---
