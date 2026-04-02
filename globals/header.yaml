@@ -36,7 +36,7 @@ data:
       button_colour: orange
     -
       id: mhhtdhmf
-      label: Kantelen
+      label: 'Kantel Programma'
       link_type: link
       target_blank: false
       link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
@@ -44,7 +44,7 @@ data:
       button_colour: orange
     -
       id: mhhtda76
-      label: Webinar
+      label: 'Doorbraak Sessie'
       link_type: link
       target_blank: false
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
