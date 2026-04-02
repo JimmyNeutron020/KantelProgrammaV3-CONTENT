@@ -25,7 +25,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: L
+            heading_size: S
             heading:
               -
                 type: heading
@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Kantel Scan'
+                    text: 'Jouw doorbraak begint hier. Ontdek dat herstel wél mogelijk is.'
             show_tag: false
       -
         type: paragraph
@@ -48,14 +48,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Een persoonlijk en vrijblijvend kennismakingsgesprek voor jullie samen; voor jou én je partner. Live bij ons op locatie of online via zoom. '
+            text: 'In deze doorbraak sessie ontdek je dat jouw lichaam meer herstelkracht heeft dan je ooit dacht.'
       -
         type: paragraph
         attrs:
@@ -63,14 +56,33 @@ page_builder:
         content:
           -
             type: text
-            marks:
+            text: 'Of je nu live bij ons bent of online je ervaart direct wat er wél kan zet die eerste stap naar een leven zonder aanhoudende pijn.'
+      -
+        type: set
+        attrs:
+          id: mnhkc9d2
+          values:
+            type: buttons
+            buttons:
               -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
+                id: dE9xK6Xf
+                label: 'BOEK NU JOUW DOORBRAAK SESSIE'
+                link_type: link
+                target_blank: false
+                button_layout: standard
+                button_colour: orange
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Boek nu jouw doorbraak'
     type: HeroSection
     enabled: true
   -
@@ -105,94 +117,41 @@ page_builder:
           -
             type: text
             text: 'Er zijn meerdere manieren om helderheid te krijgen.'
-    packages:
       -
-        id: mm6b88mk
-        heading_size: S
-        heading:
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: heading
-            attrs:
-              level: 6
-            content:
+            type: text
+            marks:
               -
-                type: text
-                marks:
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'SNELSTE ROUTE'
-        show_tag: true
-        tag_text: '24/7 begeleiding'
-        tag_alignment: right
-        description:
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Een persoonlijk en vrijblijvend kennismakingsgesprek voor jullie samen; voor jou én je partner. Live bij ons op locatie of online via zoom. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: paragraph
-            attrs:
-              class: text-md
-            content:
+            type: text
+            marks:
               -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'KANTEL PROGRAMMA | DIRECT AANMELDEN'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                type: bold
               -
-                type: text
-                text: 'Sommige vrouwen weten het eigenlijk al. Van alles geprobeerd. Ze herkennen zich in de verhalen. En ze voelen: "'
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: 'Ik wil niet nóg langer twijfelen en wachten maar ik heb nú het lef om de stap te zetten'
-              -
-                type: text
-                text: '." '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Super knap, respect!  💪🏻'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: "Ben jij zo'n vrouw?  Dan is er de mogelijkheid om je te verzekeren van een plek in de eerstvolgende groep starters. Zónder intake. Zónder voorafgaande scan.  Wel verzekerd van een plek en toegang tot een fijne aftrap-sessie in het programma. Online, maar niet alleen. "
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Uiteraard met volledige begeleiding volgens onze topsportbenadering. Precies zoals we een topsporter zouden begeleiden. Met maatwerk in beweging, voeding, slaap, ontspanning, mindset en zenuwstelselregulatie. Niet als losse oefeningen, maar als een levenswijze die herstel 24 uur per dag ondersteunt. '
-        highlight: false
-        price: '€ 1750'
-        show_discount: true
-        label: 'geen twijfel, IK START'
-        link_type: link
-        target_blank: false
-        link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
-        button_layout: solid
-        button_colour: orange
-        type: package
-        enabled: true
-        discount_price: '€ 1447'
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
+    packages:
       -
         id: mm6e147n
         heading_size: S
@@ -209,7 +168,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'EERST LIVE KENNISMAKEN'
+                text: 'KANTEL DOORBRAAK '
         show_tag: true
         tag_text: '60 minuten'
         tag_alignment: right
@@ -224,7 +183,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL SCAN | LIVE SESSIE'
+                text: 'LIVE SESSIE | LOCATIE VENLO'
           -
             type: paragraph
             attrs:
@@ -248,7 +207,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Tijdens deze 60 minuten bij ons op locatie in Venlo:'
+                text: 'Tijdens deze 60 minuten bij ons op locatie:'
           -
             type: bulletList
             content:
@@ -343,7 +302,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'EERST ONLINE KENNISMAKEN'
+                text: 'KANTEL DOORBRAAK'
         show_tag: true
         tag_text: '30 minuten'
         tag_alignment: right
@@ -358,7 +317,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'KANTEL SCAN | ONLINE SESSIE'
+                text: 'ONLINE SESSIE'
           -
             type: paragraph
             attrs:
@@ -457,86 +416,6 @@ page_builder:
         type: package
         enabled: true
         discount_price: '€ 49'
-      -
-        id: mnc13zm0
-        heading_size: S
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 6
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'KANS OP GRATIS KENNISMAKING'
-        show_tag: true
-        tag_text: gratis
-        tag_alignment: right
-        description:
-          -
-            type: paragraph
-            attrs:
-              class: text-md
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'KANTEL DOORBRAAK | ONLINE SESSIE'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Elke week kiezen wij twee vrouwen uit voor een gratis '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'persoonlijke Kantel Doorbraak Sessie'
-              -
-                type: text
-                text: ' (60 minuten). Geen standaard intake. Geen oppervlakkige tips. Maar één doel: helder krijgen wat jouw herstel nog tegenhoudt.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Voel jij dat je vastloopt, ondanks alles wat je al hebt geprobeerd?'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Vul dit korte formulier (5 vragen | 5 minuten) in. Misschien ben jij één van de vrouwen die wij begeleiden in haar doorbraak.'
-        highlight: false
-        price: '€ 99'
-        show_discount: true
-        label: 'MAAK KANS OP EEN GRATIS ONLINE SESSIE'
-        link_type: link
-        target_blank: false
-        link: 'https://tally.so/r/KY6Kz7'
-        button_layout: solid
-        button_colour: orange
-        type: package
-        enabled: true
-        discount_price: '€ 0'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1348,7 +1227,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775139034
+updated_at: 1775140092
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
