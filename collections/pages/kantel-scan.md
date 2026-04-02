@@ -28,17 +28,12 @@ page_builder:
             heading_size: S
             heading:
               -
-                type: heading
+                type: paragraph
                 attrs:
-                  level: 1
+                  class: null
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
                     text: 'Jouw doorbraak begint hier. Ontdek dat herstel wél mogelijk is.'
             show_tag: false
       -
@@ -57,32 +52,6 @@ page_builder:
           -
             type: text
             text: 'Of je nu live bij ons bent of online je ervaart direct wat er wél kan zet die eerste stap naar een leven zonder aanhoudende pijn.'
-      -
-        type: set
-        attrs:
-          id: mnhkc9d2
-          values:
-            type: buttons
-            buttons:
-              -
-                id: dE9xK6Xf
-                label: 'BOEK NU JOUW DOORBRAAK SESSIE'
-                link_type: link
-                target_blank: false
-                button_layout: standard
-                button_colour: orange
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Boek nu jouw doorbraak'
     type: HeroSection
     enabled: true
   -
@@ -90,17 +59,36 @@ page_builder:
     heading_size: M
     heading:
       -
+        type: heading
+        attrs:
+          level: 6
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Ervaar in één sessie dat je lichaam niet stuk is'
+    show_tag: true
+    tag_text: 'Je hoeft niet alles alleen uit te zoeken'
+    tag_alignment: right
+    content:
+      -
         type: paragraph
         attrs:
           class: null
         content:
           -
             type: text
-            text: 'Helderheid over jouw herstel '
-    show_tag: true
-    tag_text: 'Je hoeft niet alles alleen uit te zoeken'
-    tag_alignment: right
-    content:
+            text: "Geen intake. Geen standaard advies. Maar een persoonlijke sessie en behandeling waarin je direct voelt: '"
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Dit zit anders dan me ooit verteld is". '
       -
         type: paragraph
         attrs:
@@ -1227,7 +1215,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775140092
+updated_at: 1775140925
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
