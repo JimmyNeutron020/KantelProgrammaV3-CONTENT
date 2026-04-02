@@ -11,7 +11,7 @@ data:
       button_colour: white
     -
       id: mhhtcrhg
-      label: Kantelen
+      label: 'Kantel Programma'
       link_type: link
       target_blank: false
       link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
@@ -19,10 +19,10 @@ data:
       button_colour: white
     -
       id: mhhtc9gq
-      label: Webinar
+      label: 'Doorbraak Sessie'
       link_type: link
       target_blank: false
-      link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
+      link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
       button_layout: standard
       button_colour: white
   scrolled_buttons:
