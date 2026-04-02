@@ -2,18 +2,6 @@ title: Menu
 data:
   menu_items_big:
     -
-      id: mhhuizrn
-      label: 'Kantel Programma'
-      link_type: internal
-      target_blank: false
-      internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
-    -
-      id: mhhummtm
-      label: Resultaten
-      link_type: internal
-      target_blank: false
-      internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
-    -
       id: mlr07537
       label: 'Gratis Webinar'
       link_type: internal
@@ -25,6 +13,18 @@ data:
       link_type: internal
       target_blank: false
       internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
+    -
+      id: mhhuizrn
+      label: 'Kantel Programma'
+      link_type: internal
+      target_blank: false
+      internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
+    -
+      id: mhhummtm
+      label: Resultaten
+      link_type: internal
+      target_blank: false
+      internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
     -
       id: mlcn7mwy
       label: 'Veelgestelde vragen'
