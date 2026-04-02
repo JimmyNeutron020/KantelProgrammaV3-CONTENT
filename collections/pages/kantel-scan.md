@@ -34,6 +34,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: 'Jouw doorbraak begint hier. Ontdek dat herstel wél mogelijk is.'
             show_tag: false
       -
@@ -43,6 +48,11 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'In deze doorbraak sessie ontdek je dat jouw lichaam meer herstelkracht heeft dan je ooit dacht.'
       -
         type: paragraph
@@ -51,6 +61,11 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Of je nu live bij ons bent of online je ervaart direct wat er wél kan zet die eerste stap naar een leven zonder aanhoudende pijn.'
     type: HeroSection
     enabled: true
@@ -1214,8 +1229,8 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
-updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775140925
+updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
+updated_at: 1775141095
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
