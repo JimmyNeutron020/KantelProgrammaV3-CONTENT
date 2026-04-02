@@ -25,7 +25,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: S
+            heading_size: M
             heading:
               -
                 type: paragraph
@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Jouw doorbraak begint hier. Ontdek dat herstel wél mogelijk is.'
+                    text: 'Ervaar in één sessie dat je lichaam niet stuk is.'
             show_tag: false
       -
         type: paragraph
@@ -53,20 +53,36 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'In deze doorbraak sessie ontdek je dat jouw lichaam meer herstelkracht heeft dan je ooit dacht.'
+            text: 'Tijdens de doorbraak sessie combineren we inzicht met directe behandeling, zodat je niet alleen begrijpt wat er speelt, maar het ook in je lichaam voelt veranderen. '
       -
-        type: paragraph
+        type: set
         attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
+          id: mnhnz9tc
+          values:
+            type: buttons
+            buttons:
               -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Of je nu live bij ons bent of online je ervaart direct wat er wél kan zet die eerste stap naar een leven zonder aanhoudende pijn.'
+                id: tCrFNnMm
+                label: 'LOCATIE VENLO (L)'
+                link_type: link
+                target_blank: false
+                button_layout: solid
+                button_colour: orange
+      -
+        type: set
+        attrs:
+          id: mnhnzhfr
+          values:
+            type: buttons
+            buttons:
+              -
+                id: tCrFNnMm
+                label: 'LOCATIE HEILOO (NH)'
+                link_type: email
+                target_blank: false
+                email: contact@kantelprogramma.nl
+                button_layout: solid
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -85,9 +101,9 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: 'Ervaar in één sessie dat je lichaam niet stuk is'
+            text: 'DE DOORBRAAK'
     show_tag: true
-    tag_text: 'Je hoeft niet alles alleen uit te zoeken'
+    tag_text: 'inclusief directe behandeling'
     tag_alignment: right
     content:
       -
@@ -97,10 +113,18 @@ page_builder:
         content:
           -
             type: text
-            text: "Geen intake. Geen standaard advies. Maar een persoonlijke sessie en behandeling waarin je direct voelt: '"
+            text: 'Dit is geen intake. Geen standaard advies. Maar een persoonlijke sessie en behandeling waarin je direct voelt en ervaart: '
           -
             type: text
             marks:
+              -
+                type: bold
+            text: "'"
+          -
+            type: text
+            marks:
+              -
+                type: bold
               -
                 type: italic
             text: 'Dit zit anders dan me ooit verteld is". '
@@ -111,7 +135,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien loop je al een tijd rond met klachten. Misschien heb je één of meerdere diagnoses. Misschien twijfel je of herstel voor jou nog haalbaar is.'
+            text: 'Misschien loop je al een tijd rond met klachten. Of heb je aanhoudende pijn na je zwangerschap of bevalling. Misschien heb je een blessure die niet wil herstellen. Misschien heb je één of meerdere diagnoses. Misschien twijfel je of herstel voor jou nog haalbaar is.'
       -
         type: paragraph
         attrs:
@@ -119,26 +143,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Er zijn meerdere manieren om helderheid te krijgen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Een persoonlijk en vrijblijvend kennismakingsgesprek voor jullie samen; voor jou én je partner. Live bij ons op locatie of online via zoom. '
+            text: 'De meeste vrouwen verwachten een gesprek. Maar dit is anders. Tijdens deze sessie combineren we inzicht met directe behandeling. We kijken samen naar hoe jouw lichaam reageert en werken daar meteen mee. Je gaat niet alleen begrijpen wat er speelt. Je gaat het ook voelen. '
       -
         type: paragraph
         attrs:
@@ -146,14 +151,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'In de Kantel Scan kijkt Paul niet naar één klacht, maar naar hoe jouw lichaam, belastbaarheid en dagelijks leven samenhangen. '
+            text: 'Vaak verandert er al iets tijdens de sessie zelf. In hoe je beweegt. In hoe het voelt. In hoeveel vertrouwen er is. Je ervaart dat je lichaam niet stuk is.'
     packages:
       -
         id: mm6e147n
@@ -171,7 +169,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'KANTEL DOORBRAAK '
+                text: 'KANTEL DOORBRAAK SESSIE'
         show_tag: true
         tag_text: '60 minuten'
         tag_alignment: right
@@ -186,7 +184,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'LIVE SESSIE | LOCATIE VENLO'
+                text: 'LOCATIE VENLO'
           -
             type: paragraph
             attrs:
@@ -194,7 +192,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Sommige vrouwen voelen dat ze ons eerst live willen ontmoeten.'
+                text: 'In deze doorbraak sessie ontdek je dat jouw lichaam meer herstelkracht heeft dan je ooit dacht. Je ervaart direct wat er wél kan. '
           -
             type: paragraph
             attrs:
@@ -202,81 +200,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien ben je al vaak teleurgesteld. Misschien wil je je fysieke belastbaarheid laten testen. Misschien heb je medicatie of een diagnose waar je vragen over hebt. Misschien vind je het fijn als je partner ook echt betrokken wordt. Misschien geeft het je simpelweg meer vertrouwen om ons live te spreken. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Tijdens deze 60 minuten bij ons op locatie:'
-          -
-            type: bulletList
-            content:
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'luisteren we met aandacht naar je hele verhaal'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'analyseren we jouw fysieke belastbaarheid'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'doen we gerichte tests'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'geven we indien passend een behandeling'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'ontvang je een helder en persoonlijk herstelplan'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Deze sessie staat los van het Kantel Programma en is een extra optie.'
+                text: 'Zet die eerste stap naar een leven zonder aanhoudende pijn.'
         highlight: false
         price: '€ 199'
         show_discount: true
@@ -288,7 +212,104 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        discount_price: '€ 175'
+        discount_price: '€ 150'
+      -
+        id: mnhn2jmx
+        heading_size: S
+        heading:
+          -
+            type: heading
+            attrs:
+              level: 6
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'KANTEL DOORBRAAK SESSIE'
+        show_tag: true
+        tag_text: '60 minuten'
+        tag_alignment: right
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'LOCATIE HEILOO (BINNENKORT)'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In deze doorbraak sessie ontdek je dat jouw lichaam meer herstelkracht heeft dan je ooit dacht. Je ervaart direct wat er wél kan. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Zet die eerste stap naar een leven zonder aanhoudende pijn.'
+        highlight: false
+        price: '€ 199'
+        show_discount: true
+        label: 'Ik wil op de wachtlijst voor Heiloo'
+        link_type: email
+        target_blank: false
+        link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+        discount_price: '€ 150'
+        email: contact@kantelprogramma.nl
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PropositionSection
+    enabled: true
+  -
+    id: mnhmyn62
+    heading_size: M
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 6
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: ONLINE
+    show_tag: true
+    tag_text: ...
+    tag_alignment: right
+    packages:
       -
         id: mm6bs9ot
         heading_size: S
@@ -417,7 +438,7 @@ page_builder:
         button_layout: solid
         button_colour: orange
         type: package
-        enabled: true
+        enabled: false
         discount_price: '€ 49'
     show_settings: false
     inner_spacing_top:
@@ -433,7 +454,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: PropositionSection
-    enabled: true
+    enabled: false
   -
     id: miyyu8y1
     content:
@@ -447,14 +468,14 @@ page_builder:
               -
                 id: miyyugvh
                 fa_icon: 'fa-regular fa-person-rays'
-                text: 'ONLINE OF LIVE SESSIE'
+                text: 'Live Doorbraak Sessie'
       -
         type: set
         attrs:
           id: miyyvcpn
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -463,9 +484,9 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Chronische pijn raakt nooit één persoon'
+                    text: 'Aanhoudende pijn raakt raakt jou én je gezin'
             show_tag: true
-            tag_text: 'Het raakt jou én je partner'
+            tag_text: 'Je partner is welkom'
             tag_alignment: right
       -
         type: paragraph
@@ -474,7 +495,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Een Kantel Scan is een gesprek voor jullie samen. Chronische pijn raakt nooit één persoon. Het raakt jullie allebei. '
+            text: 'Een Doorbraak Sessie is er voor jullie samen. Chronische pijn raakt nooit één persoon. Het raakt jullie allebei. '
       -
         type: paragraph
         attrs:
@@ -487,10 +508,6 @@ page_builder:
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            text: 'De Kantel Scan is daarom geen gesprek alleen voor jou. Het is een gesprek voor jullie samen.'
       -
         type: paragraph
         attrs:
@@ -501,7 +518,7 @@ page_builder:
           id: mm3sfglz
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -528,6 +545,14 @@ page_builder:
         content:
           -
             type: text
+            text: 'Jij hoeft haar niet te redden. Maar we weten ook dat zij het niet alleen draagt. De Doorbraak Sessie is er daarom voor jullie samen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
             text: 'Misschien lees jij mee met gemengde gevoelens. Je hebt gezien hoeveel energie het kost. Hoe vaak ze hoopte. Hoe vaak het weer tegenviel. Misschien denk je:'
       -
         type: paragraph
@@ -545,15 +570,7 @@ page_builder:
             text: 'Is dit niet gewoon weet iets nieuws'
           -
             type: text
-            text: '? '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '"'
+            text: '? "'
           -
             type: text
             marks:
@@ -562,15 +579,7 @@ page_builder:
             text: 'Wat als het weer niets wordt?'
           -
             type: text
-            text: '"'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '"'
+            text: '" "'
           -
             type: text
             marks:
@@ -587,7 +596,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Die vragen zijn logisch. In de Kantel Scan nemen we ze serieus. Geen verkooppraat. Geen druk. '
+            text: 'Die vragen zijn logisch. In de Doorbraak Sessie nemen we ze serieus. Geen verkooppraat. Geen druk. Het is geen intake om je ergens van te overtuigen. Het is een sessie om te ervaren dat het echt anders is dan er tot nu toe gezegd is!'
       -
         type: paragraph
         attrs:
@@ -595,116 +604,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We kijken eerlijk naar:'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Wat er al geprobeerd is'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Waarom dat niet (blijvend) werkte'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Wat er nu anders zou zijn'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Of dit écht past bij jullie situatie'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'En als het niet past, zeggen we dat ook. Het is geen intake om je te overtuigen. Het is een helder gesprek om samen te bepalen: Is dit een verstandige (laatste) stap? '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We leggen uit hoe ons herstelkader werkt. Wat het vraagt. Wat het realistisch kan opleveren. Zodat jullie samen een weloverwogen beslissing kunnen nemen.'
-      -
-        type: set
-        attrs:
-          id: mm3sp4nn
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange-light
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: 'Waarom we de partner ook uitnodigen'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Omdat herstel alleen werkt als het thuis veilig is. Als jullie het (tijdelijk) samen dragen. Als er begrip is in plaats van frustratie.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Jij hoeft haar niet te redden. En zij hoeft het niet alleen te dragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            text: 'We kijken eerlijk naar: Wat er al geprobeerd is. Waarom dat niet (blijvend) werkte. Wat er anders nodig is.'
       -
         type: paragraph
         attrs:
@@ -1230,7 +1130,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775143172
+updated_at: 1775146595
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
