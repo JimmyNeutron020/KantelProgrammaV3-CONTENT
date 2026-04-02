@@ -206,7 +206,7 @@ data:
           content:
             -
               type: text
-              text: '🗓️ Kantel Scan '
+              text: '🗓️ Live Doorbraak Sessie'
       show_tag: false
       content:
         -
