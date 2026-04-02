@@ -3,7 +3,7 @@ data:
   menu_items_big:
     -
       id: mhhuizrn
-      label: Kantelen
+      label: 'Kantel Programma'
       link_type: internal
       target_blank: false
       internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
@@ -19,6 +19,12 @@ data:
       link_type: internal
       internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
       target_blank: false
+    -
+      id: mnhlf5ha
+      label: 'Live Doorbraak Sessie'
+      link_type: internal
+      target_blank: false
+      internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
     -
       id: mlcn7mwy
       label: 'Veelgestelde vragen'
