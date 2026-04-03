@@ -642,6 +642,139 @@ page_builder:
     type: TallyForms
     enabled: false
   -
+    id: miz017il
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - brand/img_2677.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: miz01jmb
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    text: 'Twijfel je nog? Of wil je ons eerst spreken?'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft niet meteen naar een live sessie te komen. Soms wil je gewoon even voelen: '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'klopt dit voor mij?'
+          -
+            type: text
+            text: ' Daarom kun je ook kiezen voor een online doorbraak sessie. '
+      -
+        type: set
+        attrs:
+          id: mnikowsr
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Kies wat bij je past 👇🏻'
+            show_tag: false
+      -
+        type: set
+        attrs:
+          id: mnikqtp2
+          values:
+            type: buttons
+            buttons:
+              -
+                id: EkICqYJy
+                label: 'Stuur je vraag via Whats App'
+                link_type: tel
+                target_blank: false
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
+                tel: '+31630316805'
+                button_layout: solid
+                button_colour: white
+      -
+        type: set
+        attrs:
+          id: mniksn3h
+          values:
+            type: buttons
+            buttons:
+              -
+                id: EkICqYJy
+                label: 'Plan een Online Doorbraak Sessie'
+                link_type: link
+                target_blank: false
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
+                button_layout: solid
+                button_colour: black
+      -
+        type: set
+        attrs:
+          id: mnikugud
+          values:
+            type: buttons
+            buttons:
+              -
+                id: EkICqYJy
+                label: 'Boek een Live Doorbraak Sessie in Venlo'
+                link_type: link
+                target_blank: false
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
+                button_layout: solid
+                button_colour: orange
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+  -
     id: miyzswpo
     media:
       video: false
@@ -857,141 +990,8 @@ page_builder:
       spacing_mobile: standard
     type: TeamShowcase
     enabled: true
-  -
-    id: miz017il
-    color: '#f7e7de'
-    swap_layout: false
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - brand/img_2677.jpg
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: miz01jmb
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'Twijfel je nog? Of wil je ons eerst spreken?'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hoeft niet meteen naar een live sessie te komen. Soms wil je gewoon even voelen: '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'klopt dit voor mij?'
-          -
-            type: text
-            text: ' Daarom kun je ook kiezen voor een online doorbraak sessie. '
-      -
-        type: set
-        attrs:
-          id: mnikowsr
-          values:
-            type: heading
-            heading_size: S
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: 'Kies wat bij je past 👇🏻'
-            show_tag: false
-      -
-        type: set
-        attrs:
-          id: mnikqtp2
-          values:
-            type: buttons
-            buttons:
-              -
-                id: EkICqYJy
-                label: 'Stuur je vraag via Whats App'
-                link_type: tel
-                target_blank: false
-                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
-                tel: '+31630316805'
-                button_layout: solid
-                button_colour: white
-      -
-        type: set
-        attrs:
-          id: mniksn3h
-          values:
-            type: buttons
-            buttons:
-              -
-                id: EkICqYJy
-                label: 'Plan een Online Doorbraak Sessie'
-                link_type: link
-                target_blank: false
-                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
-                button_layout: solid
-                button_colour: black
-      -
-        type: set
-        attrs:
-          id: mnikugud
-          values:
-            type: buttons
-            buttons:
-              -
-                id: EkICqYJy
-                label: 'Boek een Live Doorbraak Sessie in Venlo'
-                link_type: link
-                target_blank: false
-                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
-                button_layout: solid
-                button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: QuestionsCtaSection
-    enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775201268
+updated_at: 1775201351
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
