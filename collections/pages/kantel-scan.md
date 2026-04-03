@@ -290,172 +290,6 @@ page_builder:
     type: PropositionSection
     enabled: true
   -
-    id: mnhmyn62
-    heading_size: M
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 6
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: ONLINE
-    show_tag: true
-    tag_text: ...
-    tag_alignment: right
-    packages:
-      -
-        id: mm6bs9ot
-        heading_size: S
-        heading:
-          -
-            type: heading
-            attrs:
-              level: 6
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'KANTEL DOORBRAAK'
-        show_tag: true
-        tag_text: '30 minuten'
-        tag_alignment: right
-        description:
-          -
-            type: paragraph
-            attrs:
-              class: text-md
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'ONLINE SESSIE'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Een persoonlijk online gesprek waarin we samen kijken naar:'
-          -
-            type: bulletList
-            content:
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'waar je nu staat'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'wat jouw herstel mogelijk tegenhoudt'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'wat in jouw situatie realistisch is'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'of het Kantel Programma passend is'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Geen standaard intake. Geen snelle conclusie. Wel inzicht en richting. Een deskundige blik op het geheel. Voor de meeste vrouwen is dit helpend om een besluit te nemen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het zoomgesprek met Paul is zonder verdere verplichtingen. Wel nemen we het gesprek en onze voorbereiding serieus. Dat betekent dat we van jou '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'uitgebreid kantel scan formulier '
-              -
-                type: text
-                text: 'vragen. Je ontvangt een link naar onze agenda zodra je het formulier hebt ingevuld.'
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' '
-        highlight: false
-        price: '€ 79'
-        show_discount: true
-        label: 'PLAN EEN ONLINE SESSIE'
-        link_type: link
-        target_blank: false
-        link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
-        button_layout: solid
-        button_colour: orange
-        type: package
-        enabled: false
-        discount_price: '€ 49'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: PropositionSection
-    enabled: false
-  -
     id: miyyu8y1
     content:
       -
@@ -612,28 +446,13 @@ page_builder:
       -
         type: set
         attrs:
-          id: mka52gwo
-          values:
-            type: buttons
-            buttons:
-              -
-                id: S7Fvfeug
-                label: 'PLAN AFSPRAAK ZOOMSESSIE'
-                link_type: link
-                target_blank: false
-                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
-                button_layout: solid
-                button_colour: orange
-      -
-        type: set
-        attrs:
           id: mm6cokrc
           values:
             type: buttons
             buttons:
               -
                 id: S7Fvfeug
-                label: 'PLAN AFSPRAAK LIVE SESSIE'
+                label: 'BOEK EEN LIVE DOORBRAAK SESSIE IN VENLO'
                 link_type: link
                 target_blank: false
                 link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
@@ -1130,7 +949,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775147167
+updated_at: 1775200417
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
