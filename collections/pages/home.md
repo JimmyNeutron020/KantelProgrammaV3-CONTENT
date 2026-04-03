@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Ervaar in één sessie dat je lichaam niet kapot is.'
+                    text: 'Ervaar in één live sessie dat je lichaam niet kapot is.'
             show_tag: true
             tag_text: WELKOM
             tag_alignment: center
@@ -65,7 +65,7 @@ page_builder:
             buttons:
               -
                 id: m7xw13ou
-                label: 'Live Doorbraak Sessie'
+                label: 'Bekijk hoe het werkt'
                 link_type: link
                 target_blank: false
                 link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
@@ -2086,7 +2086,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775199774
+updated_at: 1775199986
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
