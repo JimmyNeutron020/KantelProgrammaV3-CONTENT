@@ -759,6 +759,22 @@ page_builder:
                 link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
                 button_layout: solid
                 button_colour: orange
+      -
+        type: set
+        attrs:
+          id: mnil3186
+          values:
+            type: buttons
+            buttons:
+              -
+                id: EkICqYJy
+                label: 'Wachtlijst Live Doorbraak Sessie in Heiloo'
+                link_type: email
+                target_blank: false
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
+                button_layout: solid
+                button_colour: orange
+                email: contact@kantelprogramma.nl
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -991,7 +1007,7 @@ page_builder:
     type: TeamShowcase
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775201351
+updated_at: 1775201500
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
