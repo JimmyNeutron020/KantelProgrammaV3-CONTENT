@@ -865,7 +865,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
+        - brand/img_2677.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -888,7 +888,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vragen?'
+                    text: 'Twijfel je nog? Of wil je ons eerst spreken?'
             show_tag: false
       -
         type: paragraph
@@ -897,41 +897,83 @@ page_builder:
         content:
           -
             type: text
-            text: 'Alles wat je wilt weten over ons en het Kantel Programma mag je aan ons vragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            text: 'Je hoeft niet meteen naar een live sessie te komen. Soms wil je gewoon even voelen: '
           -
             type: text
-            text: 'Heb je een persoonlijke vraag, dan kun je ons rechtstreeks een bericht sturen, helemaal privé. Benieuwd welke vragen andere vrouwen hadden? Kijk dan bij de veelgestelde vragen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+            marks:
+              -
+                type: italic
+            text: 'klopt dit voor mij?'
+          -
+            type: text
+            text: ' Daarom kun je ook kiezen voor een online doorbraak sessie. '
       -
         type: set
         attrs:
-          id: miz025np
+          id: mnikowsr
+          values:
+            type: heading
+            heading_size: S
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Kies wat bij je past 👇🏻'
+            show_tag: false
+      -
+        type: set
+        attrs:
+          id: mnikqtp2
           values:
             type: buttons
             buttons:
               -
-                id: Uh7ZZHdD
-                label: 'Stel je vraag'
-                link_type: link
+                id: EkICqYJy
+                label: 'Stuur je vraag via Whats App'
+                link_type: tel
                 target_blank: false
-                link: 'entry::69a5080a-2257-4213-a2fc-605373a33691'
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
+                tel: '+31630316805'
                 button_layout: solid
-                button_colour: orange
+                button_colour: white
+      -
+        type: set
+        attrs:
+          id: mniksn3h
+          values:
+            type: buttons
+            buttons:
               -
-                id: miz02k1x
-                label: 'Veelgestelde vragen'
+                id: EkICqYJy
+                label: 'Plan een Online Doorbraak Sessie'
                 link_type: link
                 target_blank: false
-                link: 'entry::ae591f60-6649-4bdf-996c-59880e8a0cff'
-                button_layout: standard
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan'
+                button_layout: solid
+                button_colour: black
+      -
+        type: set
+        attrs:
+          id: mnikugud
+          values:
+            type: buttons
+            buttons:
+              -
+                id: EkICqYJy
+                label: 'Boek een Live Doorbraak Sessie in Venlo'
+                link_type: link
+                target_blank: false
+                link: 'https://calendly.com/chantal-kantelprogramma/kantel-scan-live-sessie'
+                button_layout: solid
                 button_colour: orange
     show_settings: true
     inner_spacing_top:
@@ -949,7 +991,7 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775200417
+updated_at: 1775201268
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
