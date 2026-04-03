@@ -14,7 +14,7 @@ page_builder:
           id: mmfa4s89
           values:
             type: heading
-            heading_size: S
+            heading_size: M
             heading:
               -
                 type: paragraph
@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Van aanhoudende klachten naar een lichaam dat je weer kunt vertrouwen.'
+                    text: 'Ervaar in één sessie dat je lichaam niet kapot is.'
             show_tag: true
             tag_text: WELKOM
             tag_alignment: center
@@ -52,15 +52,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange-light
-                    text: 'Je hebt al veel geprobeerd. Nu wil je begrijpen hoe je lichaam echt werkt en hoe je wél kunt herstellen.'
+                    text: 'Geen eindeloze therapieën, onderzoeken en behandelingen. Maar direct voelen en begrijpen wat er écht gebeurt in jouw lichaam. '
             show_tag: true
             tag_text: welkom
             tag_alignment: right
@@ -71,15 +63,6 @@ page_builder:
           values:
             type: buttons
             buttons:
-              -
-                id: P8p6HQwK
-                label: 'GRATIS WEBINAR'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.webinargeek.com/de-5-strategieen-die-jonge-moeders-met-chronische-bekkenpijn-echt-helpen-herstellen-zonder-nog-harder-te-moeten-vechten'
-                button_layout: solid
-                button_colour: orange
-                email: chantal@kantelprogramma.nl
               -
                 id: m7xw13ou
                 label: 'Live Doorbraak Sessie'
@@ -348,23 +331,25 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet elke ochtend moe wakker worden en eerst checken hoe je lichaam voelt.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                text: 'Niet '
               -
                 type: text
-                text: 'Niet langer plannen hoeven maken rondom wat wel en niet kan.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
+                marks:
+                  -
+                    type: bold
+                text: 'elke ochtend moe wakker '
               -
                 type: text
-                text: 'Maar gewoon:'
+                text: 'worden en eerst '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'checken hoe je lichaam voelt'
+              -
+                type: text
+                text: '. Niet langer plannen hoeven maken rondom wat wel en niet kan. Maar gewoon:'
           -
             type: set
             attrs:
@@ -437,10 +422,10 @@ page_builder:
                 buttons:
                   -
                     id: HElAVPQi
-                    label: 'Dit wil ik'
+                    label: 'Ik wil een doorbraak'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                    link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -2101,7 +2086,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775199067
+updated_at: 1775199774
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
