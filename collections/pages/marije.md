@@ -2,7 +2,7 @@
 id: 37243155-c428-4666-8d26-853b99756df4
 published: false
 blueprint: page
-title: 'Kantel Inzicht (Gekopieerd)'
+title: 'Als jij denkt dat je alles al hebt geprobeerd .... kijk deze video van Marije eerst'
 page_builder:
   -
     id: miiyjz79
@@ -1311,7 +1311,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1776157914
+updated_at: 1776158403
 duplicated_from: a3d8b21b-2251-41c7-95ea-f2089c4ff776
 use_white_header: false
 ---
