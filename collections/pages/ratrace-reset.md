@@ -390,6 +390,21 @@ page_builder:
       spacing_mobile: standard
     type: PropositionSection
     enabled: true
+    packages:
+      -
+        id: moe5u30m
+        heading_size: M
+        show_tag: false
+        highlight: false
+        price: '49'
+        show_discount: true
+        discount_price: '299'
+        link_type: link
+        target_blank: false
+        button_layout: standard
+        button_colour: orange
+        type: package
+        enabled: true
   -
     id: mmntlgwa
     items:
@@ -1228,7 +1243,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777110593
+updated_at: 1777110744
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
