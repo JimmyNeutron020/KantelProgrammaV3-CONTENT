@@ -331,7 +331,7 @@ page_builder:
                 attrs:
                   class: text-orange
             text: 'Het hoeft niet zo te zijn'
-    show_tag: false
+    show_tag: true
     content:
       -
         type: paragraph
@@ -364,6 +364,7 @@ page_builder:
         type: set
         attrs:
           id: mn4jfita
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -393,18 +394,74 @@ page_builder:
     packages:
       -
         id: moe5u30m
-        heading_size: M
+        heading_size: S
         show_tag: false
         highlight: false
-        price: '49'
+        price: '299'
         show_discount: true
-        discount_price: '299'
+        discount_price: '49'
         link_type: link
         target_blank: false
-        button_layout: standard
+        button_layout: solid
         button_colour: orange
         type: package
         enabled: true
+        heading:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: '💙BLUE ZONE 💙'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Mini Reset'
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niet langer om 19 uur uitgeput en tegelijk met de kinderen naar bed.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De eerste stap naar een lichaam dat weer energie geeft in plaats van energie kost.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je wordt wakker en voelt het meteen. Die vermoeidheid die er al is voordat de dag überhaupt begonnen is. En ergens knaagt die gedachte: dit kan toch niet de bedoeling zijn?'
+        label: 'Pak je energie snel terug'
+        link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+    tag_text: mini-programma
+    tag_alignment: right
   -
     id: mmntlgwa
     items:
@@ -1243,7 +1300,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777110744
+updated_at: 1777111515
 duplicated_from: 52db6513-16b1-44ac-9c19-dea1f2833a69
 use_white_header: false
 ---
