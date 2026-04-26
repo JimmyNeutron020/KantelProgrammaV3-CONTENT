@@ -1502,11 +1502,11 @@ page_builder:
                 type: text
                 text: 'Een live dag waarin alles samenkomt. Verbinding, verdieping en ervaren wat er mogelijk is als body & mind weer samenwerken. Geen moeten, wel landen in wat je hebt opgebouwd. '
         type: feature
-        enabled: true
+        enabled: false
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Ik start in de groep van 12 april (vol=vol)'
+        label: 'Ik start in de laatste groep. Op 10 mei 2026 (vol=vol)'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -2222,7 +2222,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777228582
+updated_at: 1777229734
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
