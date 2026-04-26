@@ -1945,10 +1945,10 @@ page_builder:
                     button_colour: orange
                     umami_event_name: kantel-scan-from-aanmelden-kp
         type: new_set
-        enabled: true
+        enabled: false
       -
         id: mll60cuw
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -2199,7 +2199,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: QuestionsCtaSection
-    enabled: true
+    enabled: false
   -
     id: mlqylj07
     heading_size: M
@@ -2222,7 +2222,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777229734
+updated_at: 1777230095
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
