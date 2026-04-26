@@ -1361,32 +1361,6 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We openen het Kantel Programma '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'een beperkt aantal keer per jaar'
-              -
-                type: text
-                text: ' en werken met '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'een klein aantal plekken'
-              -
-                type: text
-                text: ' per instroommoment. Dat doen we bewust. Zodat iedere deelnemer de aandacht krijgt die nodig is. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
                 text: 'Je kunt kiezen uit twee manieren om te starten. In beide gevallen ontvang je intensieve begeleiding, maatwerk en dagelijkse integratie in jouw leven. '
           -
             type: paragraph
@@ -1428,7 +1402,7 @@ page_builder:
                 text: 'Twijfel je nog of wil je eerst ervaren of deze aanpak bij je past? Dan kun je starten met een eerste maand. In die maand beslis jij of je verder gaat in het traject. Kies je ervoor verder te gaan dan loopt het programma door in maandelijkse termijnen.'
         highlight: true
         show_discount: true
-        label: 'Verzeker je van een plek'
+        label: 'Start 10 mei 2026. Verzeker je van een plek. Laatste groep in deze vorm. Vol= vol'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.nl/start-nu'
@@ -1436,7 +1410,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        tag_text: 'Start 12 april 2026'
+        tag_text: 'Start 10 mei 2026'
         tag_alignment: right
     show_settings: false
     inner_spacing_top:
@@ -2086,7 +2060,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1775199986
+updated_at: 1777230399
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
