@@ -299,7 +299,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je wilt vertrouwen'
+                    text: Vertrouwen
             show_tag: false
       -
         type: paragraph
@@ -315,22 +315,11 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Vertrouwen dat je lichaam meewerkt. Vertrouwen dat je belastbaar bent. Vertrouwen dat dit niet je nieuwe normaal hoeft te zijn.'
+            text: "Dat je lichaam meewerkt. Dat je belastbaar bent. Dat dit niet je 'nieuwe normaal' hoeft te zijn."
       -
         type: paragraph
         attrs:
           class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'En misschien is dat het moeilijkste:'
       -
         type: paragraph
         attrs:
@@ -363,10 +352,10 @@ page_builder:
             buttons:
               -
                 id: JbZyEcgp
-                label: 'Dit is wat mogelijk is voor jou'
+                label: 'Deze vrouwen gingen je voor'
                 link_type: link
                 target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -572,18 +561,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je investeert hier niet in losse modules. '
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Je investeert in iets groters: '
+                    text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: '
                   -
                     type: text
                     marks:
@@ -597,12 +575,115 @@ page_builder:
                 type: paragraph
                 attrs:
                   class: null
-    show_discount_single: false
-    show_discount_installments: false
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Dit is je laatste kans.'
+                  -
+                    type: text
+                    text: ' Op moederdag 2026, vanaf 10 mei start de allerlaatste groep van het Kantel Programma in deze vorm. '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Daarna verandert alles en komt deze opzet niet meer terug.'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'De vrouwen die nu instappen wachten niet tot het perfecte moment. Ze kiezen omdat ze weten; '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                      -
+                        type: italic
+                    text: 'Zo wil ik niet langer doorgaan."'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Je krijgt nog één keer; de bewezen begeleiding. De diepgang. De vorm die al meer dan 1250 vrouwen heeft geholpen. '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Daarna sluit dit hoofdstuk definitief. '
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Voel je dat dit jouw moment is? Wacht dan niet. '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Vol = vol'
+              -
+                type: paragraph
+                attrs:
+                  class: null
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Beslis nu en start op 10 mei 2026!'
+    show_discount_single: true
+    show_discount_installments: true
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Ik verzeker me van een plek'
+        label: 'Start op 10 mei 2026'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -625,36 +706,12 @@ page_builder:
     type: EnrollmentProposal
     enabled: true
     anchor_id: aanmelden
-    price_content_single:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: '-'
-    price_content_installments:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: '-'
     pricing_tab_single_label: Eenmalig
     pricing_tab_installments_label: '3 Termijnen'
+    price_single: '€ 1.750'
+    discount_price_single: '€ 1.447'
+    price_installments: '€ 599'
+    discount_price_installments: '€ 547'
   -
     id: mll4udm9
     content:
@@ -2165,7 +2222,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773841063
+updated_at: 1777228582
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
