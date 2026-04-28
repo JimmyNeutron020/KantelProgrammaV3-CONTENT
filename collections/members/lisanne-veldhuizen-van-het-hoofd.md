@@ -29,18 +29,6 @@ page_builder:
             show_tag: false
     type: HeroSection
     enabled: true
-    media:
-      video: null
-      autoplay_video: null
-      video_link: null
-      preview_image: null
-      images: {  }
-      show_swiper_controls: null
-      autoplay: null
-      swiper_bullets: null
-      play_pause_control: null
-      sound_control: null
-      fullscreen_control: null
   -
     id: mirmi13k
     items:
@@ -50,8 +38,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - lisanne-veldhuizen-2-1764864085.jpg
           show_swiper_controls: false
@@ -177,7 +163,6 @@ page_builder:
           preview_image: lisanne-veldhuizen-5-1764864143.jpg
           images:
             - lisanne-veldhuizen-5.jpg
-          show_swiper_controls: null
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -388,8 +373,519 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769346086
+  -
+    id: moixbl5q
+    items:
+      -
+        id: moixbq0m
+        swap: true
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1182946277?share=copy&fl=sv&fe=ci'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: moixcux0
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Lisanne in gesprek met kantel verbinder Liesbeth Schamphelaere'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Van toekijken langs de zijlijn naar weer voluit reizen en leven'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik was 26 en had een leven waar ik intens van hield. Ik werkte als kinderoncologieverpleegkundige, was gelukkig getrouwd en zwanger van mijn eerste kindje. Ik had veel energie en veel plannen. Mijn lichaam deed wat het moest doen. Tot dat plots niet meer zo was.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'De dag waarop alles veranderde'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "“Mijn klachten begonnen na de bevalling van mijn eerste kindje in 2019. De zwangerschap was niet zo makkelijk.\_ Ik had hyperemesis gravidarum en was voortdurend misselijk, maar lichamelijk kon ik veel. Ik bleef werken, sporten en bewegen. Ik had wat kleine zwangerschapsklachten zoals rugpijn of wat bekkenpijn, maar niets dat afweek van wat zoveel zwangere vrouwen ervaren."
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "De bevalling zelf ging niet zoals het hoorde. Wat rustig leek te beginnen, veranderde razendsnel. Ik voelde thuis al persdrang, terwijl ik volgens de verloskundige die net daarvoor was langs geweest nog maar 3 centimeter ontsluiting had. Eenmaal in het ziekenhuis bleek ik volledig ontsloten.\_"
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens het persen hoorde ik een harde knak. Er werd gezegd dat het mijn stuitje was, dat dit wel vaker voorkwam. Maar daarna ging het mis. De placenta kwam niet los, de navelstreng scheurde af en ik kreeg een hevige bloeding. Ik werd met spoed onder narcose gebracht.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Toen ik wakker werd, vroeg men hoe het met mijn pijn was. ‘Onderaan wel oké,’ zei ik, ‘maar mijn rug doet zo verschrikkelijk veel pijn. Ik kan niet op mijn rug liggen.’ Dat zou wel wegtrekken, werd gezegd.”'
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Leven in een lichaam dat niet meer meewerkt'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Een paar uur later mocht ik uit bed. Maar toen ik wilde draaien, deden mijn benen het niet. Ik had geen epidurale verdoving gehad. Toch kreeg ik te horen dat dit normaal was na een bevalling. Maar niets voelde normaal.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Eenmaal thuis kon ik niet zitten, niet staan, niet liggen. Elke houding deed pijn. Ik kreeg geen scans, geen foto’s. Het zou geen verschil maken of mijn stuitje gekneusd of gebroken was. ‘Over een paar weken gaat het beter.’ Dat was de boodschap die ik steeds weer kreeg. Maar het ging niet beter.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Negen maanden later zat ik nog steeds overal op een donutkussen dat ik altijd meedroeg. Ik kon nauwelijks traplopen. Niet koken. Niet autorijden. Mijn kind niet tillen. Alles wat je als jonge moeder vanzelfsprekend zou moeten kunnen, lukte niet meer.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik deed alles op wilskracht. Ik bleef trainen, omdat ik dacht dat sterke spieren het wel zouden dragen. Maar na twee uur werken stopten mijn benen ermee. Ik strompelde door de gang. En als ik thuiskwam, was er niets meer over voor mijn gezin.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+                marks:
+                  -
+                    type: bold
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Niet de moeder kunnen zijn die ik wilde zijn'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Wat mij misschien nog het meest pijn deed, was dat ik niet de moeder kon zijn die ik zo graag wilde zijn.Ik kon mijn zoontje niet optillen als hij viel. Ik kon niet met hem meelopen als hij op zijn skelter zat. Ik moest naast hem op de grond gaan zitten om hem te troosten of vragen dat hij naar me toe kwam op de bank, in plaats van hem op te pakken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Op een dag dacht hij dat hij straf had gekregen omdat ik niet met hem naar buiten kon. Hij zei: ‘Papa is veel leuker.’ Dat brak iets in mij.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Mensen zeiden: ‘Je hebt toch een gezond kind, wees dankbaar.’ En dat was ik ook. Maar ik gunde mijn kind zo hard een gezonde moeder. En mezelf ook.'
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'Ik raakte mijn droombaan kwijt. Ik had er zo hard voor gewerkt. En ineens paste mijn lichaam niet meer in dat leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik zocht hulp, overal. Door heel Nederland, van therapie naar therapie, van ziekenhuis naar ziekenhuis. Telkens met dezelfde boodschap: leer ermee leven, doe minder, accepteer je grenzen. Ik was 28 en kreeg te horen dat dit mijn nieuwe normaal zou zijn. Dat een operatie, mijn bekken vastzetten, het laatste redmiddel was. Jaren revalidatie. Geen garanties.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ergens diep vanbinnen voelde ik: dit kan niet mijn toekomst zijn. Daarom bleef ik zoeken en gaf ik de hoop niet op.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Een
+              -
+                type: text
+                text: ' '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: lichtpuntje
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Via Instagram kwam ik het Kantel Programma tegen. In eerste instantie was ik heel sceptisch. Ik had al zoveel geprobeerd. Toen Paul tijdens de intake op een punt drukte gebeurde iets wat ik al drie jaar niet had gevoeld: mijn pijn was even weg.Niet opgelost. Niet verdwenen. Maar even gewoon niet aanwezig.'
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'Lang genoeg om te voelen: er wordt hier anders gekeken. Niet alleen naar symptomen, maar naar oorzaken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Toen ik aan het traject begon, ging ik er met vertrouwen naartoe, maar ook met een hoofd vol zorgen. Het traject was toen nog intern, en vroeg dat je elke keer een midweek bleef logeren. Hoe moest dit met mijn zoontje? Met mijn man? Mijn hoofd zag overal beren op de weg. Dat doet het nu eenmaal goed, een brein dat jarenlang in overlevingsstand heeft gestaan. Gevaar zoeken, problemen voorspellen, alles willen controleren.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar daaronder zat ook iets anders. Een verlangen. Wat als ik wel weer die fitte, energieke moeder kon worden? Wat als ik weer achter de skelter van mijn zoon kon aanlopen?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Die gedachte was mijn motor.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Eindelijk herkenning'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“De eerste interne week was met een kleine groep vrouwen. En bijna meteen gebeurde er iets wat ik al lang niet meer had ervaren: herkenning. Echte herkenning. Ik hoefde mijn verhaal niet meer volledig uit te leggen. Iedereen had een ander lichaam, andere klachten, een andere oorzaak, maar iedereen kende dit leven. Het onzichtbare. Het voortdurend moeten uitleggen waarom iets niet lukt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Bekkenklachten zie je niet. Mensen zien je lopen en denken dat het wel meevalt. Ik ben wel eens een ‘prinses’ genoemd omdat ik de boodschappentassen niet kon dragen. Dat ik mijn man alles liet tillen terwijl ik ernaast liep. Alsof ik lui was. Alsof ik me aanstelde.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wat niemand zag, was dat ik al blij was dat ik mee kon naar de supermarkt. Dat ik thuis eerst moest gaan liggen voordat ik überhaupt de boodschappen kon uitpakken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Drie jaar lang was dit mijn leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En daar, tussen vrouwen die dat niet hoefden te beoordelen of te minimaliseren, viel er iets van mijn schouders. Erkenning is helend. Niet omdat het de pijn oplost, maar omdat je ze niet langer alleen hoeft te dragen.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Van volhouden naar toelaten'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Tijdens één van die weken waren we samen aan het koken. Niets groots, niets ingewikkelds. En toch zakte ik ineens door mijn benen. Ik zat op mijn knieën op de keukenvloer en mijn lichaam stopte gewoon. De pijn was heviger dan ik gewend was.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik was altijd sterk geweest. Huilen deed ik niet. Maar daar ging het open. Alles. Niet alleen de pijn, maar ook alles wat ik al die jaren had vastgehouden.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik werd meteen gerustgesteld. Soms moet het eerst erger worden voordat het beter wordt. Mijn lichaam had jarenlang gefunctioneerd op wilskracht. Nu mocht het herstellen. En dat doet pijn.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Kleine stappen, grote verschuiving'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Het herstel kwam niet in grote sprongen. Het waren kleine verschuivingen. Zo subtiel dat ik ze eerst bijna miste. Tot ik op een dag besefte dat ik aan het einde van de dag nog recht stond. Dat ik niet meer automatisch naar de bank hoefde.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En die groep vrouwen bleef een spiegel. Ik zag anderen worstelen waar ik al doorheen was gegaan. Ik zag bij mezelf dat ik gegroeid was, ook al voelde ik het nog niet altijd zo. Als je lang onder je nullijn zit, voelt vooruitgang soms onzichtbaar. Maar ze is er.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Die verbondenheid, samen dragen en samen groeien, maakte dat ik bleef vertrouwen, ook als het langzaam ging.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Vandaag: leven zonder eerst te moeten berekenen'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Vandaag hoef ik niet meer te bedenken of ik boodschappen kan doen. Ik ga gewoon. Als mijn kinderen vies zijn, kunnen ze in bad. Als ze vallen, kan ik ze optillen. '
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: "Ik durf terug te vertrouwen op mijn lichaam en op het leven. We emigreerden naar Abu Dhabi, ondernamen een wereldreis en gingen het allergrootste avontuur aan: een tweede kindje.\_"
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik ben nu een heel andere mama. Mijn zoontje merkt het verschil en zei laatst dat ik vroeger altijd maar even kon sporten en daarna niets meer kon. En nu? Nu sport ik, kook ik en ben ik er.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens onze wereldreis was er een moment waarop alles samenkwam. We gingen canyoningen. Springen, klimmen, glijden door koud water. Ik zei eerst dat ik wel zou wachten en bij de baby zou blijven. En toen dacht ik: waarom eigenlijk? Mijn zoon keek me verbaasd aan en vroeg: ‘Maar kan jij dat wel?’ '
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'Ik ging mee. En ik kon het. De spierpijn die ik daarna had, was gezond. Normale spierpijn die je hebt van het sporten.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Wat bleef'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "“Wat dit traject me heeft gebracht, gaat verder dan minder pijn hebben. Dit traject gaf me mijn leven terug. Ik ben nu de mama die ik wil zijn, start binnenkort met een opleiding tot holistisch systeemcoach en kan leuke dingen doen samen met andere moeders.\_ "
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'Waar ik het meest trots op ben? Dat ik niet berustte. Dat ik bleef zoeken en de beren op de weg heb aangepakt.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1777398879
 use_white_header: false
 is_public: true
 ---
