@@ -25,6 +25,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
                     text: 'Lisanne Veldhuizen - van het Hoofd'
             show_tag: false
     type: HeroSection
@@ -885,7 +890,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777398879
+updated_at: 1777398935
 use_white_header: false
 is_public: true
 ---
