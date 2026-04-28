@@ -25,22 +25,15 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: 'Monica Struiksma'
             show_tag: false
     type: HeroSection
     enabled: true
-    media:
-      video: null
-      autoplay_video: null
-      video_link: null
-      preview_image: null
-      images: {  }
-      show_swiper_controls: null
-      autoplay: null
-      swiper_bullets: null
-      play_pause_control: null
-      sound_control: null
-      fullscreen_control: null
   -
     id: mirmo8kf
     items:
@@ -50,8 +43,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - monicastruiksma1.jpg
           show_swiper_controls: false
@@ -182,8 +173,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - monicastruiksma2.jpg
           show_swiper_controls: false
@@ -261,9 +250,8 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
-          images: {  }
+          images:
+            - monica-struiksma.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -370,8 +358,430 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769346111
+  -
+    id: moixz0ug
+    items:
+      -
+        id: moixzh0j
+        swap: true
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1182950658?share=copy&fl=sv&fe=ci'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: moixzy7u
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Monica in gesprek met kantel verbinder Liesbeth Schamphelaere'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '“Op een dag voelde ik mijn been weer de grond raken.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'Monika woont in Leeuwarden, in het noorden van Friesland. Ze werkt in de GGZ met kinderen, jongeren en gezinnen en is mama van een dochter van drieënhalf. Vandaag beweegt ze graag: wandelen, hardlopen en krachttraining. “Sinds het traject vind ik sporten eigenlijk heel leuk. Het is echt een moment voor mezelf geworden. Even mijn hoofd leegmaken na een drukke week.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Nochtans zag haar leven er paar jaar geleden heel anders uit.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“De pijn begon in de laatste weken van mijn zwangerschap. Voor mijn werk reed ik veel met de auto naar cliënten. Op een gegeven moment kreeg ik pijn aan de rechterkant van mijn bekken en mijn been. Het straalde uit en werd steeds erger.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik ben iemand die best streverig is. Ik heb doelen en los dingen graag zelf op. Daardoor kan ik ook lang doorgaan zonder mijn grenzen te voelen. Achteraf denk ik dat ik te lang ben doorgegaan. Op een bepaald moment kon ik letterlijk de auto niet meer in en uit. Mijn rechterbeen viel soms uit, en dat is natuurlijk precies het been waarmee je gas geeft. Ik denk dat mijn lichaam me toen letterlijk van het werk heeft weggehouden.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Na de bevalling leek het eerst beter te gaan, maar zodra ze weer meer begon te doen, kwamen de klachten terug.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik zat helemaal vast in mijn onderrug, mijn bekken en mijn been. Had veel zenuwpijn. Toch ben ik weer halve dagen gaan werken. En thuis probeerde ik ook alles gewoon te blijven doen.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De pijn bleef. En Monica bleef zoeken naar oplossingen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik ben naar heel veel fysiotherapeuten geweest, naar osteopaten, uiteindelijk naar het ziekenhuis en de pijnpoli. Elke keer dacht ik: dit gaat het zijn. Tot ze op een gegeven moment zeiden dat ze niets meer voor me konden doen. De boodschap was: pijnbestrijding en ermee leren leven. Maar dat kon ik niet.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Ondertussen probeerde ze zo normaal mogelijk door te gaan.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik ging gewoon naar vriendinnen of familie en probeerde de pijn weg te drukken. Dan leek het alsof er niets aan de hand was. Maar als ik thuiskwam, kon ik eigenlijk niets meer.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'De beslissing om het anders te doen'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Via internet kwam het Kantelprogramma al een paar keer voorbij. Eerst twijfelde ze.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik dacht: ik ben toch al honderd procent bezig met herstellen?”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar net op het moment dat ze bij de pijnpoli zat en zware medicatie voorgeschreven kreeg, stuurde iemand het opnieuw door.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik dacht: wil ik zo verder leven? Met medicatie en apparaten om de pijn te onderdrukken? Dat past niet bij een jonge vrouw zoals ik ben. Toen dacht ik: ik ga het gewoon doen. En als ik iets doe, ga ik er voor de volle honderd procent voor.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Het moeilijkste bleek niet méér doen, maar minder.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Toen ik begon met het programma mocht ik van Paul én van mezelf ineens rust nemen. Tijdens Zoomsessies lag ik gewoon op bed met mijn laptop naast me. Dat was voor mij heel nieuw, maar het voelde ook goed dat het mocht. Dat was heel bijzonder. '
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'Wat nog bijzonder was: “mijn man was op dat moment ook thuis met klachten van overspanning. Uiteindelijk zijn we eigenlijk samen door het programma gegaan. We hebben ons sociale leven drie maanden bijna stilgelegd.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Samen bouwden ze een nieuw ritme op.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Mijn man kookte in het begin en deed veel in huis. Later ging ik kleine dingen weer oppakken. Eerst de lunch maken, daarna weer het ontbijt. Zo ging hij steeds iets minder doen en ik weer iets meer.”'
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Het moment dat alles veranderde'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In de eerste weken begon ze opnieuw met wandelen. “Dat was moeilijk, want ik voelde mijn been eigenlijk niet goed. Het was alsof er geen contact was met de grond. Ik oefende heel rustig, soms maar een paar minuten.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tot er op een dag iets veranderde.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Op een dag stond ik klaar om te gaan wandelen en ineens voelde ik mijn been weer contact maken met de grond. Die connectie was er gewoon weer. Dat had ik bijna twee jaar niet gevoeld. En toen dacht ik: ik kan dit.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Een band die verandert'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Langzaam werd Monica’s lichaam sterker.'
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: '“In de laatste modules kon ik weer meer zitten. Toen ik op een bepaald moment mijn dochter terug op schoot kon nemen, én terug kon optillen, kon ik mijn geluk niet op. “Tillen was daarvoor het allerpijnlijkste. Dan kreeg ik enorme pijnscheuten door heel mijn lijf. Maar tegen het einde van het traject lukte het weer.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor het eerst konden ze samen dingen doen die eerder niet gingen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“We gingen toen voor het eerst samen naar de kinderboerderij. Dat had ik nog nooit met haar gedaan. Dat zorgde er ook voor dat onze band veranderde. Je zag dat ze weer veel meer naar mij toe kwam. Als ze troost nodig had, kwam ze bij mij. Dat lijken kleine dingen, maar voor mij waren ze heel groot.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Het leven weer open'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vandaag voelt haar leven anders.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Het grootste verschil is dat ik weer kan dromen. Dat ik kan denken: dit lijkt me leuk, dus dat gaan we doen. Dat je niet meer constant rekening hoeft te houden met wat wel en niet kan. Ik sport regelmatig maar neem ook bewust rust wanneer dat nodig is.'
+              -
+                type: hardBreak
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'In het traject hadden we een rustweek. Eerst dacht ik: dan sta ik stil! Maar uiteindelijk heb ik geleerd om mijn lichaam weer te voelen. Nu merk ik wanneer ik rust nodig heb.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ook in haar werk neemt ze die inzichten mee.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik kijk nu veel meer holistisch. Naar voeding, beweging, rust en hoe het lichaam met pijnsignalen omgaat.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Monica’s boodschap'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Aan vrouwen die in een gelijkaardige situatie zitten wil Monika vooral dit meegeven:'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Veel vrouwen denken: het zal voor mij wel niet werken. Maar dat is niet zo. Als je ervoor gaat en echt die commitment aangaat, dan kan herstel echt. En misschien nog het belangrijkste: je mag geloven dat je in staat bent om te herstellen.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: hardBreak
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1777400181
 use_white_header: false
 is_public: true
 ---
