@@ -25,22 +25,15 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
                     text: 'Hananja Nguyen'
             show_tag: false
     type: HeroSection
     enabled: true
-    media:
-      video: null
-      autoplay_video: null
-      video_link: null
-      preview_image: null
-      images: {  }
-      show_swiper_controls: null
-      autoplay: null
-      swiper_bullets: null
-      play_pause_control: null
-      sound_control: null
-      fullscreen_control: null
   -
     id: mirlrb4p
     items:
@@ -50,8 +43,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - hananja-visser-2.jpg
           show_swiper_controls: false
@@ -162,8 +153,6 @@ page_builder:
         media:
           video: false
           autoplay_video: false
-          video_link: null
-          preview_image: null
           images:
             - hananja-visser-3.jpg
           show_swiper_controls: false
@@ -271,8 +260,252 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1769345990
+  -
+    id: moiwlp1d
+    items:
+      -
+        id: moiwlymx
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1182942507?share=copy&fl=sv&fe=ci'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: moiwmuf5
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Hananja in gesprek met Kantel Verbinder Lies Schamphelaere'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '“Eindelijk kan ik weer broeken dragen.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Altijd doorgaan'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Ik ben best wel een bezig bijtje. Dat heb ik eigenlijk altijd als iets positiefs gezien. Druk zijn, veel doen, daar hou ik van.” Hananja is 45, moeder van drie kinderen en werkt in het onderwijs. Ze houdt van wandelen, koken, lezen en koffie drinken. Altijd in beweging. Tot haar lichaam langzaam maar steeds duidelijker begon te protesteren. “Het begon met wat pijn in mijn knie tijdens het hardlopen. Ik dacht: ach, fysiotherapie, dat komt wel goed.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar het ging niet over. Na haar derde zwangerschap werden de klachten ernstiger. “Drie maanden na de geboorte van Beau kreeg ik echt heftige bekkenklachten en pijn in mijn onderrug. En het werd alleen maar erger. Maar ik dacht: ik ben al wat ouder, we hebben een druk leven, dit hoort erbij.” De pijn bleef aanwezig en begon haar leven steeds meer te bepalen. “Wandelen werd moeilijk, lange dagen waren uitputtend en ik sliep heel slecht. Ik werd zó moe. En toch ging ik door. Niet piepen, gewoon doorgaan.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Het leven werd steeds zwaarder'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hananja zocht veel hulp. “Ik heb echt heel veel fysiotherapie gehad. Ziekenhuizen, second opinions. Ik reed een uur naar Dordrecht voor een specialist. Dat heb ik bijna een jaar gedaan, maar niets hielp blijvend.” Zelfs gewone uitstapjes werden zwaar. “Als we bijvoorbeeld naar de dierentuin gingen, moest ik op elk bankje even zitten. Uitjes werden pittig. Het leven werd gewoon steeds zwaarder.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Opgeven voelde niet als een optie. “Ik wilde niet dat dit mijn leven ging beheersen, maar achteraf zie ik: dat deed het natuurlijk al lang. Ik bleef werken, zorgen en doorgaan.” Ze kijkt daar nu anders op terug. “Achteraf had ik misschien eerder moeten stoppen met werken en echt rust moeten nemen, maar dat deed ik niet.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Na opnieuw een intens medisch traject bleef de pijn. “Toen dacht ik echt: dit is het dan. Dit wordt mijn leven.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'De stap naar het Kantel Programma'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tot ze via verschillende mensen hoorde over het Kantel Programma. “Mijn man zei: als het nu al twee keer op je pad komt, moet je het misschien gewoon doen.” Hananja besloot er volledig voor te gaan. “Als ik iets doe, dan doe ik het goed. Niet half.” Ze meldde zich ziek op het werk en startte met het programma.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In het begin was ze sceptisch. “Ik had al zóveel fysiotherapie gehad. Dit was ook weer iets met bewegen, dus ja, ik dacht wel: zal wel.” Wat haar aansprak, was het holistische karakter. “Niet alleen het fysieke, maar ook voeding, rust en het mentale stuk. Ik dacht: misschien zit er meer vast dan alleen spieren.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De eerste module vond ze intens. “Je weet niet wat je te wachten staat, zoveel kleine opdrachten. Maar dan zie je dat iedereen dezelfde vragen heeft. Dat gaf zoveel herkenning. Je voelt: ik sta hier niet alleen in.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Alles viel samen'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Module 6, de rustweek, was onverwacht confronterend. “Ik had er zó geen zin in. Ik dacht: ik wil doorgaan, ik heb geen rust nodig. Maar op dag twee dacht ik: dit is precies wat ik nu nodig heb.” Wat haar raakte, was hoe zorgvuldig het programma was opgebouwd. “Alles wat ik in losse stukjes al eens had gehoord, viel hier samen. En steeds op het juiste moment.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vanaf module 9 werd het zwaarder. “Toen ging het trager. Dat vond ik lastig, maar ik voelde me echt gedragen.” De persoonlijke ondersteuning maakte een groot verschil. “Ik kreeg persoonlijke berichtjes van Chantal en feedback van Paul. Dat hielp me om door te zetten.” Het herstel vroeg tijd. “Het heeft uiteindelijk een half jaar geduurd voordat ik echt pijnvrij was. Vandaag kan ik zeggen dat ik zonder pijn leef.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Terug vrijheid'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Af en toe voelt ze nog iets opspelen. “Maar dan weet ik: ik moet luisteren. Even gas terug. Ik weet nu wat mijn lijf nodig heeft.” Ze houdt vast aan wat voor haar werkt: wandelen, schudden, ademhalingsoefeningen en bewust rustmomenten inlassen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Haar doel bij de start was heel concreet. “Ik kon geen broeken meer dragen. Dat deed zó veel pijn. Ik droeg alleen nog rokken. Vandaag hangt mijn kast weer vol broeken.” Ze lacht. “Dat klinkt misschien klein, maar voor mij voelde het als vrijheid. Ik voelde me zó beperkt.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wat het programma haar vooral heeft teruggegeven, is meedoen. “’s Ochtends met de kinderen in de auto springen, een hele dag weg zijn en ’s avonds thuiskomen. Dat kon ik jarenlang niet.” Het bracht haar ook nieuwe inzichten. “Ik luister beter naar mezelf. Wat kost energie? Wat geeft energie?” Tijdens het traject startte ze een nieuwe opleiding en groeide door in haar werk. “Een paar jaar geleden had ik daar de ruimte niet voor. Nu wel.”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Het is even gas terug nemen, maar dat is tijdelijk.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Haar boodschap aan andere vrouwen is helder. “Het is een investering. In tijd, geld en energie. En ja, je moet soms iets laten. Maar dat is tijdelijk. Wat je ervoor terugkrijgt, is een leven waarin je weer mee kunt doen.” Ze glimlacht. “En waarin je gewoon weer broeken kunt dragen.”'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1777397778
 use_white_header: false
 is_public: true
 ---
