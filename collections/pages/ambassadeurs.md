@@ -1,6 +1,5 @@
 ---
 id: 036f3cb4-3847-4b98-be8f-bf10d2583660
-published: false
 blueprint: page
 title: Ambassadeurs
 page_builder:
