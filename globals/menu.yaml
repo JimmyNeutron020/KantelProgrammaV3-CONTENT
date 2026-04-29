@@ -3,34 +3,28 @@ data:
   menu_items_big:
     -
       id: mlr07537
-      label: 'Gratis Webinar'
+      label: Webinar
       link_type: internal
       internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
       target_blank: false
     -
       id: mnhlf5ha
-      label: 'Live Doorbraak Sessie'
+      label: 'Doorbraak Sessie'
       link_type: internal
       target_blank: false
       internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
     -
       id: mhhuizrn
-      label: 'Kantel Programma'
+      label: 'Aanmelden Kantel Programma'
       link_type: internal
       target_blank: false
       internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
     -
       id: mhhummtm
-      label: Resultaten
+      label: 'Kantel Verhalen'
       link_type: internal
       target_blank: false
       internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
-    -
-      id: mlcn7mwy
-      label: 'Veelgestelde vragen'
-      link_type: internal
-      internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
-      target_blank: false
   menu_items_small:
     -
       id: mhhuncvp
@@ -61,6 +55,12 @@ data:
       label: 'Kantel Community'
       link_type: internal
       internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
+      target_blank: false
+    -
+      id: mokd5sd3
+      label: 'Veelgestelde vragen'
+      link_type: internal
+      internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
       target_blank: false
   show_featured_item: true
   heading_size: XS
