@@ -47,5 +47,5 @@ trigger_type: exit_intent
 frequency: every_visit
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777486469
+updated_at: 1777486547
 ---
