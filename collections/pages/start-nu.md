@@ -12,7 +12,7 @@ page_builder:
       autoplay_video: true
       video_link: 'https://vimeo.com/1126170387'
       images:
-        - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-90.jpg
+        - chantal-zijwaarts-armen-hoog.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -54,20 +54,11 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Niet eke dag nadenken over wat wel of niet kan. Niet steeds rekening houden met pijn. Maar gewoon bewegen, groots durven dromen en doen. Leven in plaats van overleven. '
+            text: 'Zonder elke dag nadenken over wat wel of niet kan. Niet steeds rekening houden met pijn. Maar gewoon bewegen, groots durven dromen en doen. Leven in plaats van overleven. '
       -
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Het Kantel Programma is een hersteltraject mét begeleiding waarin je leert waarom je lichaam zo reageert en wat er nodig is voor herstel. '
       -
         type: set
         attrs:
@@ -2222,7 +2213,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777230095
+updated_at: 1777487637
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
