@@ -62,6 +62,12 @@ data:
       link_type: internal
       internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
       target_blank: false
+    -
+      id: mokd8u1p
+      label: Ambassadeurs
+      link_type: internal
+      internal_link: 036f3cb4-3847-4b98-be8f-bf10d2583660
+      target_blank: false
   show_featured_item: true
   heading_size: XS
   heading:
