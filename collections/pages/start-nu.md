@@ -532,14 +532,6 @@ page_builder:
         attrs:
           class: null
       -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Onze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet.'
-      -
         type: bulletList
         content:
           -
@@ -562,37 +554,6 @@ page_builder:
                   -
                     type: text
                     text: '. '
-              -
-                type: paragraph
-                attrs:
-                  class: null
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Dit is je laatste kans.'
-                  -
-                    type: text
-                    text: ' Op moederdag 2026, vanaf 10 mei start de allerlaatste groep van het Kantel Programma in deze vorm. '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Daarna verandert alles en komt deze opzet niet meer terug.'
-              -
-                type: paragraph
-                attrs:
-                  class: null
           -
             type: listItem
             content:
@@ -616,65 +577,12 @@ page_builder:
                 type: paragraph
                 attrs:
                   class: null
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Je krijgt nog één keer; de bewezen begeleiding. De diepgang. De vorm die al meer dan 1250 vrouwen heeft geholpen. '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Daarna sluit dit hoofdstuk definitief. '
-              -
-                type: paragraph
-                attrs:
-                  class: null
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Voel je dat dit jouw moment is? Wacht dan niet. '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Vol = vol'
-              -
-                type: paragraph
-                attrs:
-                  class: null
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Beslis nu en start op 10 mei 2026!'
     show_discount_single: true
     show_discount_installments: true
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Start op 10 mei 2026'
+        label: 'Te laat voor de groep van 10 mei? START DIY-VERSIE'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -1248,7 +1156,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Een intensief traject van 13 modules met begeleiding, opgebouwd in 3 fases. Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Onze begeleiding is er om met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet. Wanneer een topsporter geblesseerd raakt is één ding vanzelfsprekend; er komt begeleiding op álle fronten. Niemand zegt: "Leer er maar mee leven." Precies zo serieus nemen wij jou en jouw klachten!'
+            text: 'Een cadeau voor jezelf, bestaand uit 13 modules met opgebouwd in 3 fases. Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Het Kantel Programma is zo gemaakt dat we met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet. Wanneer een topsporter geblesseerd raakt is één ding vanzelfsprekend; er komt een integrale aanpak op álle fronten. Niemand zegt: "Leer er maar mee leven." Precies zo serieus nemen wij jou en jouw klachten!'
       -
         type: paragraph
         attrs:
@@ -1271,7 +1179,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We begeleiden je zoals je een topsporter zou begeleiden: met aandacht voor het hele systeem in plaats van kijken naar het symptoom. Herstel vraagt namelijk dezelfde voorwaarden als topsport, níet dezelfde intensiteit!'
+            text: 'We zien jouw herstel als hoe we een topsporter zou bekijken: met aandacht voor het hele systeem in plaats van de focus op het symptoom. Herstel vraagt namelijk dezelfde voorwaarden als topsport, níet dezelfde intensiteit!'
       -
         type: paragraph
         attrs:
@@ -1329,14 +1237,6 @@ page_builder:
           -
             type: text
             text: 'Je hoeft geen alles of niets beslissing te maken. Je mag starten en voelen. Kies je voor betaling in 3 termijnen? In de eerste maand bepaal je of je het traject volledig wilt afronden, of dat je stopt na deze maand.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
       -
         type: paragraph
         attrs:
@@ -1440,7 +1340,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Een begeleide manier van zelfreflectie om te leren luisteren naar je lichaam. Je deelt wekelijks wat er speelt, ontvangt feedback, richting en support en bouwt vertrouwen op in je eigen signalen en keuzes. '
+                text: 'Een begeleide manier van zelfreflectie om te leren luisteren naar je lichaam. Je deelt wekelijks wat er speelt en leert vertrouwen op je eigen signalen en keuzes. '
         type: feature
         enabled: true
       -
@@ -1477,7 +1377,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je krijgt niet alleen 13 weken intensieve begeleiding, maar 26 weken de tijd om te leren, toe te passen en te integreren. Die extra tijd is bewust gekozen. Zodat je niet hoeft te haasten, kunt terugkijken, verdiepen en het herstel echt kunt verankeren voor de lange termijn.'
+                text: 'Je krijgt 26 weken de tijd om te leren, toe te passen en te integreren. Die extra tijd is bewust gekozen. Zodat je niet hoeft te haasten, kunt terugkijken, verdiepen en het herstel echt kunt verankeren voor de lange termijn.'
         type: feature
         enabled: true
       -
@@ -1497,7 +1397,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Ik start in de laatste groep. Op 10 mei 2026 (vol=vol)'
+        label: 'Te laat voor de groep van 10 mei? START DE DIY VERSIE'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -2213,7 +2113,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777487637
+updated_at: 1778486818
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
