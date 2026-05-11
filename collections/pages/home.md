@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Ervaar in één live sessie dat je lichaam niet kapot is.'
+                    text: 'Ervaar in één sessie dat je lichaam niet kapot is.'
             show_tag: true
             tag_text: WELKOM
             tag_alignment: center
@@ -2056,7 +2056,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1778489179
+updated_at: 1778489411
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
