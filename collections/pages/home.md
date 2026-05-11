@@ -705,16 +705,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je staat er niet alleen voor. Er is vaak herkenbaarheid, want je ziet in het programma veel andere vrouwen. Dertien weken lang deel je ,via de zelfrefectie methodiek, jouw proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Je ontvangt13 weken  gerichte begeleiding, support en feedback.'
-          -
-            type: text
-            text: ' Ook wanneer het schuurt. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
+            text: 'Je staat er niet alleen voor. Er is veel herkenbaarheid, want je ziet in het programma veel vrouwen met dezelfde problemen. Dertien weken lang deel je ,via de zelfrefectie methodiek, jouw proces tot in detail. Wat goed ging. Wat spannend was. Wat vastliep. Ook wanneer het schuurt. Niet alleen succesmomenten tellen. Ook twijfel hoort erbij. Dit is gedragen herstel. Zodat je niet terugvalt zodra het moeilijk wordt.'
       -
         type: set
         attrs:
@@ -1321,7 +1312,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We begeleiden je zoals een topsporter ook wordt begeleid. Een andere kijk op herstel en op je levenswijze. Dit integreer je in jouw moederschap, je werk en je dagelijks leven, zodat herstel blijvend wordt.'
+            text: 'In het programma zit de begeleiding zoals een topsporter ook wordt begeleid. Een andere kijk op herstel en op je levenswijze. Dit integreer je in jouw moederschap, je werk en je dagelijks leven, zodat herstel blijvend wordt.'
     packages:
       -
         id: mlpckhci
@@ -1350,18 +1341,26 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je kunt kiezen uit twee manieren om te starten. In beide gevallen ontvang je intensieve begeleiding, maatwerk en dagelijkse integratie in jouw leven. '
+                text: 'Je kunt kiezen uit twee manieren om de DIY versie te starten. '
           -
-            type: paragraph
+            type: orderedList
             attrs:
-              class: text-md
+              start: 1
             content:
               -
-                type: text
-                marks:
+                type: listItem
+                content:
                   -
-                    type: bold
-                text: 'Direct instappen in het volledige Kantel Programma'
+                    type: paragraph
+                    attrs:
+                      class: text-md
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Direct instappen in het volledige Kantel Programma'
           -
             type: paragraph
             attrs:
@@ -1371,16 +1370,24 @@ page_builder:
                 type: text
                 text: 'De meeste vrouwen kiezen voor deze optie. Je bent verzekerd van een plek in de eerstvolgende groep en bespaart € 194 ten opzichte van betaling per termijn. '
           -
-            type: paragraph
+            type: orderedList
             attrs:
-              class: text-md
+              start: 2
             content:
               -
-                type: text
-                marks:
+                type: listItem
+                content:
                   -
-                    type: bold
-                text: 'Start met de veilige eerste maand'
+                    type: paragraph
+                    attrs:
+                      class: text-md
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Start met de veilige eerste maand'
           -
             type: paragraph
             attrs:
@@ -1391,7 +1398,7 @@ page_builder:
                 text: 'Twijfel je nog of wil je eerst ervaren of deze aanpak bij je past? Dan kun je starten met een eerste maand. In die maand beslis jij of je verder gaat in het traject. Kies je ervoor verder te gaan dan loopt het programma door in maandelijkse termijnen.'
         highlight: true
         show_discount: true
-        label: 'Start 10 mei 2026. Verzeker je van een plek. Laatste groep in deze vorm. Vol= vol'
+        label: 'Te laat voor de groep van 10 mei 2026? Start de DIY VERSIE'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.nl/start-nu'
@@ -1399,7 +1406,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        tag_text: 'Start 10 mei 2026'
+        tag_text: 'TIJDELIJK BESCHIKBAAR'
         tag_alignment: right
     show_settings: false
     inner_spacing_top:
@@ -2049,7 +2056,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1777490391
+updated_at: 1778489179
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
