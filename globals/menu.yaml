@@ -15,7 +15,7 @@ data:
       target_blank: false
     -
       id: mnhlf5ha
-      label: 'Live Doorbraak Sessie'
+      label: 'Doorbraak Sessie'
       link_type: internal
       target_blank: false
       internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
