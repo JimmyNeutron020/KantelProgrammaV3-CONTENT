@@ -1504,7 +1504,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Dit is voor jou als ...'
+                        text: 'Dit is voor jou!'
                 show_tag: false
           -
             type: paragraph
@@ -1513,7 +1513,15 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je bent intelligent. Je verdiept je. Je analyseert. Je hebt al veel geprobeerd. Therapie. Oefeningen. Rust. Juist meer trainen. Podcasts. Nog een traject. Niet half. Maar serieus. En toch zit je vast. '
+                text: 'Je durft jezelf alweer te zien als die fitte en energieke moeder. Onbezorgd in vrij in je lichaam! '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je bent intelligent. Je bent een tikkeltje perfectionistisch en loslaten is wel lastig. Je hebt al van alles geprobeerd. Therapie. Oefeningen. Rust. Juist meer trainen. Podcasts. Nog een traject. Niet half. Maar serieus. En toch zit je vast. '
           -
             type: paragraph
             attrs:
@@ -1676,7 +1684,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je vooral wilt horen dat je niets hoeft te veranderen. Je bij elk advies eerst in de weerstand schiet. Je eigenlijk hoopt dat wij je vooraf overtuigen zonder dat jij echt hoeft te bewegen. '
+                text: 'Je vooral wilt blijven vertellen hoe lastig het allemaal is. Je bij elk advies eerst in de weerstand schiet. Je eigenlijk hoopt dat wij je overtuigen om te gaan instappen.  '
           -
             type: paragraph
             attrs:
@@ -1684,7 +1692,15 @@ page_builder:
             content:
               -
                 type: text
-                text: "Als je vooral zekerheid zoekt vóór je start. Als je garanties wilt. Als je het traject wil 'proberen'. Dan is dit waarschijnlijk niet jouw plek. Niet omdat je het niet verdient. Maar omdat echte kanteling vraagt dat jij instapt. Als je daartoe  nog niet bereid bent, dan is dit waarschijnlijk niet het juiste moment."
+                text: "Als je zekerheid en garanties zoekt vóór je start. Als je het traject wel wil 'proberen' zonder hoop en vertrouwen."
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: ' Dan is dit waarschijnlijk niet jouw plek. Niet omdat je het niet verdient. Maar omdat echte kanteling vraagt dat jij instapt. En ook dat je je al een beetje durft te verheugen op de fitte versie van jezelf. Als je daartoe  nog niet bereid bent, dan is dit waarschijnlijk niet het juiste moment.'
           -
             type: paragraph
             attrs:
@@ -2113,7 +2129,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1778486818
+updated_at: 1778487627
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
