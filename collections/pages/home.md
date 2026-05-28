@@ -1218,7 +1218,7 @@ page_builder:
                     type: btsSpan
                     attrs:
                       class: text-orange
-                text: 'Je hoeft nog niet alles zeker te weten of zelfs van alles geregeld te hebben. Je mag gewoon beginnen.'
+                text: 'Deze zomer fit en pijnvrij! Laatste kans. Tot 5 juni 2026 beschikbaar'
           -
             type: paragraph
             attrs:
@@ -1226,7 +1226,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je kunt kiezen uit twee manieren om de DIY versie te starten. '
+                text: 'Je kunt kiezen uit twee manieren om deze versie te starten. '
           -
             type: orderedList
             attrs:
@@ -1280,10 +1280,10 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Twijfel je nog of wil je eerst ervaren of deze aanpak bij je past? Dan kun je starten met een eerste maand. In die maand beslis jij of je verder gaat in het traject. Kies je ervoor verder te gaan dan loopt het programma door in maandelijkse termijnen.'
+                text: 'Twijfel je nog of wil je eerst ervaren of deze aanpak bij je past? Dan kun je starten met een eerste maand. In die maand beslis jij of je verder gaat in het traject. '
         highlight: true
         show_discount: true
-        label: 'Te laat voor de groep van 10 mei 2026? Start de DIY VERSIE'
+        label: 'START NU'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.nl/start-nu'
@@ -1291,7 +1291,6 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
-        tag_text: 'TIJDELIJK BESCHIKBAAR'
         tag_alignment: right
     show_settings: false
     inner_spacing_top:
@@ -1338,7 +1337,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Wat wordt jouw volgende stap?'
+                    text: 'Jouw volgende stap'
             show_tag: false
       -
         type: paragraph
@@ -1351,7 +1350,7 @@ page_builder:
         content:
           -
             type: text
-            text: "Je kunt blijven hopen dat het vanzelf verbetert. Of je kunt kiezen om je herstel serieus te nemen. Blijf je wachten tot het 'erg genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
+            text: "Je kunt blijven hopen dat het vanzelf verbetert. Blijf je wachten tot het 'erg genoeg' is? Of kies je ervoor om nu te bouwen aan een lichaam dat weer met je meewerkt? "
       -
         type: paragraph
         attrs:
@@ -1359,7 +1358,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je hoeft het niet zeker te weten om de eerste stap te durven zetten.'
+            text: 'Je hoeft het niet zeker te weten om de eerste stap te zetten.'
       -
         type: paragraph
         attrs:
@@ -1373,7 +1372,7 @@ page_builder:
             buttons:
               -
                 id: 9062PRLS
-                label: 'Start veilig met maand 1'
+                label: 'IK HEB LEF EN START NU'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.nl/start-nu'
@@ -1536,7 +1535,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -1555,7 +1554,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -1574,7 +1573,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -1599,7 +1598,7 @@ page_builder:
             buttons:
               -
                 id: ckyWOwGl
-                label: 'Echte verhalen. Echte vrouwen.'
+                label: 'Echte vrouwen. Echte verhalen.'
                 link_type: link
                 target_blank: false
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
@@ -1941,7 +1940,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1779965466
+updated_at: 1779967331
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
