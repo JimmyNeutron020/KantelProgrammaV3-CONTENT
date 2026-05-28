@@ -394,10 +394,10 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Maar jij bent geen losse puzzel. '
+            text: 'Je bent geen losse puzzel. '
           -
             type: text
-            text: 'Wij kijken naar het geheel. Wij bouwen aan veiligheid in je zenuwstelsel, zodat je lichaam stopt met vechten. Niet langer hoeft te compenseren en jouw vertrouwen terug komt door een integrale benadering met 24/7 begeleiding. Zoals in de topsport heel normaal is. '
+            text: 'Wij kijken naar het geheel en bouwen aan veiligheid in je zenuwstelsel. Je lichaam  kan stoppen met vechten en hoeft niet langer te compenseren. Door de integrale benadering met 24/7 begeleiding, die in de topsport heel normaal is, komt je vertrouwen snel terug.'
       -
         type: paragraph
         attrs:
@@ -417,7 +417,16 @@ page_builder:
             marks:
               -
                 type: bold
-            text: '.  Dit is ons startpunt '
+            text: '.  '
+          -
+            type: text
+            text: 'Dit is ons startpunt'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
           -
             type: text
             text: 'en je hoeft dus niet hard(er) te trainen of fit of sportief te zijn om te kunnen starten '
@@ -726,14 +735,25 @@ page_builder:
                               -
                                 type: bold
                             text: 'dat ze minder bezig zijn met de klachten'
+                  -
+                    id: mppdgta7
+                    fa_icon: 'fa-solid fa-album-circle-plus'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'dat ze snel rust voelen'
           -
             type: paragraph
             attrs:
               class: null
-            content:
-              -
-                type: text
-                text: 'En dat alleen al geeft rust.'
           -
             type: set
             attrs:
@@ -1921,7 +1941,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1779965051
+updated_at: 1779965466
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
