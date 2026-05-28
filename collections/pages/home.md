@@ -14,7 +14,7 @@ page_builder:
           id: mmfa4s89
           values:
             type: heading
-            heading_size: M
+            heading_size: L
             heading:
               -
                 type: paragraph
@@ -115,7 +115,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Misschien herken je jezelf?'
+                        text: 'Herken je jezelf?'
                 show_tag: false
           -
             type: paragraph
@@ -124,7 +124,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je bent iemand die '
+                text: 'Je neemt vaak '
               -
                 type: text
                 marks:
@@ -133,7 +133,7 @@ page_builder:
                 text: verantwoordelijkheid
               -
                 type: text
-                text: ' neemt voor haar gezondheid. Niet iemand die afwacht. Maar iemand die wil begrijpen. '
+                text: ' en bent niet  iemand die afwacht.  '
           -
             type: paragraph
             attrs:
@@ -141,7 +141,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je gaat nog door op '
+                text: 'Je gaat door op '
               -
                 type: text
                 marks:
@@ -150,7 +150,7 @@ page_builder:
                 text: wilskracht
               -
                 type: text
-                text: '. Altijd rekening houden met de pijn. Je plant je leven steeds meer om de pijn heen. Je twijfelt aan je lichaam.'
+                text: '. Je plant je leven steeds meer om de pijn heen. Je twijfelt aan je lichaam.'
           -
             type: paragraph
             attrs:
@@ -158,16 +158,16 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien heb je '
+                text: 'Je herkent jezelf niet meer. Voordat je moeder was voelde je je wel energiek en fit. Je wilt '
               -
                 type: text
                 marks:
                   -
                     type: bold
-                text: 'al veel geprobeerd'
+                text: 'je leven terug'
               -
                 type: text
-                text: '. Behandelingen. Onderzoeken. Therapieën. Adviezen. Soms hielp het even. Maar ergens voelde je: Dit kan niet het hele verhaal zijn. '
+                text: '.  '
           -
             type: paragraph
             attrs:
@@ -175,67 +175,16 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet omdat de mensen die je hielpen hun best niet deden. Maar omdat je voelde dat er '
+                text: "Als je dit leest en denkt '"
               -
                 type: text
                 marks:
-                  -
-                    type: bold
-                text: 'iets diepers speelt in hoe je lichaam reageert'
-              -
-                type: text
-                text: '. En dat je dat wilt begrijpen. Niet ermee leren omgaan. Je wilt niet nog een traject waarin iemand iets '
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: 'bij je doet.'
-              -
-                type: text
-                text: ' '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Als je dit leest en denkt '
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: '“Ja… dit is precies waar ik nu sta”'
-              -
-                type: text
-                text: " en diep van binnen voel je: '"
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
                   -
                     type: italic
                 text: 'Dit kan toch niet de rest van mijn leven zijn'
               -
                 type: text
-                marks:
-                  -
-                    type: bold
-                text: .
-              -
-                type: text
-                text: "' "
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Dat is dit precies waar het Kantel Programma voor bedoeld is. Geen volgende behandeling maar een ander vertrekpunt. Een traject waarin je leert hoe je lichaam werkt en reageert en wat er wél nodig is zodat weer kunt '
+                text: "' dan ben je op de goede plek om snel weer te kunnen gaan "
               -
                 type: text
                 marks:
@@ -254,7 +203,7 @@ page_builder:
                 buttons:
                   -
                     id: KclmKSqS
-                    label: 'Live Doorbraak Sessie'
+                    label: 'Doorbraak Sessie'
                     link_type: link
                     target_blank: false
                     link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
@@ -311,7 +260,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Hoe het voelt als je lichaam weer meewerkt'
+                        text: 'Als je lichaam wel weer meewerkt'
                 show_tag: false
           -
             type: paragraph
@@ -320,80 +269,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'elke ochtend moe wakker '
-              -
-                type: text
-                text: 'worden en eerst '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'checken hoe je lichaam voelt'
-              -
-                type: text
-                text: '. Niet langer plannen hoeven maken rondom wat wel en niet kan. Maar gewoon:'
-          -
-            type: set
-            attrs:
-              id: mmfbfjrd
-              values:
-                type: icon_list
-                iconlist:
-                  -
-                    id: mmfbfnaf
-                    fa_icon: 'fa-solid fa-book-heart'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'bewegen zonder angst'
-                  -
-                    id: mmfbfw6g
-                    fa_icon: 'fa-solid fa-book-heart'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'met je kinderen spelen zonder steeds op je lichaam te letten'
-                  -
-                    id: mmfbfzej
-                    fa_icon: 'fa-solid fa-book-heart'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'lange tijd kunnen zitten, stilstaan of lopen zónder pijn'
-                  -
-                    id: mmfbga28
-                    fa_icon: 'fa-solid fa-book-heart'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'dat je niet meer met de beperkingen van je lichaam bezig hoeft te zijn '
+                text: "🧡Dan wordt je 's ochtends fit wakker en bent de moeder die je wilt zijn. "
           -
             type: paragraph
             attrs:
@@ -401,7 +277,19 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niet omdat alles perfect is. Maar omdat je lichaam weer voelt als iets waar je op kunt bouwen.'
+                text: '🧡Hoef je niet continu te checken hoe je lichaam voelt. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🧡Leef je weer vrij omdat je niet langer plannen hoeft te maken rondom wat wel en niet kan. '
+          -
+            type: paragraph
+            attrs:
+              class: null
           -
             type: set
             attrs:
@@ -2056,7 +1944,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1779962534
+updated_at: 1779963679
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
