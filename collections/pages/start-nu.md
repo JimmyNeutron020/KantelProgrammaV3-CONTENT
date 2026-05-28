@@ -40,7 +40,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Stel je voor dat je je lichaam weer kunt vertrouwen'
+                    text: 'Stel je voor dat je wél die fitte moeder kunt zijn '
             show_tag: false
       -
         type: paragraph
@@ -54,26 +54,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Zonder elke dag nadenken over wat wel of niet kan. Niet steeds rekening houden met pijn. Maar gewoon bewegen, groots durven dromen en doen. Leven in plaats van overleven. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: mmfdfwu4
-          values:
-            type: buttons
-            buttons:
-              -
-                id: PzgI3Kmg
-                label: 'Ik wil kantelen'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
-                button_layout: solid
-                button_colour: orange
+            text: 'Zonder elke dag nadenken over wat wel of niet kan. Niet steeds rekening houden met pijn, maar gewoon bewegen, spelen met je kinderen en weer groots durven dromen.'
     type: HeroSection
     enabled: true
   -
@@ -119,7 +100,7 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
@@ -131,7 +112,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'En toch komt de pijn terug. Blijft je lichaam gespannen. Vertrouw je het niet meer. Plan je je leven rondom wat je aankunt. En dat is het echte verlies. Niet alleen de pijn. Maar de vrijheid.'
+                text: 'En toch komt de pijn terug en blijft je lichaam gespannen. Je vertrouwt het niet meer. Je plant je leven rondom wat je aankunt en dat is het echte verlies. Niet alleen de pijn maar ook de vrijheid die je kwijt bent.'
         type: phase
         enabled: true
       -
@@ -177,7 +158,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Veel trajecten focussen op losse oefeningen en op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder. Je probeert meer. Maar het blijft terugkomen. Er is dus iets anders nodig. En precies daar beginnen wij. '
+                text: 'Veel trajecten focussen op losse oefeningen en op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder en probeert meer, maar het blijft terugkomen. Er is dus iets anders nodig en precies daar beginnen wij. '
           -
             type: paragraph
             attrs:
@@ -231,7 +212,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je wilt niet minder pijn. Je wilt pijnvrij leven. Wakker worden zonder dat je meteen checkt hoe je lichaam voelt. '
+                text: 'Je wilt niet minder pijn maar je wilt pijnvrij leven. Wakker worden zonder dat je meteen checkt hoe je lichaam voelt. '
           -
             type: paragraph
             attrs:
@@ -582,7 +563,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Te laat voor de groep van 10 mei? START DIY-VERSIE'
+        label: 'START NU | DE DEUR SLUIT 5 JUNI'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -1397,7 +1378,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'Te laat voor de groep van 10 mei? START DE DIY VERSIE'
+        label: 'START NU | DE DEUR SLUIT 5 JUNI'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -2129,7 +2110,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1778487627
+updated_at: 1779967837
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
