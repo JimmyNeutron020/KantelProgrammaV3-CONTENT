@@ -47,6 +47,6 @@ trigger_type: exit_intent
 frequency: once_per_x_days
 min_page_views: 1
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1779967951
+updated_at: 1780598020
 frequency_days: 7
 ---
