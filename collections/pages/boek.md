@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - boek-website-achter.png
+        - boek-omslag-1-juni-2026.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -23,6 +23,7 @@ page_builder:
         type: set
         attrs:
           id: mpzv4xkz
+          enabled: false
           values:
             type: heading
             heading_size: M
@@ -49,13 +50,6 @@ page_builder:
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'PRE-ORDER NU VOOR €24,50'
       -
         type: set
         attrs:
@@ -65,7 +59,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: 'JA RESERVEER MIJ EXEMPLAAR'
+                label: 'PRE-ORDER NU VOOR € 24.50'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -74,5 +68,5 @@ page_builder:
     enabled: true
 use_white_header: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780600022
+updated_at: 1780600382
 ---
