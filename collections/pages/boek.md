@@ -66,8 +66,188 @@ page_builder:
                 button_colour: orange
     type: HeroSection
     enabled: true
+  -
+    id: mpzw8648
+    color: '#f7e7de'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - boek-website-achter.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mpzwbiz4
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Chronische pijn is níet normaal'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Níet '
+                  -
+                    type: text
+                    text: 'dat je eerst bedenkt wat je lichaam aankan voordat je ergens ja op zegt.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Níet
+                  -
+                    type: text
+                    text: ' dat je dagen plant rondom energie.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Níet
+                  -
+                    type: text
+                    text: ' dat je leven steeds kleiner wordt.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: Níet
+                  -
+                    type: text
+                    text: ' dat je bent gaan geloven dat dit er nu eenmaal bij hoort.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Toch is dat precies wat duizenden vrouwen normaal zijn gaan vinden. Dit boek laat je zien waarom en waarom jouw verhaal misschien nog niet af is.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Voor vrouwen die moe zijn van pijn, vermoeidheid en altijd doorgaan. Voor vrouwen willen begrijpen waarom hun lichaam misschien niet kapot is.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '👉🏻 Begrijp waarom je blijft vastlopen'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '👉🏻 Ontdek waarom klachten vaak meer vertellen dan alleen waar het pijn doet'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '👉🏻 Stop met jezelf de schuld geven'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '👉🏻 Durf weer te geloven dat herstel mogelijk is'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780601392
+updated_at: 1780601941
 ---
