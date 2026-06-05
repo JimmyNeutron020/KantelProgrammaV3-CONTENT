@@ -27,40 +27,22 @@ data:
       internal_link: 036f3cb4-3847-4b98-be8f-bf10d2583660
       target_blank: false
     -
-      id: mll9t50k
-      label: 'Kantel Community'
-      link_type: internal
-      internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
-      target_blank: false
-    -
-      id: mll77whe
-      label: 'Zorgeloos zwanger'
-      link_type: internal
-      internal_link: 52db6513-16b1-44ac-9c19-dea1f2833a69
-      target_blank: false
-    -
-      id: mhhuncvp
-      label: Blog
-      link_type: internal
-      target_blank: false
-      internal_link: b91abd03-a45d-4203-af4b-1e8686cee5d9
-    -
-      id: mokd5sd3
-      label: 'Veelgestelde vragen'
-      link_type: internal
-      internal_link: ae591f60-6649-4bdf-996c-59880e8a0cff
-      target_blank: false
-    -
-      id: mlr05uuc
-      label: Contact
-      link_type: internal
-      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
-      target_blank: false
-    -
       id: mq1cxge3
       label: 'Aanmelden DIY Kantel Programma'
       link_type: internal
       internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
+      target_blank: false
+    -
+      id: mll77whe
+      label: 'Aanmelden Zorgeloos zwanger'
+      link_type: internal
+      internal_link: 52db6513-16b1-44ac-9c19-dea1f2833a69
+      target_blank: false
+    -
+      id: mll9t50k
+      label: 'Aanmelden Kantel Community Oud Deelnemers'
+      link_type: internal
+      internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
       target_blank: false
     -
       id: mq1czca8
@@ -69,8 +51,14 @@ data:
       internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
       target_blank: false
     -
+      id: mq1dlt3q
+      label: '100+ Echte verhalen van echte vrouwen'
+      link_type: internal
+      internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
+      target_blank: false
+    -
       id: mq1d0nvs
-      label: Contact
+      label: 'Persoonlijk advies'
       link_type: internal
       internal_link: d6614911-c037-46d0-90bc-50fc73782ee2
       target_blank: false
@@ -79,6 +67,18 @@ data:
       label: 'Gratis Webinar'
       link_type: internal
       internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
+      target_blank: false
+    -
+      id: mhhuncvp
+      label: Blog
+      link_type: internal
+      target_blank: false
+      internal_link: b91abd03-a45d-4203-af4b-1e8686cee5d9
+    -
+      id: mlr05uuc
+      label: Contact
+      link_type: internal
+      internal_link: 69a5080a-2257-4213-a2fc-605373a33691
       target_blank: false
   show_featured_item: true
   heading_size: XS
@@ -94,6 +94,120 @@ data:
   show_tag: true
   tag_alignment: right
   package_cards:
+    -
+      id: mn4tyued
+      icon: 'fa-duotone fa-light fa-face-thinking'
+      heading_size: XS
+      heading:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: '📚 Boek "Chronische pijn is níet normaal."'
+      show_tag: false
+      label: 'Boek "Chronische pijn is níet normaal."'
+      link_type: link
+      target_blank: false
+      link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
+      button_layout: standard
+      button_colour: orange
+      type: card_item
+      enabled: true
+      featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-65.jpg
+      exclude_from_pages:
+        - 71945a19-48fa-45f2-b5c4-b3cb2818678a
+        - a932636a-55fe-4d95-8489-dbbc91f1cf66
+        - 036f3cb4-3847-4b98-be8f-bf10d2583660
+        - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
+        - a203ba5f-4950-4053-be31-1224c1fe6f88
+        - 798268e6-e179-42ee-9dc8-35a62106109e
+        - 37fe9b56-749b-4049-9173-064c8aa11ba3
+        - e5b50ba8-0197-4833-9acf-504ef247e1db
+        - d6614911-c037-46d0-90bc-50fc73782ee2
+        - 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
+        - ce720b86-3dee-4e7c-afb9-34e2dad33f33
+        - a3d8b21b-2251-41c7-95ea-f2089c4ff776
+        - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
+        - 631dd581-8207-4fe0-81e5-2becf841200f
+        - 84e93a62-c1cd-4ec3-9bd2-06e30909f119
+        - babc9d5b-c875-4aaf-a85a-5dec77141630
+        - d234ac9f-17f1-4ade-a133-11e3ea87c414
+        - 083cff0a-660c-4ddc-b23d-c9cb308da729
+        - d81e8a34-e412-443e-b24b-f46726b1d854
+        - f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
+        - 30c318bf-74b9-4f4c-ada6-ea070534f915
+        - ae591f60-6649-4bdf-996c-59880e8a0cff
+        - 52db6513-16b1-44ac-9c19-dea1f2833a69
+      content:
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              marks:
+                -
+                  type: bold
+              text: 'Chronische pijn is níet normaal'
+        -
+          type: bulletList
+          content:
+            -
+              type: listItem
+              content:
+                -
+                  type: paragraph
+                  attrs:
+                    class: null
+                  content:
+                    -
+                      type: text
+                      text: 'dat je eerst bedenkt wat je lichaam aankan voordat je ergens ja op zegt.'
+            -
+              type: listItem
+              content:
+                -
+                  type: paragraph
+                  attrs:
+                    class: null
+                  content:
+                    -
+                      type: text
+                      text: 'dat je dagen plant rondom energie.'
+            -
+              type: listItem
+              content:
+                -
+                  type: paragraph
+                  attrs:
+                    class: null
+                  content:
+                    -
+                      type: text
+                      text: 'dat je leven steeds kleiner wordt.'
+            -
+              type: listItem
+              content:
+                -
+                  type: paragraph
+                  attrs:
+                    class: null
+                  content:
+                    -
+                      type: text
+                      text: 'dat je bent gaan geloven dat dit er nu eenmaal bij hoort.'
+        -
+          type: paragraph
+          attrs:
+            class: null
+          content:
+            -
+              type: text
+              text: 'Toch is dat precies wat duizenden vrouwen normaal zijn gaan vinden. Dit boek laat je zien waarom en waarom jouw verhaal misschien nog niet af is.'
     -
       id: mhhv3spg
       icon: 'fa-regular fa-presentation-screen'
@@ -252,53 +366,6 @@ data:
       featured_image: brand/img_2643.jpg
       exclude_from_pages:
         - 37fe9b56-749b-4049-9173-064c8aa11ba3
-    -
-      id: mn4tyued
-      icon: 'fa-duotone fa-light fa-face-thinking'
-      heading_size: XS
-      heading:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              text: '📚 Boek "Chronische pijn is níet normaal."'
-      show_tag: false
-      label: 'Boek "Chronische pijn is níet normaal."'
-      link_type: link
-      target_blank: false
-      link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
-      button_layout: standard
-      button_colour: orange
-      type: card_item
-      enabled: true
-      featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-65.jpg
-      exclude_from_pages:
-        - 71945a19-48fa-45f2-b5c4-b3cb2818678a
-        - a932636a-55fe-4d95-8489-dbbc91f1cf66
-        - 036f3cb4-3847-4b98-be8f-bf10d2583660
-        - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
-        - a203ba5f-4950-4053-be31-1224c1fe6f88
-        - 798268e6-e179-42ee-9dc8-35a62106109e
-        - 37fe9b56-749b-4049-9173-064c8aa11ba3
-        - e5b50ba8-0197-4833-9acf-504ef247e1db
-        - d6614911-c037-46d0-90bc-50fc73782ee2
-        - 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
-        - ce720b86-3dee-4e7c-afb9-34e2dad33f33
-        - a3d8b21b-2251-41c7-95ea-f2089c4ff776
-        - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
-        - 631dd581-8207-4fe0-81e5-2becf841200f
-        - 84e93a62-c1cd-4ec3-9bd2-06e30909f119
-        - babc9d5b-c875-4aaf-a85a-5dec77141630
-        - d234ac9f-17f1-4ade-a133-11e3ea87c414
-        - 083cff0a-660c-4ddc-b23d-c9cb308da729
-        - d81e8a34-e412-443e-b24b-f46726b1d854
-        - f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
-        - 30c318bf-74b9-4f4c-ada6-ea070534f915
-        - ae591f60-6649-4bdf-996c-59880e8a0cff
-        - 52db6513-16b1-44ac-9c19-dea1f2833a69
     -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
