@@ -1257,15 +1257,7 @@ page_builder:
                             text: 'Dit boek begint niet bij pijn.'
                           -
                             type: text
-                            text: ' Het begint bij de signalen die veel vrouwen lang negeren. Want voordat een lichaam gaat schreeuwen, heeft het vaak jarenlang gefluisterd. Daarom neem ik je mee op een reis die duizenden vrouwen herkennen. Je blijft doorgaan.'
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Waarom zoveel sterke vrouwen hun grenzen feilloos voelen... Maar er toch steeds opnieuw overheen stappen.'
+                            text: ' Het begint bij de signalen die veel vrouwen lang negeren. Want voordat een lichaam gaat schreeuwen, heeft het vaak jarenlang gefluisterd. Daarom neem ik je mee op een reis die duizenden vrouwen herkennen. Je blijft doorgaan. Waarom zoveel sterke vrouwen hun grenzen feilloos voelen... Maar er toch steeds opnieuw overheen stappen.'
                   -
                     id: mq13xsz8
                     fa_icon: 'fa-regular fa-angle-down'
@@ -1400,6 +1392,21 @@ page_builder:
                           -
                             type: text
                             text: 'Want inzicht verandert niets en toepassing wel. Dit boek geeft je niet alleen antwoorden. Het laat je zien waar jouw kanteling kan beginnen.'
+          -
+            type: set
+            attrs:
+              id: mq14ai8k
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: l0QBVg5Q
+                    label: 'Ik reserveer mijn exemplaar'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
   -
@@ -1423,5 +1430,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780675304
+updated_at: 1780675990
 ---
