@@ -59,7 +59,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: 'BOEK | PRE-ORDER NU VOOR € 24.50'
+                label: 'PRE-ORDER BOEK € 24.50'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -88,7 +88,7 @@ page_builder:
           id: mpzwbiz4
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: paragraph
@@ -124,7 +124,7 @@ page_builder:
                     marks:
                       -
                         type: bold
-                    text: 'Níet '
+                    text: 'Níet normaal '
                   -
                     type: text
                     text: 'dat je eerst bedenkt wat je lichaam aankan voordat je ergens ja op zegt.'
@@ -144,6 +144,15 @@ page_builder:
                     text: Níet
                   -
                     type: text
+                    text: ' '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: normaal
+                  -
+                    type: text
                     text: ' dat je dagen plant rondom energie.'
           -
             type: listItem
@@ -161,6 +170,15 @@ page_builder:
                     text: Níet
                   -
                     type: text
+                    text: ' '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: normaal
+                  -
+                    type: text
                     text: ' dat je leven steeds kleiner wordt.'
           -
             type: listItem
@@ -176,6 +194,15 @@ page_builder:
                       -
                         type: bold
                     text: Níet
+                  -
+                    type: text
+                    text: ' '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: normaal
                   -
                     type: text
                     text: ' dat je bent gaan geloven dat dit er nu eenmaal bij hoort.'
@@ -246,8 +273,65 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+  -
+    id: mq0ol278
+    items:
+      -
+        id: mq0olajp
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-12.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq0on7d1
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Wanneer ben je dit normaal gaan vinden?'
+                show_tag: false
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780601941
+updated_at: 1780649539
 ---
