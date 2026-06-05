@@ -1097,6 +1097,111 @@ page_builder:
     type: ResultsCtaSection
     enabled: true
   -
+    id: mq12vv6a
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+    items:
+      -
+        id: mq13h6q0
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - chantal-homepage.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq13i8ih
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Waarom ik dit boek moest schrijven'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🧡 Omdat ik niet wil dat vrouwen hun toekomst opgeven op basis van een overtuiging die misschien helemaal niet waar is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🧡 Omdat ik te vaak vrouwen zie die denken dat ze ermee moeten leren leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🧡 Omdat ik te vaak vrouwen zie die zichzelf langzaam kwijtraken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🧡 En omdat ik geloof dat herstel verder gaat dan één persoon.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wat je voorleeft maakt meer verschil dan wat je vertelt. Kinderen leren hoe ze met zichzelf omgaan door te kijken naar hoe wij met onszelf omgaan. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Daarom gaat dit boek niet alleen over pijn. Het gaat over wat er verandert wanneer een vrouw stopt met geloven dat pijn, uitputting en zichzelf wegcijferen normaal zijn.'
+        type: new_set
+        enabled: true
+  -
     id: mq12gntv
     color: '#f7e7de'
     show_settings: false
@@ -1114,25 +1219,8 @@ page_builder:
       spacing_mobile: standard
     type: ResultatenOverview
     enabled: true
-  -
-    id: mq12vv6a
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780674138
+updated_at: 1780674407
 ---
