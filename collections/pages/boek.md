@@ -900,24 +900,6 @@ page_builder:
             type: text
             text: 'Ergens onderweg werd doorgaan een gewoonte en luisteren iets wat steeds verder naar de achtergrond verdween. Veel klachten zijn niet ontstaan omdat je te weinig hebt gedaan. Maar omdat je veel te lang alles hebt gedragen.'
   -
-    id: mq12gntv
-    color: '#f7e7de'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: ResultatenOverview
-    enabled: true
-  -
     id: mq12h6wj
     media:
       video: false
@@ -950,57 +932,140 @@ page_builder:
                       -
                         type: btsSpan
                         attrs:
-                          class: text-orange
-                    text: 'Meer dan 1250 vrouwen gingen je voor.'
-            show_tag: false
+                          class: text-white
+                    text: 'Meer dan 1250 vrouwen gingen je voor'
+            show_tag: true
+            tag_text: 'hun echte verhalen in het boek'
+            tag_alignment: right
       -
-        type: paragraph
-        attrs:
-          class: null
+        type: bulletList
         content:
           -
-            type: text
-            text: 'De vrouw die haar boodschappen aan de kassa liet staan omdat ze niet langer kon blijven staan.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: text-md
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'De vrouw die haar boodschappen aan de kassa liet staan omdat ze niet langer kon blijven staan.'
           -
-            type: text
-            text: 'De vrouw die haar baby niet zonder pijn kon tillen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: text-md
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'De vrouw die haar baby niet zonder pijn kon tillen.'
           -
-            type: text
-            text: 'De vrouw die niet meer durfde te dromen van een volgende zwangerschap.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: text-md
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'De vrouw die niet meer durfde te dromen van een volgende zwangerschap.'
           -
-            type: text
-            text: 'De vrouw die met een rolstoel door de Efteling ging.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: text-md
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'De vrouw die met een rolstoel door de Efteling ging.'
           -
-            type: text
-            text: 'De vrouw die haar leven steeds kleiner zag worden.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: text-md
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'De vrouw die haar leven steeds kleiner zag worden.'
           -
-            type: text
-            text: 'En de vrouw die ontdekte dat haar verhaal nog niet af was.'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: text-md
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: link
+                        attrs:
+                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                          rel: null
+                          target: null
+                          title: null
+                      -
+                        type: bold
+                    text: 'En de vrouw die ontdekte dat haar verhaal nog niet af was.'
       -
         type: set
         attrs:
@@ -1031,8 +1096,43 @@ page_builder:
       spacing_mobile: standard
     type: ResultsCtaSection
     enabled: true
+  -
+    id: mq12gntv
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultatenOverview
+    enabled: true
+  -
+    id: mq12vv6a
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780672763
+updated_at: 1780673550
 ---
