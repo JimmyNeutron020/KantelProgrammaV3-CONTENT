@@ -1,6 +1,5 @@
 ---
 id: e9891dd8-f779-4817-a6aa-1104fc50ef88
-published: false
 blueprint: page
 title: 'Kantel Programma Home'
 page_builder:
