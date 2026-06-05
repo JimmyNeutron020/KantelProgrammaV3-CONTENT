@@ -59,7 +59,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: 'PRE-ORDER BOEK € 24.50'
+                label: 'PRE-ORDER BOEK € 29.50'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -333,5 +333,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780649539
+updated_at: 1780655644
 ---
