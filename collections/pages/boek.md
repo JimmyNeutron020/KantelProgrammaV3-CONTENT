@@ -1576,7 +1576,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Maar losse oplossingen maken nog geen puzzel compleet. Daarom ontwikkelden we de Bewezen Beter Kantelmethode. Een methode die kijkt naar het totaalplaatje. Want herstel gaat zelden over één spier. Eén scan. Of één behandeling.'
+            text: 'Maar losse oplossingen maken nog geen puzzel compleet. Daarom ontwikkelden we de Bewezen Beter Kantel Methode. Een methode die kijkt naar het totaalplaatje. Want herstel gaat zelden over één spier. Eén scan. Of één behandeling.'
       -
         type: paragraph
         attrs:
@@ -1602,6 +1602,82 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mq15yf9d
+    items:
+      -
+        id: mq15ywqx
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma_live-112.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq16288o
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '"Ja maar... ik heb al zoveel geprobeerd."'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat geloven we direct. Sterker nog, dat is waarschijnlijk precies waarom je hier bent. Je hebt gezocht, geleerd, geprobeerd, gehoopt en soms ook opnieuw teleurgesteld geweest.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dus logisch dat je voorzichtig bent. Logisch dat je denkt: "Waarom zou dit anders zijn?" Maar misschien is dat niet de juiste vraag. Misschien is de betere vraag: Heb ik ooit echt geleerd hoe chronische pijn werkt? Niet hoe ik ermee om moet gaan. Niet hoe ik het moet verdragen. Niet hoe ik het moet accepteren. Maar hoe het werkelijk werkt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Want veel vrouwen ontdekken tijdens het lezen van dit boek iets opvallends. Dat ze jarenlang bezig zijn geweest met het bestrijden van klachten... Zonder ooit te begrijpen waarom die klachten bleven bestaan.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mq12gntv
     color: '#f7e7de'
     show_settings: false
@@ -1622,5 +1698,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780678354
+updated_at: 1780678699
 ---
