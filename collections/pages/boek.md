@@ -314,6 +314,118 @@ page_builder:
                               class: text-orange
                         text: 'Wanneer ben je dit normaal gaan vinden?'
                 show_tag: false
+          -
+            type: set
+            attrs:
+              id: mq0z3vuk
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mq0z3y1y
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Wanneer werd moe wakker worden normaal?'
+                  -
+                    id: mq0z57x7
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Wanneer werd pijn normaal?'
+                  -
+                    id: mq0z5hjb
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Wanneer werd jezelf wegcijferen normaal?'
+                  -
+                    id: mq0z5x2l
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Wanneer werd het normaal dat je eerst bedenkt of je lichaam iets aankan voordat je ergens ja op zegt?'
+                  -
+                    id: mq0z6a6z
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Wanneer werd het normaal dat een leuke dag een prijskaartje heeft?'
+                  -
+                    id: mq0z6w1y
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Wanneer werd het normaal dat je meer bezig bent met volhouden en overleven dan met leven?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niemand kiest daarvoor en het gebeurt langzaam. Zo langzaam dat je het vaak pas ziet wanneer je terugkijkt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je gaat anders plannen, anders bewegen, anders denken en anders leven. Totdat je op een dag beseft: "'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Ik leef niet meer zoals ik wil leven.'
+              -
+                type: text
+                text: '"'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En precies daarom schreef ik dit boek. Omdat iets wat vaak voorkomt niet betekent dat dat normaal is.'
         type: new_set
         enabled: true
     show_settings: false
@@ -334,5 +446,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780655697
+updated_at: 1780667184
 ---
