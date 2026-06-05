@@ -264,24 +264,9 @@ data:
           content:
             -
               type: text
-              text: '💡 Kantel Inzicht '
+              text: '📚 Boek "Chronische pijn is níet normaal."'
       show_tag: false
-      content:
-        -
-          type: paragraph
-          attrs:
-            class: null
-          content:
-            -
-              type: text
-              marks:
-                -
-                  type: bold
-              text: 'Je bent moeder en zó moe'
-            -
-              type: text
-              text: ' | Ontdek de 6 sleutels waarom jouw klachten aanhouden en hoe je eindelijk weer energie opbouwt.'
-      label: 'Kantel Inzicht'
+      label: 'Boek "Chronische pijn is níet normaal."'
       link_type: link
       target_blank: false
       link: 'entry::4dadc8b8-a53e-4bbf-8d95-74dba81adaf8'
@@ -291,7 +276,29 @@ data:
       enabled: true
       featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-65.jpg
       exclude_from_pages:
+        - 71945a19-48fa-45f2-b5c4-b3cb2818678a
+        - a932636a-55fe-4d95-8489-dbbc91f1cf66
+        - 036f3cb4-3847-4b98-be8f-bf10d2583660
+        - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
+        - a203ba5f-4950-4053-be31-1224c1fe6f88
+        - 798268e6-e179-42ee-9dc8-35a62106109e
+        - 37fe9b56-749b-4049-9173-064c8aa11ba3
+        - e5b50ba8-0197-4833-9acf-504ef247e1db
+        - d6614911-c037-46d0-90bc-50fc73782ee2
+        - 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
+        - ce720b86-3dee-4e7c-afb9-34e2dad33f33
         - a3d8b21b-2251-41c7-95ea-f2089c4ff776
+        - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
+        - 631dd581-8207-4fe0-81e5-2becf841200f
+        - 84e93a62-c1cd-4ec3-9bd2-06e30909f119
+        - babc9d5b-c875-4aaf-a85a-5dec77141630
+        - d234ac9f-17f1-4ade-a133-11e3ea87c414
+        - 083cff0a-660c-4ddc-b23d-c9cb308da729
+        - d81e8a34-e412-443e-b24b-f46726b1d854
+        - f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
+        - 30c318bf-74b9-4f4c-ada6-ea070534f915
+        - ae591f60-6649-4bdf-996c-59880e8a0cff
+        - 52db6513-16b1-44ac-9c19-dea1f2833a69
     -
       id: mhhv3nwa
       icon: 'fa-brands fa-spotify'
