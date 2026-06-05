@@ -507,6 +507,180 @@ page_builder:
                 text: '👉🏻 Het vertrouwen en gevoel dat je gewoon mee kunt doen. Dat je niet eerst hoeft te rekenen, te plannen en te twijfelen. '
         type: new_set
         enabled: true
+      -
+        id: mq10d4bm
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-143.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq0on7d1
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Misschien herken je jezelf hierin? '
+                show_tag: false
+          -
+            type: set
+            attrs:
+              id: mq0z3vuk
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mq0z3y1y
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik zet mijn dochter ''s middags voor de televisie omdat ik moet gaan liggen."'
+                  -
+                    id: mq0z57x7
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil niet meer nadenken over wat wel of niet kan. Ik wil leven."'
+                  -
+                    id: mq0z5hjb
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil weer een dag weg zonder eerst rustmomenten in te plannen."'
+                  -
+                    id: mq0z5x2l
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil weer sporten."'
+                  -
+                    id: mq0z6a6z
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil weer spontaan kunnen zijn."'
+                  -
+                    id: mq0z6w1y
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil weer energie overhouden."'
+                  -
+                    id: mq10ioif
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil weer een hele dag met mijn kinderen op pad."'
+                  -
+                    id: mq10j4xi
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil niet meer leven op wilskracht."'
+                  -
+                    id: mq10jn87
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil niet steeds bang zijn dat het nooit beter wordt."'
+                  -
+                    id: mq10k3y4
+                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"Ik wil mezelf terug."'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Als je jezelf hierin herkent: Dit boek is voor jou geschreven.'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -525,5 +699,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780668930
+updated_at: 1780669384
 ---
