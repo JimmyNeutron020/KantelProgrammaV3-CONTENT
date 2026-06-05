@@ -2,7 +2,7 @@
 id: e9891dd8-f779-4817-a6aa-1104fc50ef88
 published: false
 blueprint: page
-title: 'Home (Gekopieerd)'
+title: 'Kantel Programma Home'
 page_builder:
   -
     id: m7xvy4s9
@@ -1941,7 +1941,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780692558
+updated_at: 1780692650
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
