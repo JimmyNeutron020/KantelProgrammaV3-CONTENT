@@ -899,8 +899,140 @@ page_builder:
           -
             type: text
             text: 'Ergens onderweg werd doorgaan een gewoonte en luisteren iets wat steeds verder naar de achtergrond verdween. Veel klachten zijn niet ontstaan omdat je te weinig hebt gedaan. Maar omdat je veel te lang alles hebt gedragen.'
+  -
+    id: mq12gntv
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultatenOverview
+    enabled: true
+  -
+    id: mq12h6wj
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - community/fotofolies-x-kantelprogramma_live-95.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mq12ibg2
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Meer dan 1250 vrouwen gingen je voor.'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De vrouw die haar boodschappen aan de kassa liet staan omdat ze niet langer kon blijven staan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De vrouw die haar baby niet zonder pijn kon tillen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De vrouw die niet meer durfde te dromen van een volgende zwangerschap.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De vrouw die met een rolstoel door de Efteling ging.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De vrouw die haar leven steeds kleiner zag worden.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En de vrouw die ontdekte dat haar verhaal nog niet af was.'
+      -
+        type: set
+        attrs:
+          id: mq12jqhu
+          values:
+            type: buttons
+            buttons:
+              -
+                id: 2CB5pzRh
+                label: 'PRE ORDER BOEK'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780672225
+updated_at: 1780672763
 ---
