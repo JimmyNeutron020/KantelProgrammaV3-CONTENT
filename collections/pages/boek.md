@@ -830,8 +830,38 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+  -
+    id: mq122qh8
+    color: '#eb8d7a'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-109.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780669995
+updated_at: 1780671995
 ---
