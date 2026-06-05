@@ -70,7 +70,7 @@ page_builder:
   -
     id: mpzw8648
     color: '#f7e7de'
-    swap_layout: false
+    swap_layout: true
     media:
       video: false
       autoplay_video: false
@@ -696,8 +696,142 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+  -
+    id: mq10qtaw
+    content:
+      -
+        type: set
+        attrs:
+          id: mq10rz0w
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Misschien is je lichaam niet kapot'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat klinkt misschien vreemd, zeker als je al jaren pijn hebt. Als je wellicht al scans hebt gehad, onderzoeken, therapieën en allerlei behandelingen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En misschien zelfs te horen hebt gekregen: "'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Je zult ermee moeten leren leven'
+          -
+            type: text
+            text: '."Toch wil ik je iets vragen. Als jouw lichaam echt kapot is... '
+      -
+        type: set
+        attrs:
+          id: mq10uc6p
+          values:
+            type: icon_list
+            iconlist:
+              -
+                id: mq10uhzk
+                fa_icon: 'fa-light fa-0'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Waarom verschillen klachten dan van dag tot dag?'
+              -
+                id: mq10usfv
+                fa_icon: 'fa-light fa-0'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Waarom spelen stress, emoties en drukke periodes zo vaak een rol?'
+              -
+                id: mq10v200
+                fa_icon: 'fa-light fa-0'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'Waarom blijf je vastlopen terwijl niemand precies kan uitleggen waarom?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat zijn geen rare vragen. Dat zijn vragen die veel vrouwen nooit hebben leren stellen. Want de meeste aandacht gaat naar de plek waar het pijn doet.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit boek kijkt naar het grotere plaatje. En voor veel vrouwen begint daar iets wat ze lange tijd kwijt waren: Hoop.'
+    color: '#ffffff'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780669384
+updated_at: 1780669995
 ---
