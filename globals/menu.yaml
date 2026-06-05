@@ -2,23 +2,11 @@ title: Menu
 data:
   menu_items_big:
     -
-      id: mhhuizrn
-      label: 'Aanmelden DIY Kantel Programma'
+      id: mq1cuxvd
+      label: 'Boek "Chronische pijn is níet normaal!"'
       link_type: internal
+      internal_link: 71945a19-48fa-45f2-b5c4-b3cb2818678a
       target_blank: false
-      internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
-    -
-      id: mlr07537
-      label: 'Gratis Webinar'
-      link_type: internal
-      internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
-      target_blank: false
-    -
-      id: mnhlf5ha
-      label: 'Doorbraak Sessie'
-      link_type: internal
-      target_blank: false
-      internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
     -
       id: mhhummtm
       label: '100+ Kantel Verhalen'
@@ -67,6 +55,30 @@ data:
       label: Contact
       link_type: internal
       internal_link: 69a5080a-2257-4213-a2fc-605373a33691
+      target_blank: false
+    -
+      id: mq1cxge3
+      label: 'Aanmelden DIY Kantel Programma'
+      link_type: internal
+      internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
+      target_blank: false
+    -
+      id: mq1czca8
+      label: 'Doorbraak Sessie (online of live)'
+      link_type: internal
+      internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
+      target_blank: false
+    -
+      id: mq1d0nvs
+      label: Contact
+      link_type: internal
+      internal_link: d6614911-c037-46d0-90bc-50fc73782ee2
+      target_blank: false
+    -
+      id: mq1d25fr
+      label: 'Gratis Webinar'
+      link_type: internal
+      internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
       target_blank: false
   show_featured_item: true
   heading_size: XS
