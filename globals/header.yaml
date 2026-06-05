@@ -17,6 +17,14 @@ data:
       link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
       button_layout: standard
       button_colour: white
+    -
+      id: mq1e915w
+      label: 'VIP wachtlijst'
+      link_type: link
+      target_blank: false
+      link: 'https://tally.so/r/dWzYMN'
+      button_layout: standard
+      button_colour: white
   scrolled_buttons:
     -
       id: mq1dbw7a
