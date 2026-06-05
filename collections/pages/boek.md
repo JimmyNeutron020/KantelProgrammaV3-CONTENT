@@ -472,7 +472,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je mist het leven dat daarbij hoorde. '
+                text: 'Je mist het leven dat daarbij hoorde. Je wilt jouw leven terug.'
           -
             type: paragraph
             attrs:
@@ -480,7 +480,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '👉🏻 De wandeling. '
+                text: '👉🏻 De onbezorgde wandeling. '
           -
             type: paragraph
             attrs:
@@ -505,34 +505,6 @@ page_builder:
               -
                 type: text
                 text: '👉🏻 Het vertrouwen en gevoel dat je gewoon mee kunt doen. Dat je niet eerst hoeft te rekenen, te plannen en te twijfelen. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Veel vrouwen denken dat ze af willen van pijn. Tot ze beseffen dat ze eigenlijk vooral iets anders willen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: ' '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Hun leven terug.'
-              -
-                type: text
-                text: ' '
         type: new_set
         enabled: true
     show_settings: false
@@ -553,5 +525,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780667906
+updated_at: 1780668930
 ---
