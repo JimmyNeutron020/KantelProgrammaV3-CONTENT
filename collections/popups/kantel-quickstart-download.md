@@ -29,7 +29,7 @@ trigger_type: time_delay
 frequency: once_per_x_days
 min_page_views: 0
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780597825
+updated_at: 1780683602
 target_pages:
   - 78ef22f5-be55-47cf-9d14-17a61cd06e01
   - 33e3e8b7-4bf3-4228-a8ab-9394f21aa08c
@@ -47,6 +47,7 @@ target_pages:
   - 37fe9b56-749b-4049-9173-064c8aa11ba3
   - a3d8b21b-2251-41c7-95ea-f2089c4ff776
   - a203ba5f-4950-4053-be31-1224c1fe6f88
+  - 71945a19-48fa-45f2-b5c4-b3cb2818678a
 trigger_delay_seconds: 120
 frequency_days: 3
 ---
