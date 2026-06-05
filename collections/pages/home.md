@@ -75,7 +75,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - boek-website-.png
+        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -2170,5 +2170,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780692949
+updated_at: 1780693330
 ---
