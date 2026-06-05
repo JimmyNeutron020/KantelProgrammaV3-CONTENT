@@ -860,8 +860,47 @@ page_builder:
       spacing_mobile: standard
     type: QuestionsCtaSection
     enabled: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mq126s7x
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
+                    text: 'Het probleem is niet dat je zwak bent'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Het probleem is dat je te lang sterk bent geweest. Je hebt waarschijnlijk al meer geprobeerd dan de meeste mensen ooit zouden doen. Je bent blijven zoeken, hopen en doorgaan. Zelfs wanneer je lichaam iets anders vroeg. Dat is niet zwak maar juist waarom je zo lang bent blijven functioneren.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ergens onderweg werd doorgaan een gewoonte en luisteren iets wat steeds verder naar de achtergrond verdween. Veel klachten zijn niet ontstaan omdat je te weinig hebt gedaan. Maar omdat je veel te lang alles hebt gedragen.'
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780671995
+updated_at: 1780672225
 ---
