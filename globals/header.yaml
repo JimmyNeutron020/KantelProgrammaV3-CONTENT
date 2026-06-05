@@ -19,26 +19,18 @@ data:
       button_colour: white
   scrolled_buttons:
     -
-      id: mjb50rq9
-      label: Resultaten
-      link_type: link
-      target_blank: false
-      link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-      button_layout: link
-      button_colour: orange
-    -
-      id: mhhtdhmf
-      label: 'Kantel Programma'
-      link_type: link
-      target_blank: false
-      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
-      button_layout: solid
-      button_colour: orange
-    -
       id: mhhtda76
       label: 'Doorbraak Sessie'
       link_type: link
       target_blank: false
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
+      button_colour: orange
+    -
+      id: mq1dbw7a
+      label: Boek
+      link_type: link
+      target_blank: false
+      link: 'entry::71945a19-48fa-45f2-b5c4-b3cb2818678a'
+      button_layout: solid
       button_colour: orange
