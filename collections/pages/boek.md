@@ -1417,7 +1417,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - vijffaseskantelprogramma.png
+        - vijffaseskp.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1838,5 +1838,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780679232
+updated_at: 1780680126
 ---
