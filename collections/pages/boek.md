@@ -1802,6 +1802,120 @@ page_builder:
                     button_colour: orange
         type: new_set
         enabled: true
+      -
+        id: mq172ktz
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - denise-ijpelaar-1.jpeg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq169f7k
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Dit gaat niet alleen over jou'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Kinderen leren veel minder van wat we zeggen. Ze leren van wat we voorleven. Ze zien hoe we omgaan met grenzen. Hoe we omgaan met rust, stress en ons lichaam. En zonder dat we het doorhebben leren zij daarvan wat normaal is. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien is dat wel waarom deze missie me zo raakt. Omdat herstel nooit alleen over één vrouw gaat. '
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wanneer een moeder stopt met geloven dat uitputting normaal is...'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wanneer een moeder stopt met zichzelf als laatste te zetten...'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wanneer een moeder leert luisteren voordat haar lichaam moet schreeuwen...'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dan verandert er iets. Voor haar. Voor haar kinderen. En voor de generatie daarna.'
+          -
+            type: set
+            attrs:
+              id: mq16ekvs
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 637CspUG
+                    label: 'Reserveer mijn exemplaar'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1838,5 +1952,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780680126
+updated_at: 1780680496
 ---
