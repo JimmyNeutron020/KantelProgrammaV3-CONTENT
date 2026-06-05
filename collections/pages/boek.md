@@ -542,7 +542,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Misschien herken je jezelf hierin? '
+                        text: 'Herken je jezelf hierin? '
                 show_tag: false
           -
             type: set
@@ -1418,6 +1418,8 @@ page_builder:
         media:
           video: false
           autoplay_video: false
+          images:
+            - vijf-fases.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -1634,5 +1636,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780677178
+updated_at: 1780677410
 ---
