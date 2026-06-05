@@ -7,8 +7,8 @@ data:
       link_type: link
       target_blank: false
       link: 'entry::71945a19-48fa-45f2-b5c4-b3cb2818678a'
-      button_layout: solid
-      button_colour: white
+      button_layout: standard
+      button_colour: orange
     -
       id: mhhtc9gq
       label: 'Echte verhalen'
@@ -16,7 +16,7 @@ data:
       target_blank: false
       link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
       button_layout: standard
-      button_colour: white
+      button_colour: orange
     -
       id: mq1e915w
       label: 'VIP wachtlijst'
@@ -24,7 +24,7 @@ data:
       target_blank: false
       link: 'https://tally.so/r/dWzYMN'
       button_layout: standard
-      button_colour: white
+      button_colour: orange
   scrolled_buttons:
     -
       id: mq1dbw7a
