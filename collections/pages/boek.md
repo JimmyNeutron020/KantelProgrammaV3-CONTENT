@@ -428,6 +428,113 @@ page_builder:
                 text: 'En precies daarom schreef ik dit boek. Omdat iets wat vaak voorkomt niet betekent dat dat normaal is.'
         type: new_set
         enabled: true
+      -
+        id: mq0zgcnx
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-116.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq0on7d1
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Je mist niet alleen een pijnvrij lichaam'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je mist het leven dat daarbij hoorde. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻 De wandeling. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻 De energie aan het einde van de dag. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻 De spontane afspraak, de actieve vakantie en het sporten. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '👉🏻 Het vertrouwen en gevoel dat je gewoon mee kunt doen. Dat je niet eerst hoeft te rekenen, te plannen en te twijfelen. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Veel vrouwen denken dat ze af willen van pijn. Tot ze beseffen dat ze eigenlijk vooral iets anders willen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: ' '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Hun leven terug.'
+              -
+                type: text
+                text: ' '
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -446,5 +553,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780667184
+updated_at: 1780667906
 ---
