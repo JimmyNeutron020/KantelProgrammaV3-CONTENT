@@ -75,7 +75,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - boek-website-achter.png
+        - boek-website-.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -838,7 +838,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-109.jpg
+        - 'community/foto-18-01-2026,-12-06-56.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1134,5 +1134,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780673550
+updated_at: 1780674138
 ---
