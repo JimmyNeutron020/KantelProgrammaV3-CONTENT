@@ -35,10 +35,10 @@ data:
       button_layout: solid
       button_colour: orange
     -
-      id: mhhtda76
-      label: 'Doorbraak Sessie'
+      id: mq1e9u98
+      label: 'VIP wachtlijst'
       link_type: link
       target_blank: false
-      link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
-      button_layout: standard
-      button_colour: orange
+      link: 'https://tally.so/r/dWzYMN'
+      button_layout: solid
+      button_colour: white
