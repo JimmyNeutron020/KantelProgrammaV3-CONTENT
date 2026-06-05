@@ -1662,6 +1662,146 @@ page_builder:
                 text: 'Want veel vrouwen ontdekken tijdens het lezen van dit boek iets opvallends. Dat ze jarenlang bezig zijn geweest met het bestrijden van klachten... Zonder ooit te begrijpen waarom die klachten bleven bestaan.'
         type: new_set
         enabled: true
+      -
+        id: mq166llt
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-153.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq169f7k
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: "📚 Bestel 'Chronische pijn is niet normaal' als pre-order en ontvang meer dan alleen het boek"
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Je mist niet alleen een pijnvrij lichaam maar vooral ook het leven wat daarbij hoorde. '
+              -
+                type: text
+                text: 'Dit boek helpt je begrijpen waarom je blijft vastlopen in pijn, vermoeidheid en spanning, zodat je anders leert kijken naar je klachten én naar wat er wél mogelijk is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Pre-order vóór 1 juli 2026, betaal € 29,50 en ontvang het boek inclusief onderstaande bundel met álle tijdelijke bonussen👇🏻👇🏻👇🏻'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🎁 Bonus 1 | E-BOOK Chronische Pijn is níet normaal | € 14,50'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🎁 Bonus 2 | De Herstelverhalen Collectie | €29'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🎁 Bonus 3 | Live Masterclass: Waarom chronische pijn niet normaal is | €49'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'TOTALE WAARDE € 122'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🎉 We vieren de lancering groots. In een aantal pre-order exemplaren verstoppen we een Bewezen Beter Gouden Ticket. Vind jij een Gouden Ticket in jouw boek? Dan krijg je gratis toegang tot het volledige Bewezen Beter DIY Kantel Programma ter waarde van €999.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '💪🏻 Ben je oud deelnemer? Dan is het boek zeker ook interessant en jij ontvangt bij jouw bestelling 25% ticketkorting voor deelname aan een nieuwe bijzondere Live Retraite Dag. En tref jij nou net dat gouden ticket in je boek dan krijg jij (in plaats van deelname aan het programma), samen met je partner, een luxe diner samen met Paul & Chantal.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '🤫 Hoeveel tickets er verstopt zijn? Dat houden we nog even geheim. 😉'
+          -
+            type: set
+            attrs:
+              id: mq16ekvs
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 637CspUG
+                    label: 'Ja, ik wil de bonussen veiligstellen'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1698,5 +1838,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780678699
+updated_at: 1780679232
 ---
