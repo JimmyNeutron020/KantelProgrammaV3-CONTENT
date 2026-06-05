@@ -749,7 +749,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Misschien is je lichaam niet kapot'
+                    text: 'Misschien is je lichaam niet stuk'
             show_tag: false
       -
         type: paragraph
@@ -1713,7 +1713,7 @@ page_builder:
               id: mq169f7k
               values:
                 type: heading
-                heading_size: S
+                heading_size: XS
                 heading:
                   -
                     type: paragraph
@@ -1727,7 +1727,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: "📚 Bestel 'Chronische pijn is niet normaal' als pre-order en ontvang meer dan alleen het boek"
+                        text: "📚 Bestel het boek  'Chronische pijn is niet normaal' als pre-order en ontvang meer dan alleen het boek"
                 show_tag: false
           -
             type: paragraph
@@ -1750,11 +1750,33 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Pre-order vóór 1 juli 2026, betaal € 29,50 en ontvang het boek inclusief onderstaande bundel met álle tijdelijke bonussen👇🏻👇🏻👇🏻'
+                marks:
+                  -
+                    type: bold
+                text: 'Pre-order vóór 1 juli 2026. '
           -
             type: paragraph
             attrs:
               class: null
+            content:
+              -
+                type: text
+                text: 'Betaal € 29,50 en ontvang het boek bij je thuis inclusief onderstaande bundel met álle tijdelijke bonussen👇🏻👇🏻👇🏻'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'BONUS BUNDEL'
           -
             type: paragraph
             attrs:
@@ -1786,6 +1808,9 @@ page_builder:
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
                 text: 'TOTALE WAARDE € 122'
           -
             type: paragraph
@@ -1803,10 +1828,18 @@ page_builder:
             type: paragraph
             attrs:
               class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
             content:
               -
                 type: text
                 text: '💪🏻 Ben je oud deelnemer? Dan is het boek zeker ook interessant en jij ontvangt bij jouw bestelling 25% ticketkorting voor deelname aan een nieuwe bijzondere Live Retraite Dag. En tref jij nou net dat gouden ticket in je boek dan krijg jij (in plaats van deelname aan het programma), samen met je partner, een luxe diner samen met Paul & Chantal.'
+          -
+            type: paragraph
+            attrs:
+              class: null
           -
             type: paragraph
             attrs:
@@ -1981,7 +2014,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Je hoeft niet terug aar wie je vroeger was'
+                        text: 'Je hoeft niet terug naar wie je vroeger was'
                 show_tag: false
           -
             type: paragraph
@@ -2137,5 +2170,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780680982
+updated_at: 1780689878
 ---
