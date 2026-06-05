@@ -11,7 +11,7 @@ data:
       button_colour: white
     -
       id: mhhtc9gq
-      label: 'Doorbraak Sessie'
+      label: 'Echte verhalen'
       link_type: link
       target_blank: false
       link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
@@ -19,18 +19,18 @@ data:
       button_colour: white
   scrolled_buttons:
     -
-      id: mhhtda76
-      label: 'Doorbraak Sessie'
-      link_type: link
-      target_blank: false
-      link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
-      button_layout: standard
-      button_colour: orange
-    -
       id: mq1dbw7a
       label: Boek
       link_type: link
       target_blank: false
       link: 'entry::71945a19-48fa-45f2-b5c4-b3cb2818678a'
       button_layout: solid
+      button_colour: orange
+    -
+      id: mhhtda76
+      label: 'Doorbraak Sessie'
+      link_type: link
+      target_blank: false
+      link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
+      button_layout: standard
       button_colour: orange
