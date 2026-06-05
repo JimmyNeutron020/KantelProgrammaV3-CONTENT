@@ -10,14 +10,6 @@ data:
       button_layout: standard
       button_colour: orange
     -
-      id: mhhtc9gq
-      label: 'Echte verhalen'
-      link_type: link
-      target_blank: false
-      link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-      button_layout: standard
-      button_colour: orange
-    -
       id: mq1e915w
       label: 'VIP wachtlijst'
       link_type: link
