@@ -1410,196 +1410,182 @@ page_builder:
         type: new_set
         enabled: true
   -
-    id: mq1550ec
-    items:
+    id: mq15s60h
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - vijffaseskantelprogramma.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    type: HeroSection
+    enabled: true
+  -
+    id: mq15uus1
+    content:
       -
-        id: mq155grn
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - vijf-fases.png
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
+        type: set
+        attrs:
+          id: mq15vemq
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Waarom sommige vrouwen blijven zoeken'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
         content:
           -
-            type: set
-            attrs:
-              id: mq1569rq
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Waarom sommige vrouwen blijven zoeken '
-                show_tag: false
+            type: text
+            text: '...en andere vrouwen eindelijk begrijpen wat hun lichaam nodig heeft.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
           -
-            type: paragraph
-            attrs:
-              class: null
+            type: text
+            text: 'Veel vrouwen krijgen losse adviezen. '
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
             content:
               -
-                type: text
-                text: '...en andere vrouwen eindelijk begrijpen wat hun lichaam nodig heeft.'
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Meer bewegen.'
           -
-            type: paragraph
-            attrs:
-              class: null
+            type: listItem
             content:
               -
-                type: text
-                text: 'Veel vrouwen krijgen losse adviezen. '
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Minder bewegen.'
           -
-            type: bulletList
+            type: listItem
             content:
               -
-                type: listItem
+                type: paragraph
+                attrs:
+                  class: null
                 content:
                   -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Meer bewegen.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Minder bewegen.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Rust nemen.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Juist trainen.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: Ontspannen.
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: Doorzetten.
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Nog een behandeling.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Nog een specialist.'
-              -
-                type: listItem
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Nog een nieuwe poging.'
+                    type: text
+                    text: 'Rust nemen.'
           -
-            type: paragraph
-            attrs:
-              class: null
+            type: listItem
             content:
               -
-                type: text
-                text: 'Maar losse oplossingen maken nog geen puzzel compleet. Daarom ontwikkelden we de Bewezen Beter Kantelmethode. Een methode die kijkt naar het totaalplaatje. Want herstel gaat zelden over één spier. Eén scan. Of één behandeling.'
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Juist trainen.'
           -
-            type: paragraph
-            attrs:
-              class: null
+            type: listItem
             content:
               -
-                type: text
-                text: 'Herstel vraagt om een lichaam dat zich weer veilig genoeg voelt om vooruit te bewegen. In het boek ontdek je de vijf fases van deze methode. En waarom juist die fases voor zoveel vrouwen het verschil maakten tussen blijven zoeken en eindelijk begrijpen wat hun lichaam nodig heeft.'
-          -
-            type: set
-            attrs:
-              id: mq156hkj
-              values:
-                type: buttons
-                buttons:
+                type: paragraph
+                attrs:
+                  class: null
+                content:
                   -
-                    id: DWiJP2TR
-                    label: 'ONTDEK DE METHODE IN HET BOEK'
-                    link_type: link
-                    target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                    button_layout: solid
-                    button_colour: orange
-        type: new_set
-        enabled: true
+                    type: text
+                    text: Ontspannen.
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: Doorzetten.
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Nog een behandeling.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Nog een specialist.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Nog een nieuwe poging.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Maar losse oplossingen maken nog geen puzzel compleet. Daarom ontwikkelden we de Bewezen Beter Kantelmethode. Een methode die kijkt naar het totaalplaatje. Want herstel gaat zelden over één spier. Eén scan. Of één behandeling.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Herstel vraagt om een lichaam dat zich weer veilig genoeg voelt om vooruit te bewegen. In het boek ontdek je de vijf fases van deze methode. En waarom juist die fases voor zoveel vrouwen het verschil maakten tussen blijven zoeken en eindelijk begrijpen wat hun lichaam nodig heeft.'
+    color: '#ffffff'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1613,7 +1599,7 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: AlternatingBlocks
+    type: IntoSection
     enabled: true
   -
     id: mq12gntv
@@ -1636,5 +1622,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780677410
+updated_at: 1780678354
 ---
