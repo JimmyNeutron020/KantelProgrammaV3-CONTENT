@@ -1201,6 +1201,207 @@ page_builder:
                 text: 'Daarom gaat dit boek niet alleen over pijn. Het gaat over wat er verandert wanneer een vrouw stopt met geloven dat pijn, uitputting en zichzelf wegcijferen normaal zijn.'
         type: new_set
         enabled: true
+      -
+        id: mq13naun
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - boek-omslag-1-juni-2026.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq13t308
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wat je ontdekt in dit boek'
+                show_tag: false
+          -
+            type: set
+            attrs:
+              id: mq13then
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mq13tipr
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'Dit boek begint niet bij pijn.'
+                          -
+                            type: text
+                            text: ' Het begint bij de signalen die veel vrouwen lang negeren. Want voordat een lichaam gaat schreeuwen, heeft het vaak jarenlang gefluisterd. Daarom neem ik je mee op een reis die duizenden vrouwen herkennen. Je blijft doorgaan.'
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom zoveel sterke vrouwen hun grenzen feilloos voelen... Maar er toch steeds opnieuw overheen stappen.'
+                  -
+                    id: mq13xsz8
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'Je leven wordt kleiner. '
+                          -
+                            type: text
+                            text: 'Hoe klachten langzaam meer invloed krijgen dan je doorhebt. Niet in één keer maar beetje bij beetje. Totdat je niet meer kiest vanuit verlangen maaar vanuit wat je lichaam misschien aankan.'
+                  -
+                    id: mq13yorh
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'Je blijft zoeken. '
+                          -
+                            type: text
+                            text: 'Waarom zoveel vrouwen jarenlang van behandeling naar behandeling gaan... zonder ooit te begrijpen waarom ze blijven vastlopen.'
+                  -
+                    id: mq13zjyj
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'Dit kan zo niet langer. '
+                          -
+                            type: text
+                            text: 'Het moment waarop je voelt: "Als ik zo doorga, verlies ik steeds meer van mezelf."'
+                  -
+                    id: mq140795
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'De Kanteling. '
+                          -
+                            type: text
+                            text: 'Het moment waarop je stopt met vechten tegen je lichaam. En begint te begrijpen wat het je probeert te vertellen.'
+                  -
+                    id: mq140zuf
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'De Bewezen Beter Kantelmethode. '
+                          -
+                            type: text
+                            text: 'De methode achter meer dan 1250 begeleide vrouwen.'
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Niet gericht op symptoombestrijding maar op het totale herstelplaatje.'
+                  -
+                    id: mq141rrr
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'Je krijgt jezelf terug.'
+                          -
+                            type: text
+                            text: ' Niet omdat je ineens een ander mens wordt maar omdat je weer kunt doen wat vroeger vanzelfsprekend was.'
+                  -
+                    id: mq142dl5
+                    fa_icon: 'fa-regular fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: bold
+                            text: 'De volgende stap. '
+                          -
+                            type: text
+                            text: 'Want inzicht verandert niets en toepassing wel. Dit boek geeft je niet alleen antwoorden. Het laat je zien waar jouw kanteling kan beginnen.'
+        type: new_set
+        enabled: true
   -
     id: mq12gntv
     color: '#f7e7de'
@@ -1222,5 +1423,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780674407
+updated_at: 1780675304
 ---
