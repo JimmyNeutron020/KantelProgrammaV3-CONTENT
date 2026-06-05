@@ -3,18 +3,10 @@ data:
   transparent_buttons:
     -
       id: mjb50ebs
-      label: Resultaten
+      label: Boek
       link_type: link
       target_blank: false
-      link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-      button_layout: link
-      button_colour: white
-    -
-      id: mhhtcrhg
-      label: 'Kantel Programma'
-      link_type: link
-      target_blank: false
-      link: 'entry::a932636a-55fe-4d95-8489-dbbc91f1cf66'
+      link: 'entry::71945a19-48fa-45f2-b5c4-b3cb2818678a'
       button_layout: solid
       button_colour: white
     -
