@@ -13,6 +13,12 @@ data:
       link_type: internal
       target_blank: false
       internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
+    -
+      id: mq1e813k
+      label: 'VIP wachtlijst'
+      link_type: external
+      external_link: 'https://tally.so/r/dWzYMN'
+      target_blank: false
   menu_items_small:
     -
       id: mhhunphc
