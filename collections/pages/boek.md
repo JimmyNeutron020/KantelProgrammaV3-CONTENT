@@ -426,6 +426,21 @@ page_builder:
               -
                 type: text
                 text: 'En precies daarom schreef ik dit boek. Omdat iets wat vaak voorkomt niet betekent dat dat normaal is.'
+          -
+            type: set
+            attrs:
+              id: mq17dzem
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: sfRVOFEh
+                    label: 'Ik wil mijn exemplaar'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
       -
@@ -679,6 +694,21 @@ page_builder:
               -
                 type: text
                 text: 'Als je jezelf hierin herkent: Dit boek is voor jou geschreven.'
+          -
+            type: set
+            attrs:
+              id: mq17f3n9
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: zSUDo7Vr
+                    label: 'ONTDEK HET BOEK'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -1916,6 +1946,161 @@ page_builder:
                     button_colour: orange
         type: new_set
         enabled: true
+      -
+        id: mq178xdi
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-95.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mq169f7k
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Je hoeft niet terug aar wie je vroeger was'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je wilt weer kunnen doen wat vroeger vanzelfsprekend was. Misschien begon je deze pagina omdat je pijn hebt of omdat je moe bent. Misschien omdat je jezelf herkende in één van de verhalen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wat de reden ook is... Je bent hier nog steeds en waarschijnlijk is dat niet toevallig. Want vrouwen die écht geloven dat er niets meer mogelijk is... Lezen meestal niet tot hier.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien zit er ergens nog een klein stemmetje dat zegt: "'
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Dit kan toch niet alles zijn'
+              -
+                type: text
+                text: '." Dat stemmetje verdient aandacht. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Reserveer vandaag jouw exemplaar van: 📚 Chronische pijn is niet normaal'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En ontdek waarom zoveel vrouwen jarenlang vastlopen......terwijl hun lichaam misschien al die tijd iets anders probeerde te vertellen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor slechts €29,50'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Inclusief:'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '✓ Het fysieke boek'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '✓ De Herstelverhalen Collectie'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '✓ Kans op een Bewezen Beter Gouden Ticket t.w.v. €999'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '✓ Als één van de eersten jouw exemplaar'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: mq16ekvs
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 637CspUG
+                    label: 'Ja ik reserveer mijn exemplaar'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1952,5 +2137,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780680496
+updated_at: 1780680982
 ---
