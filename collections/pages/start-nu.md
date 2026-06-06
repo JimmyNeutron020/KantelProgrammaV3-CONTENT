@@ -26,7 +26,7 @@ page_builder:
           id: mhkyxgkr
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: heading
@@ -40,8 +40,10 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Stel je voor dat je wél die fitte moeder kunt zijn '
-            show_tag: false
+                    text: 'Stel je voor dat je deze zomer wél die energieke moeder bent. Dat kan met de Summer Sprint!'
+            show_tag: true
+            tag_text: 'START NÚ DE SUMMER SPRINT'
+            tag_alignment: right
       -
         type: paragraph
         attrs:
@@ -475,7 +477,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Het grootste verschil'
+                    text: 'SUMMER SPRINT'
             show_tag: true
             tag_alignment: right
       -
@@ -563,7 +565,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'START NU | DE DEUR SLUIT 5 JUNI'
+        label: 'START NU | SUMMER SPRINT DIY'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -587,11 +589,8 @@ page_builder:
     enabled: true
     anchor_id: aanmelden
     pricing_tab_single_label: Eenmalig
-    pricing_tab_installments_label: '3 Termijnen'
-    price_single: '€ 1.750'
-    discount_price_single: '€ 1.447'
-    price_installments: '€ 599'
-    discount_price_installments: '€ 547'
+    price_single: '€ 1.250'
+    discount_price_single: '€ 999'
   -
     id: mll4udm9
     content:
@@ -1069,7 +1068,7 @@ page_builder:
     tag_text: Member
   -
     id: mlqgmmlf
-    heading_size: M
+    heading_size: S
     heading:
       -
         type: heading
@@ -1078,9 +1077,14 @@ page_builder:
         content:
           -
             type: text
-            text: 'Precies daar beginnen we'
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'JUIST STARTEN IN DE ZOMER PERIODE '
     show_tag: true
-    tag_text: 'Stap voor stap'
+    tag_text: 'niet langer uitstellen'
     tag_alignment: center
     content:
       -
@@ -1118,7 +1122,7 @@ page_builder:
           id: ml3sep80
           values:
             type: heading
-            heading_size: XS
+            heading_size: M
             heading:
               -
                 type: heading
@@ -1127,7 +1131,12 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Het Kantel Programma'
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Summer Sprint '
             show_tag: true
             tag_alignment: right
       -
@@ -1137,7 +1146,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Een cadeau voor jezelf, bestaand uit 13 modules met opgebouwd in 3 fases. Je hoeft het niet alleen uit te zoeken, niets te bewijzen en niet te forceren. Het Kantel Programma is zo gemaakt dat we met je mee te kijken, juist wanneer het spannend wordt. Niet alleen op goede dagen, maar ook als je lichaam of hoofd weer terugschiet. Wanneer een topsporter geblesseerd raakt is één ding vanzelfsprekend; er komt een integrale aanpak op álle fronten. Niemand zegt: "Leer er maar mee leven." Precies zo serieus nemen wij jou en jouw klachten!'
+            text: 'Een zomercadeau voor jezelf, bestaand uit 13 modules opgebouwd in 3 fases.  Wanneer een topsporter geblesseerd raakt is één ding vanzelfsprekend; er komt een integrale aanpak op álle fronten. Niemand zegt: "Leer er maar mee leven." Precies zo serieus nemen wij jou en jouw klachten!'
       -
         type: paragraph
         attrs:
@@ -1199,45 +1208,9 @@ page_builder:
           -
             type: text
             text: 'We beginnen waar anderen stoppen.: bij veiligheid. Zonder veiligheid geen blijvend herstel. Alles in kleine, haalbare stappen die passen bij jouw leven en huidige belastbaarheid.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Veilige eerste maand'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Je hoeft geen alles of niets beslissing te maken. Je mag starten en voelen. Kies je voor betaling in 3 termijnen? In de eerste maand bepaal je of je het traject volledig wilt afronden, of dat je stopt na deze maand.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Je investeert hier niet in losse behandelingen, oefeningen of modules. Je investeert in iets groters: je leven terug. '
     pricing_tab_single_label: Eenmalig
-    pricing_tab_installments_label: '3 Termijnen'
-    price_single: 'Volledige kanteling eenmalig € 1447'
-    show_discount_single: false
-    price_installments: 'Start met € 547, beslis daarna'
+    price_single: '€ 1250'
+    show_discount_single: true
     show_discount_installments: false
     features:
       -
@@ -1253,7 +1226,7 @@ page_builder:
                 type: text
                 text: "Geen standaard schema's of 'meer doen'. Je krijgt een specifiek bewegingsplan dat veilig is voor jouw lichaam en aansluit bij je belastbaarheid en meegroeit met je herstel. Gericht op vertrouwen en opbouw, niet op pushen of forceren."
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3sibpc
         feature_title: 'Een volledig voedingsplan dat je herstel ondersteunt'
@@ -1267,7 +1240,7 @@ page_builder:
                 type: text
                 text: "Voeding als herstelvoorwaarde, niet als dieet. Je leert wat jouw lichaam nodig heeft om te herstellen, te ontprikkelen en energie op te bouwen. Praktisch toepasbaar in jouw leven met complete weekmenu's, recepten en kant en klare boodschappenlijsten. "
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3sktvs
         feature_title: 'Wekelijkse beweegopdrachten en trainingsvideo’s'
@@ -1281,7 +1254,7 @@ page_builder:
                 type: text
                 text: 'Korte, gerichte oefeningen, samen met Paul, die je zenuwstelsel tot rust brengen en je lichaam heel gericht stap voor stap weer laat samenwerken. Geen overbelasting, geen prestatiedruk, wel continuïteit en veiligheid.'
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3sot37
         feature_title: 'Q&A zoomsessies'
@@ -1295,7 +1268,7 @@ page_builder:
                 type: text
                 text: 'Je hoeft niets te missen of bij te houden. Deze opgenomen sessies kun je terugkijken op jouw moment precies passend bij de fase waarin je zit. Je voelt herkenning en leert van de processen van andere vrouwen in hetzelfde traject.'
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3smzv1
         feature_title: 'Wekelijkse Kantel Kennis en verdiepende masterclasses'
@@ -1309,7 +1282,7 @@ page_builder:
                 type: text
                 text: 'Inzicht in waarom herstel vastloopt en wat er écht nodig is om eruit te komen. Je leert anders kijken naar pijn, belasting, rust en grenzen. Zodat je snapt wat je doet en waarom het werkt.'
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3snj41
         feature_title: 'Kantel Kroniek zelfreflectie methodiek'
@@ -1323,7 +1296,7 @@ page_builder:
                 type: text
                 text: 'Een begeleide manier van zelfreflectie om te leren luisteren naar je lichaam. Je deelt wekelijks wat er speelt en leert vertrouwen op je eigen signalen en keuzes. '
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3soan9
         feature_title: 'Inspirerende Kantel Vodcasts'
@@ -1346,7 +1319,7 @@ page_builder:
                 type: text
                 text: "'. Verhalen, inzichten en reflecties die je helpen, ook buiten de 'oefenmomenten' om."
         type: feature
-        enabled: true
+        enabled: false
       -
         id: ml3sq19w
         feature_title: '26 weken toegang tot het programma'
@@ -1360,7 +1333,7 @@ page_builder:
                 type: text
                 text: 'Je krijgt 26 weken de tijd om te leren, toe te passen en te integreren. Die extra tijd is bewust gekozen. Zodat je niet hoeft te haasten, kunt terugkijken, verdiepen en het herstel echt kunt verankeren voor de lange termijn.'
         type: feature
-        enabled: true
+        enabled: false
       -
         id: mlct5l4v
         feature_title: 'Kantel Moment Live middag'
@@ -1378,7 +1351,7 @@ page_builder:
     buttons:
       -
         id: yEqFfOKZ
-        label: 'START NU | DE DEUR SLUIT 5 JUNI'
+        label: 'START NU | SUMMER SPRINT DIY'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -1429,6 +1402,7 @@ page_builder:
                 attrs:
                   class: text-white
             text: '-'
+    discount_price_single: '€ 999'
   -
     id: mlqvkyq5
     items:
@@ -2110,7 +2084,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1779967837
+updated_at: 1780729392
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
