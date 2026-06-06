@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - boek-omslag-1-juni-2026.jpg
+        - boekomslag-3d-klein.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1220,7 +1220,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wat je voorleeft maakt meer verschil dan wat je vertelt. Kinderen leren hoe ze met zichzelf omgaan door te kijken naar hoe wij met onszelf omgaan. '
+                text: '🧡 Wat je voorleeft maakt meer verschil dan wat je vertelt. Kinderen leren hoe ze met zichzelf omgaan door te kijken naar hoe wij met onszelf omgaan. '
           -
             type: paragraph
             attrs:
@@ -1228,7 +1228,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Daarom gaat dit boek niet alleen over pijn. Het gaat over wat er verandert wanneer een vrouw stopt met geloven dat pijn, uitputting en zichzelf wegcijferen normaal zijn.'
+                text: '🧡 Daarom gaat dit boek niet alleen over pijn. Het gaat over wat er verandert wanneer een vrouw stopt met geloven dat pijn, uitputting en zichzelf wegcijferen normaal zijn. Haar leven en toekomst kantelt en daarmee dat van haar kinderen én de generatie na ons.'
         type: new_set
         enabled: true
       -
@@ -1238,7 +1238,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - boek-omslag-1-juni-2026.jpg
+            - boekomslag-3d-klein.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -2150,6 +2150,39 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mq255o13
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - boekomslag-3d-klein.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mq258dio
+          values:
+            type: buttons
+            buttons:
+              -
+                id: Ai9y8MMI
+                label: 'IK WIL DIT BOEK LEZEN'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
+    type: HeroSection
+    enabled: true
+  -
     id: mq12gntv
     color: '#f7e7de'
     show_settings: false
@@ -2170,5 +2203,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780693535
+updated_at: 1780738117
 ---
