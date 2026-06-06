@@ -8,12 +8,6 @@ data:
       internal_link: 71945a19-48fa-45f2-b5c4-b3cb2818678a
       target_blank: false
     -
-      id: mhhummtm
-      label: '100+ Kantel Verhalen'
-      link_type: internal
-      target_blank: false
-      internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
-    -
       id: mq1e813k
       label: 'VIP wachtlijst'
       link_type: external
@@ -34,7 +28,7 @@ data:
       target_blank: false
     -
       id: mq1cxge3
-      label: 'Aanmelden DIY Kantel Programma'
+      label: 'Aanmelden Summer Sprint Kantel Programma'
       link_type: internal
       internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
       target_blank: false
