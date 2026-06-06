@@ -13,6 +13,12 @@ data:
       link_type: external
       external_link: 'https://tally.so/r/dWzYMN'
       target_blank: false
+    -
+      id: mq25ulc6
+      label: 'Deze zomer nog fit! Aanmelden Summer Sprint DIY'
+      link_type: internal
+      internal_link: a932636a-55fe-4d95-8489-dbbc91f1cf66
+      target_blank: false
   menu_items_small:
     -
       id: mhhunphc
