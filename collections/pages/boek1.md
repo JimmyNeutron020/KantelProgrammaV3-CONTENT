@@ -1,6 +1,5 @@
 ---
 id: 159db715-c592-48fc-8d71-d2cf31bb6da4
-published: false
 blueprint: page
 title: 'BOEK (Gekopieerd)'
 page_builder:
