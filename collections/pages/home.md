@@ -45,11 +45,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Pre-order nu en krijg er gratis de training "De eerste kanteling" bij & maak kans op een Bewezen Beter Gouden ticket'
+          class: text-sm
       -
         type: paragraph
         attrs:
@@ -69,6 +65,14 @@ page_builder:
                 button_layout: solid
                 button_colour: orange
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+              -
+                id: mq57jlhv
+                label: 'Nu € 29,50 mét gratis training'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: link
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -107,12 +111,19 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Chronische pijn is níet normaal'
+                    text: 'Je hoeft er niet mee te leren leven'
             show_tag: false
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '📚Chronische pijn is níet normaal. Hoe stoere vrouwen hun leven en toekomst kantelen. Voor zichzelf, hun kinderen én de generatie na ons. '
       -
         type: bulletList
         content:
@@ -263,6 +274,21 @@ page_builder:
           -
             type: text
             text: '👉🏻 Durf weer te geloven dat herstel mogelijk is'
+      -
+        type: set
+        attrs:
+          id: mq57c2gs
+          values:
+            type: buttons
+            buttons:
+              -
+                id: RIOPZ0ix
+                label: 'Pre-order nu en krijg er gratis de training "De eerste kanteling" bij & maak kans op een Bewezen Beter Gouden ticket'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2207,5 +2233,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780922045
+updated_at: 1780923075
 ---
