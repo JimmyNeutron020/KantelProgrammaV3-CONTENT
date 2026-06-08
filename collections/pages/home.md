@@ -46,6 +46,10 @@ page_builder:
         type: paragraph
         attrs:
           class: null
+        content:
+          -
+            type: text
+            text: 'Pre-order nu en krijg er gratis de training "De eerste kanteling" bij & maak kans op een Bewezen Beter Gouden ticket'
       -
         type: paragraph
         attrs:
@@ -59,7 +63,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: 'PRE-ORDER BOEK € 29.50'
+                label: '📚PRE-ORDER BOEK'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -2203,5 +2207,5 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780738854
+updated_at: 1780922045
 ---
