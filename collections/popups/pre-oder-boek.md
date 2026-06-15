@@ -135,7 +135,9 @@ trigger_type: exit_intent
 frequency: once_per_session
 min_page_views: 0
 schedule_end: '2026-09-01 00:00'
+seo_title: 'Chronische pijn is niet normaal'
+seo_description: '@null'
 seo_og_image: boekomslag-3d-klein-1781529845.png
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781531145
+updated_at: 1781531208
 ---
