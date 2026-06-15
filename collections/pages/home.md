@@ -2233,5 +2233,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781528542
+updated_at: 1781530496
+seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
