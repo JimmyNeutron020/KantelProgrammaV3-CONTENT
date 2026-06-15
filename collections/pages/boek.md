@@ -218,7 +218,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Toch is dat precies wat duizenden vrouwen normaal zijn gaan vinden. Dit boek laat je zien waarom en waarom jouw verhaal misschien nog niet af is.'
+            text: 'Toch is dat precies wat duizenden vrouwen normaal zijn gaan vinden. Dit boek laat je zien waarom jouw verhaal misschien nog niet af is.'
       -
         type: paragraph
         attrs:
@@ -226,7 +226,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Voor vrouwen die moe zijn van pijn, vermoeidheid en altijd doorgaan. Voor vrouwen willen begrijpen waarom hun lichaam misschien niet kapot is.'
+            text: 'Voor vrouwen die moe zijn van pijn, vermoeidheid en altijd doorgaan. Voor vrouwen die willen begrijpen waarom hun lichaam misschien niet stuk is.'
       -
         type: paragraph
         attrs:
@@ -2203,6 +2203,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780740343
+updated_at: 1781530152
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
