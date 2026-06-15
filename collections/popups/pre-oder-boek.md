@@ -27,7 +27,7 @@ popup_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Voor dat je gaat ...'
+                    text: 'Dit boek wil je lezen!'
             show_tag: false
       -
         type: paragraph
@@ -45,7 +45,7 @@ popup_builder:
             text: 'Chronische pijn ís niet normaal'
           -
             type: text
-            text: "'?  Pre order vandaag en ontvang het boek mét de bonus bundel t.w.v. € 122"
+            text: "'?  Pre order je vandaag en dan ontvang het boek als eerste mét de bonus bundel t.w.v. € 122"
       -
         type: paragraph
         attrs:
@@ -139,5 +139,5 @@ seo_title: 'Chronische pijn is niet normaal'
 seo_description: '@null'
 seo_og_image: boekomslag-3d-klein-1781529845.png
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781531208
+updated_at: 1781531585
 ---
