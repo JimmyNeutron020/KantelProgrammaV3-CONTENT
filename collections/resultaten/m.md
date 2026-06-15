@@ -1,9 +1,9 @@
 ---
 id: 6e39a02d-5b15-4dee-b940-8fcd4ff7f3b0
 blueprint: resultaten
-title: Maddy
-naam: Maddy
-profession: '36 jaar, uit Maren-Kessel. Marketing Manager'
+title: M
+naam: M
+profession: '36 jaar'
 social_links:
   -
     id: mjt1kdzf
@@ -23,7 +23,7 @@ klachten:
   - bekken
   - lage-rug
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1773347671
+updated_at: 1781528243
 content:
   -
     type: paragraph
