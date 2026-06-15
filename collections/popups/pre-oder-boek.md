@@ -32,11 +32,11 @@ popup_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
-            text: "Schrijf je je in voor het boek '"
+            text: " '"
           -
             type: text
             marks:
@@ -45,58 +45,70 @@ popup_builder:
             text: 'Chronische pijn ís niet normaal'
           -
             type: text
-            text: "'?  Pre order je vandaag en dan ontvang het boek als eerste mét de bonus bundel t.w.v. € 122"
+            text: "'?  Pre order vandaag en ontvang het boek als eerste bij je thuis, nu mét de gratis Bonus Bundel t.w.v. € 122"
       -
-        type: paragraph
-        attrs:
-          class: null
+        type: bulletList
         content:
           -
-            type: text
-            text: '🎁 '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: 'Bonus 1'
+                type: paragraph
+                attrs:
+                  class: text-sm
+                content:
+                  -
+                    type: text
+                    text: '🎁 '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Bonus 1'
+                  -
+                    type: text
+                    text: ' | E-BOOK Chronische Pijn is níet normaal | € 14.50'
           -
-            type: text
-            text: ' | E-BOOK Chronische Pijn is níet normaal | € 14,50'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '🎁 '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: 'Bonus 2'
+                type: paragraph
+                attrs:
+                  class: text-sm
+                content:
+                  -
+                    type: text
+                    text: '🎁 '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Bonus 2'
+                  -
+                    type: text
+                    text: ' | De Herstelverhalen Collectie | €29'
           -
-            type: text
-            text: ' | De Herstelverhalen Collectie | €29'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '🎁 '
-          -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-            text: 'Bonus 3'
-          -
-            type: text
-            text: ' | Live Masterclass: Waarom chronische pijn niet normaal is | €49'
+                type: paragraph
+                attrs:
+                  class: text-sm
+                content:
+                  -
+                    type: text
+                    text: '🎁 '
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Bonus 3'
+                  -
+                    type: text
+                    text: ' | Live Masterclass: Waarom chronische pijn niet normaal is | €49'
       -
         type: set
         attrs:
@@ -139,5 +151,5 @@ seo_title: 'Chronische pijn is niet normaal'
 seo_description: '@null'
 seo_og_image: boekomslag-3d-klein-1781529845.png
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781531585
+updated_at: 1781532191
 ---
