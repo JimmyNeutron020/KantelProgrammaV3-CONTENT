@@ -1,7 +1,7 @@
 ---
 id: 159db715-c592-48fc-8d71-d2cf31bb6da4
 blueprint: page
-title: BOEK
+title: 'BOEK Chronische pijn is niet normaal'
 page_builder:
   -
     id: mpzuztjv
@@ -75,7 +75,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
+        - chantal-homepage.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -2203,6 +2203,8 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781530152
+updated_at: 1781530814
+seo_og_image: boekomslag-3d-klein-1781529845.png
+seo_twitter_summary_image: boek-omslag-1-juni-2026.jpg
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
