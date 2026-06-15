@@ -44,10 +44,11 @@ target_pages:
   - ce720b86-3dee-4e7c-afb9-34e2dad33f33
   - a932636a-55fe-4d95-8489-dbbc91f1cf66
   - 71945a19-48fa-45f2-b5c4-b3cb2818678a
-trigger_type: exit_intent
+trigger_type: time_delay
 frequency: once_per_x_days
 min_page_views: 1
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780683631
-frequency_days: 7
+updated_at: 1781529974
+frequency_days: 4
+trigger_delay_seconds: 70
 ---
