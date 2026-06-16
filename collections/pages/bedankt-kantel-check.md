@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
+        - mini-reset-blue-zone.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -25,7 +25,7 @@ page_builder:
           id: mjsphamm
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: heading
@@ -39,10 +39,23 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-grey
-                    text: 'Gelukt! '
-            show_tag: true
-            tag_text: 'Je ontvangt de Kantel Check in je inbox'
-            tag_alignment: left
+                    text: 'Wacht! Dit is de  volgende stap voor jou.'
+            show_tag: false
+      -
+        type: set
+        attrs:
+          id: mqgu2ohd
+          values:
+            type: buttons
+            buttons:
+              -
+                id: ylgAH8Vv
+                label: 'BLUE ZONE RESET | NU € 49'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                button_layout: solid
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -52,20 +65,16 @@ page_builder:
         type: set
         attrs:
           id: mjspj2cd
+          enabled: false
           values:
             type: flex_icons
-            flex_icons:
-              -
-                id: mjspjnbb
-                fa_icon: 'fa-regular fa-party-horn'
-                text: 'We hebben nog iets waardevols voor je!'
       -
         type: set
         attrs:
           id: mjspjfkj
           values:
             type: heading
-            heading_size: M
+            heading_size: XS
             heading:
               -
                 type: paragraph
@@ -74,7 +83,12 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Je eerste stap is gezet'
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Blue Zone Reset t.w.v. € 299'
             show_tag: false
       -
         type: paragraph
@@ -202,7 +216,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'MINI RESET'
+                    text: 'Blue Zone Reset'
             show_tag: false
       -
         type: paragraph
@@ -224,66 +238,10 @@ page_builder:
             buttons:
               -
                 id: QbOFGCUT
-                label: 'MINI RESET'
+                label: 'BLUE ZONE RESET'
                 link_type: link
                 target_blank: false
                 link: 'entry::babc9d5b-c875-4aaf-a85a-5dec77141630'
-                button_layout: solid
-                button_colour: orange
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: mn4kp0l5
-          values:
-            type: heading
-            heading_size: XS
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: 'GRATIS WEBINAR'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Voor als je eindelijk wilt begrijpen waarom je klachten blijven e wat er nodig is om er écht doorheen te breken.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: set
-        attrs:
-          id: mktzknr5
-          values:
-            type: buttons
-            buttons:
-              -
-                id: saMCyzzw
-                label: 'Gratis Webinar'
-                link_type: link
-                target_blank: false
-                link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -301,10 +259,31 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
-    color: '#ffffff'
+    color: '#fff'
+  -
+    id: mqguagnf
+    color: '#eb8d7a'
+    selected_entries:
+      - 7d6f488a-8984-4c1f-92bd-38615aa6784e
+      - 3e4f795a-d008-4f2c-8dc6-5614c0179701
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
   -
     id: mn4ktm7s
-    heading_size: M
+    heading_size: XS
     show_tag: false
     color: '#ffffff'
     use_first_eight: true
@@ -324,7 +303,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781616140
+updated_at: 1781626501
 duplicated_from: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 use_white_header: false
 ---
