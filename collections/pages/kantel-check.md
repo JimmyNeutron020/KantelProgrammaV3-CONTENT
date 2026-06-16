@@ -12,7 +12,7 @@ page_builder:
       autoplay_video: false
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
-      show_swiper_controls: false
+      show_swiper_controls: true
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -68,18 +68,10 @@ page_builder:
                 label: Download
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.nl/bedankt-kantel-check'
+                link: 'https://tally.so/r/b5OLaL'
                 button_layout: solid
                 button_colour: white
                 umami_event_name: kantel-quickstart-download-hero
-              -
-                id: mksu1spw
-                label: 'Meer informatie'
-                link_type: link
-                target_blank: false
-                link: '#intro'
-                button_layout: standard
-                button_colour: white
     type: HeroSection
     enabled: true
   -
@@ -260,7 +252,7 @@ page_builder:
                 label: 'Download gratis'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.nl/bedankt-kantel-check'
+                link: 'https://tally.so/r/b5OLaL'
                 button_layout: solid
                 button_colour: orange
                 umami_event_name: kantel-quickstart-download-intro
@@ -365,7 +357,7 @@ page_builder:
                     label: 'download | Kantel Check mini-boek'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.nl/bedankt-kantel-check'
+                    link: 'https://tally.so/r/b5OLaL'
                     button_layout: solid
                     button_colour: orange
                     umami_event_name: kantel-quickstart-download-card
@@ -585,7 +577,7 @@ page_builder:
                 label: 'Download de Kantel Check'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.nl/bedankt-kantel-check'
+                link: 'https://tally.so/r/b5OLaL'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -715,7 +707,7 @@ page_builder:
       autoplay_video: false
       images:
         - brand/fotofolies-x-kantelprogramma-paul-en-chantal-48.jpg
-      show_swiper_controls: false
+      show_swiper_controls: true
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -825,7 +817,7 @@ page_builder:
           -
             type: text
             text: 'Misschien wil je eerst rustig kennismaken. Voelen of onze manier van begeleiden aansluit bij wat jij nodig hebt. Daarom delen we verschillende manieren om je te verdiepen. Je kunt luisteren, lezen of kijken, op een moment dat het jou uitkomt. Hier kun je alles vinden over hoe wij te werk gaan, de inhoud en of deze aanpak aansluit bij waar jij nu staat.'
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -841,7 +833,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781620482
+updated_at: 1781621929
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
