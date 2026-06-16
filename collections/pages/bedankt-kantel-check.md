@@ -324,7 +324,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1774793628
+updated_at: 1781616140
 duplicated_from: 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
 use_white_header: false
 ---
