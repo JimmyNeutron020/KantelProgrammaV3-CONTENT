@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'De Kantel Check is voor vrouwen die al langer pijn of aanhoudende klachten hebben die maar niet verdwijnen.'
+            text: 'De Kantel Check is voor vrouwen die al langer klachten hebben die maar niet verdwijnen.'
       -
         type: set
         attrs:
@@ -68,7 +68,7 @@ page_builder:
                 label: Download
                 link_type: link
                 target_blank: false
-                link: '#kp-popup-kantel-quickstart-download'
+                link: 'https://kantelprogramma.nl/bedankt-kantel-check'
                 button_layout: solid
                 button_colour: white
                 umami_event_name: kantel-quickstart-download-hero
@@ -840,8 +840,8 @@ page_builder:
       spacing_mobile: standard
     type: PackageCards
     enabled: true
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1773921146
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1781620194
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
