@@ -25,7 +25,7 @@ page_builder:
           id: miiykfbd
           values:
             type: heading
-            heading_size: L
+            heading_size: M
             heading:
               -
                 type: heading
@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Ontdek waar jouw lichaam energie verliest'
+                    text: 'Chronische pijn is niet normaal'
             show_tag: false
       -
         type: paragraph
@@ -260,7 +260,7 @@ page_builder:
                 label: 'Download gratis'
                 link_type: link
                 target_blank: false
-                link: '#kp-popup-kantel-quickstart-download'
+                link: 'https://kantelprogramma.nl/bedankt-kantel-check'
                 button_layout: solid
                 button_colour: orange
                 umami_event_name: kantel-quickstart-download-intro
@@ -292,7 +292,7 @@ page_builder:
           autoplay_video: false
           images:
             - kantel-check-mock-up.png
-          show_swiper_controls: false
+          show_swiper_controls: true
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -365,7 +365,7 @@ page_builder:
                     label: 'download | Kantel Check mini-boek'
                     link_type: link
                     target_blank: false
-                    link: '#kp-popup-kantel-quickstart-download'
+                    link: 'https://kantelprogramma.nl/bedankt-kantel-check'
                     button_layout: solid
                     button_colour: orange
                     umami_event_name: kantel-quickstart-download-card
@@ -585,7 +585,7 @@ page_builder:
                 label: 'Download de Kantel Check'
                 link_type: link
                 target_blank: false
-                link: '#kp-popup-kantel-quickstart-download'
+                link: 'https://kantelprogramma.nl/bedankt-kantel-check'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -796,7 +796,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: QuestionsCtaSection
-    enabled: true
+    enabled: false
   -
     id: mjadqthl
     content:
@@ -841,7 +841,7 @@ page_builder:
     type: PackageCards
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781620194
+updated_at: 1781620482
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
