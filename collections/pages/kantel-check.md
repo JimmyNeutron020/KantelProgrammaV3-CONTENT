@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Chronische pijn is niet normaal'
+                    text: 'Doe de gratis Kantel Check'
             show_tag: false
       -
         type: paragraph
@@ -65,7 +65,7 @@ page_builder:
             buttons:
               -
                 id: 0zxZsbKx
-                label: Download
+                label: 'KANTEL CHECK'
                 link_type: link
                 target_blank: false
                 link: 'https://tally.so/r/b5OLaL'
@@ -73,6 +73,30 @@ page_builder:
                 button_colour: white
                 umami_event_name: kantel-quickstart-download-hero
     type: HeroSection
+    enabled: true
+  -
+    id: mqgsysub
+    color: '#f7e7de'
+    background_image: brand/logo_kantelprogramma-(1).png
+    selected_entries:
+      - 3e4f795a-d008-4f2c-8dc6-5614c0179701
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+      - ef496077-0ae2-4572-b93e-430b6ac53df0
+      - 7d6f488a-8984-4c1f-92bd-38615aa6784e
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
     enabled: true
   -
     id: millve1d
@@ -249,7 +273,7 @@ page_builder:
             buttons:
               -
                 id: hQQwxb5Q
-                label: 'Download gratis'
+                label: 'Download gratis KANTEL CHECK'
                 link_type: link
                 target_blank: false
                 link: 'https://tally.so/r/b5OLaL'
@@ -354,7 +378,7 @@ page_builder:
                 buttons:
                   -
                     id: Z7xQDSjt
-                    label: 'download | Kantel Check mini-boek'
+                    label: 'download DE Kantel Check'
                     link_type: link
                     target_blank: false
                     link: 'https://tally.so/r/b5OLaL'
@@ -697,7 +721,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: ResultsCtaSection
-    enabled: true
+    enabled: false
   -
     id: mmwg0avl
     color: '#f7e7de'
@@ -831,9 +855,9 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: PackageCards
-    enabled: true
+    enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781621929
+updated_at: 1781624293
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
