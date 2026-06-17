@@ -54,6 +54,21 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Maak kennis met Chantal en Paul, onze weg en de mijlpalen.'
+      -
+        type: set
+        attrs:
+          id: mqhzos6h
+          values:
+            type: buttons
+            buttons:
+              -
+                id: nB4ogWnV
+                label: 'BOEK | Chronische pijn is níet normaal'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -140,6 +155,7 @@ page_builder:
       spacing_mobile: standard
     type: IntoSection
     enabled: true
+    color: '#ffffff'
   -
     id: mj7gxmvl
     items:
@@ -321,6 +337,21 @@ page_builder:
           -
             type: text
             text: 'Gezondheid van body en mind is al jaren haar grote interesse. Naast haar GGZ-achtergrond volgde ze diverse coachopleidingen, waaronder MasterCoach Leefstijl, en ze verdiepte zich in psychologie en leefwijzen. Dankzij haar talent analyseert ze razendsnel wat jouw kanteling vraagt. Ze wil het talent van anderen aanwakkeren en is uitgesproken: ons onderwijssysteem is verouderd en de zorg is incompleet. Te veel mensen staan op overleven. Laten we als moeders een stralend voorbeeld zijn. Born to shine.'
+      -
+        type: set
+        attrs:
+          id: mqhzqx7t
+          values:
+            type: buttons
+            buttons:
+              -
+                id: QvbkOzeN
+                label: '📚 Chornische pijn is níet normaal'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -873,7 +904,7 @@ page_builder:
       spacing_mobile: no_spacing
     type: UspSection
     enabled: true
-updated_by: e371bb04-0ca9-4476-b3f3-5a60c1b6631e
-updated_at: 1770550712
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1781695961
 use_white_header: false
 ---
