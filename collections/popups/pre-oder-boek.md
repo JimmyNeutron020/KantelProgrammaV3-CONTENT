@@ -142,7 +142,23 @@ popup_builder:
     enabled: true
 anchor_link_info: '#kp-popup-'
 auto_trigger: true
-target_mode: all
+target_mode: exclude
+target_pages:
+  - 33e3e8b7-4bf3-4228-a8ab-9394f21aa08c
+  - 75c90ee0-c95d-448a-ad4f-2f7038bf1cf2
+  - 30c318bf-74b9-4f4c-ada6-ea070534f915
+  - f2c3e28e-1fd9-461e-9aab-cd658dcd1d51
+  - 1e9453f0-adfd-4963-9c06-c795fb4ee323
+  - d234ac9f-17f1-4ade-a133-11e3ea87c414
+  - 083cff0a-660c-4ddc-b23d-c9cb308da729
+  - d0a15dd0-6027-47e2-b2da-619fd7b251cc
+  - a203ba5f-4950-4053-be31-1224c1fe6f88
+  - 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
+  - ce720b86-3dee-4e7c-afb9-34e2dad33f33
+  - 798268e6-e179-42ee-9dc8-35a62106109e
+  - 37243155-c428-4666-8d26-853b99756df4
+  - 159db715-c592-48fc-8d71-d2cf31bb6da4
+  - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
 trigger_type: exit_intent
 frequency: once_per_session
 min_page_views: 0
@@ -151,5 +167,5 @@ seo_title: 'Chronische pijn is niet normaal'
 seo_description: '@null'
 seo_og_image: boekomslag-3d-klein-1781529845.png
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1781532191
+updated_at: 1781685853
 ---
