@@ -1,7 +1,7 @@
 ---
 id: d40215c1-0b7d-4108-8004-c47b5ccb70c9
 blueprint: resultaten
-title: 'Ilse Beekenkamp'
+title: 'Ilse Beekenkamp, eigenaar en huisarts bij Praktijk van Noord'
 naam: 'Ilse Beekenkamp'
 profession: 'Eigenaar en huisarts bij Praktijk van Noord'
 social_links:
@@ -26,7 +26,7 @@ excerpt:
     attrs:
       class: null
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782133979
+updated_at: 1782134729
 content:
   -
     type: paragraph
