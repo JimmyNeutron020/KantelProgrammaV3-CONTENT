@@ -4,6 +4,11 @@ blueprint: resultaten
 title: 'Maud Cuijpers'
 naam: 'Maud Cuijpers-Dekkers, spreker en bestuurder Heel Wijs Health & Education'
 profession: 'Spreker en Bestuurder Heel Wijs Health & Education'
+social_links:
+  -
+    id: mqpa78tg
+    platform: linkedin
+    link: 'https://www.linkedin.com/in/maud-dekkers-35a067223/'
 media:
   video: false
   autoplay_video: false
@@ -16,7 +21,7 @@ media:
   sound_control: true
   fullscreen_control: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782136061
+updated_at: 1782136751
 content:
   -
     type: paragraph
