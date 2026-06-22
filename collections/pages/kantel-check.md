@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Doe de Kantel Check. Gratis.'
+                    text: 'Doe de Kantel Check'
             show_tag: false
       -
         type: paragraph
@@ -65,7 +65,7 @@ page_builder:
             buttons:
               -
                 id: 0zxZsbKx
-                label: 'KANTEL CHECK'
+                label: 'GRATIS KANTEL CHECK'
                 link_type: link
                 target_blank: false
                 link: 'https://tally.so/r/b5OLaL'
@@ -941,7 +941,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782148156
+updated_at: 1782148268
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
