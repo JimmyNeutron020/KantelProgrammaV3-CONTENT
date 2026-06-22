@@ -4,72 +4,6 @@ blueprint: page
 title: 'Kantel Check'
 page_builder:
   -
-    id: mqpgq3kj
-    color: '#f7e7de'
-    heading_size: M
-    heading:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Bekend van onder meer:'
-    show_tag: false
-    logos:
-      -
-        id: mqpgqm0b
-        logo_image: media/download-(1).png
-        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
-        type: logo
-        enabled: true
-      -
-        id: mqpgr4n0
-        logo_image: media/flair-logo.svg
-        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
-        type: logo
-        enabled: true
-      -
-        id: mqpgrnhv
-        logo_image: media/metro-logo-zwart.svg
-        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
-        type: logo
-        enabled: true
-      -
-        id: mqpgs1m2
-        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        logo_link: 'https://www.oervrouwmagazine.nl/'
-        type: logo
-        enabled: true
-      -
-        id: mqpgsmvw
-        logo_image: media/rtl4_2023.svg.png
-        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
-        type: logo
-        enabled: true
-      -
-        id: mqpgt04j
-        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
-        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
-        type: logo
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: FeaturedMedia
-    enabled: true
-  -
     id: miiyjz79
     full_height: false
     layout_setting: media
@@ -139,6 +73,72 @@ page_builder:
                 button_colour: white
                 umami_event_name: kantel-quickstart-download-hero
     type: HeroSection
+    enabled: true
+  -
+    id: mqpgq3kj
+    color: '#f7e7de'
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Bekend van onder meer:'
+    show_tag: false
+    logos:
+      -
+        id: mqpgqm0b
+        logo_image: media/download-(1).png
+        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
+        type: logo
+        enabled: true
+      -
+        id: mqpgr4n0
+        logo_image: media/flair-logo.svg
+        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
+        type: logo
+        enabled: true
+      -
+        id: mqpgrnhv
+        logo_image: media/metro-logo-zwart.svg
+        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
+        type: logo
+        enabled: true
+      -
+        id: mqpgs1m2
+        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
+        logo_link: 'https://www.oervrouwmagazine.nl/'
+        type: logo
+        enabled: true
+      -
+        id: mqpgsmvw
+        logo_image: media/rtl4_2023.svg.png
+        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
+        type: logo
+        enabled: true
+      -
+        id: mqpgt04j
+        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
+        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
+        type: logo
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FeaturedMedia
     enabled: true
   -
     id: millve1d
@@ -941,7 +941,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782147961
+updated_at: 1782148011
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
