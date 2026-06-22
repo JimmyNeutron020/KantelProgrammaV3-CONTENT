@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - mini-reset-blue-zone.png
+        - boekomslag-3d-klein.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -50,7 +50,7 @@ page_builder:
             buttons:
               -
                 id: ylgAH8Vv
-                label: 'BLUE ZONE RESET | NU € 49'
+                label: 'PRE-ORDER 📚 | NU € 29,50'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
@@ -88,7 +88,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Blue Zone Reset t.w.v. € 299'
+                    text: '📚 BOEK én 3 bonussen t.w.v. € 222'
             show_tag: false
       -
         type: paragraph
@@ -195,7 +195,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dan zijn dit de volgende stappen. Kies wat bij je past.'
+            text: 'Dan is dit de volgende stap.'
       -
         type: set
         attrs:
@@ -216,7 +216,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Blue Zone Reset'
+                    text: '📚BOEK | Chronische pijn is níet normaal'
             show_tag: false
       -
         type: paragraph
@@ -228,7 +228,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Voor als je snel wilt voelen wat er verandert als je het anders aanpakt. Klein, maar direct goed voelbaar verschil in je energie en lichaam. '
+            text: 'Voor als je snel wilt voelen wat er verandert als je het anders aanpakt.  '
       -
         type: set
         attrs:
@@ -238,7 +238,7 @@ page_builder:
             buttons:
               -
                 id: QbOFGCUT
-                label: 'BLUE ZONE RESET'
+                label: 'Je hoeft er niet mee te leren leven'
                 link_type: link
                 target_blank: false
                 link: 'entry::babc9d5b-c875-4aaf-a85a-5dec77141630'
@@ -303,7 +303,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782130484
+updated_at: 1782131130
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
