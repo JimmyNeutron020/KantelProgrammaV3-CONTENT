@@ -26,7 +26,7 @@ excerpt:
     attrs:
       class: null
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782134729
+updated_at: 1782134754
 content:
   -
     type: paragraph
@@ -35,5 +35,13 @@ content:
     content:
       -
         type: text
-        text: 'Dit boek raakt me. Niet alleen vanuit mijn vak als huisarts, waarin ik dagelijks vrouwen ontmoet met deze klachten, maar ook als werkende vrouw midden in het leven met alle verantwoordelijkheden, ambities en uitdagingen. Juist daarom gun ik iedere vrouw meer zelfliefde, zachtheid en verbinding met zichzelf. Thuiskomen in haar eigen lijf en leven. Een waardevolle boodschap die veel vrouwen zou mogen bereiken.'
+        text: 'Dit boek raakt me. Niet alleen vanuit mijn vak als huisarts, waarin ik dagelijks vrouwen ontmoet met deze klachten, maar ook als werkende vrouw midden in het leven met alle verantwoordelijkheden, ambities en uitdagingen. '
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Juist daarom gun ik iedere vrouw meer zelfliefde, zachtheid en verbinding met zichzelf. Thuiskomen in haar eigen lijf en leven. Een waardevolle boodschap die veel vrouwen zou mogen bereiken.'
 ---
