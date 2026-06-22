@@ -309,7 +309,7 @@ page_builder:
     color: '#f7e7de'
     selected_entries:
       - d40215c1-0b7d-4108-8004-c47b5ccb70c9
-    show_settings: false
+    show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
       spacing_mobile: standard
@@ -324,6 +324,7 @@ page_builder:
       spacing_mobile: standard
     type: TestimonialBubbles
     enabled: true
+    background_image: recensie-ilse-beekenkamp.png
   -
     id: mq0ol278
     items:
@@ -2253,6 +2254,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782134624
+updated_at: 1782134936
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
