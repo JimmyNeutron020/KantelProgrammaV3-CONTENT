@@ -1,0 +1,29 @@
+---
+id: 0c1bdaf2-7019-424e-8923-f28bf071ea7b
+blueprint: resultaten
+title: 'Karin Groot Jebbink'
+naam: 'Karin Groot Jebbink, veterinair natuurgeneeskundige'
+profession: 'Veterinair Natuurgeneeskundige'
+media:
+  video: false
+  autoplay_video: false
+  images:
+    - recensie-karin-groot-jebbink.png
+  show_swiper_controls: true
+  autoplay: true
+  swiper_bullets: true
+  play_pause_control: true
+  sound_control: true
+  fullscreen_control: true
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1782135871
+content:
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Wanneer je te maken hebt met chronische pijn is het bewust worden van standhoudende patronen de eerste stap naar herstel. Dit boek laat je feilloos zien welke patronen en gewoontes je onbewust blijft volhouden, waardoor de chronische pijn ook blijft bestaan. Het is vaak confronterend, maar ook bevrijdend, want door hier bewust mee bezig te gaan zet je de eerste stap naar herstel.'
+---
