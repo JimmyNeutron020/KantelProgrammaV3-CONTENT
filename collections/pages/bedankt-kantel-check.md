@@ -88,7 +88,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: '📚 BOEK én 3 bonussen t.w.v. € 222'
+                    text: '📚 BOEK incl. BonusBundel t.w.v. € 222'
             show_tag: false
       -
         type: paragraph
@@ -307,7 +307,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782139627
+updated_at: 1782139868
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
