@@ -80,11 +80,10 @@ page_builder:
     color: '#f7e7de'
     swap_layout: true
     media:
-      video: false
+      video: true
       autoplay_video: false
       images:
         - chantal-homepage.png
-      show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -283,7 +282,7 @@ page_builder:
             buttons:
               -
                 id: RIOPZ0ix
-                label: 'Pre-order nú € 29,50 inclusief Bonus Bundel t.w.v. € 122'
+                label: 'Pre-order nú € 29,50 incl. Bonus Bundel t.w.v. € 122'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
@@ -2255,6 +2254,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782137697
+updated_at: 1782137953
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
