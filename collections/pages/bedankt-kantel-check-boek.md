@@ -264,8 +264,12 @@ page_builder:
     id: mqguagnf
     color: '#eb8d7a'
     selected_entries:
-      - 7d6f488a-8984-4c1f-92bd-38615aa6784e
-      - 3e4f795a-d008-4f2c-8dc6-5614c0179701
+      - 9ad74bf7-7827-41e4-9663-9119692eac03
+      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
+      - 36d7ebc3-29c4-4635-a2c9-acbd59ad34ce
+      - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
+      - 0c1bdaf2-7019-424e-8923-f28bf071ea7b
+      - cebdbbfe-1aef-43bb-8510-e5f19a8695a2
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -303,7 +307,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782131575
+updated_at: 1782139498
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
