@@ -70,13 +70,13 @@ page_builder:
                 target_blank: false
                 link: 'https://tally.so/r/b5OLaL'
                 button_layout: solid
-                button_colour: white
+                button_colour: orange
                 umami_event_name: kantel-quickstart-download-hero
     type: HeroSection
     enabled: true
   -
     id: mqpgq3kj
-    color: '#f7e7de'
+    color: '#eb8d7a'
     heading_size: M
     heading:
       -
@@ -941,7 +941,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782148268
+updated_at: 1782148337
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
