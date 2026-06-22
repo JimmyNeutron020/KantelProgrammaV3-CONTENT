@@ -10,18 +10,18 @@ social_links:
     platform: linkedin
     link: 'https://www.linkedin.com/in/maud-dekkers-35a067223/'
 media:
-  video: false
-  autoplay_video: false
+  video: true
+  autoplay_video: true
+  preview_image: recensie-karin-groot-jebbink.png
   images:
     - recensie-karin-groot-jebbink.png
-  show_swiper_controls: true
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
   sound_control: true
   fullscreen_control: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782136779
+updated_at: 1782137456
 content:
   -
     type: paragraph
