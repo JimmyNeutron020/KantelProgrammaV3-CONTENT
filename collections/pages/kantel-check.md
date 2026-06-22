@@ -39,7 +39,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Doe de gratis Kantel Check'
+                    text: 'Doe de Kantel Check. Gratis.'
             show_tag: false
       -
         type: paragraph
@@ -55,7 +55,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'De Kantel Check is voor vrouwen die al langer klachten hebben die maar niet verdwijnen.'
+            text: 'Speciaal voor vrouwen die al langer klachten hebben die maar niet verdwijnen.'
       -
         type: set
         attrs:
@@ -941,7 +941,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782148011
+updated_at: 1782148092
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
