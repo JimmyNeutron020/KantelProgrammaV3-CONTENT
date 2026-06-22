@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
+        - boek-website-achter-1780600066.png
       show_swiper_controls: true
       autoplay: true
       swiper_bullets: true
@@ -941,7 +941,7 @@ page_builder:
     type: ResultatenOverview
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782148092
+updated_at: 1782148156
 duplicated_from: d81e8a34-e412-443e-b24b-f46726b1d854
 use_white_header: false
 ---
