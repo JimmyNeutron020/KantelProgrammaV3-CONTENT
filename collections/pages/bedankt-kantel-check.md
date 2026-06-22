@@ -53,7 +53,7 @@ page_builder:
                 label: 'PRE-ORDER 📚 | NU € 29,50'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/masterclass-ratrace-reset'
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
                 button_layout: solid
                 button_colour: orange
     type: HeroSection
@@ -241,7 +241,7 @@ page_builder:
                 label: 'Je hoeft er niet mee te leren leven'
                 link_type: link
                 target_blank: false
-                link: 'entry::babc9d5b-c875-4aaf-a85a-5dec77141630'
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -307,7 +307,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782139868
+updated_at: 1782143105
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
