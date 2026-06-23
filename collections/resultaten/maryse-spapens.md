@@ -21,7 +21,7 @@ media:
   sound_control: true
   fullscreen_control: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782137211
+updated_at: 1782242503
 content:
   -
     type: paragraph
@@ -30,7 +30,7 @@ content:
     content:
       -
         type: text
-        text: 'Een eerlijk boek over een onderwerp waar één op de vijf vrouwen mee tobt, maar liever niet ver zeurt: chronische pijn. Haar persoonlijke ervaring, wetenschappelijke kennis over gezonde leefstijl in de Blue Zone en lessen van ervaren topsporters vormen de sleutel naar de oplossing.'
+        text: 'Een eerlijk boek over een onderwerp waar één op de vijf vrouwen mee tobt, maar liever niet over zeurt: chronische pijn. Haar persoonlijke ervaring, wetenschappelijke kennis over gezonde leefstijl in de Blue Zone en lessen van ervaren topsporters vormen de sleutel naar de oplossing.'
   -
     type: paragraph
     attrs:
