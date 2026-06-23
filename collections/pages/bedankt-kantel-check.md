@@ -8,12 +8,13 @@ page_builder:
     full_height: false
     layout_setting: media
     media:
-      video: true
-      autoplay_video: true
+      video: false
+      autoplay_video: false
       video_link: 'https://vimeo.com/1203824517?share=copy&fl=sv&fe=ci'
       preview_image: boek-omslag-1-juni-2026.jpg
       images:
         - boekomslag-3d-klein.png
+      show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
@@ -57,6 +58,21 @@ page_builder:
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
                 button_layout: solid
                 button_colour: orange
+    type: HeroSection
+    enabled: true
+  -
+    id: mqqnu1ob
+    full_height: true
+    layout_setting: media
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/1203824517?share=copy&fl=sv&fe=ci'
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
     type: HeroSection
     enabled: true
   -
@@ -308,7 +324,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782219978
+updated_at: 1782220133
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
