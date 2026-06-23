@@ -5,8 +5,20 @@ title: 'Hoe herken ik dat ik te lang over mijn grenzen heen leef?'
 template: blog
 author: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782242204
+updated_at: 1782242368
 content:
+  -
+    type: set
+    attrs:
+      id: mqr12ynm
+      values:
+        type: images
+        images:
+          - boek-omslag.jpg
+  -
+    type: paragraph
+    attrs:
+      class: null
   -
     type: paragraph
     attrs:
