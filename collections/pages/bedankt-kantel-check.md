@@ -61,19 +61,36 @@ page_builder:
     type: HeroSection
     enabled: true
   -
-    id: mqqnu1ob
-    full_height: true
-    layout_setting: media
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/1203824517?share=copy&fl=sv&fe=ci'
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    type: HeroSection
+    id: mqqo004a
+    items:
+      -
+        id: mqqo03dv
+        swap: false
+        media:
+          video: true
+          autoplay_video: true
+          video_link: 'https://vimeo.com/1203824517?share=copy&fl=sv&fe=ci'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
     enabled: true
   -
     id: mjspiy04
@@ -324,7 +341,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782220133
+updated_at: 1782220412
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
