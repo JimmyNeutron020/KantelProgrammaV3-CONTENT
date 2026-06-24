@@ -377,6 +377,7 @@ page_builder:
       - d40215c1-0b7d-4108-8004-c47b5ccb70c9
       - 9ad74bf7-7827-41e4-9663-9119692eac03
       - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
+      - 7f5026dc-b625-4b98-bb49-052edfdcffaf
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -2343,6 +2344,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782147185
+updated_at: 1782322967
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
