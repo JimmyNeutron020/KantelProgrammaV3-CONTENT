@@ -603,7 +603,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - 'foto-18-01-2026,-12-34-46.jpg'
+            - homepage-boek-paul-en-chantl.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -701,6 +701,19 @@ page_builder:
                     link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
                     button_layout: solid
                     button_colour: orange
+          -
+            type: paragraph
+            attrs:
+              class: text-sm
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange-light
+                text: 'Inclusief de tijdelijke herstelbundel t.w.v. €122, alleen tijdens de pre-order.'
         type: new_set
         enabled: true
     show_settings: false
@@ -2054,6 +2067,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782765234
+updated_at: 1782766006
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
