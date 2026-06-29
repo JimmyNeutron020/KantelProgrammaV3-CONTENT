@@ -978,7 +978,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Na het begeleiden van meer dan 1.250 vrouwen zagen Paul en ik iets opmerkelijks.'
+                        text: 'Inzicht geeft houvast'
                 show_tag: false
           -
             type: paragraph
@@ -987,7 +987,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Herstel verloopt zelden willekeurig. Steeds opnieuw zagen we dezelfde kantelpunten terug. Niet omdat ieder lichaam hetzelfde is maar omdat ieder lichaam eerst veiligheid, inzicht en opbouw nodig heeft voordat het weer vooruit kan.'
+                text: 'Veel vrouwen denken dat herstel begint met de juiste oefening, de juiste behandeling of nóg meer doorzettingsvermogen. Maar tijdens het begeleiden van meer dan 1.250 vrouwen zagen we iets opvallends.'
           -
             type: paragraph
             attrs:
@@ -995,7 +995,15 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Daaruit ontstonden de vijf fases van de Bewezen Beter Kantelmethode. Geen stappenplan dat je zo snel mogelijk moet afwerken, maar een route die vrouwen helpt begrijpen waar ze staan en welke volgende stap hun lichaam nodig heeft.'
+                text: 'Vrouwen die vooruitgingen, deden dat niet omdat ze harder werkten dan anderen. Ze maakten eerst een andere beweging. Ze stopten met voortdurend over hun grenzen gaan. Ze leerden opnieuw luisteren naar hun lichaam. Ze begonnen te begrijpen hoe verschillende factoren elkaar beïnvloeden. En pas daarna konden ze hun belastbaarheid weer stap voor stap opbouwen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hoe verschillend hun verhalen ook waren, die ontwikkeling zagen we steeds opnieuw terug. Daarom brachten we die terugkerende stappen samen in vijf overzichtelijke fases. Niet omdat herstel voor iedereen hetzelfde verloopt. Maar omdat inzicht houvast geeft wanneer je al zo lang zoekt.'
         type: new_set
         enabled: true
     show_settings: false
@@ -1021,7 +1029,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - chantal-homepage.png
+        - vijffaseskantelprogramma.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1131,6 +1139,44 @@ page_builder:
           -
             type: text
             text: 'Je bouwt weer aan een leven dat niet langer door pijn wordt bepaald.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Dit boek laat je zien hoe deze vijf fases met elkaar samenhangen, zodat je eindelijk begrijpt waarom zoveel vrouwen blijven vastlopen en wat er nodig is om die cirkel te doorbreken.'
+      -
+        type: set
+        attrs:
+          id: mqzpvryy
+          values:
+            type: buttons
+            buttons:
+              -
+                id: fIFlHHgd
+                label: '📚RESERVEER MIJN EXEMPLAAR'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
+              -
+                id: mqzpyolu
+                label: 'Inclusief de tijdelijke herstelbundel t.w.v. €122, alleen tijdens de pre-order.'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: standard
+                button_colour: orange
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1432,128 +1478,6 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: ResultsCtaSection
-    enabled: true
-  -
-    id: mq12vv6a
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: true
-    items:
-      -
-        id: mq13h6q0
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - chantal-homepage.png
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mq13i8ih
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Waarom ik dit boek moest schrijven'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Omdat ik niet wil dat vrouwen hun toekomst opgeven op basis van een overtuiging die misschien helemaal niet waar is.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Omdat ik te vaak vrouwen zie die denken dat ze ermee moeten leren leven.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Omdat ik te vaak vrouwen zie die zichzelf langzaam kwijtraken.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 En omdat ik geloof dat herstel verder gaat dan één persoon.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Wat je voorleeft maakt meer verschil dan wat je vertelt. Kinderen leren hoe ze met zichzelf omgaan door te kijken naar hoe wij met onszelf omgaan. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '🧡 Daarom gaat dit boek niet alleen over pijn. Het gaat over wat er verandert wanneer een vrouw stopt met geloven dat pijn, uitputting en zichzelf wegcijferen normaal zijn. Haar leven en toekomst kantelt en daarmee dat van haar kinderen én de generatie na ons.'
-        type: new_set
-        enabled: true
-  -
-    id: mq15s60h
-    full_height: true
-    layout_setting: media
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - vijffaseskp.png
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    type: HeroSection
     enabled: true
   -
     id: mq15uus1
@@ -2291,6 +2215,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782767675
+updated_at: 1782768160
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
