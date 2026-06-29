@@ -56,7 +56,22 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Een op de vijf vrouwen leeft met chronische pijn. Toch zijn we het normaal gaan vinden dat zij hun leven eraan aanpassen. Maar wat als we al jaren de verkeerde vraag stellen?'
+            text: 'Een op de vijf vrouwen leeft met chronische pijn. Toch zijn we het normaal gaan vinden dat zij hun leven eraan aanpassen. '
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Maar wat als we al jaren de verkeerde vraag stellen?'
       -
         type: paragraph
         attrs:
@@ -160,7 +175,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - chantal-homepage.png
+        - denise-ijpelaar-1.jpeg
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -183,24 +198,16 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: 'Je hoeft er niet mee te leren leven'
+                    text: 'Wanneer zijn we dit eigenlijk normaal gaan vinden?'
             show_tag: false
       -
         type: paragraph
         attrs:
-          class: text-base
+          class: text-md
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: '📚Chronische pijn is níet normaal. Hoe stoere vrouwen hun leven en toekomst kantelen. Voor zichzelf, hun kinderen én voor de generatie na ons. '
+            text: 'Je hebt waarschijnlijk vaker gehoord:'
       -
         type: bulletList
         content:
@@ -216,11 +223,8 @@ page_builder:
                     type: text
                     marks:
                       -
-                        type: bold
-                    text: 'Níet normaal '
-                  -
-                    type: text
-                    text: 'dat je eerst bedenkt wat je lichaam aankan voordat je ergens ja op zegt.'
+                        type: italic
+                    text: '"Dat hoort erbij."'
           -
             type: listItem
             content:
@@ -233,20 +237,8 @@ page_builder:
                     type: text
                     marks:
                       -
-                        type: bold
-                    text: Níet
-                  -
-                    type: text
-                    text: ' '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: normaal
-                  -
-                    type: text
-                    text: ' dat je dagen plant rondom energie.'
+                        type: italic
+                    text: '"Je wordt ouder."'
           -
             type: listItem
             content:
@@ -259,20 +251,8 @@ page_builder:
                     type: text
                     marks:
                       -
-                        type: bold
-                    text: Níet
-                  -
-                    type: text
-                    text: ' '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: normaal
-                  -
-                    type: text
-                    text: ' dat je leven steeds kleiner wordt.'
+                        type: italic
+                    text: '"Na een zwangerschap blijf je nu eenmaal klachten houden."'
           -
             type: listItem
             content:
@@ -285,24 +265,8 @@ page_builder:
                     type: text
                     marks:
                       -
-                        type: bold
-                    text: Níet
-                  -
-                    type: text
-                    text: ' '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: normaal
-                  -
-                    type: text
-                    text: ' dat je bent gaan geloven dat dit er nu eenmaal bij hoort.'
-      -
-        type: paragraph
-        attrs:
-          class: null
+                        type: italic
+                    text: '"Leer er maar mee leven."'
       -
         type: paragraph
         attrs:
@@ -310,7 +274,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Toch is dat precies wat duizenden vrouwen normaal zijn gaan vinden. Dit boek laat je zien waarom jouw verhaal misschien nog niet af is.'
+            text: 'Misschien heb je die zinnen zelfs tegen jezelf gezegd. Niet omdat je hebt opgegeven, maar omdat je bent blijven zoeken. Omdat je wilde geloven dat de volgende behandeling, de volgende therapeut of het volgende advies eindelijk het verschil zou maken. '
       -
         type: paragraph
         attrs:
@@ -318,7 +282,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Voor vrouwen die moe zijn van pijn, vermoeidheid en altijd doorgaan. Voor vrouwen die willen begrijpen waarom hun lichaam misschien niet stuk is.'
+            text: 'Ondertussen gebeurde er iets anders. Niet alleen je lichaam veranderde. Je leven veranderde mee. Misschien ging sporten niet meer vanzelf. Zei je vaker nee tegen een dagje weg. Dacht je eerst na voordat je met je kinderen naar de speeltuin ging. Of merkte je dat je steeds meer energie kwijt was aan het voorkomen van pijn, in plaats van aan het leven zelf.'
       -
         type: paragraph
         attrs:
@@ -326,46 +290,7 @@ page_builder:
         content:
           -
             type: text
-            text: '👉🏻 Begrijp waarom je blijft vastlopen'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '👉🏻 Ontdek waarom klachten vaak meer vertellen dan alleen waar het pijn doet'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '👉🏻 Stop met jezelf de schuld geven'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: '👉🏻 Durf weer te geloven dat herstel mogelijk is'
-      -
-        type: set
-        attrs:
-          id: mq57c2gs
-          values:
-            type: buttons
-            buttons:
-              -
-                id: RIOPZ0ix
-                label: 'Pre-order nú € 29,50 incl. Bonus Bundel t.w.v. € 122'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                button_layout: solid
-                button_colour: orange
+            text: 'En misschien is dat wel het meest pijnlijke. Niet de klachten. Maar alles wat je onderweg bent kwijtgeraakt.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2355,6 +2280,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782758825
+updated_at: 1782759892
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
