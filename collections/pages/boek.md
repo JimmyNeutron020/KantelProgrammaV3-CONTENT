@@ -1019,134 +1019,95 @@ page_builder:
             tag_text: 'hun echte verhalen in het boek'
             tag_alignment: right
       -
-        type: bulletList
+        type: paragraph
+        attrs:
+          class: text-md
         content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: text-base
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'De vrouw die haar boodschappen aan de kassa liet staan omdat ze niet langer kon blijven staan.'
+                  class: text-white
+            text: 'De vrouw die haar boodschappen aan de kassa liet staan omdat ze niet langer kon blijven staan.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: text-base
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'De vrouw die haar baby niet zonder pijn kon tillen.'
+                  class: text-white
+            text: 'De vrouw die haar baby niet zonder pijn kon tillen.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: text-base
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'De vrouw die niet meer durfde te dromen van een volgende zwangerschap.'
+                  class: text-white
+            text: 'De vrouw die niet meer durfde te dromen van een volgende zwangerschap.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: text-base
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'De vrouw die met een rolstoel door de Efteling ging.'
+                  class: text-white
+            text: 'De vrouw die met een rolstoel door de Efteling ging.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: text-base
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'De vrouw die haar leven steeds kleiner zag worden.'
+                  class: text-white
+            text: 'De vrouw die haar leven steeds kleiner zag worden.'
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
           -
-            type: listItem
-            content:
+            type: text
+            marks:
               -
-                type: paragraph
+                type: bold
+              -
+                type: btsSpan
                 attrs:
-                  class: text-base
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: link
-                        attrs:
-                          href: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                          rel: null
-                          target: null
-                          title: null
-                      -
-                        type: bold
-                    text: 'En de vrouw die ontdekte dat haar verhaal nog niet af was.'
+                  class: text-white
+            text: 'En de vrouw die ontdekte dat haar verhaal nog niet af was.'
       -
         type: set
         attrs:
@@ -2276,7 +2237,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782139192
+updated_at: 1782769946
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
