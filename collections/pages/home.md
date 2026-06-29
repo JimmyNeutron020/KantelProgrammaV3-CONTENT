@@ -675,6 +675,56 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mqzqa6e9
+    full_height: true
+    layout_setting: content
+    color: '#ffffff'
+    content:
+      -
+        type: set
+        attrs:
+          id: mqzqbryw
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Dit boek geeft je geen snelle oplossing. Het geeft je een compleet nieuw perspectief.'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit boek leert je niet hoe je met pijn moet leren leven. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen. Niet door nog meer regels of oefeningen toe te voegen. Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
+    type: HeroSection
+    enabled: true
+  -
     id: mqzo8qvx
     show_settings: false
     inner_spacing_top:
@@ -708,28 +758,6 @@ page_builder:
           fullscreen_control: true
         content:
           -
-            type: set
-            attrs:
-              id: mqzowtyk
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Dit boek geeft je geen snelle oplossing. Het geeft je een compleet nieuw perspectief.'
-                show_tag: false
-          -
             type: paragraph
             attrs:
               class: null
@@ -761,6 +789,28 @@ page_builder:
               -
                 type: text
                 text: 'Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
+          -
+            type: set
+            attrs:
+              id: mqzqccb9
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Dit boek geeft je geen snelle oplossing. Het geeft je een compleet nieuw perspectief.'
+                show_tag: false
           -
             type: set
             attrs:
@@ -2215,6 +2265,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782768160
+updated_at: 1782768550
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
