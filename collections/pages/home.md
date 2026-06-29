@@ -123,7 +123,7 @@ page_builder:
           id: mpzwbiz4
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -299,7 +299,7 @@ page_builder:
               id: mq0on7d1
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -446,7 +446,7 @@ page_builder:
           id: mq10rz0w
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -560,7 +560,7 @@ page_builder:
               id: mqzoaq71
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -698,7 +698,7 @@ page_builder:
                       -
                         type: btsSpan
                         attrs:
-                          class: text-orange
+                          class: text-grey
                       -
                         type: btsSpan
                         attrs:
@@ -712,6 +712,13 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Dit boek leert je niet hoe je met pijn moet leren leven. '
       -
         type: paragraph
@@ -720,6 +727,13 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
             text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen. Niet door nog meer regels of oefeningen toe te voegen. Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
     type: HeroSection
     enabled: true
@@ -727,7 +741,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - boekomslag-3d-klein-1781529845.png
+        - boek-hero-website.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -773,7 +787,7 @@ page_builder:
               id: mqzqftjd
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -816,32 +830,10 @@ page_builder:
           -
             type: set
             attrs:
-              id: mqzqccb9
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Dit boek geeft je geen snelle oplossing. Het geeft je een compleet nieuw perspectief.'
-                show_tag: false
-          -
-            type: set
-            attrs:
               id: mqzoy2fo
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -857,10 +849,6 @@ page_builder:
                               class: text-orange
                         text: 'Na dit boek kijk je anders naar jezelf'
                 show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
           -
             type: set
             attrs:
@@ -1000,7 +988,7 @@ page_builder:
               id: mqzpoyui
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -1038,7 +1026,7 @@ page_builder:
               id: mqzpqptl
               values:
                 type: heading
-                heading_size: M
+                heading_size: S
                 heading:
                   -
                     type: paragraph
@@ -1117,7 +1105,7 @@ page_builder:
           id: mqzpsr8q
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -1361,11 +1349,6 @@ page_builder:
                 content:
                   -
                     type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
                     text: 'Meer dan 1250 vrouwen gingen je voor'
             show_tag: true
             tag_text: 'hun echte verhalen in het boek'
@@ -1727,7 +1710,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: IntoSection
-    enabled: true
+    enabled: false
   -
     id: mqpbfaze
     color: '#f7e7de'
@@ -2267,7 +2250,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
-    enabled: true
+    enabled: false
   -
     id: mq12gntv
     color: '#f7e7de'
@@ -2289,6 +2272,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782768738
+updated_at: 1782769108
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
