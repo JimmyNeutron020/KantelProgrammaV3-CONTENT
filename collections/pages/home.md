@@ -677,8 +677,7 @@ page_builder:
   -
     id: mqzqa6e9
     full_height: true
-    layout_setting: content
-    color: '#ffffff'
+    layout_setting: media
     content:
       -
         type: set
@@ -724,6 +723,17 @@ page_builder:
             text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen. Niet door nog meer regels of oefeningen toe te voegen. Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
     type: HeroSection
     enabled: true
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - boekomslag-3d-klein-1781529845.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
   -
     id: mqzo8qvx
     show_settings: false
@@ -749,7 +759,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - boek-omslag.jpg
+            - boek-website-.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -758,13 +768,27 @@ page_builder:
           fullscreen_control: true
         content:
           -
-            type: paragraph
+            type: set
             attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Dit boek leert je niet hoe je met pijn moet leren leven.'
+              id: mqzqftjd
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Dit boek leert je niet hoe je met pijn moet leren leven.'
+                show_tag: false
           -
             type: paragraph
             attrs:
@@ -2265,6 +2289,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782768550
+updated_at: 1782768738
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
