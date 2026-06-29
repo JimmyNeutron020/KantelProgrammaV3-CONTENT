@@ -594,20 +594,115 @@ page_builder:
     type: IntoSection
     enabled: true
   -
-    id: mq122qh8
-    color: '#eb8d7a'
-    swap_layout: false
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - 'community/foto-18-01-2026,-12-06-56.jpg'
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
+    id: mqzo9awf
+    items:
+      -
+        id: mqzo9e6u
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - 'foto-18-01-2026,-12-34-46.jpg'
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mqzoaq71
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-grey
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Deze inzichten ontstonden niet in een spreekkamer'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Toen ik zelf te maken kreeg met ernstige bekkeninstabiliteit, stond mijn eigen leven volledig stil. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Jaren later begon ik samen met mijn partner Paul vrouwen te begeleiden met langdurige pijnklachten. Niet tientallen, maar honderden. Steeds opnieuw zagen we hetzelfde patroon terug. Vrouwen die sterk waren. Die bleven doorgaan. Die van behandeling naar behandeling gingen. En die steeds meer gingen geloven dat hun klachten er nu eenmaal bij hoorden.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Toch zagen we ook iets anders. De vrouwen die stap voor stap opnieuw leerden kijken naar hun lichaam, hun herstel en hun dagelijkse keuzes, maakten vaak veel meer vooruitgang dan ze zelf ooit voor mogelijk hielden. Omdat ze eindelijk het complete verhaal gingen begrijpen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Na meer dan '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '1.250 vrouwen'
+              -
+                type: text
+                text: ' begeleid te hebben, zagen we dat herstel geen rechte lijn is, maar dat vrijwel iedere vrouw dezelfde kantelpunten doorloopt. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat inzicht vormde de basis voor dit boek.'
+          -
+            type: set
+            attrs:
+              id: mqzoc3h8
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: omjfK7zt
+                    label: '📚 RESERVEER MIJN EXEMPLAAR'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -621,47 +716,25 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: QuestionsCtaSection
+    type: AlternatingBlocks
     enabled: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mq126s7x
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-grey
-                    text: 'Het probleem is niet dat je zwak bent'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Het probleem is dat je te lang sterk bent geweest. Je hebt waarschijnlijk al meer geprobeerd dan de meeste mensen ooit zouden doen. Je bent blijven zoeken, hopen en doorgaan. Zelfs wanneer je lichaam iets anders vroeg. Dat is niet zwak maar juist waarom je zo lang bent blijven functioneren.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Ergens onderweg werd doorgaan een gewoonte en luisteren iets wat steeds verder naar de achtergrond verdween. Veel klachten zijn niet ontstaan omdat je te weinig hebt gedaan. Maar omdat je veel te lang alles hebt gedragen.'
+  -
+    id: mqzo8qvx
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
   -
     id: mqp8x0pv
     color: '#f7e7de'
@@ -1981,6 +2054,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782764628
+updated_at: 1782765234
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
