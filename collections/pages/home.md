@@ -903,6 +903,250 @@ page_builder:
     type: TestimonialBubbles
     enabled: true
   -
+    id: mqzpof4j
+    items:
+      -
+        id: mqzpogfm
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - boek-website-.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mqzpoyui
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Herstel begint niet met harder je best doen.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien heb je jezelf jarenlang verteld dat je gewoon sterker moest zijn. Dat je meer moest bewegen of juist minder. Dat je beter moest slapen en gezonder moest eten. Meer moest ontspannen of eindelijk de juiste behandeling moest vinden.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar wat als herstel niet begint met nóg harder je best doen? Wat als herstel begint met begrijpen waar je lichaam werkelijk om vraagt?'
+          -
+            type: set
+            attrs:
+              id: mqzpqptl
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Na het begeleiden van meer dan 1.250 vrouwen zagen Paul en ik iets opmerkelijks.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Herstel verloopt zelden willekeurig. Steeds opnieuw zagen we dezelfde kantelpunten terug. Niet omdat ieder lichaam hetzelfde is maar omdat ieder lichaam eerst veiligheid, inzicht en opbouw nodig heeft voordat het weer vooruit kan.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Daaruit ontstonden de vijf fases van de Bewezen Beter Kantelmethode. Geen stappenplan dat je zo snel mogelijk moet afwerken, maar een route die vrouwen helpt begrijpen waar ze staan en welke volgende stap hun lichaam nodig heeft.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: mqzpsgsy
+    color: '#eb8d7a'
+    swap_layout: true
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - chantal-homepage.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mqzpsr8q
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: '5 fases. Eén reis naar vrijheid.'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: STOPPEN
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Je ontdekt waarom doorgaan niet altijd vooruitgaan is.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: VOELEN
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Je leert opnieuw luisteren naar de signalen van je lichaam.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: BEGRIJPEN
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Je ontdekt waarom klachten niet op zichzelf staan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: OPBOUWEN
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Je werkt stap voor stap aan vertrouwen, belastbaarheid en herstel.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: LEVEN
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Je bouwt weer aan een leven dat niet langer door pijn wordt bepaald.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+  -
     id: mqpg62hv
     color: '#f7e7de'
     heading_size: M
@@ -2047,6 +2291,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782767293
+updated_at: 1782767675
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
