@@ -781,7 +781,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Wat ontdek je in dit boek'
+                        text: 'Na dit boek kijk je anders naar jezelf'
                 show_tag: false
           -
             type: paragraph
@@ -880,6 +880,29 @@ page_builder:
         type: new_set
         enabled: true
   -
+    id: mqp8x0pv
+    color: '#f7e7de'
+    selected_entries:
+      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
+      - 9ad74bf7-7827-41e4-9663-9119692eac03
+      - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
+      - 7f5026dc-b625-4b98-bb49-052edfdcffaf
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: mqpg62hv
     color: '#f7e7de'
     heading_size: M
@@ -946,29 +969,6 @@ page_builder:
     type: FeaturedMedia
     enabled: true
   -
-    id: mqp8x0pv
-    color: '#f7e7de'
-    selected_entries:
-      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
-      - 9ad74bf7-7827-41e4-9663-9119692eac03
-      - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
-      - 7f5026dc-b625-4b98-bb49-052edfdcffaf
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-  -
     id: mq12h6wj
     media:
       video: false
@@ -1015,7 +1015,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-base
+                  class: text-md
                 content:
                   -
                     type: text
@@ -1029,6 +1029,10 @@ page_builder:
                           title: null
                       -
                         type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'De vrouw die haar boodschappen aan de kassa liet staan omdat ze niet langer kon blijven staan.'
           -
             type: listItem
@@ -1036,7 +1040,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-base
+                  class: text-md
                 content:
                   -
                     type: text
@@ -1050,6 +1054,10 @@ page_builder:
                           title: null
                       -
                         type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'De vrouw die haar baby niet zonder pijn kon tillen.'
           -
             type: listItem
@@ -1057,7 +1065,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-base
+                  class: text-md
                 content:
                   -
                     type: text
@@ -1071,6 +1079,10 @@ page_builder:
                           title: null
                       -
                         type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'De vrouw die niet meer durfde te dromen van een volgende zwangerschap.'
           -
             type: listItem
@@ -1078,7 +1090,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-base
+                  class: text-md
                 content:
                   -
                     type: text
@@ -1092,6 +1104,10 @@ page_builder:
                           title: null
                       -
                         type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'De vrouw die met een rolstoel door de Efteling ging.'
           -
             type: listItem
@@ -1099,7 +1115,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-base
+                  class: text-md
                 content:
                   -
                     type: text
@@ -1113,6 +1129,10 @@ page_builder:
                           title: null
                       -
                         type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'De vrouw die haar leven steeds kleiner zag worden.'
           -
             type: listItem
@@ -1120,7 +1140,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: text-base
+                  class: text-md
                 content:
                   -
                     type: text
@@ -1134,6 +1154,10 @@ page_builder:
                           title: null
                       -
                         type: bold
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'En de vrouw die ontdekte dat haar verhaal nog niet af was.'
       -
         type: set
@@ -1268,214 +1292,6 @@ page_builder:
               -
                 type: text
                 text: '🧡 Daarom gaat dit boek niet alleen over pijn. Het gaat over wat er verandert wanneer een vrouw stopt met geloven dat pijn, uitputting en zichzelf wegcijferen normaal zijn. Haar leven en toekomst kantelt en daarmee dat van haar kinderen én de generatie na ons.'
-        type: new_set
-        enabled: true
-      -
-        id: mq13naun
-        swap: true
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - boekomslag-3d-klein.png
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mq13t308
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Wat je ontdekt in dit boek'
-                show_tag: false
-          -
-            type: set
-            attrs:
-              id: mq13then
-              values:
-                type: icon_list
-                iconlist:
-                  -
-                    id: mq13tipr
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Dit boek begint niet bij pijn.'
-                          -
-                            type: text
-                            text: ' Het begint bij de signalen die veel vrouwen lang negeren. Want voordat een lichaam gaat schreeuwen, heeft het vaak jarenlang gefluisterd. Daarom neem ik je mee op een reis die duizenden vrouwen herkennen. Je blijft doorgaan. Waarom zoveel sterke vrouwen hun grenzen feilloos voelen... Maar er toch steeds opnieuw overheen stappen.'
-                  -
-                    id: mq13xsz8
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Je leven wordt kleiner. '
-                          -
-                            type: text
-                            text: 'Hoe klachten langzaam meer invloed krijgen dan je doorhebt. Niet in één keer maar beetje bij beetje. Totdat je niet meer kiest vanuit verlangen maaar vanuit wat je lichaam misschien aankan.'
-                  -
-                    id: mq13yorh
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Je blijft zoeken. '
-                          -
-                            type: text
-                            text: 'Waarom zoveel vrouwen jarenlang van behandeling naar behandeling gaan... zonder ooit te begrijpen waarom ze blijven vastlopen.'
-                  -
-                    id: mq13zjyj
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Dit kan zo niet langer. '
-                          -
-                            type: text
-                            text: 'Het moment waarop je voelt: "Als ik zo doorga, verlies ik steeds meer van mezelf."'
-                  -
-                    id: mq140795
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'De Kanteling. '
-                          -
-                            type: text
-                            text: 'Het moment waarop je stopt met vechten tegen je lichaam. En begint te begrijpen wat het je probeert te vertellen.'
-                  -
-                    id: mq140zuf
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'De Bewezen Beter Kantelmethode. '
-                          -
-                            type: text
-                            text: 'De methode achter meer dan 1250 begeleide vrouwen.'
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Niet gericht op symptoombestrijding maar op het totale herstelplaatje.'
-                  -
-                    id: mq141rrr
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'Je krijgt jezelf terug.'
-                          -
-                            type: text
-                            text: ' Niet omdat je ineens een ander mens wordt maar omdat je weer kunt doen wat vroeger vanzelfsprekend was.'
-                  -
-                    id: mq142dl5
-                    fa_icon: 'fa-regular fa-angle-down'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            marks:
-                              -
-                                type: bold
-                            text: 'De volgende stap. '
-                          -
-                            type: text
-                            text: 'Want inzicht verandert niets en toepassing wel. Dit boek geeft je niet alleen antwoorden. Het laat je zien waar jouw kanteling kan beginnen.'
-          -
-            type: set
-            attrs:
-              id: mq14ai8k
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: l0QBVg5Q
-                    label: 'Ik reserveer mijn exemplaar'
-                    link_type: link
-                    target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                    button_layout: solid
-                    button_colour: orange
         type: new_set
         enabled: true
   -
@@ -2211,39 +2027,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: mq255o13
-    full_height: true
-    layout_setting: media
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - boekomslag-3d-klein.png
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mq258dio
-          values:
-            type: buttons
-            buttons:
-              -
-                id: Ai9y8MMI
-                label: 'IK WIL DIT BOEK LEZEN'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                button_layout: solid
-                button_colour: orange
-    type: HeroSection
-    enabled: true
-  -
     id: mq12gntv
     color: '#f7e7de'
     show_settings: false
@@ -2264,6 +2047,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782766958
+updated_at: 1782767293
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
