@@ -342,29 +342,6 @@ page_builder:
     type: QuestionsCtaSection
     enabled: true
   -
-    id: mqp8x0pv
-    color: '#f7e7de'
-    selected_entries:
-      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
-      - 9ad74bf7-7827-41e4-9663-9119692eac03
-      - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
-      - 7f5026dc-b625-4b98-bb49-052edfdcffaf
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-  -
     id: mq0ol278
     items:
       -
@@ -497,7 +474,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien zijn dat geen losse toevalligheden. Misschien vertellen ze je iets wat jarenlang onderbelicht is gebleven.'
+                text: 'Misschien zijn dat geen losse toevalligheden. Misschien vertellen ze je iets wat jarenlang onderbelicht is gebleven. '
           -
             type: paragraph
             attrs:
@@ -509,289 +486,6 @@ page_builder:
                   -
                     type: bold
                 text: 'Misschien is je lichaam niet kapot. Misschien probeert het je iets duidelijk te maken.'
-          -
-            type: set
-            attrs:
-              id: mq17dzem
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: sfRVOFEh
-                    label: 'Ik wil mijn exemplaar'
-                    link_type: link
-                    target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                    button_layout: solid
-                    button_colour: orange
-        type: new_set
-        enabled: true
-      -
-        id: mq0zgcnx
-        swap: true
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-116.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mq0on7d1
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Je mist niet alleen een pijnvrij lichaam'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je mist het leven dat daarbij hoorde. Je wilt jouw leven terug.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '👉🏻 De onbezorgde wandeling. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '👉🏻 De energie aan het einde van de dag. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '👉🏻 De spontane afspraak, de actieve vakantie en het sporten. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '👉🏻 Het vertrouwen en gevoel dat je gewoon mee kunt doen. Dat je niet eerst hoeft te rekenen, te plannen en te twijfelen. '
-        type: new_set
-        enabled: true
-      -
-        id: mq10d4bm
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - live-dag-14-september-2025/fotofolies-x-kantelprogramma_live-143.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mq0on7d1
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Herken je jezelf hierin? '
-                show_tag: false
-          -
-            type: set
-            attrs:
-              id: mq0z3vuk
-              values:
-                type: icon_list
-                iconlist:
-                  -
-                    id: mq0z3y1y
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik zet mijn dochter ''s middags voor de televisie omdat ik moet gaan liggen."'
-                  -
-                    id: mq0z57x7
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil niet meer nadenken over wat wel of niet kan. Ik wil leven."'
-                  -
-                    id: mq0z5hjb
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil weer een dag weg zonder eerst rustmomenten in te plannen."'
-                  -
-                    id: mq0z5x2l
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil weer sporten."'
-                  -
-                    id: mq0z6a6z
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil weer spontaan kunnen zijn."'
-                  -
-                    id: mq0z6w1y
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil weer energie overhouden."'
-                  -
-                    id: mq10ioif
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil weer een hele dag met mijn kinderen op pad."'
-                  -
-                    id: mq10j4xi
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil niet meer leven op wilskracht."'
-                  -
-                    id: mq10jn87
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil niet steeds bang zijn dat het nooit beter wordt."'
-                  -
-                    id: mq10k3y4
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: '"Ik wil mezelf terug."'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Als je jezelf hierin herkent: Dit boek is voor jou geschreven.'
-          -
-            type: set
-            attrs:
-              id: mq17f3n9
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: zSUDo7Vr
-                    label: 'ONTDEK HET BOEK'
-                    link_type: link
-                    target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                    button_layout: solid
-                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -832,7 +526,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'Misschien is je lichaam niet stuk'
+                    text: 'Misschien heb je nooit het complete verhaal over je lichaam gekregen.'
             show_tag: false
       -
         type: paragraph
@@ -841,7 +535,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat klinkt misschien vreemd, zeker als je al jaren pijn hebt. Als je wellicht al scans hebt gehad, onderzoeken, therapieën en allerlei behandelingen.'
+            text: 'Jarenlang is chronische pijn vooral benaderd vanuit de plek waar de klachten voelbaar zijn. Je rug. Je bekken. Je nek. Je bil. Je schouder. Je darmen. Je hoofd. Maar je lichaam werkt niet in losse onderdelen.'
       -
         type: paragraph
         attrs:
@@ -849,68 +543,21 @@ page_builder:
         content:
           -
             type: text
-            text: 'En misschien zelfs te horen hebt gekregen: "'
+            text: 'Slaap beïnvloedt herstel. Stress beïnvloedt pijn. Beweging beïnvloedt belastbaarheid. Voeding beïnvloedt energie. Je zenuwstelsel beïnvloedt hoe veilig of onveilig je lichaam zich voelt. Alles hangt met elkaar samen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Toch worden veel vrouwen van specialist naar specialist gestuurd, waarbij ieder naar een klein deel van de puzzel kijkt. Ondertussen blijft de belangrijkste vraag vaak onbeantwoord: '
           -
             type: text
             marks:
               -
-                type: italic
-            text: 'Je zult ermee moeten leren leven'
-          -
-            type: text
-            text: '."Toch wil ik je iets vragen. Als jouw lichaam echt kapot is... '
-      -
-        type: set
-        attrs:
-          id: mq10uc6p
-          values:
-            type: icon_list
-            iconlist:
-              -
-                id: mq10uhzk
-                fa_icon: 'fa-light fa-0'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'Waarom verschillen klachten dan van dag tot dag?'
-              -
-                id: mq10usfv
-                fa_icon: 'fa-light fa-0'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'Waarom spelen stress, emoties en drukke periodes zo vaak een rol?'
-              -
-                id: mq10v200
-                fa_icon: 'fa-light fa-0'
-                content:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: bold
-                        text: 'Waarom blijf je vastlopen terwijl niemand precies kan uitleggen waarom?'
+                type: bold
+            text: 'Hoe werken al deze puzzelstukken samen?'
       -
         type: paragraph
         attrs:
@@ -918,7 +565,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dat zijn geen rare vragen. Dat zijn vragen die veel vrouwen nooit hebben leren stellen. Want de meeste aandacht gaat naar de plek waar het pijn doet.'
+            text: 'En precies daar begint een andere manier van kijken. Niet door te zoeken naar nóg een behandeling. Maar door eindelijk het complete verhaal over je lichaam te begrijpen.'
       -
         type: paragraph
         attrs:
@@ -926,7 +573,10 @@ page_builder:
         content:
           -
             type: text
-            text: 'Dit boek kijkt naar het grotere plaatje. En voor veel vrouwen begint daar iets wat ze lange tijd kwijt waren: Hoop.'
+            marks:
+              -
+                type: bold
+            text: 'Want pas als je begrijpt wat er werkelijk gebeurt, kun je ook begrijpen waarom herstel soms uitblijft.'
     color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
@@ -1012,6 +662,29 @@ page_builder:
           -
             type: text
             text: 'Ergens onderweg werd doorgaan een gewoonte en luisteren iets wat steeds verder naar de achtergrond verdween. Veel klachten zijn niet ontstaan omdat je te weinig hebt gedaan. Maar omdat je veel te lang alles hebt gedragen.'
+  -
+    id: mqp8x0pv
+    color: '#f7e7de'
+    selected_entries:
+      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
+      - 9ad74bf7-7827-41e4-9663-9119692eac03
+      - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
+      - 7f5026dc-b625-4b98-bb49-052edfdcffaf
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
   -
     id: mq12h6wj
     media:
@@ -2308,6 +1981,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782764155
+updated_at: 1782764628
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
