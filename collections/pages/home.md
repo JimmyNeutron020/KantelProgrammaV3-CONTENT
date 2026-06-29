@@ -203,10 +203,13 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'Je hebt waarschijnlijk vaker gehoord:'
       -
         type: bulletList
@@ -217,7 +220,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: null
+                  class: text-base
                 content:
                   -
                     type: text
@@ -231,7 +234,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: null
+                  class: text-base
                 content:
                   -
                     type: text
@@ -245,7 +248,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: null
+                  class: text-base
                 content:
                   -
                     type: text
@@ -259,7 +262,7 @@ page_builder:
               -
                 type: paragraph
                 attrs:
-                  class: null
+                  class: text-base
                 content:
                   -
                     type: text
@@ -270,7 +273,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
         content:
           -
             type: text
@@ -278,19 +281,46 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
         content:
           -
             type: text
-            text: 'Ondertussen gebeurde er iets anders. Niet alleen je lichaam veranderde. Je leven veranderde mee. Misschien ging sporten niet meer vanzelf. Zei je vaker nee tegen een dagje weg. Dacht je eerst na voordat je met je kinderen naar de speeltuin ging. Of merkte je dat je steeds meer energie kwijt was aan het voorkomen van pijn, in plaats van aan het leven zelf.'
+            text: 'Ondertussen gebeurde er iets anders. '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Niet alleen je lichaam veranderde. Je leven veranderde mee.'
+          -
+            type: text
+            text: ' Misschien ging sporten niet meer vanzelf. Zei je vaker nee tegen een dagje weg. Dacht je eerst na voordat je met je kinderen naar de speeltuin ging. Of merkte je dat je steeds meer energie kwijt was aan het voorkomen van pijn, in plaats van aan het leven zelf.'
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
         content:
           -
             type: text
-            text: 'En misschien is dat wel het meest pijnlijke. Niet de klachten. Maar alles wat je onderweg bent kwijtgeraakt.'
+            text: 'En misschien is dat wel het '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'meest pijnlijke'
+          -
+            type: text
+            text: '. Niet de klachten. Maar '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'alles wat je onderweg bent kwijtgeraakt'
+          -
+            type: text
+            text: .
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2280,6 +2310,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782759892
+updated_at: 1782760069
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
