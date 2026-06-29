@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - boekomslag-3d-klein.png
+        - chantal-homepage.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -46,6 +46,10 @@ page_builder:
         type: paragraph
         attrs:
           class: text-sm
+        content:
+          -
+            type: text
+            text: 'Een op de vijf vrouwen leeft met chronische pijn. Toch zijn we het normaal gaan vinden dat zij hun leven eraan aanpassen. Maar wat als we al jaren de verkeerde vraag stellen?'
       -
         type: paragraph
         attrs:
@@ -59,7 +63,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: '€ 29,50 📚PRE-ORDER BOEK'
+                label: 'RESERVEER MIJN EXEMPLAAR'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -67,7 +71,7 @@ page_builder:
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
               -
                 id: mq57jlhv
-                label: 'nu mét gratis bonus-bundel t.w.v. € 122'
+                label: 'Inclusief tijdelijke herstelbundel t.w.v. € 122'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
@@ -2344,6 +2348,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782322967
+updated_at: 1782757372
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
