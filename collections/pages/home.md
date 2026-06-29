@@ -198,6 +198,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'Wanneer zijn we dit eigenlijk normaal gaan vinden?'
             show_tag: false
       -
@@ -2310,6 +2315,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782760069
+updated_at: 1782761870
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
