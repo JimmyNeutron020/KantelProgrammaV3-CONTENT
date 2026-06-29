@@ -685,7 +685,7 @@ page_builder:
           id: mqzqbryw
           values:
             type: heading
-            heading_size: M
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -703,7 +703,24 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Dit boek geeft je een compleet nieuw perspectief. Chronische pijn; je hoeft er niet mee te leren leven.'
+                    text: 'Dit boek geeft je een compleet nieuw perspectief. '
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-grey
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Chronische pijn; je hoeft er niet mee te leren leven.'
             show_tag: false
       -
         type: paragraph
@@ -769,52 +786,6 @@ page_builder:
           -
             type: set
             attrs:
-              id: mqzqftjd
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        marks:
-                          -
-                            type: btsSpan
-                            attrs:
-                              class: text-orange
-                        text: 'Dit boek leert je niet hoe je met pijn moet leren leven.'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Niet door nog meer regels of oefeningen toe te voegen.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
-          -
-            type: set
-            attrs:
               id: mqzoy2fo
               values:
                 type: heading
@@ -834,6 +805,30 @@ page_builder:
                               class: text-orange
                         text: 'Na dit boek kijk je anders naar jezelf'
                 show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niet door nog meer regels of oefeningen toe te voegen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
           -
             type: set
             attrs:
@@ -924,6 +919,21 @@ page_builder:
                   -
                     type: bold
                 text: 'Je slaat dit boek niet dicht met het gevoel dat je meer moet doen. Je slaat het dicht met het gevoel dat je eindelijk begrijpt wat er al die jaren gebeurde.'
+          -
+            type: set
+            attrs:
+              id: mqzr1uio
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: VdHsmGg2
+                    label: '📚 RESERVEER MIJN EXEMPLAAR'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: standard
+                    button_colour: orange
         type: new_set
         enabled: true
   -
@@ -1070,7 +1080,7 @@ page_builder:
     enabled: true
   -
     id: mqzpsgsy
-    color: '#eb8d7a'
+    color: '#f7e7de'
     swap_layout: true
     media:
       video: false
@@ -2257,6 +2267,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782769464
+updated_at: 1782769768
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
