@@ -85,7 +85,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: '🧡 RESERVEER MIJN EXEMPLAAR'
+                label: '📚 RESERVEER MIJN EXEMPLAAR'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -408,7 +408,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Misschien zijn dat geen losse toevalligheden. Misschien vertellen ze je iets wat jarenlang onderbelicht is gebleven. '
+                text: 'Misschien zijn dat geen losse toevalligheden maar vertellen ze je iets wat jarenlang onderbelicht is gebleven. '
           -
             type: paragraph
             attrs:
@@ -419,7 +419,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'Misschien is je lichaam niet kapot. Misschien probeert het je iets duidelijk te maken.'
+                text: 'Misschien is je lichaam niet kapot en probeert het je iets duidelijk te maken.'
         type: new_set
         enabled: true
     show_settings: false
@@ -469,7 +469,16 @@ page_builder:
         content:
           -
             type: text
-            text: 'Jarenlang is chronische pijn vooral benaderd vanuit de plek waar de klachten voelbaar zijn. Je rug. Je bekken. Je nek. Je bil. Je schouder. Je darmen. Je hoofd. Maar je lichaam werkt niet in losse onderdelen.'
+            text: 'Jarenlang is chronische pijn vooral benaderd vanuit de plek waar de klachten voelbaar zijn. Je rug. Je bekken. Je nek. Je bil. Je schouder. Je darmen. Je hoofd. Maar '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'je lichaam werkt niet in losse onderdelen'
+          -
+            type: text
+            text: .
       -
         type: paragraph
         attrs:
@@ -537,7 +546,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - homepage-boek-paul-en-chantl.png
+            - fotofolies-x-kantelprogramma_live-80.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -2255,6 +2264,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782766391
+updated_at: 1782766958
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
