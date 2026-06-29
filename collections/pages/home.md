@@ -45,7 +45,7 @@ page_builder:
       -
         type: paragraph
         attrs:
-          class: text-sm
+          class: text-md
         content:
           -
             type: text
@@ -63,7 +63,7 @@ page_builder:
             buttons:
               -
                 id: mjdCqIlS
-                label: 'RESERVEER MIJN EXEMPLAAR'
+                label: '🧡 RESERVEER MIJN EXEMPLAAR'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -2348,6 +2348,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782757372
+updated_at: 1782757895
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
