@@ -402,87 +402,16 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'Wanneer ben je dit normaal gaan vinden?'
+                        text: 'Wat als het probleem niet alleen de pijn is?'
                 show_tag: false
           -
-            type: set
+            type: paragraph
             attrs:
-              id: mq0z3vuk
-              values:
-                type: icon_list
-                iconlist:
-                  -
-                    id: mq0z3y1y
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Wanneer werd moe wakker worden normaal?'
-                  -
-                    id: mq0z57x7
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Wanneer werd pijn normaal?'
-                  -
-                    id: mq0z5hjb
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Wanneer werd jezelf wegcijferen normaal?'
-                  -
-                    id: mq0z5x2l
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Wanneer werd het normaal dat je eerst bedenkt of je lichaam iets aankan voordat je ergens ja op zegt?'
-                  -
-                    id: mq0z6a6z
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Wanneer werd het normaal dat een leuke dag een prijskaartje heeft?'
-                  -
-                    id: mq0z6w1y
-                    fa_icon: 'fa-duotone fa-regular fa-lacrosse-stick'
-                    content:
-                      -
-                        type: paragraph
-                        attrs:
-                          class: null
-                        content:
-                          -
-                            type: text
-                            text: 'Wanneer werd het normaal dat je meer bezig bent met volhouden en overleven dan met leven?'
+              class: null
+            content:
+              -
+                type: text
+                text: 'Waarschijnlijk heb je niet voor het eerst hulp gezocht. Misschien heb je al behandelingen gehad, oefeningen gedaan, scans laten maken of goedbedoelde adviezen opgevolgd.'
           -
             type: paragraph
             attrs:
@@ -490,24 +419,22 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Niemand kiest daarvoor en het gebeurt langzaam. Zo langzaam dat je het vaak pas ziet wanneer je terugkijkt.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je gaat anders plannen, anders bewegen, anders denken en anders leven. Totdat je op een dag beseft: "'
+                text: 'En toch bleef je jezelf steeds dezelfde vraag stellen: '
               -
                 type: text
                 marks:
                   -
-                    type: italic
-                text: 'Ik leef niet meer zoals ik wil leven.'
+                    type: bold
+                text: '"Waarom kom ik hier niet vanaf?" '
               -
                 type: text
-                text: '"'
+                text: 'Dat is eigenlijk een heel logische vraag. Maar misschien is er een belangrijkere vraag. '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '"Kijken we wel naar het juiste probleem?"'
           -
             type: paragraph
             attrs:
@@ -515,7 +442,73 @@ page_builder:
             content:
               -
                 type: text
-                text: 'En precies daarom schreef ik dit boek. Omdat iets wat vaak voorkomt niet betekent dat dat normaal is.'
+                text: 'Want als pijn alleen een probleem van spieren, gewrichten of een specifiek lichaamsdeel zou zijn......'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom verschillen je klachten dan van dag tot dag? '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom zijn er dagen waarop het beter gaat? '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom spelen stress, slaap, emoties of drukke periodes zo vaak een rol?'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom blijf je vastlopen, terwijl niemand precies kan uitleggen waarom?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien zijn dat geen losse toevalligheden. Misschien vertellen ze je iets wat jarenlang onderbelicht is gebleven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Misschien is je lichaam niet kapot. Misschien probeert het je iets duidelijk te maken.'
           -
             type: set
             attrs:
@@ -2315,6 +2308,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782761870
+updated_at: 1782764155
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
