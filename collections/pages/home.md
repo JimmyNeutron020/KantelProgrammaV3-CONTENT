@@ -11,7 +11,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - chantal-homepage.png
+        - homepage-boek-.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -50,6 +50,8 @@ page_builder:
           -
             type: text
             marks:
+              -
+                type: bold
               -
                 type: btsSpan
                 attrs:
@@ -2353,6 +2355,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782758121
+updated_at: 1782758825
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
