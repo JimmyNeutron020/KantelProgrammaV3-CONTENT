@@ -102,72 +102,6 @@ page_builder:
     type: HeroSection
     enabled: true
   -
-    id: mqpg62hv
-    color: '#f7e7de'
-    heading_size: M
-    heading:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Bekend van onder meer:'
-    show_tag: false
-    logos:
-      -
-        id: mqpg6uo3
-        logo_image: media/download-(1).png
-        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
-        type: logo
-        enabled: true
-      -
-        id: mqpg7ji2
-        logo_image: media/flair-logo.svg
-        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
-        type: logo
-        enabled: true
-      -
-        id: mqpg7wnn
-        logo_image: media/metro-logo-zwart.svg
-        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
-        type: logo
-        enabled: true
-      -
-        id: mqpg8i63
-        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        logo_link: 'https://www.oervrouwmagazine.nl/'
-        type: logo
-        enabled: true
-      -
-        id: mqpg8wo3
-        logo_image: media/rtl4_2023.svg.png
-        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
-        type: logo
-        enabled: true
-      -
-        id: mqpg9fl9
-        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
-        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
-        type: logo
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: FeaturedMedia
-    enabled: true
-  -
     id: mpzw8648
     color: '#f7e7de'
     swap_layout: true
@@ -747,6 +681,260 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+    items:
+      -
+        id: mqzowef9
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - boek-omslag.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mqzowtyk
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Dit boek geeft je geen snelle oplossing. Het geeft je een compleet nieuw perspectief.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dit boek leert je niet hoe je met pijn moet leren leven.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niet door nog meer regels of oefeningen toe te voegen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
+          -
+            type: set
+            attrs:
+              id: mqzoy2fo
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Wat ontdek je in dit boek'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: mqzoxdrf
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: mqzoxf0l
+                    fa_icon: 'fa-solid fa-0'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom chronische pijn veel meer beïnvloedt dan alleen je lichaam.'
+                  -
+                    id: mqzoyjev
+                    fa_icon: 'fa-solid fa-0'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom zoveel vrouwen blijven zoeken zonder echt verder te komen.'
+                  -
+                    id: mqzoz6pm
+                    fa_icon: 'fa-solid fa-0'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom goede en slechte dagen geen toeval zijn.'
+                  -
+                    id: mqzozn36
+                    fa_icon: 'fa-solid fa-0'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom het probleem vaak groter is dan de plek waar je pijn voelt.'
+                  -
+                    id: mqzp05ga
+                    fa_icon: 'fa-solid fa-0'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Waarom inzicht vaak de eerste stap is naar verandering.'
+                  -
+                    id: mqzp0ndc
+                    fa_icon: 'fa-solid fa-0'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: 'Hoe de vijf fases van de Bewezen Beter Kantelmethode je helpen om eindelijk het complete plaatje te zien.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Je slaat dit boek niet dicht met het gevoel dat je meer moet doen. Je slaat het dicht met het gevoel dat je eindelijk begrijpt wat er al die jaren gebeurde.'
+        type: new_set
+        enabled: true
+  -
+    id: mqpg62hv
+    color: '#f7e7de'
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Bekend van onder meer:'
+    show_tag: false
+    logos:
+      -
+        id: mqpg6uo3
+        logo_image: media/download-(1).png
+        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
+        type: logo
+        enabled: true
+      -
+        id: mqpg7ji2
+        logo_image: media/flair-logo.svg
+        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
+        type: logo
+        enabled: true
+      -
+        id: mqpg7wnn
+        logo_image: media/metro-logo-zwart.svg
+        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
+        type: logo
+        enabled: true
+      -
+        id: mqpg8i63
+        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
+        logo_link: 'https://www.oervrouwmagazine.nl/'
+        type: logo
+        enabled: true
+      -
+        id: mqpg8wo3
+        logo_image: media/rtl4_2023.svg.png
+        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
+        type: logo
+        enabled: true
+      -
+        id: mqpg9fl9
+        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
+        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
+        type: logo
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FeaturedMedia
     enabled: true
   -
     id: mqp8x0pv
@@ -2067,6 +2255,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782766006
+updated_at: 1782766391
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
