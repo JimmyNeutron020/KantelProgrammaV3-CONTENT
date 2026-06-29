@@ -703,23 +703,8 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Dit boek geeft je geen snelle oplossing. Het geeft je een compleet nieuw perspectief.'
+                    text: 'Dit boek geeft je een compleet nieuw perspectief. Chronische pijn; je hoeft er niet mee te leren leven.'
             show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Dit boek leert je niet hoe je met pijn moet leren leven. '
       -
         type: paragraph
         attrs:
@@ -974,7 +959,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - boek-website-.png
+            - chantal-homepage.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -2272,6 +2257,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782769108
+updated_at: 1782769383
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
