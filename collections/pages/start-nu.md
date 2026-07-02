@@ -78,7 +78,7 @@ page_builder:
     enabled: true
   -
     id: mr3yuloi
-    heading_size: XS
+    heading_size: S
     heading:
       -
         type: paragraph
@@ -96,15 +96,6 @@ page_builder:
     show_tag: false
     content:
       -
-        type: set
-        attrs:
-          id: mls3vyao
-          enabled: false
-          values:
-            type: heading
-            heading_size: XS
-            show_tag: false
-      -
         type: paragraph
         attrs:
           class: null
@@ -114,16 +105,7 @@ page_builder:
             marks:
               -
                 type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
             text: 'Het gaat over hoeveel veiligheid jouw zenuwstelsel voelt. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
           -
             type: text
             text: "Niemand heeft je dit uitgelegd of hierin begeleid. Terwijl het alles verklaart over waarom je al zoveel probeerde en nog steeds 'aan' staat."
@@ -133,7 +115,7 @@ page_builder:
           id: mr3y6khu
           values:
             type: heading
-            heading_size: XS
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -150,91 +132,45 @@ page_builder:
                     text: 'Als dat zo is . . . '
             show_tag: false
       -
-        type: paragraph
-        attrs:
-          class: null
+        type: bulletList
         content:
           -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: bold
-              -
-                type: btsSpan
+                type: paragraph
                 attrs:
-                  class: text-orange
-            text: .
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: .
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: " . . dan is het niet gek dat je nog steeds 'aan'  staat, hoeveel rust je ook nam. "
+                  -
+                    type: text
+                    text: 'Je doet het niet verkeerd maar je lichaam beschermt je nog steeds, dat is een patroon, geen persoonlijk falen. Rust nemen lost de problemen van een systeem dat op scherp staat niet vanzelf op.'
           -
-            type: text
-            marks:
+            type: listItem
+            content:
               -
-                type: btsSpan
+                type: paragraph
                 attrs:
-                  class: text-orange
-            text: ' '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: ". . dan is het niet gek dat je nog steeds ' aan' staat, hoeveel rust je ook nam."
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Niet omdat je het verkeerd doet. Je lichaam beschermt je nog steeds, dat is een patroon, geen persoonlijk falen. Rust nemen lost de problemen van een systeem dat op scherp staat niet vanzelf op.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: .
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: ' '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: '. . dan waren je vorige pogingen niet mislukt. Ze waren niet ingericht om met elkaar samen te werken.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Losse puzzelstukjes. Geen totaalbenadering. Dat was het gat, niet jouw doorzettingsvermogen. '
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: '. . . dan zijn je vorige pogingen niet ingericht om met elkaar samen te werken.'
+                  -
+                    type: text
+                    text: ' Losse puzzelstukjes. Geen totaalbenadering. Dat was het gat, niet jouw doorzettingsvermogen. '
     color: '#f7e7de'
     package_content:
       -
@@ -252,7 +188,7 @@ page_builder:
                 content:
                   -
                     type: text
-                    text: 'Vier ingangen'
+                    text: 'Het Kantel Programma | Vier ingangen'
             show_tag: true
             tag_alignment: right
       -
@@ -455,7 +391,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Volledige, persoonlijke begeleiding. Voor wie klaar is om te versnellen. Zeer beperkt aantal plekken.'
+            text: 'Volledige, 1-op-1 persoonlijke live en online begeleiding. Voor wie klaar is om te versnellen. Zeer beperkt aantal plekken.'
       -
         type: set
         attrs:
@@ -473,42 +409,6 @@ page_builder:
                 link: 'https://tally.so/r/dWzYMN'
     pricing_tab_single_label: Eenmalig
     pricing_tab_installments_label: '3 Termijnen'
-  -
-    id: mll4udm9
-    content:
-      -
-        type: set
-        attrs:
-          id: mll4utx2
-          values:
-            type: heading
-            heading_size: S
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    text: 'De kanteling'
-            show_tag: false
-    color: '#f7e7de'
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: IntoSection
-    enabled: true
   -
     id: mlqhbjxz
     color: '#f7e7de'
@@ -681,7 +581,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: ProgressSection
-    enabled: true
+    enabled: false
   -
     id: mlqwxtor
     items:
@@ -706,7 +606,7 @@ page_builder:
               id: mlqwzh5u
               values:
                 type: heading
-                heading_size: M
+                heading_size: XS
                 heading:
                   -
                     type: paragraph
@@ -715,35 +615,24 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Wat we vaak zien'
-                show_tag: true
-                tag_text: 'We dragen het samen'
-                tag_alignment: right
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'De vraag is niet meer of er een aanpak bestaat die het hele systeem meeneemt'
+                show_tag: false
           -
             type: paragraph
             attrs:
               class: null
             content:
-              -
-                type: text
-                text: 'Je twijfelt niet aan de inhoud. Je twijfelt aan jezelf. Aan jouw lichaam. Je hebt al zoveel geprobeerd. Je bent slim. Je bent zorgvuldig. Je wilt geen verkeerde keuze meer maken. En dus stel je uit.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '"'
               -
                 type: text
                 marks:
                   -
-                    type: italic
-                text: 'Misschien moet ik eerst nog'
-              -
-                type: text
-                text: ' ... "'
+                    type: bold
+                text: 'Die is er. De vraag is: sta jij vooraan als de deuren opengaan?'
           -
             type: paragraph
             attrs:
@@ -751,70 +640,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '"'
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: 'Misschien is dit niet het juiste moment'
-              -
-                type: text
-                text: '."'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: '"'
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: 'Wat als dit ook niet werkt'
-              -
-                type: text
-                text: '?"'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Wat we vaak zien, is dat vrouwen zoals jij niet bang zijn voor inzet. Ze zijn bang om wéér teleurgesteld te worden. En tegelijk voelen ze diep van binnen; "'
-              -
-                type: text
-                marks:
-                  -
-                    type: italic
-                text: 'Zo wil ik niet langer doorgaan'
-              -
-                type: text
-                text: '."'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Misschien is het juiste moment niet wanneer alles zeker voelt. Misschien is het het moment waarop je voelt dat je het anders wilt.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je hoeft niet zonder twijfel te beginnen. Je hoeft alleen bereid te zijn om een eerste stap te zetten. En vanaf daar dragen we het samen.'
+                text: 'Sommige plekken in deze route zijn bewust heel klein. Wie zich nu inschrijft, hoort als eerste, nog voor de lancering, met een exclusief early bird aanbod.'
           -
             type: set
             attrs:
@@ -824,10 +650,10 @@ page_builder:
                 buttons:
                   -
                     id: Px40Itg0
-                    label: 'Ik zet de eerste stap'
+                    label: 'Nog niet zeker? Zet mij op de algemene wachtlijst'
                     link_type: link
                     target_blank: false
-                    link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                    link: 'https://tally.so/r/dWzYMN'
                     button_layout: standard
                     button_colour: orange
         type: new_set
@@ -1388,7 +1214,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: EnrollmentProposal
-    enabled: true
+    enabled: false
     anchor_id: aanmelden
     price_content_single:
       -
@@ -1697,7 +1523,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
-    enabled: true
+    enabled: false
   -
     id: mlcyqqit
     items:
@@ -1964,7 +1790,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
-    enabled: true
+    enabled: false
   -
     id: mika4xbu
     color: '#f5f5f7'
@@ -2101,7 +1927,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783026548
+updated_at: 1783027747
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
