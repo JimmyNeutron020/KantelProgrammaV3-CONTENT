@@ -1,6 +1,8 @@
 title: 'Enrollment labels'
 data:
-  available_seats_text: "Vrijblijvend op de VIP wachtlijst voor nieuwe programma's najaar 2026"
+  start_date_label: 'Start:'
+  start_date: '1 oktober 2026'
+  available_seats_text: 'Beperkte plekken | Inschrijven wachtlijst najaar 2026'
   enrollment_link: external
   enrollment_external_link: 'https://tally.so/r/dWzYMN'
   enrollment_target_blank: false
