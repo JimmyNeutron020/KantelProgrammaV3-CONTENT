@@ -50,7 +50,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Fysio raakte je lichaam. Mindfulness raakte je hoofd. Herstel gaat niet over harder proberen. Je arts, de specialist, de fysio, yogadocent, hormoon- of voedingscoach heeft het nooit het complete verhaal verteld. Dat verandert alles hoe je hierna kijkt naar wat je al probeerde.'
+            text: 'Herstel gaat niet over harder proberen. Je arts, de specialist, de fysio, yogadocent, hormoon- of voedingscoach heeft het nooit het complete verhaal verteld. Dat verandert alles hoe je hierna kijkt naar wat je al probeerde.'
       -
         type: paragraph
         attrs:
@@ -620,7 +620,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: 'De vraag is niet meer of er een aanpak bestaat die het hele systeem meeneemt'
+                        text: 'De vraag is niet meer of er een aanpak bestaat die het hele systeem meeneemt.'
                 show_tag: false
           -
             type: paragraph
@@ -632,7 +632,7 @@ page_builder:
                 marks:
                   -
                     type: bold
-                text: 'Die is er. De vraag is: sta jij vooraan als de deuren opengaan?'
+                text: 'Die aanpak is er. De vraag is: sta jij vooraan als de deuren van het Kantel Programma opengaan?'
           -
             type: paragraph
             attrs:
@@ -1927,7 +1927,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783027747
+updated_at: 1783029371
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
