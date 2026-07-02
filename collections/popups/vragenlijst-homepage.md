@@ -44,14 +44,17 @@ target_pages:
   - ce720b86-3dee-4e7c-afb9-34e2dad33f33
   - a932636a-55fe-4d95-8489-dbbc91f1cf66
   - 71945a19-48fa-45f2-b5c4-b3cb2818678a
-  - 5e911abe-8475-42dc-9812-15a9758052c8
   - ab60f2c9-652b-4e74-9c6f-e6b8805f0723
   - 28a22940-b68a-4114-a77a-b45bcae6f2ed
+  - 37fe9b56-749b-4049-9173-064c8aa11ba3
+  - a203ba5f-4950-4053-be31-1224c1fe6f88
+  - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
+  - 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
 trigger_type: time_delay
 frequency: once_per_x_days
 min_page_views: 1
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782139802
+updated_at: 1783029694
 frequency_days: 4
 trigger_delay_seconds: 70
 ---
