@@ -381,6 +381,7 @@ page_builder:
                 target_blank: false
                 button_layout: solid
                 button_colour: orange
+                link: 'https://tally.so/r/dWzYMN'
       -
         type: paragraph
         attrs:
@@ -425,6 +426,7 @@ page_builder:
                 target_blank: false
                 button_layout: solid
                 button_colour: orange
+                link: 'https://tally.so/r/dWzYMN'
       -
         type: paragraph
         attrs:
@@ -468,6 +470,9 @@ page_builder:
                 target_blank: false
                 button_layout: solid
                 button_colour: orange
+                link: 'https://tally.so/r/dWzYMN'
+    pricing_tab_single_label: Eenmalig
+    pricing_tab_installments_label: '3 Termijnen'
   -
     id: mll4udm9
     content:
@@ -2096,7 +2101,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783025646
+updated_at: 1783026548
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
