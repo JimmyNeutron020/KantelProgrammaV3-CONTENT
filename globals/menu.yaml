@@ -247,7 +247,7 @@ data:
       link: 'entry::d81e8a34-e412-443e-b24b-f46726b1d854'
       button_layout: standard
       type: card_item
-      enabled: true
+      enabled: false
       link_type: link
       target_blank: false
       button_colour: orange
@@ -330,7 +330,7 @@ data:
       button_layout: standard
       button_colour: orange
       type: card_item
-      enabled: true
+      enabled: false
       featured_image: fotofolies-x-kantelprogramma-paul-en-chantal-66.jpg
     -
       id: mhhv3oxo
@@ -368,7 +368,7 @@ data:
       button_layout: standard
       button_colour: orange
       type: card_item
-      enabled: true
+      enabled: false
       featured_image: brand/img_2643.jpg
       exclude_from_pages:
         - 37fe9b56-749b-4049-9173-064c8aa11ba3
