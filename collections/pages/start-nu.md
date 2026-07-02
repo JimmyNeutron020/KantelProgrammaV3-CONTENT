@@ -77,8 +77,8 @@ page_builder:
     type: HeroSection
     enabled: true
   -
-    id: mll6blya
-    heading_size: M
+    id: mr3yuloi
+    heading_size: XS
     heading:
       -
         type: paragraph
@@ -92,7 +92,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: 'Herstel gaat niet over harder proberen. '
+            text: 'Herstel gaat niet over harder proberen'
     show_tag: false
     content:
       -
@@ -102,16 +102,7 @@ page_builder:
           enabled: false
           values:
             type: heading
-            heading_size: S
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Stel je voor ... '
+            heading_size: XS
             show_tag: false
       -
         type: paragraph
@@ -122,13 +113,12 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-orange
             text: 'Het gaat over hoeveel veiligheid jouw zenuwstelsel voelt. '
-          -
-            type: text
-            text: "Niemand heeft je dit uitgelegd of hierin begeleid. Terwijl het alles verklaart over waarom je al zoveel probeerde en nog steeds 'aan' staat."
       -
         type: paragraph
         attrs:
@@ -136,16 +126,14 @@ page_builder:
         content:
           -
             type: text
-            text: ' '
-    color: '#f7e7de'
-    package_content:
+            text: "Niemand heeft je dit uitgelegd of hierin begeleid. Terwijl het alles verklaart over waarom je al zoveel probeerde en nog steeds 'aan' staat."
       -
         type: set
         attrs:
-          id: ml3sep80
+          id: mr3y6khu
           values:
             type: heading
-            heading_size: M
+            heading_size: XS
             heading:
               -
                 type: paragraph
@@ -159,95 +147,134 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-orange
-                    text: 'SUMMER SPRINT'
+                    text: 'Als dat zo is . . . '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: .
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: ". . dan is het niet gek dat je nog steeds ' aan' staat, hoeveel rust je ook nam."
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Niet omdat je het verkeerd doet. Je lichaam beschermt je nog steeds, dat is een patroon, geen persoonlijk falen. Rust nemen lost de problemen van een systeem dat op scherp staat niet vanzelf op.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: .
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: ' '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: '. . dan waren je vorige pogingen niet mislukt. Ze waren niet ingericht om met elkaar samen te werken.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Losse puzzelstukjes. Geen totaalbenadering. Dat was het gat, niet jouw doorzettingsvermogen. '
+    color: '#f7e7de'
+    package_content:
+      -
+        type: set
+        attrs:
+          id: ml3sep80
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Vier ingangen'
             show_tag: true
             tag_alignment: right
       -
         type: paragraph
         attrs:
-          class: null
+          class: text-base
         content:
           -
             type: text
             marks:
               -
                 type: bold
-            text: 'Dat je niet langer leeft rondom je pijn. Dat je weer leeft vanuit vertrouwen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Misschien voel je tijdens het lezen al iets. Geen druk. Geen overtuiging. Maar een stille gedacht: "'
-          -
-            type: text
-            marks:
               -
-                type: bold
-              -
-                type: italic
-            text: 'Wat als dit ook voor mij mogelijk is?'
-          -
-            type: text
-            text: '" Je hoeft het niet zeker te weten. Je hoeft alleen te voelen dat je niet langer wilt blijven waar je nu bent. Als je merkt dat dit je raakt, dan is dit misschien jouw moment.🧡'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
+                type: btsSpan
                 attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Je investeert hier niet in losse modules. Je investeert in iets groters: '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'je leven terug'
-                  -
-                    type: text
-                    text: '. '
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'De vrouwen die nu instappen wachten niet tot het perfecte moment. Ze kiezen omdat ze weten; '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                      -
-                        type: italic
-                    text: 'Zo wil ik niet langer doorgaan."'
-              -
-                type: paragraph
-                attrs:
-                  class: null
-    show_discount_single: true
+                  class: text-orange
+            text: 'Kies waar jij nu binnenkomt, je hoort als eerste wanneer de deuren opengaan.'
+    show_discount_single: false
     show_discount_installments: true
     buttons:
       -
         id: yEqFfOKZ
-        label: 'START NU | SUMMER SPRINT DIY'
         link_type: link
         target_blank: false
         link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
@@ -270,10 +297,177 @@ page_builder:
     type: EnrollmentProposal
     enabled: true
     anchor_id: aanmelden
-    pricing_tab_single_label: Eenmalig
-    price_single: '€ 1.250'
-    discount_price_single: '€ 999'
-    pricing_tab_installments_label: '3 Termijnen'
+    price_content_single:
+      -
+        type: set
+        attrs:
+          id: mr3yp57d
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '1. De Eerste Kanteling'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Voel in 7 stappen dat het anders kan, zonder je hele leven om te gooien.'
+      -
+        type: set
+        attrs:
+          id: mr3yw72i
+          values:
+            type: buttons
+            buttons:
+              -
+                id: phTXYABA
+                label: 'Hou mij op de hoogte | Eerste kanteling'
+                link_type: link
+                target_blank: false
+                link: 'https://tally.so/r/dWzYMN'
+                button_layout: solid
+                button_colour: orange
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mr3yvg0p
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '2. DIY Kantel Programma'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Doorloop zelfstandig een verandering die blijft hangen in jouw tempo, met jouw structuur.'
+      -
+        type: set
+        attrs:
+          id: mr3z6y6a
+          values:
+            type: buttons
+            buttons:
+              -
+                id: phTXYABA
+                label: 'Hou mij op de hoogte | DIY'
+                link_type: link
+                target_blank: false
+                button_layout: solid
+                button_colour: orange
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mr3z5vzp
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '3. Kantel Programma Premium'
+            show_tag: true
+            tag_alignment: right
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Doe het niet alleen, ontvang begeleiding. Kantel samen met vrouwen die precies weten wat jij doormaakt.'
+      -
+        type: set
+        attrs:
+          id: mr3zb4p4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: phTXYABA
+                label: 'Hou mij op de hoogte | Premium'
+                link_type: link
+                target_blank: false
+                button_layout: solid
+                button_colour: orange
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mr3z9zdp
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: '4. Kantel Programma VIP'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Volledige, persoonlijke begeleiding. Voor wie klaar is om te versnellen. Zeer beperkt aantal plekken.'
+      -
+        type: set
+        attrs:
+          id: mr3zdyj5
+          values:
+            type: buttons
+            buttons:
+              -
+                id: phTXYABA
+                label: 'Hou mij op de hoogte | VIP'
+                link_type: link
+                target_blank: false
+                button_layout: solid
+                button_colour: orange
   -
     id: mll4udm9
     content:
@@ -1902,7 +2096,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783023097
+updated_at: 1783025646
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
