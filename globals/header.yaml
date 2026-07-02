@@ -11,7 +11,7 @@ data:
       button_colour: orange
     -
       id: mq1e915w
-      label: 'VIP wachtlijst'
+      label: Wachtlijst
       link_type: link
       target_blank: false
       link: 'https://tally.so/r/dWzYMN'
