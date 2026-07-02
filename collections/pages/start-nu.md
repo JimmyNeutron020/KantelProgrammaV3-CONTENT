@@ -27,258 +27,11 @@ page_builder:
           values:
             type: heading
             heading_size: S
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Stel je voor dat je deze zomer wél die energieke moeder bent. Dat kan met de Summer Sprint!'
-            show_tag: true
-            tag_text: 'START NÚ DE SUMMER SPRINT'
-            tag_alignment: right
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Zonder elke dag nadenken over wat wel of niet kan. Niet steeds rekening houden met pijn, maar gewoon bewegen, spelen met je kinderen en weer groots durven dromen.'
-    type: HeroSection
-    enabled: true
-  -
-    id: mll4nn17
-    color: '#fff'
-    phases:
-      -
-        id: mll4nr0e
-        icon: 'fa-regular fa-heart'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'Je bent niet zwak'
-          -
-            type: set
-            attrs:
-              id: mll4ou36
-              values:
-                type: heading
-                heading_size: XS
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 5
-                    content:
-                      -
-                        type: text
-                        text: 'Je bent moe van het zoeken'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                text: "Je hebt van alles geprobeerd, van therapie naar therapie en van arts naar specialist. Je weet wat oefeningen zijn. Je weet wat 'je moet doen'. "
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                text: 'En toch komt de pijn terug en blijft je lichaam gespannen. Je vertrouwt het niet meer. Je plant je leven rondom wat je aankunt en dat is het echte verlies. Niet alleen de pijn maar ook de vrijheid die je kwijt bent.'
-        type: phase
-        enabled: true
-      -
-        id: mll4po92
-        icon: 'fa-regular fa-arrow-rotate-right'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'Waar anderen stoppen'
-          -
-            type: set
-            attrs:
-              id: mll4ou36
-              values:
-                type: heading
-                heading_size: XS
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 5
-                    content:
-                      -
-                        type: text
-                        text: 'Geen symptoombestrijding'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Veel trajecten focussen op losse oefeningen en op mindset. Maar als je zenuwstelsel geen veiligheid ervaart, blijft je lichaam compenseren. Je werkt harder en probeert meer, maar het blijft terugkomen. Er is dus iets anders nodig en precies daar beginnen wij. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Wij werken niet symptoomgericht en begeleiden je zoals we een topsporter zouden begeleiden; een integrale aanpak van 24/7 in jouw dagelijkse leven.'
-        type: phase
-        enabled: true
-      -
-        id: mll4s4nt
-        icon: 'fa-regular fa-dove'
-        content:
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: btsSpan
-                    attrs:
-                      class: text-orange
-                text: 'Niet meer durven denken'
-          -
-            type: set
-            attrs:
-              id: mll4ou36
-              values:
-                type: heading
-                heading_size: XS
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 5
-                    content:
-                      -
-                        type: text
-                        text: 'Wat je eigenlijk verlangt'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Je wilt niet minder pijn maar je wilt pijnvrij leven. Wakker worden zonder dat je meteen checkt hoe je lichaam voelt. '
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: "Je wilt bewegen zonder dat je vooraf berekent wat het kost. Je wilt op de grond zitten met je kinderen zonder nareactie. Je wilt weer spontaan zijn. Weer 'ja' kunnen zeggen. Weer plannen maken zonder onzekerheid. Je wilt niet leven in overleven. Je wilt vertrouwen."
-        type: phase
-        enabled: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: big
-      spacing_mobile: big
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ProgressSection
-    enabled: true
-  -
-    id: mik84ac0
-    media:
-      video: true
-      autoplay_video: true
-      video_link: 'https://vimeo.com/996074037'
-      preview_image: screenshot-2025-11-24-at-08.51.40.png
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: false
-      sound_control: false
-      fullscreen_control: false
-    content:
-      -
-        type: set
-        attrs:
-          id: mik85d2w
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 2
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: Vertrouwen
             show_tag: false
       -
         type: paragraph
         attrs:
-          class: text-md
+          class: text-base
         content:
           -
             type: text
@@ -289,89 +42,39 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: "Dat je lichaam meewerkt. Dat je belastbaar bent. Dat dit niet je 'nieuwe normaal' hoeft te zijn."
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-      -
-        type: paragraph
-        attrs:
-          class: text-md
-        content:
+            text: 'Je hebt nooit te weinig geprobeerd. Niemand keek met je mee naar de juiste volgorde. '
           -
             type: text
             marks:
               -
-                type: bold
-              -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Je wilt weer durven dromen. Zonder dat pijn je beperkt!'
+            text: 'Fysio raakte je lichaam. Mindfulness raakte je hoofd. Herstel gaat niet over harder proberen. Je arts, de specialist, de fysio, yogadocent, hormoon- of voedingscoach heeft het nooit het complete verhaal verteld. Dat verandert alles hoe je hierna kijkt naar wat je al probeerde.'
       -
         type: paragraph
         attrs:
           class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
+        content:
+          -
+            type: text
+            text: ' '
       -
         type: set
         attrs:
-          id: mik866r4
+          id: mr3xgmr7
           values:
             type: buttons
             buttons:
               -
-                id: JbZyEcgp
-                label: 'Deze vrouwen gingen je voor'
+                id: 4pazp1Tn
+                label: 'ZET MIJ OP DE WACHTLIJST'
                 link_type: link
                 target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                link: 'https://tally.so/r/dWzYMN'
                 button_layout: solid
                 button_colour: orange
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: ResultsCtaSection
-    enabled: true
-  -
-    id: ml3t2w3y
-    color: '#ffffff'
-    background_image: brand/fotofolies-x-kantelprogramma_live-126.jpg
-    selected_entries:
-      - ef496077-0ae2-4572-b93e-430b6ac53df0
-      - 3e4f795a-d008-4f2c-8dc6-5614c0179701
-      - be46f461-41d7-453a-ad77-318db3dc8488
-      - cd749209-5713-4911-a6b4-334398b93bea
-      - 7d6f488a-8984-4c1f-92bd-38615aa6784e
-      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
+    type: HeroSection
     enabled: true
   -
     id: mll6blya
@@ -389,15 +92,14 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: 'Zo voelt het als je kantelt'
-    show_tag: true
-    tag_text: 'Vertrouwen terug'
-    tag_alignment: right
+            text: 'Herstel gaat niet over harder proberen. '
+    show_tag: false
     content:
       -
         type: set
         attrs:
           id: mls3vyao
+          enabled: false
           values:
             type: heading
             heading_size: S
@@ -418,7 +120,15 @@ page_builder:
         content:
           -
             type: text
-            text: "Dat je 's ochtends opstaat en niet al doodmoe bent en eerst moeten checken hoe het met de pijn is. Dat je je kind optilt zonder spanning in je lijf. Dat je 'ja' zegt tegen een etentje, een wandeling, een vakantie. Zónder in je hoofd alvast te plannen rondom de pijn of nareactie. Dat je lichaam geen tegenstander meer is, maar weer van jou voelt."
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Het gaat over hoeveel veiligheid jouw zenuwstelsel voelt. '
+          -
+            type: text
+            text: "Niemand heeft je dit uitgelegd of hierin begeleid. Terwijl het alles verklaart over waarom je al zoveel probeerde en nog steeds 'aan' staat."
       -
         type: paragraph
         attrs:
@@ -427,34 +137,6 @@ page_builder:
           -
             type: text
             text: ' '
-      -
-        type: set
-        attrs:
-          id: mls3z7i8
-          values:
-            type: heading
-            heading_size: S
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'Wat vrouwen na het Kantel Programma ervaren ...'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '🧡 Pijnvrij bewegen, ook bij activiteiten die eerst onmogelijk leken. 🧡 Spelen, tillen, reizen, sporten, dansen, allemaal zónder angst. 🧡 Energie hebben én overhouden. 🧡 Niet meer afhankelijk zijn van therapieën of pijnstillers. 🧡 Rust in je hoofd, geen constante alertheid. 🧡 Vertrouwen in je lichaam. 🧡 Weten wat je moet doen als je systeem wordt uitgedaagd. 🧡 Zelfstandig duurzaam klachtenvrij blijven.  🧡Weer groots durven dromen, misschien zelfs van nog een kindje.'
     color: '#f7e7de'
     package_content:
       -
@@ -591,6 +273,7 @@ page_builder:
     pricing_tab_single_label: Eenmalig
     price_single: '€ 1.250'
     discount_price_single: '€ 999'
+    pricing_tab_installments_label: '3 Termijnen'
   -
     id: mll4udm9
     content:
@@ -964,6 +647,140 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: mik84ac0
+    media:
+      video: true
+      autoplay_video: true
+      video_link: 'https://vimeo.com/996074037'
+      preview_image: screenshot-2025-11-24-at-08.51.40.png
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: false
+      sound_control: false
+      fullscreen_control: false
+    content:
+      -
+        type: set
+        attrs:
+          id: mik85d2w
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 2
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: Vertrouwen
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: "Dat je lichaam meewerkt. Dat je belastbaar bent. Dat dit niet je 'nieuwe normaal' hoeft te zijn."
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Je wilt weer durven dromen. Zonder dat pijn je beperkt!'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: set
+        attrs:
+          id: mik866r4
+          values:
+            type: buttons
+            buttons:
+              -
+                id: JbZyEcgp
+                label: 'Deze vrouwen gingen je voor'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                button_layout: solid
+                button_colour: orange
+                email: chantal@kantelprogramma.nl
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsCtaSection
+    enabled: true
+  -
+    id: ml3t2w3y
+    color: '#ffffff'
+    background_image: brand/fotofolies-x-kantelprogramma_live-126.jpg
+    selected_entries:
+      - ef496077-0ae2-4572-b93e-430b6ac53df0
+      - 3e4f795a-d008-4f2c-8dc6-5614c0179701
+      - be46f461-41d7-453a-ad77-318db3dc8488
+      - cd749209-5713-4911-a6b4-334398b93bea
+      - 7d6f488a-8984-4c1f-92bd-38615aa6784e
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
     enabled: true
   -
     id: mik9r3v5
@@ -1403,6 +1220,7 @@ page_builder:
                   class: text-white
             text: '-'
     discount_price_single: '€ 999'
+    pricing_tab_installments_label: '3 Termijnen'
   -
     id: mlqvkyq5
     items:
@@ -2084,7 +1902,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1780729392
+updated_at: 1783023097
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
