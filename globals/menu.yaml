@@ -3,7 +3,7 @@ data:
   menu_items_big:
     -
       id: mq1cuxvd
-      label: 'Boek "Chronische pijn is níet normaal"'
+      label: "Boek 'Chronische pijn is níet normaal'"
       link_type: internal
       internal_link: 71945a19-48fa-45f2-b5c4-b3cb2818678a
       target_blank: false
