@@ -278,6 +278,43 @@ page_builder:
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
                 button_layout: solid
                 button_colour: orange
+      -
+        type: set
+        attrs:
+          id: mr9ijhgv
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 6
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Je hebt met de Kantel Check de eerste stap gezet en daar hoort een extra cadeau bij. J  krijgt gratis toegang tot onze exclusieve Kantel Connect Club op Telegram. Een plek waar we inzichten delen, het laatste nieuws plaatsen, als eerste laten weten wanneer nieuwe mogelijkheden beschikbaar zijn en regelmatig live in gesprek gaan.👇🏻Sluit je hieronder direct gratis aan.'
+            show_tag: false
+      -
+        type: set
+        attrs:
+          id: mr9ifnpl
+          values:
+            type: buttons
+            buttons:
+              -
+                id: yPuORuta
+                label: 'Het cadeautje voor jou | Kantel Connect Club'
+                link_type: link
+                target_blank: false
+                link: 'https://t.me/+B83B2kARiPhhNTk0'
+                button_layout: solid
+                button_colour: black
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -341,7 +378,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782220848
+updated_at: 1783360236
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
