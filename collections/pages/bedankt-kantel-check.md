@@ -77,6 +77,161 @@ page_builder:
           fullscreen_control: true
         type: new_set
         enabled: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mrce31q4
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: '📚 PRE-ORDER BOEK (nu nog mét BonusBundel t.w.v. € 222)'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De Kantel Check zit zo in je inbox. En dat betekent iets groters dan je misschien denkt. Dit is het moment waarop je stop met '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'blijven zoeken'
+              -
+                type: text
+                text: ' .... en begint met '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'écht kiezen voor jezelf'
+              -
+                type: text
+                text: ', je energie en een lichaam dat weer meewerkt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar eerlijk is eerlijk. Alleen lezen gaat je leven niet veranderen. De vrouwen die wél doorbreken na jarenlang aanhoudende klachten, zetten meteen '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'de volgende stap'
+              -
+                type: text
+                text: '. Niet later. Niet als het beter uitkomt. Maar nu. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dus laat ons iets heel eerlijk aan je vragen: Blijf je nog even hangen in hetzelfde patroon... of pak je dit moment om het echt anders te gaan doen?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Als je voelt dat je er klaar mee bent:'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'met moe wakker worden'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'met pijn die steeds terugkomt'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'met het gevoel dat je lichaam je tegenwerkt'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dan is dit de volgende stap.'
+          -
+            type: set
+            attrs:
+              id: mrce4xmw
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: QYj479fq
+                    label: '📚BOEK | Chronische pijn is níet normaal'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                    button_layout: solid
+                    button_colour: black
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Voor als je snel wilt voelen wat er verandert als je het anders aanpakt.  '
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -93,190 +248,6 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: mjspiy04
-    content:
-      -
-        type: set
-        attrs:
-          id: mjspj2cd
-          enabled: false
-          values:
-            type: flex_icons
-      -
-        type: set
-        attrs:
-          id: mjspjfkj
-          values:
-            type: heading
-            heading_size: XS
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: '📚 BOEK incl. BonusBundel t.w.v. € 222'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'De Kantel Check zit zo in je inbox. En dat betekent iets groters dan je misschien denkt. Dit is het moment waarop je stop met '
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'blijven zoeken'
-          -
-            type: text
-            text: ' .... en begint met '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'écht kiezen voor jezelf'
-          -
-            type: text
-            text: ', je energie en een lichaam dat weer meewerkt.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Maar eerlijk is eerlijk. Alleen lezen gaat je leven niet veranderen. De vrouwen die wél doorbreken na jarenlang aanhoudende klachten, zetten meteen '
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'de volgende stap'
-          -
-            type: text
-            text: '. Niet later. Niet als het beter uitkomt. Maar nu. '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Dus laat ons iets heel eerlijk aan je vragen: Blijf je nog even hangen in hetzelfde patroon... of pak je dit moment om het echt anders te gaan doen?'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Als je voelt dat je er klaar mee bent:'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'met moe wakker worden'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'met pijn die steeds terugkomt'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'met het gevoel dat je lichaam je tegenwerkt'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Dan is dit de volgende stap.'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-      -
-        type: set
-        attrs:
-          id: mn4kqhaq
-          values:
-            type: buttons
-            buttons:
-              -
-                id: QbOFGCUT
-                label: '📚BOEK | Chronische pijn is níet normaal'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                button_layout: solid
-                button_colour: orange
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Voor als je snel wilt voelen wat er verandert als je het anders aanpakt.  '
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: IntoSection
-    enabled: true
-    color: '#fff'
-  -
     id: mqguagnf
     color: '#eb8d7a'
     selected_entries:
@@ -286,6 +257,7 @@ page_builder:
       - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
       - 0c1bdaf2-7019-424e-8923-f28bf071ea7b
       - cebdbbfe-1aef-43bb-8510-e5f19a8695a2
+      - 7f5026dc-b625-4b98-bb49-052edfdcffaf
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -416,7 +388,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783533905
+updated_at: 1783534193
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
