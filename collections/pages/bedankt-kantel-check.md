@@ -231,27 +231,24 @@ page_builder:
             type: text
             text: 'Dan is dit de volgende stap.'
       -
+        type: paragraph
+        attrs:
+          class: text-base
+      -
         type: set
         attrs:
-          id: mn4kn7hl
+          id: mn4kqhaq
           values:
-            type: heading
-            heading_size: XS
-            heading:
+            type: buttons
+            buttons:
               -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: '📚BOEK | Chronische pijn is níet normaal'
-            show_tag: false
+                id: QbOFGCUT
+                label: '📚BOEK | Chronische pijn is níet normaal'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
+                button_layout: solid
+                button_colour: orange
       -
         type: paragraph
         attrs:
@@ -263,58 +260,6 @@ page_builder:
               -
                 type: bold
             text: 'Voor als je snel wilt voelen wat er verandert als je het anders aanpakt.  '
-      -
-        type: set
-        attrs:
-          id: mn4kqhaq
-          values:
-            type: buttons
-            buttons:
-              -
-                id: QbOFGCUT
-                label: 'Je hoeft er niet mee te leren leven'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                button_layout: solid
-                button_colour: orange
-      -
-        type: set
-        attrs:
-          id: mr9ijhgv
-          values:
-            type: heading
-            heading_size: XS
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 6
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-orange
-                    text: 'Je hebt met de Kantel Check de eerste stap gezet en daar hoort een extra cadeau bij. J  krijgt gratis toegang tot onze exclusieve Kantel Connect Club op Telegram. Een plek waar we inzichten delen, het laatste nieuws plaatsen, als eerste laten weten wanneer nieuwe mogelijkheden beschikbaar zijn en regelmatig live in gesprek gaan.👇🏻Sluit je hieronder direct gratis aan.'
-            show_tag: false
-      -
-        type: set
-        attrs:
-          id: mr9ifnpl
-          values:
-            type: buttons
-            buttons:
-              -
-                id: yPuORuta
-                label: 'Het cadeautje voor jou | Kantel Connect Club'
-                link_type: link
-                target_blank: false
-                link: 'https://t.me/+B83B2kARiPhhNTk0'
-                button_layout: solid
-                button_colour: black
     show_settings: true
     inner_spacing_top:
       spacing_desktop: no_spacing
@@ -357,6 +302,99 @@ page_builder:
     type: TestimonialBubbles
     enabled: true
   -
+    id: mrcdteqm
+    items:
+      -
+        id: mrcdtxwh
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - chantal-homepage.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mrcdun6x
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je hebt met de Kantel Check de eerste stap gezet en daar hoort een extra cadeau bij. '
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: 'Je krijgt gratis toegang tot onze exclusieve Kantel Connect Club op Telegram. Een plek waar we inzichten delen, het laatste nieuws plaatsen, als eerste laten weten wanneer nieuwe mogelijkheden beschikbaar zijn en regelmatig live in gesprek gaan.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: btsSpan
+                    attrs:
+                      class: text-orange
+                text: '👇🏻Sluit je hieronder direct gratis aan.'
+          -
+            type: set
+            attrs:
+              id: mrcdvy4v
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: m3OukJBX
+                    label: 'GRATIS | KANTEL CONNECT CLUB'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://t.me/+B83B2kARiPhhNTk0'
+                    button_layout: solid
+                    button_colour: black
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mn4ktm7s
     heading_size: XS
     show_tag: false
@@ -378,7 +416,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783360236
+updated_at: 1783533905
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
