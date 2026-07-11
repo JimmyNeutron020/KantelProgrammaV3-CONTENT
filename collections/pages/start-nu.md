@@ -43,14 +43,6 @@ page_builder:
                 attrs:
                   class: text-white
             text: 'Je hebt nooit te weinig geprobeerd. Niemand keek met je mee naar de juiste volgorde. '
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Herstel gaat niet over harder proberen. Je arts, de specialist, de fysio, yogadocent, hormoon- of voedingscoach heeft het nooit het complete verhaal verteld. Dat verandert alles hoe je hierna kijkt naar wat je al probeerde.'
       -
         type: paragraph
         attrs:
@@ -67,8 +59,16 @@ page_builder:
             type: buttons
             buttons:
               -
+                id: mrgaucgt
+                label: 'LAATSTE PLEKKEN | SUMMERSPRINT'
+                link_type: link
+                target_blank: false
+                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+                button_layout: solid
+                button_colour: orange
+              -
                 id: 4pazp1Tn
-                label: 'ZET MIJ OP DE WACHTLIJST'
+                label: "WACHTLIJST | START okt. '26"
                 link_type: link
                 target_blank: false
                 link: 'https://tally.so/r/dWzYMN'
@@ -1927,7 +1927,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783029371
+updated_at: 1783770684
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
