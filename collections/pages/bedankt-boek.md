@@ -82,7 +82,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783533400
+updated_at: 1783771861
 duplicated_from: 28a22940-b68a-4114-a77a-b45bcae6f2ed
 use_white_header: false
 ---
