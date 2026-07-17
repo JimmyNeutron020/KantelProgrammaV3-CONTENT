@@ -647,16 +647,18 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: text-sm
+              class: text-base
             content:
               -
                 type: text
                 marks:
                   -
+                    type: bold
+                  -
                     type: btsSpan
                     attrs:
                       class: text-orange-light
-                text: 'Inclusief de tijdelijke herstelbundel t.w.v. €122, alleen tijdens de pre-order.'
+                text: 'Inclusief tijdelijke bonus'
         type: new_set
         enabled: true
     show_settings: false
@@ -703,24 +705,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Dit boek geeft je een compleet nieuw perspectief. '
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-grey
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Chronische pijn; je hoeft er niet mee te leren leven.'
+                    text: 'Dit boek geeft je een nieuw perspectief. Chronische pijn; je hoeft er niet mee te leren leven.'
             show_tag: false
       -
         type: paragraph
@@ -1225,14 +1210,6 @@ page_builder:
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
                 button_layout: solid
-                button_colour: orange
-              -
-                id: mqzpyolu
-                label: 'Inclusief de tijdelijke herstelbundel t.w.v. €122, alleen tijdens de pre-order.'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                button_layout: standard
                 button_colour: orange
     show_settings: false
     inner_spacing_top:
@@ -2228,6 +2205,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1784284223
+updated_at: 1784284499
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
