@@ -52,7 +52,7 @@ page_builder:
             buttons:
               -
                 id: ylgAH8Vv
-                label: 'PRE-ORDER 📚 | NU € 29,50'
+                label: 'PRE-ORDER 📚 | € 24,50'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
@@ -98,7 +98,7 @@ page_builder:
                             type: btsSpan
                             attrs:
                               class: text-orange
-                        text: '📚 PRE-ORDER BOEK (nu nog mét BonusBundel t.w.v. € 222)'
+                        text: '📚 PRE-ORDER BOEK (nu nog mét Bonus)'
                 show_tag: false
           -
             type: paragraph
@@ -388,7 +388,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783534193
+updated_at: 1785235812
 duplicated_from: d0a15dd0-6027-47e2-b2da-619fd7b251cc
 use_white_header: false
 ---
