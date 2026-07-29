@@ -358,7 +358,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-orange
-            text: 'Oprichter en Ervaringsdeskundige'
+            text: 'Auteur | Expert chronische pijn bij vrouwen | Bekkenpijn | Postpartum | Oprichter Kantel Programma'
       -
         type: paragraph
         attrs:
@@ -366,7 +366,166 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien herken je het: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Tijdens haar tweede zwangerschap had Chantal ernstige bekkeninstabiliteit. Ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn. Chantal ziet met haar “laserogen” snel waar je echt vastloopt en wat nu nodig is om weer vrij en pijnvrij te bewegen.'
+            text: 'Na haar eigen herstel ontwikkelde zij samen met Paul Bax een integrale aanpak waarin leefstijl, het zenuwstelsel, beweging, slaap, voeding en stressregulatie samenkomen. Inmiddels begeleidden zij > 1250 vrouwen die jarenlang vastliepen in pijn en beperkingen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Chantal spreekt regelmatig over de maatschappelijke impact van chronische pijn, de positie van vrouwengezondheid binnen de zorg en de vraag waarom langdurige pijn zo vaak als ‘normaal’ wordt beschouwd. Zij is beschikbaar voor interviews, achtergrondgesprekken, podcasts, radio en televisie.'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom hebben zoveel vrouwen chronische pijn?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom duurt het gemiddeld jaren voordat vrouwen serieus worden genomen?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom wordt pijn na een zwangerschap zo vaak genormaliseerd?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Welke maatschappelijke gevolgen heeft chronische pijn?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom vallen zoveel vrouwen uit op hun werk?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom blijven vrouwen zoeken van therapeut naar therapeut?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom krijgen leefstijl en herstel zo weinig aandacht?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Wat betekent chronische pijn voor jonge gezinnen?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Waarom voelen veel vrouwen zich niet gehoord in de zorg?'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Welke misverstanden bestaan er over chronische pijn?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -377,7 +536,10 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Een echte powervrouw'
+            text: 'Chantal (1969) is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen'
+          -
+            type: text
+            text: '. '
       -
         type: paragraph
         attrs:
@@ -385,7 +547,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Chantal (1969) is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. In 2006 won ze de ondernemersprijs Venlose Start en bouwde ze een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht. Eind 2020 kochten Chantal en Paul een voormalig hotel en monumentale Frankische carréboerderij en verbouwden die eigenhandig tot leefstijlhotel. Ze werken vandaaruit en vanuit hun stek op Sardinië. Chantal is moeder van een zoon en dochter.'
+            text: 'In 2006 won ze de ondernemersprijs Venlose Start en bouwde ze een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht. Eind 2020 kochten Chantal en Paul een voormalig hotel en monumentale Frankische carré-boerderij en verbouwden die eigenhandig tot leefstijlhotel. Ze werken van daaruit en vanuit hun stek op Sardinië. Chantal is moeder van een zoon en dochter.'
       -
         type: paragraph
         attrs:
@@ -393,7 +555,15 @@ page_builder:
         content:
           -
             type: text
-            text: 'Gezondheid van body en mind is al jaren haar grote interesse. Naast haar GGZ-achtergrond volgde ze diverse coachopleidingen, waaronder MasterCoach Leefstijl, en ze verdiepte zich in psychologie en leefwijzen. Dankzij haar talent analyseert ze razendsnel wat jouw kanteling vraagt. Ze wil het talent van anderen aanwakkeren en is uitgesproken: ons onderwijssysteem is verouderd en de zorg is incompleet. Te veel mensen staan op overleven. Laten we als moeders een stralend voorbeeld zijn. Born to shine.'
+            text: 'Gezondheid van body en mind heeft al jaren haar grote interesse. Naast haar GGZ-achtergrond volgde ze diverse coachopleidingen, waaronder Master Coach Leefstijl, en ze verdiepte zich in psychologie en leefwijzen. Dankzij haar talent analyseert ze razendsnel wat jouw kanteling vraagt. Ze wil het talent van anderen aanwakkeren en is uitgesproken: ons onderwijssysteem is verouderd en de zorg is incompleet. Te veel mensen staan op overleven. Laten we als moeders een stralend voorbeeld zijn. Born to shine.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien herken je het: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Tijdens haar tweede zwangerschap had Chantal ernstige bekkeninstabiliteit. Ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn. Chantal ziet met haar “laserogen” snel waar je echt vastloopt en wat nu nodig is om weer vrij en pijnvrij te bewegen.'
       -
         type: set
         attrs:
@@ -962,6 +1132,6 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782146666
+updated_at: 1785336020
 use_white_header: false
 ---
