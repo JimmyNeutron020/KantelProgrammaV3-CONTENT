@@ -321,7 +321,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Wat je ontdekt in dit webinar'
+                        text: 'Wat je ontdekt'
                 show_tag: false
           -
             type: set
@@ -450,7 +450,7 @@ page_builder:
                 buttons:
                   -
                     id: hJhUAzId
-                    label: 'Bekijk webinar'
+                    label: 'Bekijk Video Class'
                     link_type: link
                     target_blank: false
                     link: '#inschrijven-webinar'
@@ -593,7 +593,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Is dit webinar voor jou?'
+                    text: 'Interessant voor jou'
             show_tag: false
       -
         type: paragraph
@@ -713,10 +713,10 @@ page_builder:
             buttons:
               -
                 id: RawDlnKs
-                label: 'Bekijk webinar'
+                label: 'Bekijk Video Class'
                 link_type: link
                 target_blank: false
-                link: '#inschrijven-webinar'
+                link: 'https://kantelprogramma.membirds.com/checkout/video-class'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -1022,6 +1022,6 @@ page_builder:
     enabled: true
     enable_cst: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1785399900
+updated_at: 1785400295
 use_white_header: true
 ---
