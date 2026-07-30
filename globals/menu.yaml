@@ -70,7 +70,7 @@ data:
       target_blank: false
     -
       id: mq1d25fr
-      label: 'Gratis Webinar'
+      label: 'Gratis Video Class'
       link_type: internal
       internal_link: d81e8a34-e412-443e-b24b-f46726b1d854
       target_blank: false
