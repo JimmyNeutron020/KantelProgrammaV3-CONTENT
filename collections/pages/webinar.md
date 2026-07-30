@@ -453,7 +453,7 @@ page_builder:
                     label: 'Bekijk Video Class'
                     link_type: link
                     target_blank: false
-                    link: '#inschrijven-webinar'
+                    link: 'https://kantelprogramma.membirds.com/checkout/video-class'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -713,7 +713,7 @@ page_builder:
             buttons:
               -
                 id: RawDlnKs
-                label: 'Bekijk Video Class'
+                label: 'Bekijk Video Class | Gratis'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/video-class'
@@ -943,7 +943,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: QuestionsCtaSection
-    enabled: true
+    enabled: false
   -
     id: mij4lcm2
     content:
@@ -997,7 +997,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: IntoSection
-    enabled: true
+    enabled: false
     anchor_id: inschrijven-webinar-2
     color: '#ffffff'
   -
@@ -1019,9 +1019,9 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: WebinarScript
-    enabled: true
+    enabled: false
     enable_cst: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1785400295
+updated_at: 1785401510
 use_white_header: true
 ---
