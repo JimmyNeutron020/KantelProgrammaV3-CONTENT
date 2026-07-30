@@ -73,8 +73,9 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: WebinarScript
-    enabled: true
+    enabled: false
     anchor_id: inschrijven-webinar
+    enable_cst: false
   -
     id: mldlji21
     content:
@@ -93,7 +94,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'In dit webinar nemen we je mee in een andere kijk op chronische pijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
+            text: 'In deze Video Class nemen we je mee in een andere kijk op chronische pijn. Geen losse tips of oefeningen, maar een een topsportbenadering waarin body & mind, je zenuwstelsel en je dagelijks leven als één geheel worden gezien.'
       -
         type: paragraph
         attrs:
@@ -110,7 +111,7 @@ page_builder:
                 label: 'Meer informatie'
                 link_type: link
                 target_blank: false
-                link: '#herken-je-dit'
+                link: 'https://kantelprogramma.membirds.com/checkout/video-class'
                 button_layout: solid
                 button_colour: orange
     show_settings: true
@@ -282,10 +283,10 @@ page_builder:
                 buttons:
                   -
                     id: 3wMShoew
-                    label: 'Bekijk webinar'
+                    label: 'Bekijk Video Class'
                     link_type: link
                     target_blank: false
-                    link: '#inschrijven-webinar'
+                    link: 'https://kantelprogramma.membirds.com/checkout/video-class'
                     button_layout: solid
                     button_colour: orange
         type: new_set
@@ -1019,7 +1020,8 @@ page_builder:
       spacing_mobile: no_spacing
     type: WebinarScript
     enabled: true
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1771598109
+    enable_cst: false
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1785399900
 use_white_header: true
 ---
