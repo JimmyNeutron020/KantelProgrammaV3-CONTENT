@@ -226,8 +226,8 @@ data:
           content:
             -
               type: text
-              text: '📹 Kantel Webinar'
-      show_tag: false
+              text: '📹 Gratis Video Class'
+      show_tag: true
       content:
         -
           type: paragraph
@@ -254,6 +254,7 @@ data:
       featured_image: brand/fotofolies-x-kantelprogramma-paul-en-chantal-54.jpg
       exclude_from_pages:
         - d81e8a34-e412-443e-b24b-f46726b1d854
+      tag_alignment: right
     -
       id: mhhv234l
       icon: 'fa-regular fa-book'
