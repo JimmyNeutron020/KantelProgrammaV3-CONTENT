@@ -15,10 +15,10 @@ data:
       target_blank: false
     -
       id: mq25ulc6
-      label: 'De laatste plekken: Summer Sprint DIY'
+      label: 'NIEUW AANBOD | LIVE TRAJECTEN | START OKTOBER 2026'
       link_type: external
       target_blank: false
-      external_link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
+      external_link: 'https://tally.so/r/dWzYMN'
   menu_items_small:
     -
       id: mhhunphc
@@ -33,12 +33,6 @@ data:
       internal_link: 036f3cb4-3847-4b98-be8f-bf10d2583660
       target_blank: false
     -
-      id: mq1cxge3
-      label: 'De laatste plekken: Summer Sprint DIY'
-      link_type: external
-      target_blank: false
-      external_link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
-    -
       id: mll77whe
       label: 'Aanmelden Zorgeloos zwanger'
       link_type: internal
@@ -49,12 +43,6 @@ data:
       label: 'Aanmelden Kantel Community Oud Deelnemers'
       link_type: internal
       internal_link: e5b50ba8-0197-4833-9acf-504ef247e1db
-      target_blank: false
-    -
-      id: mq1czca8
-      label: 'Doorbraak Sessie (online of live)'
-      link_type: internal
-      internal_link: 37fe9b56-749b-4049-9173-064c8aa11ba3
       target_blank: false
     -
       id: mq1dlt3q
