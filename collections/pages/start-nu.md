@@ -59,14 +59,6 @@ page_builder:
             type: buttons
             buttons:
               -
-                id: mrgaucgt
-                label: 'LAATSTE PLEKKEN | SUMMERSPRINT'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/shine-sprint'
-                button_layout: solid
-                button_colour: orange
-              -
                 id: 4pazp1Tn
                 label: "WACHTLIJST | START okt. '26"
                 link_type: link
@@ -1927,7 +1919,7 @@ page_builder:
     type: ResultsSlider
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783770684
+updated_at: 1785576216
 use_white_header: false
 seo_title: Aanmelden
 seo_description: 'Dit programma is speciaal ontwikkeld voor vrouwen die al van alles geprobeerd hebben om hun klachten te verminderen, van bekkenfysiotherapie tot ziekenhuistrajecten en bij wie de klachten toch steeds terug blijven komen.'
