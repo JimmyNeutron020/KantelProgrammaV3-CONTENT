@@ -56,7 +56,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: '📚BOEK | CHONISCHE PIJN IS NIET NORMAAL'
+            text: '📚BOEK | CHONISCHE PIJN IS NÍET NORMAAL'
       -
         type: paragraph
         attrs:
@@ -2220,6 +2220,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1785750194
+updated_at: 1785750368
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
