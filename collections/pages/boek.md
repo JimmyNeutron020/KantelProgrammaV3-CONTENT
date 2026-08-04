@@ -1,8 +1,7 @@
 ---
 id: 5f59df21-1327-438b-ab5e-0dcce9d694fa
-published: false
 blueprint: page
-title: 'HOME | BOEK Chronische pijn is niet normaal (Gekopieerd)'
+title: 'BOEK Chronische pijn is niet normaal'
 page_builder:
   -
     id: mpzuztjv
@@ -2221,7 +2220,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1785838354
+updated_at: 1785838619
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
