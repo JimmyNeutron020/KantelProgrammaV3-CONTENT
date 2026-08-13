@@ -117,6 +117,23 @@ page_builder:
     type: HeroSection
     enabled: true
   -
+    id: msrtbdgh
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - review-loekie.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    type: HeroSection
+    enabled: true
+  -
     id: mpzw8648
     color: '#f7e7de'
     swap_layout: true
@@ -2220,6 +2237,6 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786133167
+updated_at: 1786643733
 seo_og_image: boekomslag-3d-klein-1781529845.png
 ---
