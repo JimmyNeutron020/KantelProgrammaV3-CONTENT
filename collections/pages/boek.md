@@ -124,7 +124,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - review-loekie-(website).png
+        - review-loekie.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -2237,7 +2237,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786644130
+updated_at: 1786644423
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
