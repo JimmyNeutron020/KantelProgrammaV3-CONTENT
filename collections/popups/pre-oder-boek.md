@@ -45,7 +45,7 @@ popup_builder:
             text: 'Chronische pijn ís niet normaal'
           -
             type: text
-            text: "'?  Pre order vandaag en ontvang het boek als eerste bij je thuis, nu mét de gratis Bonus Bundel t.w.v. € 122"
+            text: "'?  Pre order vandaag en ontvang het boek straks als eerste bij je thuis."
       -
         type: bulletList
         content:
@@ -65,50 +65,14 @@ popup_builder:
                     marks:
                       -
                         type: bold
-                    text: 'Bonus 1'
+                    text: 'Bonus '
                   -
                     type: text
-                    text: ' | E-BOOK Chronische Pijn is níet normaal | € 14.50'
-          -
-            type: listItem
-            content:
+                    text: '| E-BOOK Chronische Pijn is níet normaal | € 14.50'
               -
                 type: paragraph
                 attrs:
                   class: text-sm
-                content:
-                  -
-                    type: text
-                    text: '🎁 '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Bonus 2'
-                  -
-                    type: text
-                    text: ' | De Herstelverhalen Collectie | €29'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: text-sm
-                content:
-                  -
-                    type: text
-                    text: '🎁 '
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Bonus 3'
-                  -
-                    type: text
-                    text: ' | Live Masterclass: Waarom chronische pijn niet normaal is | €49'
       -
         type: set
         attrs:
@@ -162,6 +126,7 @@ target_pages:
   - 71945a19-48fa-45f2-b5c4-b3cb2818678a
   - a932636a-55fe-4d95-8489-dbbc91f1cf66
   - 78ef22f5-be55-47cf-9d14-17a61cd06e01
+  - 5f59df21-1327-438b-ab5e-0dcce9d694fa
 trigger_type: exit_intent
 frequency: once_per_session
 min_page_views: 0
@@ -170,5 +135,5 @@ seo_title: 'Chronische pijn is niet normaal'
 seo_description: '@null'
 seo_og_image: boekomslag-3d-klein-1781529845.png
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783029780
+updated_at: 1786644225
 ---
