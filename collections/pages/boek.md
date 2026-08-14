@@ -117,6 +117,25 @@ page_builder:
     type: HeroSection
     enabled: true
   -
+    id: mssy54ml
+    color: '#f7e7de'
+    background_image: recensie-loekie-cornelissen.png
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: msrtopy9
     full_height: true
     layout_setting: media
@@ -2237,7 +2256,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786644423
+updated_at: 1786712060
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
