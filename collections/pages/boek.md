@@ -11,7 +11,9 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - homepage-boek-.png
+        - 3d-chronische-pijn-is-niet-normaal-stapeltje-klein-formaat.png
+        - achterflap-klein-formaat.png
+        - cover-3d-klein-formaat.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -46,47 +48,6 @@ page_builder:
         type: paragraph
         attrs:
           class: text-md
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: '📚BOEK | CHRONISCHE PIJN IS NÍET NORMAAL'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Een op de vijf vrouwen leeft met chronische pijn. Toch zijn we het normaal gaan vinden dat zij hun leven eraan aanpassen. '
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Maar wat als we al jaren de verkeerde vraag stellen?'
       -
         type: paragraph
         attrs:
@@ -104,16 +65,8 @@ page_builder:
                 link_type: link
                 target_blank: false
                 button_layout: solid
-                button_colour: orange
+                button_colour: black
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-              -
-                id: mq57jlhv
-                label: 'Tijdelijk inclusief gratis bonussen'
-                link_type: link
-                target_blank: false
-                link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
-                button_layout: link
-                button_colour: orange
     type: HeroSection
     enabled: true
   -
@@ -2309,7 +2262,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786713065
+updated_at: 1786715779
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
