@@ -135,6 +135,8 @@ page_builder:
       spacing_mobile: standard
     type: TestimonialBubbles
     enabled: true
+    selected_entries:
+      - 5899f1c0-2176-4e25-9675-8be48d6d8032
   -
     id: msrtopy9
     full_height: true
@@ -151,7 +153,7 @@ page_builder:
       sound_control: true
       fullscreen_control: true
     type: HeroSection
-    enabled: true
+    enabled: false
   -
     id: mpzw8648
     color: '#f7e7de'
@@ -2256,7 +2258,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786712060
+updated_at: 1786712694
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
