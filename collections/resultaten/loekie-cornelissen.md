@@ -2,7 +2,7 @@
 id: 5899f1c0-2176-4e25-9675-8be48d6d8032
 blueprint: resultaten
 title: 'Loekie Cornelissen'
-naam: 'Loekie Cornelissen'
+naam: 'Loekie Cornelissen, Organisatiepsycholoog & Liederschapscoach'
 profession: 'Organisatiepsycholoog & Leiderschapscoach'
 social_links:
   -
@@ -26,7 +26,7 @@ excerpt:
     attrs:
       class: null
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786712392
+updated_at: 1786712609
 duplicated_from: d40215c1-0b7d-4108-8004-c47b5ccb70c9
 content:
   -
