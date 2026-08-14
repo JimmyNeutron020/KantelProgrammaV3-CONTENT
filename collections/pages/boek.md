@@ -491,6 +491,27 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mssyngy6
+    color: '#f7e7de'
+    background_image: recensie-ilse-beekenkamp.png
+    selected_entries:
+      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: mq10qtaw
     content:
       -
@@ -730,6 +751,27 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mssypsw4
+    color: '#f7e7de'
+    background_image: recensie-maryse-spapens.png
+    selected_entries:
+      - 9ad74bf7-7827-41e4-9663-9119692eac03
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: mqzqa6e9
     full_height: true
     layout_setting: media
@@ -769,12 +811,23 @@ page_builder:
             type: text
             marks:
               -
-                type: bold
+                type: btsSpan
+                attrs:
+                  class: text-white
+            text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
               -
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Het helpt je begrijpen waarom zoveel vrouwen blijven vastlopen, ondanks behandelingen, therapieën en goedbedoelde adviezen. Niet door nog meer regels of oefeningen toe te voegen. Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
+            text: 'Niet door nog meer regels of oefeningen toe te voegen. Maar door je stap voor stap anders te leren kijken naar je lichaam, je klachten en de signalen die het al die tijd heeft gegeven.'
     type: HeroSection
     enabled: true
     media:
@@ -978,9 +1031,6 @@ page_builder:
     id: mqp8x0pv
     color: '#f7e7de'
     selected_entries:
-      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
-      - 9ad74bf7-7827-41e4-9663-9119692eac03
-      - 985b5f7c-49ad-4be5-a9c4-67aaa16f5e26
       - 7f5026dc-b625-4b98-bb49-052edfdcffaf
     show_settings: true
     inner_spacing_top:
@@ -997,6 +1047,7 @@ page_builder:
       spacing_mobile: standard
     type: TestimonialBubbles
     enabled: true
+    background_image: recensie-lisa-portengen.png.png
   -
     id: mqzpof4j
     items:
@@ -2258,7 +2309,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786712694
+updated_at: 1786713065
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
