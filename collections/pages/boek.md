@@ -11,8 +11,6 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - 3d-chronische-pijn-is-niet-normaal-stapeltje-klein-formaat.png
-        - achterflap-klein-formaat.png
         - cover-3d-klein-formaat.png
       show_swiper_controls: false
       autoplay: true
@@ -2262,7 +2260,7 @@ page_builder:
 use_white_header: false
 seo_description: 'CHRONISCHE PIJN IS NIET NORMAAL'
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786715779
+updated_at: 1786809759
 seo_og_image: boekomslag-3d-klein-1781529845.png
 duplicated_from: 71945a19-48fa-45f2-b5c4-b3cb2818678a
 ---
