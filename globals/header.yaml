@@ -25,12 +25,13 @@ data:
       target_blank: false
       link: 'entry::71945a19-48fa-45f2-b5c4-b3cb2818678a'
       button_layout: solid
-      button_colour: orange
+      button_colour: black
     -
       id: mq1e9u98
-      label: Wachtlijst
-      link_type: link
+      label: 'Gratis Brochure'
+      link_type: email
       target_blank: false
       link: 'https://tally.so/r/dWzYMN'
       button_layout: solid
-      button_colour: orange
+      button_colour: white
+      email: contact@kantelprogramma.nl
