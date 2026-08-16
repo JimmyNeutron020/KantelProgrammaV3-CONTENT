@@ -58,6 +58,7 @@ page_builder:
         type: set
         attrs:
           id: mqhzos6h
+          enabled: false
           values:
             type: buttons
             buttons:
@@ -346,186 +347,6 @@ page_builder:
         type: paragraph
         attrs:
           class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: 'Auteur | Expert chronische pijn bij vrouwen | Bekkenpijn | Postpartum | Oprichter Kantel Programma'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Na haar eigen herstel ontwikkelde zij samen met Paul Bax een integrale aanpak waarin leefstijl, het zenuwstelsel, beweging, slaap, voeding en stressregulatie samenkomen. Inmiddels begeleidden zij > 1250 vrouwen die jarenlang vastliepen in pijn en beperkingen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Chantal spreekt regelmatig over de maatschappelijke impact van chronische pijn, de positie van vrouwengezondheid binnen de zorg en de vraag waarom langdurige pijn zo vaak als ‘normaal’ wordt beschouwd. Zij is beschikbaar voor interviews, achtergrondgesprekken, podcasts, radio en televisie.'
-      -
-        type: bulletList
-        content:
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom hebben zoveel vrouwen chronische pijn?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom duurt het gemiddeld jaren voordat vrouwen serieus worden genomen?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom wordt pijn na een zwangerschap zo vaak genormaliseerd?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Welke maatschappelijke gevolgen heeft chronische pijn?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom vallen zoveel vrouwen uit op hun werk?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom blijven vrouwen zoeken van therapeut naar therapeut?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom krijgen leefstijl en herstel zo weinig aandacht?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Wat betekent chronische pijn voor jonge gezinnen?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Waarom voelen veel vrouwen zich niet gehoord in de zorg?'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: bold
-                    text: 'Welke misverstanden bestaan er over chronische pijn?'
-      -
-        type: paragraph
-        attrs:
-          class: null
-      -
-        type: paragraph
-        attrs:
-          class: null
       -
         type: paragraph
         attrs:
@@ -547,7 +368,20 @@ page_builder:
         content:
           -
             type: text
-            text: 'In 2006 won ze de ondernemersprijs Venlose Start en bouwde ze een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht. Eind 2020 kochten Chantal en Paul een voormalig hotel en monumentale Frankische carré-boerderij en verbouwden die eigenhandig tot leefstijlhotel. Ze werken van daaruit en vanuit hun stek op Sardinië. Chantal is moeder van een zoon en dochter.'
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: 'Auteur | Expert chronische pijn bij vrouwen | Bekkenpijn | Postpartum | Oprichter Kantel Programma'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -555,7 +389,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Gezondheid van body en mind heeft al jaren haar grote interesse. Naast haar GGZ-achtergrond volgde ze diverse coachopleidingen, waaronder Master Coach Leefstijl, en ze verdiepte zich in psychologie en leefwijzen. Dankzij haar talent analyseert ze razendsnel wat jouw kanteling vraagt. Ze wil het talent van anderen aanwakkeren en is uitgesproken: ons onderwijssysteem is verouderd en de zorg is incompleet. Te veel mensen staan op overleven. Laten we als moeders een stralend voorbeeld zijn. Born to shine.'
+            text: 'Ik heb mijn hele leven één vraag gevolgd:'
       -
         type: paragraph
         attrs:
@@ -563,7 +397,147 @@ page_builder:
         content:
           -
             type: text
-            text: 'Misschien herken je het: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Tijdens haar tweede zwangerschap had Chantal ernstige bekkeninstabiliteit. Ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn. Chantal ziet met haar “laserogen” snel waar je echt vastloopt en wat nu nodig is om weer vrij en pijnvrij te bewegen.'
+            marks:
+              -
+                type: bold
+            text: 'Wat als het anders kan?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Als ik zie dat iets beter, mooier of menselijker kan, lukt het me niet goed om aan de zijlijn te blijven staan. Dan wil ik weten wat er gebeurt wanneer ik ervoor kies. Ook als ik vooraf nog niet precies weet waar die keuze mij brengt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Zo richtte ik een kinderopvangorganisatie en een jeugd-GGZ-praktijk op. Ik stelde mij verkiesbaar voor de gemeenteraad, werd lijsttrekker van lijst 1 en werd gekozen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ik kocht een monumentale carréhoeve en verbouwde die eigenhandig tot een leefstijlhotel voor dertig gasten. Ik won de Venlose Start Ondernemersprijs, ben genomineerd voor de Business Women Nederland Award en zei in 2018 ja tegen het televisieprogramma over het Italiaanse dorp Ollolai, dat een zomerlang iedere avond te zien was op RTL4.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat lijken misschien heel verschillende hoofdstukken. Voor mij gaan ze allemaal over hetzelfde.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ik zie mogelijkheden waar anderen vooral zien wat er al is. En wanneer iets mij werkelijk raakt, wil ik het niet alleen bedenken. Ik wil het ervaren, bouwen en erachter komen wat het leven mij daar te leren heeft.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Natuurlijk liep niet alles zoals ik vooraf had bedacht. Juist daar ontstond een groot deel van mijn wijsheid. In de successen, de omwegen, de verkeerde inschattingen en de momenten waarop ik opnieuw moest beginnen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Mijn eigen herstel van langdurige bekkenpijn veranderde de richting van mijn leven. Ik zag hoeveel er mogelijk werd toen ik stopte met alleen kijken naar de plek waar het pijn deed en mijn hele leven bij mijn herstel ging betrekken.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daaruit ontstond het Kantel Programma.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wat begon bij mijn eigen lichaam, groeide uit tot een methode waarmee we inmiddels meer dan 1.250 vrouwen hebben begeleid. Vrouwen die vaak al jaren hoorden wat zij niet meer konden en langzaam waren vergeten hoeveel leven er nog op hen wachtte.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ook mijn liefde voor Sardinië en de Blue Zone-leefwijze hoort bij dit verhaal. Daar zie ik iedere keer opnieuw dat gezondheid niet alleen ontstaat tijdens een behandeling of training. Gezondheid zit ook in hoe je woont, eet, beweegt en met andere mensen verbonden bent. In plezier, buiten zijn en onderdeel blijven van het leven.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daarom organiseer ik retraites op Sardinië. Daarom schreef ik mijn boek. En daarom bouw ik nu aan '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: .
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ik wil vrouwen niet leren om mijn leven te leven. Ik wil ze laten zien dat er vaak meer mogelijk is dan zij op dit moment kunnen overzien.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat is de rode draad in alles wat ik heb gedaan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ik zie wat er mogelijk is. Ik durf ervoor te kiezen. En als het nog niet bestaat, dan bouw ik het.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: set
         attrs:
@@ -1132,6 +1106,6 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1785336020
+updated_at: 1786900410
 use_white_header: false
 ---
