@@ -24,7 +24,7 @@ klachten:
   - lage-rug
   - vermoeidheid
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772829399
+updated_at: 1786922104
 content:
   -
     type: paragraph
@@ -33,5 +33,22 @@ content:
     content:
       -
         type: text
-        text: 'Ik twijfelde over de investering maar dit was het driedubbel waard'
+        text: 'Zij droeg jarenlang geen broeken meer omdat haar lichaam die niet kon verdragen. Nu wandelt ze, onderneemt ze weer dingen met haar gezin en hangt haar kast opnieuw vol broeken.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: '"'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Voor andere mensen lijkt dat misschien onbelangrijk. Voor mij voelde het alsof ik een stuk van mezelf terugkreeg. Ik twijfelde over de investering maar dit was het driedubbel waard'
+      -
+        type: text
+        text: '."'
 ---
