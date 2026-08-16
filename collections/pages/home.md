@@ -3330,8 +3330,13 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786915405
+updated_at: 1786915790
 use_white_header: false
 seo_title: 'Kantel Programma'
-seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
+seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
+seo_og_image: weer/kleurvlak_volledig_met_payoff_blauw_met_creme_1080.png
+seo_og_title: 'WEER mezelf'
+seo_twitter_summary_image: 'brand/foto-18-01-2026,-12-10-39-(1).jpg'
+seo_twitter_title: 'Weer mezelf'
+seo_noindex: false
 ---
