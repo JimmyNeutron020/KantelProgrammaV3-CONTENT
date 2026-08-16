@@ -3813,6 +3813,251 @@ page_builder:
     type: PropositionSection
     enabled: true
   -
+    id: mswep4h4
+    items:
+      -
+        id: mswep60e
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/10_slot_uitnodiging_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mswepqd1
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 1
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Vroeg kiezen geeft je de laagste prijs van deze ronde.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '31 aug. t/m 6 sept. 2026'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                text: ' €2.499'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | JAAR €4.499'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | VIP €8.999'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '7 t/m 19 sept. 2026'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                text: ' €2.799'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | JAAR €4.799'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | VIP €9.499'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: text-md
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '20 t/m 30 sept. 2026'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                text: ' €2.999'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | JAAR €4.999'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | VIP €9.99'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: text-xs
+            content:
+              -
+                type: text
+                text: 'Gespreid betalen'
+          -
+            type: paragraph
+            attrs:
+              class: text-xs
+            content:
+              -
+                type: text
+                text: 'WEER mezelf: 6 x €549, totaal €3.294'
+          -
+            type: paragraph
+            attrs:
+              class: text-xs
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | JAAR: 12 x €449, totaal €5.388'
+          -
+            type: paragraph
+            attrs:
+              class: text-xs
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | VIP: 12 x €899, totaal €10.788'
+          -
+            type: paragraph
+            attrs:
+              class: text-xs
+            content:
+              -
+                type: text
+                text: 'In de termijnbedragen zit een opslag. Betaling verloopt via automatische incasso.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: m7xyj4a9
     items:
       -
@@ -4343,7 +4588,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786920964
+updated_at: 1786921555
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
