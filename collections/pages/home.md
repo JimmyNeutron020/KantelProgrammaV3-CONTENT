@@ -1542,7 +1542,7 @@ page_builder:
     enabled: true
   -
     id: msw6g2uk
-    color: '#f5f5f7'
+    color: '#f7e7de'
     content:
       -
         type: set
@@ -1894,7 +1894,7 @@ page_builder:
             type: text
             text: 'Meer dan 1250 vrouwen gingen je voor'
     show_tag: false
-    color: '#f7e7de'
+    color: '#f5f5f7'
     use_first_eight: false
     selected_entries:
       - 30d68fbd-5407-4d76-bf2e-27d07c4656d5
@@ -1945,7 +1945,7 @@ page_builder:
     id: msw7ggym
     heading_size: M
     show_tag: false
-    color: '#f7e7de'
+    color: '#f5f5f7'
     use_first_eight: false
     selected_entries:
       - 611fb9ce-1bfe-4d28-9866-c55d38258859
@@ -1996,7 +1996,7 @@ page_builder:
     id: msw7mg1h
     heading_size: M
     show_tag: false
-    color: '#f7e7de'
+    color: '#f5f5f7'
     use_first_eight: false
     selected_entries:
       - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
@@ -2296,6 +2296,508 @@ page_builder:
       sound_control: true
       fullscreen_control: true
     type: HeroSection
+    enabled: true
+  -
+    id: msw9kyri
+    content:
+      -
+        type: set
+        attrs:
+          id: msw9m1vg
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'In WEER mezelf komen visie en lichamelijke opbouw samen'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Chantal '
+          -
+            type: text
+            text: 'is founder van WEER, bedenker van het Kantel Programma en de publieke stem van de bredere visie. Zij herstelde in 2004 van langdurige bekkenpijn en is inmiddels ruim twintig jaar pijnvrij.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Paul
+          -
+            type: text
+            text: ' brengt lichaamsgerichte therapie, fysiologie, trainingsleer, ademhaling en kennis over het zenuwstelsel samen in de lichamelijke opbouw. Tijdens het traject bekijkt hij persoonlijk de videobeelden van iedere deelnemer.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Samen
+          -
+            type: text
+            text: ' ontwikkelden zij de '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Bewezen Beter Kantel Methode'
+          -
+            type: text
+            text: '. De Kantel Coaches begeleiden de wekelijkse toepassing, zodat persoonlijke aandacht en eigen regie naast elkaar kunnen bestaan.'
+    color: '#f5f5f7'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: msw9qq1p
+    items:
+      -
+        id: msw9qxol
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/07_vip_sardinie_dorpsleven_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msw9rhrx
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Ook professionals herkennen de bredere blik'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Huisartsen, psychologen, een neuro manueel therapeut, bekkentherapeut en een leefstijlapotheker lazen het, door Chantal geschreven boek,  '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Chronische pijn is níet normaal'
+              -
+                type: text
+                text: ' en bevelen de visie achter WEER aan. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Zij herkennen dat langdurige pijn zelden goed begrepen wordt wanneer ieder onderdeel los wordt bekeken.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: mswalnyl
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De veertien modules. Eén doorlopende opbouw.'
+    show_tag: false
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Vanaf module 0 bouw je stap voor stap verder aan wat je lichaam weer aankan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Door alle veertien modules loopt een vaste en specifieke beweeglijn. Je gaat verder met bewegen, oefenen, sporten en trainen op een manier die past bij de fase waarin je zit. Iedere module bouwt voort op de vorige.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daarnaast krijg je iedere week een nieuwe Kantel Kroniek. Daarmee leer je herkennen wat er in je dagelijks leven meespeelt en wat jouw herstel kan helpen of juist in de weg kan zitten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De onderwerpen hieronder zijn daarom geen losse lessen. Ze geven iedere module de verdieping die je op dat moment nodig hebt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 0 '
+          -
+            type: text
+            text: '| Zien waar je nu werkelijk staat | Zelfanalyse '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 1'
+          -
+            type: text
+            text: ' |Je lichaam weer durven vertrouwen | Angst en vertrouwen'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 2 '
+          -
+            type: text
+            text: '| Je systeem leren omgaan met gezonde prikkels | Zenuwstelsel'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 3'
+          -
+            type: text
+            text: ' | Voeden voor energie en herstel | Voeding'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Modules 4'
+          -
+            type: text
+            text: ' | Rust brengen in een lichaam dat te lang alert stond | Klachtenspecifiek'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 5'
+          -
+            type: text
+            text: ' | Je herstel ook tijdens de nacht ondersteunen | Slaap'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 6 '
+          -
+            type: text
+            text: '|'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Herkennen waarom je jezelf soms tegenhoudt |Zelfsabotage'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 7 '
+          -
+            type: text
+            text: '|'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Jezelf niet kwijtraken in alles wat van je gevraagd wordt |Zorg, rollen en ouderschap'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 8'
+          -
+            type: text
+            text: ' |'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Voelen wat er speelt zonder dat pijn de leiding neemt | Emotioneel evenwicht en pijn'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 9'
+          -
+            type: text
+            text: ' |'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Je herstel ondersteunen in de andere 167 uur | Herstelbevordering'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 10 '
+          -
+            type: text
+            text: '|'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Weer ruimte maken voor een groter leven | Groots dromen'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 11 '
+          -
+            type: text
+            text: '|'
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'Je lichaam opnieuw verbinden met nabijheid en verlangen | Seksualiteit en intimiteit'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Module 12 '
+          -
+            type: text
+            text: '|Vertrouwen op wat je zelf hebt opgebouwd | Een blik vooruit'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Bonus Module '
+          -
+            type: text
+            text: 'Alles wat je hebt geleerd verder verankeren'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je werkt dus iedere week verder aan je fysieke opbouw, terwijl je steeds beter gaat begrijpen wat jouw lichaam en jouw dagelijks leven nodig hebben om verder te komen.'
+    media:
+      video: false
+      autoplay_video: false
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    type: bootstrapComponent
+    enabled: true
+  -
+    id: mswa79bh
+    color: '#f5f5f7'
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
+    selected_entries:
+      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
+      - 9ad74bf7-7827-41e4-9663-9119692eac03
+      - 5899f1c0-2176-4e25-9675-8be48d6d8032
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
     enabled: true
   -
     id: m7xyj4a9
@@ -2828,7 +3330,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786911684
+updated_at: 1786915405
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
