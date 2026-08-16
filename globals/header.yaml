@@ -12,10 +12,11 @@ data:
     -
       id: mq1e915w
       label: 'Gratis Brochure'
-      link_type: link
+      link_type: email
       target_blank: false
       button_layout: solid
       button_colour: white
+      email: contact@kantelprogramma.nl
   scrolled_buttons:
     -
       id: mq1dbw7a
