@@ -3308,6 +3308,351 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mswdehny
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Eén methode, drie routes.'
+    show_tag: true
+    tag_text: 'WEER mezelf'
+    tag_alignment: right
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "Je kiest niet tussen drie verschillende programma's. Je kiest hoeveel tijd en begeleiding jouw leven nu vraagt."
+    packages:
+      -
+        id: mswdep6m
+        heading_size: M
+        heading:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf'
+        show_tag: false
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor de vrouw die de volledige methode wil doorlopen en haar dagelijks leven weer met vertrouwen wil oppakken.'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Alle veertien modules.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Live kick-off bij Kaldenbroek in Lottum | 17 oktober 2026'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Twee-wekelijkse online groepscalls met je Kantel Coach.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Feedback op je Kantel Kroniek.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Persoonlijke beeldbeoordeling door Paul.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '26 weken toegang.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Na afronding drie maanden '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'WEER '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                          -
+                            type: italic
+                        text: mezelf
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: ' Club'
+                      -
+                        type: text
+                        text: ' inbegrepen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Leg nu je plek en prijs van dit moment vast.'
+        highlight: true
+        price: '€ 2999'
+        show_discount: true
+        discount_price: '€ 2499 | Early Bird t/m 6 sept.'
+        label: 'JA, IK KIES WEER MEZELF'
+        link_type: link
+        target_blank: false
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+      -
+        id: mswdwol1
+        heading_size: M
+        heading:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | JAAR'
+        show_tag: true
+        tag_text: 'ONZE AANBEVELING'
+        tag_alignment: left
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor de vrouw die na het terugpakken van haar dagelijkse leven verder wil bouwen en groeien naar een persoonlijk doel of grootse droom en wil zorgen dat het geleerde ook tijdens drukkere en lastigere periodes blijft staan. '
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Alles uit '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'WEER '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                          -
+                            type: italic
+                        text: mezelf
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Vanaf week veertien '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'WEER '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                          -
+                            type: italic
+                        text: verder
+                      -
+                        type: text
+                        text: '. Twee-wekelijkse live groepscoaching met Paul of Chantal'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Een live Kanteldag.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '52 weken toegang.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Na afronding drie maanden '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'WEER '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                          -
+                            type: italic
+                        text: mezelf
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: ' Club'
+                      -
+                        type: text
+                        text: ' inbegrepen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Leg nu je plek en prijs van dit moment vast.'
+        highlight: true
+        price: '€ 4999'
+        show_discount: true
+        discount_price: '€ 4499 | Early Bird t/m 6 sept.'
+        label: 'JA, IK KIES WEER MEZELF | JAAR'
+        link_type: link
+        target_blank: false
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: PropositionSection
+    enabled: true
+  -
     id: m7xyj4a9
     items:
       -
@@ -3838,7 +4183,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786918664
+updated_at: 1786920149
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
