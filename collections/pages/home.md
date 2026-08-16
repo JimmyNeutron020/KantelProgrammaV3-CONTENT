@@ -259,7 +259,24 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Ik heb mijn hele leven gebouwd aan plekken, organisaties en routes die er nog niet waren. WEER mezelf is daar geen los hoofdstuk in. Het is de plek waar mijn eigen herstel, mijn ondernemerschap en alles wat ik over leven heb geleerd samenkomen.'
+                text: 'Ik heb mijn hele leven gebouwd aan plekken, organisaties en routes die er nog niet waren. '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                text: ' is daar geen los hoofdstuk in. Het is de plek waar mijn eigen herstel, mijn ondernemerschap en alles wat ik over het leven heb geleerd samenkomen.'
           -
             type: paragraph
             attrs:
@@ -282,7 +299,19 @@ page_builder:
                 marks:
                   -
                     type: italic
-                text: 'Chantal Theunissen | founder van WEER en bedenker van het Kantel Programma'
+                text: 'Chantal Theunissen | founder van '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: WEER
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: ' en bedenker van het Kantel Programma'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -1130,7 +1159,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786894114
+updated_at: 1786894580
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
