@@ -7,8 +7,8 @@ data:
       link_type: link
       target_blank: false
       link: 'entry::71945a19-48fa-45f2-b5c4-b3cb2818678a'
-      button_layout: standard
-      button_colour: orange
+      button_layout: solid
+      button_colour: black
     -
       id: mq1e915w
       label: 'Gratis Brochure'
