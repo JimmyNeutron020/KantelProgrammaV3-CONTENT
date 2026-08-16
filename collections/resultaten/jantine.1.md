@@ -14,8 +14,13 @@ media:
   play_pause_control: true
   sound_control: true
   fullscreen_control: true
+excerpt:
+  -
+    type: paragraph
+    attrs:
+      class: null
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786906769
+updated_at: 1786906780
 content:
   -
     type: paragraph
