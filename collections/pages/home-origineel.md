@@ -1,7 +1,7 @@
 ---
 id: ee0042c5-3c18-4d61-91a5-85c4de943d0e
 blueprint: page
-title: 'HOME ORIGINEEL'
+title: HOME
 page_builder:
   -
     id: m7xvy4s9
@@ -28,10 +28,8 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Eindelijk je leven weer terug'
-            show_tag: true
-            tag_text: 'JONGE MOEDER'
-            tag_alignment: center
+                    text: 'Je hoeft het niet langer zelf uit te zoeken'
+            show_tag: false
       -
         type: paragraph
         attrs:
@@ -44,7 +42,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Geen eindeloze therapieën, onderzoeken en behandelingen. Snel weer pijnvrij kunnen genieten van je gezin.  '
+            text: 'Eén uur per week keek er iemand naar de plek waar het pijn deed. Wij kijken ook naar de andere 167.'
       -
         type: set
         attrs:
@@ -54,7 +52,7 @@ page_builder:
             buttons:
               -
                 id: m7xw13ou
-                label: 'Bekijk hoe het werkt'
+                label: 'JA, IK KIES MIJN ROUTE'
                 link_type: link
                 target_blank: false
                 link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
@@ -66,7 +64,9 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - chantal-homepage.png
+        - 01_alternatieve_hero_fietsen_naar_zee.png
+        - 02_herkenning_dagelijks_leven.png
+        - 02_herkenning_rustige_keuken.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -1940,7 +1940,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1782139256
+updated_at: 1786885534
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél echt mogelijk is.'
