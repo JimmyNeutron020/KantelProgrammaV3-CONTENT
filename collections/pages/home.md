@@ -1658,29 +1658,6 @@ page_builder:
         id: msw6q9l8
         content:
           -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Wat het verschil werkelijk is'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                text: 'Zes maanden geeft je de complete methode en een stevige lichamelijke opbouw. In het jaartraject gebruik je de extra tijd om verder uit te bouwen, te integreren en te overleggen wanneer je tegen nieuwe situaties aanloopt.'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-          -
             type: set
             attrs:
               id: msw6padg
@@ -1835,6 +1812,57 @@ page_builder:
                       -
                         type: text
                         text: 'Herstel voelt minder als iets waar je elke dag bewust mee bezig moet zijn.'
+        type: new_set
+        enabled: true
+      -
+        id: msw7yput
+        content:
+          -
+            type: set
+            attrs:
+              id: msw7z34e
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wat het verschil werkelijk is'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: text-base
+                    content:
+                      -
+                        type: text
+                        text: 'Zes maanden geeft je de complete methode en een stevige lichamelijke opbouw. '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: text-base
+                    content:
+                      -
+                        type: text
+                        text: 'In het jaartraject gebruik je de extra tijd om verder uit te bouwen, te integreren, persoonlijke te groeien en te sparren wanneer je tegen nieuwe situaties aanloopt.'
         type: new_set
         enabled: true
     show_callout: false
@@ -2014,6 +2042,260 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: ResultsSlider
+    enabled: true
+  -
+    id: msw7tzek
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - 'chantal/foto-18-01-2026,-11-41-24_1080x1080_website.jpg'
+        - 'chantal/foto-18-01-2026,-11-41-32_1080x1080_website.jpg'
+        - 'chantal/foto-18-01-2026,-11-41-56_1080x1080_website.jpg'
+        - 'chantal/foto-18-01-2026,-11-40-14_1080x1080_website.jpg'
+        - 'chantal/foto-18-01-2026,-11-40-49_1080x1080_website.jpg'
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: msw82tf1
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Als ik zie dat het leven ruimer kan, blijf ik niet aan de zijlijn staan.'
+            show_tag: false
+    type: HeroSection
+    enabled: true
+  -
+    id: msw889mk
+    items:
+      -
+        id: msw88g2d
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - chantal/ollolai2018.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Mijn levensverhaal lijkt op het eerste gezicht uit veel verschillende hoofdstukken te bestaan. Ik richtte een kinderopvangorganisatie en een jeugd-GGZ-praktijk op. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik stelde mij verkiesbaar voor de gemeenteraad, werd lijsttrekker van lijst 1 en werd gekozen. Ik kocht een monumentale carréhoeve en verbouwde die met Paul eigenhandig tot een leefstijlhotel voor dertig gasten. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik zei ja tegen een televisieprogramma over het Italiaanse dorp Ollolai en vond op Sardinië een manier van leven die mij nog iedere dag iets leert.'
+        type: new_set
+        enabled: true
+      -
+        id: msw89tj9
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - well/well1.jpg
+            - well/well4.jpg
+            - well/well3.jpg
+            - well/well2.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor mij gaat dit steeds over dezelfde beweging. Ik zie wat er ontbreekt. Ik durf te kiezen. Ik bouw wat nog niet bestaat. Daarna geef ik door wat de ervaring mij heeft geleerd.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '1. Zien'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik merk op waar mensen, organisaties of systemen vastlopen en zie vaak eerder dan anderen waar ruimte ontstaat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '2. Kiezen'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wanneer iets werkelijk klopt, durf ik ervoor te gaan. Ook wanneer de uitkomst nog niet vaststaat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '3. Bouwen'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een mogelijkheid krijgt pas betekenis wanneer zij in het echte leven vorm krijgt. Daarom blijft het bij mij zelden alleen bij een idee.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '4. Doorgeven'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wat ik onderweg leer, vertaal ik naar een route die anderen helpt om zelf weer te zien wat er voor hen mogelijk is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Mijn eigen herstel van langdurige bekkenpijn vormde het begin van het Kantel Programma. Inmiddels gingen meer dan 1.250 vrouwen ons voor. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                text: ' is de volgende stap in hetzelfde levensverhaal.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: msw923go
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/kleurvlak_volledig_met_payoff_blauw_met_creme_1080.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    type: HeroSection
     enabled: true
   -
     id: m7xyj4a9
@@ -2546,7 +2828,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786909294
+updated_at: 1786911684
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
