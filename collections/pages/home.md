@@ -55,11 +55,11 @@ page_builder:
               -
                 id: m7xw13ou
                 label: 'JA, IK KIES MIJN ROUTE'
-                link_type: link
+                link_type: email
                 target_blank: false
-                link: 'entry::37fe9b56-749b-4049-9173-064c8aa11ba3'
                 button_layout: solid
                 button_colour: orange
+                email: contact@kantelprogramma.nl
     type: HeroSection
     enabled: true
     media:
@@ -198,6 +198,38 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: FeaturedMedia
+    enabled: true
+  -
+    id: msvx04zu
+    items:
+      -
+        id: msvx18zv
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
     enabled: true
   -
     id: mmfcat34
@@ -732,7 +764,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786891016
+updated_at: 1786891682
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
