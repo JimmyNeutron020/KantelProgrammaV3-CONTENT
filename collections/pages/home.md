@@ -1864,13 +1864,24 @@ page_builder:
         content:
           -
             type: text
-            text: 'Annemiek Dorenbos'
+            text: 'Meer dan 1250 vrouwen gingen je voor'
     show_tag: false
     color: '#f7e7de'
     use_first_eight: false
     selected_entries:
       - 30d68fbd-5407-4d76-bf2e-27d07c4656d5
     content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Annemieke Dorenbos'
       -
         type: paragraph
         attrs:
@@ -1887,6 +1898,108 @@ page_builder:
           -
             type: text
             text: '"Ik had echt nooit gedacht dat ik binnen 13 weken 2 km zou kunnen lopen. Maar het gebeurde echt."'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsSlider
+    enabled: true
+  -
+    id: msw7ggym
+    heading_size: M
+    show_tag: false
+    color: '#f7e7de'
+    use_first_eight: false
+    selected_entries:
+      - 611fb9ce-1bfe-4d28-9866-c55d38258859
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dorien Hennink'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Na tien jaar zonder hardlopen klimt ze weer, loopt ze in de bergen en rent ze opnieuw.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '"Ik klim weer, ik loop weer in de bergen en ik kan tegenwoordig zelfs hardlopen."'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsSlider
+    enabled: true
+  -
+    id: msw7mg1h
+    heading_size: M
+    show_tag: false
+    color: '#f7e7de'
+    use_first_eight: false
+    selected_entries:
+      - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Monica Struiksma'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Tijdens haar zwangerschap werd ze afhankelijk van thuiszorg. Nu werkt ze weer, rijdt ze auto, reist ze met haar gezin en doet ze aan krachttraining.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '"Vroeger wilde ik vooral overleven. Nu geniet ik weer van mijn leven."'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2433,7 +2546,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786908548
+updated_at: 1786909294
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
