@@ -399,6 +399,205 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: msvycsaj
+    items:
+      -
+        id: msvyd5p7
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - 01_alternatieve_hero_fietsen_naar_zee.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msvyeokj
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wat je werkelijk terug wilt '
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Je mist niet alleen een pijnvrij lichaam.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je mist het leven dat daarbij hoorde. De gewone dag waar je vroeger nauwelijks over nadacht. De vrijheid om op je fiets te springen of iets af te spreken zonder eerst te berekenen hoeveel herstel je daarna nodig hebt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vrouwen die bij ons begonnen, schreven hun verlangen niet op als een lager pijncijfer. Zij schreven dit:'
+          -
+            type: set
+            attrs:
+              id: msvyh3ai
+              values:
+                type: icon_list
+                iconlist:
+                  -
+                    id: msvyh4jv
+                    fa_icon: 'fa-solid fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"'
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: italic
+                            text: 'Met ons gezin op pad zonder dat ik de beperkende factor ben.'
+                          -
+                            type: text
+                            text: '"'
+                  -
+                    id: msvyhtaw
+                    fa_icon: 'fa-solid fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"'
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: italic
+                            text: 'Mijn kinderen weer kunnen tillen en met ze op de grond kunnen spelen.'
+                          -
+                            type: text
+                            text: '"'
+                  -
+                    id: msvyi6qt
+                    fa_icon: 'fa-solid fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"'
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: italic
+                            text: 'Niet meer die boze, overprikkelde moeder zijn, maar met rust echt aanwezig kunnen zijn.'
+                          -
+                            type: text
+                            text: '"'
+                  -
+                    id: msvyitag
+                    fa_icon: 'fa-solid fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"'
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: italic
+                            text: 'Weer kunnen sporten en een dag weg kunnen zonder alles vooraf te plannen'
+                          -
+                            type: text
+                            text: '."'
+                  -
+                    id: msvyj4n5
+                    fa_icon: 'fa-solid fa-angle-down'
+                    content:
+                      -
+                        type: paragraph
+                        attrs:
+                          class: null
+                        content:
+                          -
+                            type: text
+                            text: '"'
+                          -
+                            type: text
+                            marks:
+                              -
+                                type: italic
+                            text: 'Een tweede kindje durven overwegen'
+                          -
+                            type: text
+                            text: '."'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dit zijn geen kleine wensen. Dit is het leven waar jij weer bij wilt horen.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: mmfcat34
     color: '#f7e7de'
     show_settings: false
@@ -931,7 +1130,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786893609
+updated_at: 1786894037
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
