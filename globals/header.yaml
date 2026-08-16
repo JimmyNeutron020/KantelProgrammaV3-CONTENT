@@ -11,12 +11,11 @@ data:
       button_colour: orange
     -
       id: mq1e915w
-      label: Wachtlijst
+      label: 'Gratis Brochure'
       link_type: link
       target_blank: false
-      link: 'https://tally.so/r/dWzYMN'
-      button_layout: standard
-      button_colour: orange
+      button_layout: solid
+      button_colour: white
   scrolled_buttons:
     -
       id: mq1dbw7a
