@@ -50,11 +50,13 @@ target_pages:
   - a203ba5f-4950-4053-be31-1224c1fe6f88
   - 4e15ad85-30b6-45a0-a9cc-4f1b5e1e3e6b
   - 9108dbd8-aa31-4082-9ab8-847f7c34a8f6
+  - ee0042c5-3c18-4d61-91a5-85c4de943d0e
+  - 5f59df21-1327-438b-ab5e-0dcce9d694fa
 trigger_type: time_delay
 frequency: once_per_x_days
 min_page_views: 1
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1783029694
+updated_at: 1786891808
 frequency_days: 4
 trigger_delay_seconds: 70
 ---
