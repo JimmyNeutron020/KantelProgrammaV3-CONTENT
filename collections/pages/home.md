@@ -39,6 +39,8 @@ page_builder:
             type: text
             marks:
               -
+                type: bold
+              -
                 type: btsSpan
                 attrs:
                   class: text-white
@@ -64,15 +66,139 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - 01_alternatieve_hero_fietsen_naar_zee.png
-        - 02_herkenning_dagelijks_leven.png
-        - 02_herkenning_rustige_keuken.png
+        - 01_hero_weer_mezelf.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
       play_pause_control: true
       sound_control: true
       fullscreen_control: true
+  -
+    id: msvwfp22
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Start najaar 2026 | Doorbraak Sessies 3 oktober | Live Kick-Off 17 oktober'
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: msvwjkk6
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: text-xs
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'MEER DAN 1250 VROUWEN GINGEN JE VOOR'
+    color: '#eb8d7a'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: mikemtis
+    color: '#ffffff'
+    heading_size: XS
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Bekend van onder meer'
+    show_tag: false
+    logos:
+      -
+        id: miken3hj
+        logo_image: media/download-(1).png
+        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
+        type: logo
+        enabled: true
+      -
+        id: mikenzfs
+        logo_image: media/flair-logo.svg
+        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
+        type: logo
+        enabled: true
+      -
+        id: mikeo52h
+        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
+        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
+        type: logo
+        enabled: true
+      -
+        id: mikeofyg
+        logo_image: media/rtl4_2023.svg.png
+        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
+        type: logo
+        enabled: true
+      -
+        id: mikeotwa
+        logo_image: media/metro-logo-zwart.svg
+        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
+        type: logo
+        enabled: true
+      -
+        id: mikep1tx
+        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
+        logo_link: 'https://www.oervrouwmagazine.nl/'
+        type: logo
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: small
+      spacing_mobile: small
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FeaturedMedia
+    enabled: true
   -
     id: mmfcat34
     color: '#f7e7de'
@@ -143,72 +269,6 @@ page_builder:
       - 4de64ef2-3154-4fa4-969c-93fb0c32b443
       - ed7aa87e-3cbe-4714-bb8e-8103d410a283
     background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-  -
-    id: mikemtis
-    color: '#ffffff'
-    heading_size: XS
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Bekend van'
-    show_tag: false
-    logos:
-      -
-        id: miken3hj
-        logo_image: media/download-(1).png
-        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
-        type: logo
-        enabled: true
-      -
-        id: mikenzfs
-        logo_image: media/flair-logo.svg
-        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
-        type: logo
-        enabled: true
-      -
-        id: mikeo52h
-        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
-        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
-        type: logo
-        enabled: true
-      -
-        id: mikeofyg
-        logo_image: media/rtl4_2023.svg.png
-        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
-        type: logo
-        enabled: true
-      -
-        id: mikeotwa
-        logo_image: media/metro-logo-zwart.svg
-        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
-        type: logo
-        enabled: true
-      -
-        id: mikep1tx
-        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        logo_link: 'https://www.oervrouwmagazine.nl/'
-        type: logo
-        enabled: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: small
-      spacing_mobile: small
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: FeaturedMedia
-    enabled: true
   -
     id: m7xyj4a9
     items:
@@ -672,7 +732,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786889134
+updated_at: 1786891016
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
