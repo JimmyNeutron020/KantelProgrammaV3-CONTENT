@@ -1541,6 +1541,319 @@ page_builder:
     type: ProgressSection
     enabled: true
   -
+    id: msw6g2uk
+    color: '#f5f5f7'
+    content:
+      -
+        type: set
+        attrs:
+          id: msw6j6u4
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'En je lichaam dan? Dat pakken we juist heel specifiek en gericht aan. '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In iedere module bouw je je bewegen heel spcifiek en op maat verder op vanuit wat jouw lichaam op dat moment aankan. De opbouw volgt vier vaste stappen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "1.\_\_ "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Bewegen.
+          -
+            type: text
+            text: ' Weer vertrouwen dat een beweging geen aanval is.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "2.\_\_ "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Oefenen.
+          -
+            type: text
+            text: ' Gericht herhalen en leren doseren.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "3.\_\_ "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Sporten.
+          -
+            type: text
+            text: ' Ervaren dat je lichaam weer mee kan doen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: "4.\_\_ "
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Trainen.
+          -
+            type: text
+            text: ' Je belastbaarheid gericht verder uitbouwen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'We noemen dit een topsportbenadering vanwege de aandacht voor dosering, trainingsleer, herstel en een opbouw die past bij jouw startpunt. De intensiteit wordt afgestemd op jou.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Tijdens het traject stuur je videobeelden in. Paul bekijkt die persoonlijk en geeft richting aan jouw lichamelijke opbouw. In de modules en groepssessies ga je daar verder mee werken.'
+    items:
+      -
+        id: msw6q9l8
+        content:
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Wat het verschil werkelijk is'
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                text: 'Zes maanden geeft je de complete methode en een stevige lichamelijke opbouw. In het jaartraject gebruik je de extra tijd om verder uit te bouwen, te integreren en te overleggen wanneer je tegen nieuwe situaties aanloopt.'
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+          -
+            type: set
+            attrs:
+              id: msw6padg
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'NA ZES MAANDEN'
+                show_tag: false
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je begrijpt steeds beter wat jouw lichaam nodig heeft.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je beweegt weer met meer vertrouwen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je hebt dagelijkse activiteiten teruggepakt.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je kunt zelf signalen herkennen en keuzes aanpassen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je dagelijks leven draait niet meer om klachten.'
+        type: new_set
+        enabled: true
+      -
+        id: msw6g9h9
+        content:
+          -
+            type: set
+            attrs:
+              id: msw6padg
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'NA TWAALF MAANDEN'
+                show_tag: false
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je belastbaarheid is nog verder uitgebouwd.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: "Je hebt gericht gewerkt aan een persoonlijk 'groter' doel."
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je kunt ook tijdens drukkere periodes blijven bijsturen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wat je hebt geleerd is onderdeel geworden van je gewone leven.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Herstel voelt minder als iets waar je elke dag bewust mee bezig moet zijn.'
+        type: new_set
+        enabled: true
+    show_callout: false
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: UspSection
+    enabled: true
+  -
     id: m7xyj4a9
     items:
       -
@@ -2073,7 +2386,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786907173
+updated_at: 1786908114
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
