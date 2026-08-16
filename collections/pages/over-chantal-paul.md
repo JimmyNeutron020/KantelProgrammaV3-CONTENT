@@ -224,10 +224,6 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-42.jpg
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-14.jpg
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-46.jpg
-            - brand/img_2454.jpg
             - brand/img_2731.jpg
           show_swiper_controls: false
           autoplay: true
@@ -547,7 +543,7 @@ page_builder:
             buttons:
               -
                 id: QvbkOzeN
-                label: '📚 Chornische pijn is níet normaal'
+                label: '📚 Chronische pijn is níet normaal'
                 link_type: link
                 target_blank: false
                 link: 'https://kantelprogramma.membirds.com/checkout/boek-chronische-pijn-is-niet-normaal'
@@ -886,7 +882,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: Vooruitblik
+            text: '2026'
           -
             type: text
             text: ' '
@@ -897,7 +893,40 @@ page_builder:
         content:
           -
             type: text
-            text: 'Ambitie: nog veel meer vrouwen helpen. Uitgangspunt: in Nederland heeft bijna de helft van de mensen chronische klachten en een groot deel is te helpen met deze aanpak. Droom: een krachtige community waarin ervaringsdeskundige vrouwen andere vrouwen helpen. “Houd ons in de gaten, er komt nog veel meer kantelkracht jullie kant op.”'
+            text: "Lancering van het boek Chronische pijn is níet normaal'"
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ambitie: nog veel meer vrouwen helpen. Uitgangspunt: in Nederland heeft 1 op 3 drie vrouwen chronische klachten en een groot deel is te helpen met deze aanpak. '
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Droom: een krachtige community waarin ervaringsdeskundige vrouwen andere vrouwen helpen. “Houd ons in de gaten, er komt via '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: ' nog veel meer kantelkracht jullie kant op.” '
     show_settings: true
     inner_spacing_top:
       spacing_desktop: standard
@@ -1106,6 +1135,6 @@ page_builder:
     type: UspSection
     enabled: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786900410
+updated_at: 1786900686
 use_white_header: false
 ---
