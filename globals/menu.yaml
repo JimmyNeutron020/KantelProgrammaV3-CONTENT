@@ -15,10 +15,9 @@ data:
       target_blank: false
     -
       id: mq25ulc6
-      label: 'NIEUW AANBOD | LIVE TRAJECTEN | START OKTOBER 2026'
+      label: 'GRATIS BROCHURE | LIVE TRAJECTEN | OKTOBER 2026'
       link_type: external
       target_blank: false
-      external_link: 'https://tally.so/r/dWzYMN'
   menu_items_small:
     -
       id: mhhunphc
