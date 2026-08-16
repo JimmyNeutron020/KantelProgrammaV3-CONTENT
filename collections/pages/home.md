@@ -1854,6 +1854,55 @@ page_builder:
     type: UspSection
     enabled: true
   -
+    id: msw7451o
+    heading_size: M
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Annemiek Dorenbos'
+    show_tag: false
+    color: '#f7e7de'
+    use_first_eight: false
+    selected_entries:
+      - 30d68fbd-5407-4d76-bf2e-27d07c4656d5
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Bij de start kon ze geen vijftig stappen zetten. Binnen dertien weken liep ze twee kilometer. Een jaar later stond ze de hele dag op de bruiloft van haar zoon.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '"Ik had echt nooit gedacht dat ik binnen 13 weken 2 km zou kunnen lopen. Maar het gebeurde echt."'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ResultsSlider
+    enabled: true
+  -
     id: m7xyj4a9
     items:
       -
@@ -2198,7 +2247,7 @@ page_builder:
                 link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
                 button_layout: standard
                 button_colour: orange
-    show_tag: true
+    show_tag: false
     heading:
       -
         type: paragraph
@@ -2213,8 +2262,6 @@ page_builder:
                 attrs:
                   class: text-orange
             text: '"Had ik dit maar jaren eerder ontdekt." '
-    tag_text: "Bekijk hier de resultaat video's"
-    tag_alignment: center
   -
     id: msvv1mf6
     color: '#f7e7de'
@@ -2386,7 +2433,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786908114
+updated_at: 1786908548
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
