@@ -4,18 +4,18 @@ blueprint: resultaten
 title: Jantine
 naam: 'Jantine de Stigter,'
 media:
-  video: false
+  video: true
   autoplay_video: false
+  preview_image: members/whatsapp-image-2025-08-21-at-19.53.49.jpeg
   images:
     - members/whatsapp-image-2025-08-21-at-19.53.49.jpeg
-  show_swiper_controls: false
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
   sound_control: true
   fullscreen_control: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786906566
+updated_at: 1786906769
 content:
   -
     type: paragraph
