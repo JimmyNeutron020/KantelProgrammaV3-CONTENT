@@ -464,7 +464,7 @@ page_builder:
           -
             type: set
             attrs:
-              id: msvyeokj
+              id: msw2tsmm
               values:
                 type: heading
                 heading_size: M
@@ -476,19 +476,8 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Wat je werkelijk terug wilt '
+                        text: 'Je mist niet alleen een pijnvrij lichaam'
                 show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'Je mist niet alleen een pijnvrij lichaam.'
           -
             type: paragraph
             attrs:
@@ -625,6 +614,64 @@ page_builder:
               -
                 type: text
                 text: 'Dit zijn geen kleine wensen. Dit is het leven waar jij weer bij wilt horen.'
+        type: new_set
+        enabled: true
+      -
+        id: msw2vuzo
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/03_de_andere_167_uur_gewone_dag_1080x1080.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msw2wmaj
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Chronische pijn hoort erbij. Je moet ermee leren leven'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien heb je die boodschap rechtstreeks gehoord. Misschien zat hij verstopt in een advies om je verwachtingen bij te stellen. Na verloop van tijd ben je hem zelf gaan herhalen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wij beloven niet dat ieder lichaam hetzelfde reageert of dat iedere klacht verdwijnt. We geloven wel dat je leven niet vanzelf klein hoeft te blijven omdat pijn al lang aanwezig is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Er kan heel veel veranderen wanneer je lichaam, je belastbaarheid en de manier waarop je door je dagen beweegt eindelijk als één geheel worden bekeken.'
         type: new_set
         enabled: true
     show_settings: false
@@ -1175,7 +1222,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786899788
+updated_at: 1786901437
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
