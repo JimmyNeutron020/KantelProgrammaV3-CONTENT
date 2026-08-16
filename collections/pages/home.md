@@ -3856,10 +3856,42 @@ page_builder:
             type: paragraph
             attrs:
               class: null
+            content:
+              -
+                type: text
+                text: 'Tot en met 6 september geldt de laagste prijs van deze ronde.'
           -
             type: paragraph
             attrs:
               class: null
+            content:
+              -
+                type: text
+                text: 'Je mag jouw route tijdens de Early Bird direct kiezen en betalen. Je hoeft daarvoor nog geen Doorbraaksessie te hebben gehad.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Op 7 september veranderen de prijzen. Vanaf 20 september geldt de volledige prijs. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De Doorbraaksessie* en de Kick-offgarantie* blijven ook gelden wanneer je tijdens de Early Bird koopt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: text-base
             content:
               -
                 type: text
@@ -3870,14 +3902,19 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
                 text: 'WEER '
               -
                 type: text
                 marks:
+                  -
+                    type: bold
                   -
                     type: italic
                 text: mezelf
@@ -3887,27 +3924,67 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
-                text: 'WEER mezelf | JAAR €4.499'
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | JAAR'
+              -
+                type: text
+                text: ' €4.499'
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
-                text: 'WEER mezelf | VIP €8.999'
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | VIP'
+              -
+                type: text
+                text: ' €8.999'
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
@@ -3918,14 +3995,19 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
                 text: 'WEER '
               -
                 type: text
                 marks:
+                  -
+                    type: bold
                   -
                     type: italic
                 text: mezelf
@@ -3935,27 +4017,67 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
-                text: 'WEER mezelf | JAAR €4.799'
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | JAAR'
+              -
+                type: text
+                text: ' €4.799'
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
-                text: 'WEER mezelf | VIP €9.499'
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | VIP'
+              -
+                type: text
+                text: ' €9.499'
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
           -
             type: paragraph
             attrs:
-              class: text-md
+              class: text-base
             content:
               -
                 type: text
@@ -3966,14 +4088,19 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
                 text: 'WEER '
               -
                 type: text
                 marks:
+                  -
+                    type: bold
                   -
                     type: italic
                 text: mezelf
@@ -3983,19 +4110,59 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
-                text: 'WEER mezelf | JAAR €4.999'
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: 'mezelf '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '| JAAR'
+              -
+                type: text
+                text: ' €4.999'
           -
             type: paragraph
             attrs:
-              class: null
+              class: text-base
             content:
               -
                 type: text
-                text: 'WEER mezelf | VIP €9.99'
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | VIP'
+              -
+                type: text
+                text: ' €9.99'
           -
             type: paragraph
             attrs:
@@ -4040,6 +4207,20 @@ page_builder:
               -
                 type: text
                 text: 'In de termijnbedragen zit een opslag. Betaling verloopt via automatische incasso.'
+          -
+            type: set
+            attrs:
+              id: mswfi3xy
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: WaFI4soE
+                    label: 'JA, IK LEG MIJN EARLY BIRD PRIJS VAST'
+                    link_type: link
+                    target_blank: false
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -4056,6 +4237,119 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: mswf2erx
+    content:
+      -
+        type: set
+        attrs:
+          id: mswf2o1h
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'WEER mezelf CLUB '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Na afronding van jouw route krijg je drie maanden toegang tot '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' Club'
+          -
+            type: text
+            text: '. Daarna kun je lid blijven voor €29 per maand. Je zit nergens voor langere tijd aan vast.'
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: mswf46l1
+    content:
+      -
+        type: set
+        attrs:
+          id: mswf4cwt
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 6
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Omdat een investering pas betekenis krijgt wanneer je ziet wat er aan de andere kant mogelijk is.'
+            show_tag: false
+    color: '#eb8d7a'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
     enabled: true
   -
     id: m7xyj4a9
@@ -4363,8 +4657,7 @@ page_builder:
     enabled: true
     selected_entries:
       - 474d9ca3-9a8c-4f54-9041-15b5362216c9
-      - d3bc2bd0-76b3-4825-a1ff-2ceba1ac77d7
-      - 0aa06c46-0f4d-4675-bbcf-612794d61142
+      - 21c6737d-f5a9-4ddc-9370-b92ea5780408
     background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: m9fijq9w
@@ -4588,7 +4881,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786921555
+updated_at: 1786922497
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
