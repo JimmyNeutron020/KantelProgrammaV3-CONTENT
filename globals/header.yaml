@@ -17,6 +17,14 @@ data:
       button_layout: solid
       button_colour: white
       email: contact@kantelprogramma.nl
+    -
+      id: msw2jp7o
+      label: Home
+      link_type: link
+      target_blank: false
+      link: 'entry::ee0042c5-3c18-4d61-91a5-85c4de943d0e'
+      button_layout: solid
+      button_colour: white
   scrolled_buttons:
     -
       id: mq1dbw7a
