@@ -2,7 +2,7 @@
 id: 52e534c4-9d02-4560-95ce-3415c02b3518
 blueprint: resultaten
 title: Liesbeth
-naam: Liesbeth
+naam: 'Liesbeth de Schamphelaere'
 profession: '41 jaar, fotografe uit Antwerpen'
 social_links:
   -
@@ -25,7 +25,7 @@ klachten:
   - weinig-energie
   - vermoeidheid
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786906664
+updated_at: 1786906811
 excerpt:
   -
     type: paragraph
