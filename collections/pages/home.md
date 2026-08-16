@@ -623,7 +623,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - weer/03_de_andere_167_uur_gewone_dag_1080x1080.png
+            - weer/06_jaarroute_zelfstandig_reizen.png
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -688,6 +688,151 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: msw35yv0
+    color: '#f7e7de'
+    phases:
+      -
+        id: msw36b6e
+        icon: 'fa-regular fa-0'
+        content:
+          -
+            type: set
+            attrs:
+              id: msw39g5n
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '1. STOPPEN Je drukt op pauze en kiest voor jezelf.  '
+                show_tag: false
+          -
+            type: set
+            attrs:
+              id: msw3cdvv
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '2. VOELEN Je leert luisteren naar wat er is, zonder oordeel'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: set
+            attrs:
+              id: msw3ezmr
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '3. BEGRIJPEN Je ziet welke factoren invloed hebben en leert kiezen.'
+                show_tag: false
+          -
+            type: set
+            attrs:
+              id: msw3gor5
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '4. OPBOUWEN Belasting, kracht en dagelijks ritme groeien mee in wat je aankunt. '
+                show_tag: false
+          -
+            type: set
+            attrs:
+              id: msw3hydw
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: '5. LEVEN Je gebruikt wat je hebt geleerd in het leven dat wél bij jou hoort.  '
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: text-base
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Vijf fases, één duidelijk pad.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wanneer losse adviezen het probleem niet oplossen, heb je geen nieuw los advies nodig. Je hebt een volgorde nodig waarin ieder onderdeel voortbouwt op het vorige.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De Bewezen Beter Kantelmethode brengt het lichamelijke, mentale en dagelijkse deel van herstel bij elkaar. Je hoeft niet vooraf te weten welk stukje bij jou het meeste verschil zal maken. Daar kom je tijdens het pad achter.'
+        type: phase
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: ProgressSection
     enabled: true
   -
     id: mmfcat34
@@ -1222,7 +1367,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786901437
+updated_at: 1786902473
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
