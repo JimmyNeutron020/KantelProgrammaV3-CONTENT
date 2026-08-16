@@ -208,6 +208,8 @@ page_builder:
         media:
           video: false
           autoplay_video: false
+          images:
+            - 'chantal/foto-18-01-2026,-11-42-23_1080x1080.png'
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -216,6 +218,71 @@ page_builder:
           fullscreen_control: true
         type: new_set
         enabled: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msvxlmo3
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 1
+                    content:
+                      -
+                        type: text
+                        text: 'Ik zie wat er gebeurt wanneer een vrouw zichzelf steeds kleiner maakt.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik zie vrouwen die alles doen wat hun wordt geadviseerd en zichzelf toch steeds verder kwijtraken. Hun inzet is enorm. Wat ontbreekt, is iemand die het hele verhaal ziet en daar een route van maakt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Daarom kijken wij niet alleen naar waar het pijn doet. We kijken naar jouw hele week. Naar wat jouw lichaam draagt, hoe je herstelt en wat er nodig is om je leven weer terug te pakken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik heb mijn hele leven gebouwd aan plekken, organisaties en routes die er nog niet waren. WEER mezelf is daar geen los hoofdstuk in. Het is de plek waar mijn eigen herstel, mijn ondernemerschap en alles wat ik over leven heb geleerd samenkomen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik zie wat er mogelijk is. En ik durf het te bouwen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: italic
+                text: 'Chantal Theunissen | founder van WEER en bedenker van het Kantel Programma'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -764,7 +831,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786891682
+updated_at: 1786892483
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
