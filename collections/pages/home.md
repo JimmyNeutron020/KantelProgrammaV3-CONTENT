@@ -712,8 +712,16 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: '1. STOPPEN Je drukt op pauze en kiest voor jezelf.  '
+                        text: '1. STOPPEN'
                 show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: ' Je drukt op pauze en kiest voor jezelf.  '
           -
             type: set
             attrs:
@@ -729,12 +737,16 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: '2. VOELEN Je leert luisteren naar wat er is, zonder oordeel'
+                        text: '2. VOELEN '
                 show_tag: false
           -
             type: paragraph
             attrs:
               class: null
+            content:
+              -
+                type: text
+                text: 'Je leert luisteren naar wat er is, zonder oordeel'
           -
             type: set
             attrs:
@@ -750,8 +762,16 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: '3. BEGRIJPEN Je ziet welke factoren invloed hebben en leert kiezen.'
+                        text: '3. BEGRIJPEN '
                 show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je ziet welke factoren invloed hebben en leert kiezen.'
           -
             type: set
             attrs:
@@ -767,8 +787,16 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: '4. OPBOUWEN Belasting, kracht en dagelijks ritme groeien mee in wat je aankunt. '
+                        text: '4. OPBOUWEN '
                 show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Belasting, kracht en dagelijks ritme groeien mee in wat je aankunt. '
           -
             type: set
             attrs:
@@ -784,8 +812,16 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: '5. LEVEN Je gebruikt wat je hebt geleerd in het leven dat wél bij jou hoort.  '
+                        text: '5. LEVEN '
                 show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je gebruikt wat je hebt geleerd in het leven dat wél bij jou hoort.  '
           -
             type: paragraph
             attrs:
@@ -793,7 +829,11 @@ page_builder:
           -
             type: paragraph
             attrs:
-              class: text-base
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: text-md
             content:
               -
                 type: text
@@ -1367,7 +1407,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786902473
+updated_at: 1786903594
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
