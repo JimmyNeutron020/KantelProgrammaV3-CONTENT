@@ -33,12 +33,6 @@ data:
       internal_link: 036f3cb4-3847-4b98-be8f-bf10d2583660
       target_blank: false
     -
-      id: mll77whe
-      label: 'Aanmelden Zorgeloos zwanger'
-      link_type: internal
-      internal_link: 52db6513-16b1-44ac-9c19-dea1f2833a69
-      target_blank: false
-    -
       id: mll9t50k
       label: 'Aanmelden Kantel Community Oud Deelnemers'
       link_type: internal
@@ -49,12 +43,6 @@ data:
       label: '100+ Echte verhalen van echte vrouwen'
       link_type: internal
       internal_link: 68797ced-cb1f-465e-a198-2d8378434cb3
-      target_blank: false
-    -
-      id: mq1d0nvs
-      label: 'Persoonlijk advies'
-      link_type: internal
-      internal_link: d6614911-c037-46d0-90bc-50fc73782ee2
       target_blank: false
     -
       id: mq1d25fr
