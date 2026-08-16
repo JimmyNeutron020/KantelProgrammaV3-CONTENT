@@ -1,7 +1,7 @@
 title: 'Error 404'
 data:
-  color: '#eb8d7a'
-  image: brand/231128-paul-en-chantal-_77858.jpg
+  color: '#f7e7de'
+  image: 3d-chronische-pijn-is-niet-normaal-stapeltje-klein-formaat.png
   heading_size: M
   heading:
     -
@@ -29,3 +29,5 @@ data:
       target_blank: false
       button_layout: standard
       button_colour: orange
+      label: 'TERUG NAAR HOME'
+      link: 'entry::ee0042c5-3c18-4d61-91a5-85c4de943d0e'
