@@ -299,6 +299,90 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: msvxw7tf
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/02_herkenning_dagelijks_leven.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: msvxxoj7
+          values:
+            type: heading
+            heading_size: L
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Is dit mijn leven nu? '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Je stapt naar buiten en telt in gedachten hoeveel je vandaag nog aankunt. De boodschappen plan je op het moment dat je energie er nog is. Na een afspraak houd je alvast rekening met de dag erna.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Je bent geen vrouw die opgeeft. Je hebt fysio gedaan, artsen en therapeuten bezocht, oefeningen gevolgd en misschien scans laten maken. Je bleef zoeken, omdat je voelde dat er meer mogelijk moest zijn.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ondertussen werd je leven stukje bij beetje kleiner. Zo langzaam dat je het soms pas ziet wanneer je terugkijkt.'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'En ergens, op de bank, na weer een dag waarop jij zelf op de laatste plek stond, denk je het toch: is dit mijn leven nu?'
+    type: HeroSection
+    enabled: true
+  -
     id: mmfcat34
     color: '#f7e7de'
     show_settings: false
@@ -831,7 +915,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786892483
+updated_at: 1786893330
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
