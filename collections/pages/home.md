@@ -1892,6 +1892,11 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
             text: 'Meer dan 1250 vrouwen gingen je voor'
     show_tag: false
     color: '#f5f5f7'
@@ -2462,6 +2467,29 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mswa79bh
+    color: '#f5f5f7'
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
+    selected_entries:
+      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
+      - 9ad74bf7-7827-41e4-9663-9119692eac03
+      - 5899f1c0-2176-4e25-9675-8be48d6d8032
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: mswalnyl
     heading_size: M
     heading:
@@ -2777,13 +2805,166 @@ page_builder:
     type: bootstrapComponent
     enabled: true
   -
-    id: mswa79bh
-    color: '#f5f5f7'
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-    selected_entries:
-      - d40215c1-0b7d-4108-8004-c47b5ccb70c9
-      - 9ad74bf7-7827-41e4-9663-9119692eac03
-      - 5899f1c0-2176-4e25-9675-8be48d6d8032
+    id: mswcdiw5
+    items:
+      -
+        id: mswcdli6
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/08_kickoff_groepsbegeleiding_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mswceurh
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je leert zelf bijsturen, met begeleiding die met je meeloopt.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je doorloopt het programma zelfstandig, op momenten die passen bij jouw leven. Ondertussen is er om de week tijdens een live online sessie ruimte voor jouw vragen en voor wat jij tijdens het programma tegenkomt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft dus niet alleen te bedenken of je het goed doet, wat een reactie van je lichaam betekent of wat op dat moment een passende volgende stap is.'
+        type: new_set
+        enabled: true
+      -
+        id: mswcghx9
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/09_weer_verder_online_groepssessie_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mswckj9x
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Persoonlijke begeleiding door je Kantel Coach'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens de tweewekelijkse groepscalls kun je jouw situatie inbrengen. Je bespreekt waar je tegenaan loopt, wat je opvalt en wat er gebeurt wanneer je iets anders gaat doen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je Kantel Coach helpt je verbanden te herkennen en vertaalt wat jij ervaart naar een heldere volgende stap. Ook je wekelijkse Kantel Kroniek wordt hierin meegenomen. Zo wordt het geen opdracht die je alleen invult, maar een hulpmiddel waarmee je steeds beter leert begrijpen wat jij nodig hebt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De begeleiding wordt gedurende het traject afgestemd op wat er in de groep leeft. Alle Kantel Coaches werken vanuit dezelfde methode en volgen dezelfde lijn. Daardoor sluiten de calls aan op de lessen en op de fase waarin jij je bevindt.'
+        type: new_set
+        enabled: true
+      -
+        id: mswclfq5
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/04_methode_opbouw_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mswckj9x
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Een persoonlijke beoordeling van jouw beweging'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Paul beoordeelt in de eerste fase van je traject persoonlijk jouw opgenomen videobeelden. Hij geeft je specifieke opdrachten en kijkt naar hoe jij beweegt, wat daarin opvalt en waar jouw mogelijkheden voor verdere opbouw liggen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je ontvangt hiermee concrete richting voor het vervolg van jouw lichamelijke opbouw. Dat advies neem je mee in de modules die daarna komen.'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2797,7 +2978,7 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: TestimonialBubbles
+    type: AlternatingBlocks
     enabled: true
   -
     id: m7xyj4a9
@@ -3330,7 +3511,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786915790
+updated_at: 1786917899
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
