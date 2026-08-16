@@ -690,6 +690,582 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: msw4dis4
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/05_resultaat_weer_meedoen_1080x1080_website.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: msw4vqp0
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Voor de vrouw die weer zelf de regie terug wil pakken'
+            show_tag: false
+    type: HeroSection
+    enabled: true
+  -
+    id: msw4x6tg
+    content:
+      -
+        type: set
+        attrs:
+          id: msw4xwi4
+          values:
+            type: icon_list
+            iconlist:
+              -
+                id: msw4y8x1
+                fa_icon: 'fa-regular fa-book-heart'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je hebt al veel geprobeerd en zoekt nu het complete verhaal.'
+              -
+                id: msw4zi4h
+                fa_icon: 'fa-regular fa-book-heart'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je wilt persoonlijke aandacht en zelf leren begrijpen wat jouw lichaam nodig heeft.'
+              -
+                id: msw4zvwp
+                fa_icon: 'fa-regular fa-book-heart'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je bent bereid toe te passen wat je leert, ook tijdens de andere 167 uur.'
+              -
+                id: msw509h0
+                fa_icon: 'fa-regular fa-book-heart'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je wilt weer met je kinderen op pad, werken, reizen, bewegen of sporten zonder vooraf te berekenen wat het je kost.'
+              -
+                id: msw50p59
+                fa_icon: 'fa-regular fa-book-heart'
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je wilt gezien worden, zonder afhankelijk te blijven van degene die met je meekijkt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Voor wie dit nu niet de juiste stap is'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Als je alleen een snelle oplossing zoekt voor één specifieke pijnplek.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Als je een recente, nog niet onderzochte blessure hebt. Ga dan eerst naar je huisarts.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Als je wilt dat iemand anders je herstel volledig overneemt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Binnen '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ' '
+          -
+            type: text
+            text: 'krijg je veel begeleiding. Jij blijft degene die toepast, oefent en keuzes maakt. Zo groeit je eigen regie, terwijl je het niet alleen hoeft uit te zoeken.'
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: msw55p31
+    items:
+      -
+        id: msw55rzz
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/02_herkenning_rustige_keuken_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msw57i4c
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 1
+                    content:
+                      -
+                        type: text
+                        text: 'Je werkt waarschijnlijk veel harder aan herstel dan mensen om je heen beseffen.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je doet je oefeningen. Je probeert voldoende te bewegen. Op slechte dagen neem je rust en op betere dagen probeer je iets in te halen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien ben je jezelf juist harder gaan pushen. Of je bent steeds voorzichtiger geworden, omdat iedere terugslag opnieuw vertrouwen kost.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ik zie vrouwen jarenlang heel trouw dezelfde dingen doen: behandelen waar het pijn doet, wachten tot het lichaam rustiger wordt en daarna opnieuw proberen wat eerder niet lukte.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Als die manier je nog niet heeft gebracht waar je wilt zijn, zal harder werken binnen diezelfde mogelijkheden waarschijnlijk ook niet het verschil maken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het ontbrak je niet aan discipline. Er ontbrak een helder pad dat alle losse onderdelen samenbrengt en je leert wat je in je gewone week kunt doen.'
+        type: new_set
+        enabled: true
+      -
+        id: msw5a9r1
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/06_jaarroute_integratie_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msw5bypg
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom eerdere hulp niet altijd genoeg was'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Bij langdurige klachten kan pijn aanwezig blijven terwijl weefsel al is hersteld of terwijl onderzoeken geen duidelijke verklaring meer geven. Het beschermingssysteem van het lichaam kan gevoeliger zijn geworden. Slaap, spanning, bewegingsangst, herstel en dagelijkse belasting kunnen daarin meespelen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Als dat zo is, verandert de vraag. Dan is alleen kijken naar de plek waar het pijn doet niet genoeg.'
+        type: new_set
+        enabled: true
+      -
+        id: msw5dv2c
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/03_de_andere_167_uur_gewone_dag_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msw5f2c4
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'De vraag die nog niemand je stelde'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Waar doet het pijn, is waarschijnlijk vaak genoeg gevraagd. Maar hoeveel draagt jouw lichaam al, hoe herstel je tussen dagen door en wat gebeurt er in de uren waarin niemand met je meekijkt?'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Veel hulp richt zich op het consult, de oefening of de pijnplek. Jouw lichaam leeft ondertussen verder in de andere 167 uur van de week. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Daar slaap je, zorg je, werk je en neem je voortdurend kleine beslissingen over wat je wel en niet kunt of durft.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Precies daar kan het verschil tussen een goed advies en blijvende verandering ontstaan.'
+          -
+            type: set
+            attrs:
+              id: msw5h54x
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Waarom niets blijvend veranderde'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Een behandeling kan tijdelijk ruimte geven. Een oefening kan passend zijn. Rust kan nodig zijn en opbouwen ook.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Maar losse oplossingen vormen nog geen route. Wanneer niemand samen met jou kijkt hoe alles op elkaar inwerkt, blijf jij zelf proberen de puzzel compleet te maken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En zodra het leven drukker wordt, val je terug op wat je kent: doorgaan, afremmen, opnieuw zoeken en hopen dat het deze keer wel blijft staan.'
+          -
+            type: set
+            attrs:
+              id: msw5iw84
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 2
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Er was niets mis met wat je probeerde'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hebt niet gefaald. Je kreeg verschillende antwoorden op verschillende stukjes van jouw verhaal.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Meer bewegen. Minder bewegen. Rust nemen. Juist trainen. Ontspannen. Doorzetten. Ieder advies kan op zichzelf kloppen en toch onvoldoende zijn wanneer de volgorde en samenhang ontbreken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Daarom brengen wij het hele verhaal bij elkaar. Niet als een verzameling opdrachten, maar als één route die je leert begrijpen en toepassen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De andere 167 uur'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je lichaam, je zenuwstelsel en je belastbaarheid.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je slaap, herstel en dagelijkse ritme.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je voeding, gedachten en gewoonten.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'De manier waarop je met jezelf omgaat wanneer iets tegenzit.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'We behandelen deze onderdelen niet los van elkaar. Ze vormen samen het verhaal waarmee je gaat werken.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: msw35yv0
     color: '#f7e7de'
     phases:
@@ -875,76 +1451,6 @@ page_builder:
     type: ProgressSection
     enabled: true
   -
-    id: mmfcat34
-    color: '#f7e7de'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-    selected_entries:
-      - 5ac75b9c-d535-47cf-9c4d-faaf8670629f
-      - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
-      - ef496077-0ae2-4572-b93e-430b6ac53df0
-      - 13e97665-901d-4b8b-9d4a-97fd8c1dcf5c
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-  -
-    id: msvv0oje
-    color: '#f7e7de'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-    selected_entries:
-      - 474d9ca3-9a8c-4f54-9041-15b5362216c9
-      - d3bc2bd0-76b3-4825-a1ff-2ceba1ac77d7
-      - 0aa06c46-0f4d-4675-bbcf-612794d61142
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-  -
-    id: msvv1mf6
-    color: '#f7e7de'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-    selected_entries:
-      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
-      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
-      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-  -
     id: m7xyj4a9
     items:
       -
@@ -1107,7 +1613,7 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
-    enabled: true
+    enabled: false
   -
     id: m7ylis1b
     media:
@@ -1231,6 +1737,29 @@ page_builder:
     type: ResultsCtaSection
     enabled: false
   -
+    id: msvv0oje
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+    selected_entries:
+      - 474d9ca3-9a8c-4f54-9041-15b5362216c9
+      - d3bc2bd0-76b3-4825-a1ff-2ceba1ac77d7
+      - 0aa06c46-0f4d-4675-bbcf-612794d61142
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
+  -
     id: m9fijq9w
     show_settings: true
     inner_spacing_top:
@@ -1283,6 +1812,29 @@ page_builder:
             text: '"Had ik dit maar jaren eerder ontdekt." '
     tag_text: "Bekijk hier de resultaat video's"
     tag_alignment: center
+  -
+    id: msvv1mf6
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+    selected_entries:
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
+      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: mmaownhy
     items:
@@ -1379,6 +1931,30 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mmfcat34
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+    selected_entries:
+      - 5ac75b9c-d535-47cf-9c4d-faaf8670629f
+      - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
+      - ef496077-0ae2-4572-b93e-430b6ac53df0
+      - 13e97665-901d-4b8b-9d4a-97fd8c1dcf5c
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
+  -
     id: m7yosbje
     show_settings: false
     inner_spacing_top:
@@ -1407,7 +1983,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786903594
+updated_at: 1786905832
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
