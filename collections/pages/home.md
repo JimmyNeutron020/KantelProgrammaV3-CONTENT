@@ -3471,7 +3471,7 @@ page_builder:
         highlight: true
         price: '€ 2999'
         show_discount: true
-        discount_price: '€ 2499 | Early Bird t/m 6 sept.'
+        discount_price: '€ 2499 Early Bird t/m 6 sept.'
         label: 'JA, IK KIES WEER MEZELF'
         link_type: link
         target_blank: false
@@ -3492,7 +3492,7 @@ page_builder:
                 type: text
                 text: 'WEER mezelf | JAAR'
         show_tag: true
-        tag_text: 'ONZE AANBEVELING'
+        tag_text: aanbevolen
         tag_alignment: left
         description:
           -
@@ -3629,8 +3629,168 @@ page_builder:
         highlight: true
         price: '€ 4999'
         show_discount: true
-        discount_price: '€ 4499 | Early Bird t/m 6 sept.'
+        discount_price: '€ 4499 Early Bird t/m 6 sept.'
         label: 'JA, IK KIES WEER MEZELF | JAAR'
+        link_type: link
+        target_blank: false
+        button_layout: solid
+        button_colour: orange
+        type: package
+        enabled: true
+      -
+        id: msweaz0e
+        heading_size: M
+        heading:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'WEER mezelf | VIP'
+        show_tag: false
+        description:
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voor de vrouw die de meest persoonlijke route wil, met extra één-op-één begeleiding en Sardinië als week waarin alles samenkomt.'
+          -
+            type: bulletList
+            content:
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Alles uit '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'WEER '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                          -
+                            type: italic
+                        text: mezelf
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: ' | JAAR'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Extra twee dagdelen live één-op-één begeleiding. '
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Zeven dagen geheel verzorgd Sardinië in sept./okt. 2027.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Maximaal 8 deelnemers.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Na afronding drie maanden '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: 'WEER '
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                          -
+                            type: italic
+                        text: mezelf
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: bold
+                        text: ' Club'
+                      -
+                        type: text
+                        text: ' inbegrepen.'
+              -
+                type: listItem
+                content:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Definitieve deelname na de Doorbraak Sessie'
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Je mag vooraf kopen. In de Doorbraak Sessie bepalen we samen of VIP passend is. '
+        highlight: true
+        price: '€ 9999'
+        show_discount: true
+        discount_price: '€ 8999 Early Bird t/m 6 sept.'
+        label: 'JA, IK LEG MIJN VIP PLEK VAST'
         link_type: link
         target_blank: false
         button_layout: solid
@@ -4183,7 +4343,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786920149
+updated_at: 1786920964
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
