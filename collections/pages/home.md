@@ -2965,6 +2965,122 @@ page_builder:
                 text: 'Je ontvangt hiermee concrete richting voor het vervolg van jouw lichamelijke opbouw. Dat advies neem je mee in de modules die daarna komen.'
         type: new_set
         enabled: true
+      -
+        id: mswcxf6l
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/kleurvlak_zonbeeld_taupe_met_creme_1080.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mswckj9x
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Vanaf week veertien: WEER VERDER'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Kies je voor '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | JAAR'
+              -
+                type: text
+                text: ' of '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | VIP'
+              -
+                type: text
+                text: ', dan gaat jouw begeleiding na de eerste veertien weken anders verder.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Iedere twee weken kom je online samen met Paul of Chantal en de andere vrouwen uit het jaartraject. Je kunt jouw situatie inbrengen, vragen stellen en hotseat-coaching ontvangen op wat er op dat moment in jouw leven speelt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het zijn groepssessies. Juist doordat je ook meeluistert met de coaching van andere vrouwen, herken je vaak iets wat je zelf nog niet onder woorden had kunnen brengen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Zo blijf je ook tijdens het verder opbouwen en weer uitbreiden van je leven verbonden met de mensen die de methode hebben ontwikkeld.'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2979,6 +3095,217 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: mswd1r3x
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: mswd231x
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/05_resultaat_samen_fietsen_1080x1080_website.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mswd2ezp
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: heading
+                attrs:
+                  level: 1
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-white
+                    text: 'Ook doorgaan zoals nu heeft een prijs.'
+            show_tag: false
+    type: HeroSection
+    enabled: true
+  -
+    id: mswd3txh
+    content:
+      -
+        type: set
+        attrs:
+          id: mswd42np
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'WEER mezelf vraagt een serieuze investering. '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Die maken we niet kleiner dan hij is. Maar doorgaan zoals je nu doet is ook niet gratis. Misschien betaalde je de afgelopen jaren zelf voor behandelingen, hulpmiddelen of supplementen. Misschien werkte je minder uren of liet je kansen liggen omdat je niet wist of je lichaam het zou volhouden.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De prijs die het meeste raakt, staat alleen nergens op een factuur.'
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Het uitje dat je afzegt. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'De vakantie waar je vooraf al tegenop ziet. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Het schuldgevoel wanneer je opnieuw moet zeggen dat iets vandaag niet lukt. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'De afstand die kan ontstaan tot je partner. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Je kind dat inmiddels automatisch vraagt of mama dit wel kan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien is de grootste prijs niet wat je al hebt uitgegeven. Misschien is het hoeveel leven je blijft uitstellen zolang alles blijft zoals het nu is.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De eerlijke vraag is daarom niet alleen wat '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' '
+          -
+            type: text
+            text: 'kost. De vraag is ook wat het jou kost wanneer je leven er over een jaar nog precies zo uitziet.'
+    color: '#ffffff'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
     enabled: true
   -
     id: m7xyj4a9
@@ -3511,7 +3838,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786917899
+updated_at: 1786918664
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
