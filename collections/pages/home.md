@@ -206,11 +206,12 @@ page_builder:
         id: msvx18zv
         swap: false
         media:
-          video: false
-          autoplay_video: false
+          video: true
+          autoplay_video: true
+          video_link: 'https://vimeo.com/1218693882?fl=tl&fe=ec'
+          preview_image: 'chantal/foto-18-01-2026,-11-42-18_1080x1080.png'
           images:
             - 'chantal/foto-18-01-2026,-11-42-23_1080x1080.png'
-          show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
           play_pause_control: true
@@ -1159,7 +1160,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786894580
+updated_at: 1786899183
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
