@@ -1,8 +1,6 @@
 title: 'Enrollment labels'
 data:
   start_date_label: 'NAJAAR 2026'
-  start_date: '17 oktober 2026'
-  available_seats_text: 'Beperkte plekken | Inschrijven wachtlijst najaar 2026'
-  enrollment_link: external
-  enrollment_external_link: 'https://tally.so/r/dWzYMN'
+  available_seats_text: 'Beperkte plekken'
+  enrollment_link: internal
   enrollment_target_blank: false
