@@ -1,10 +1,11 @@
 tree:
   -
-    entry: 71945a19-48fa-45f2-b5c4-b3cb2818678a
-  -
     entry: 5f59df21-1327-438b-ab5e-0dcce9d694fa
   -
     entry: ee0042c5-3c18-4d61-91a5-85c4de943d0e
+    children:
+      -
+        entry: 71945a19-48fa-45f2-b5c4-b3cb2818678a
   -
     entry: a932636a-55fe-4d95-8489-dbbc91f1cf66
   -
