@@ -25,8 +25,8 @@ klachten:
   - rug
   - vermoeidheid
   - endometriose
-updated_by: df706966-2cce-4398-8c60-055fb6df4804
-updated_at: 1774960493
+updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
+updated_at: 1786922194
 social_links:
   -
     id: mjsgcvb2
@@ -47,4 +47,29 @@ content:
             target_blank: false
             button_layout: standard
             button_colour: orange
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: 'Zij gaf jarenlang les vanaf een kruk voor de klas. Later kookte ze weer uitgebreid voor vrienden en hielp ze mee met het verbouwen van een hele verdieping.'
+  -
+    type: paragraph
+    attrs:
+      class: null
+    content:
+      -
+        type: text
+        text: '"'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Ik stond muren te schilderen en dacht alleen maar: dit had vroeger nooit gekund'
+      -
+        type: text
+        text: '."'
 ---
