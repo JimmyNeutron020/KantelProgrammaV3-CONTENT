@@ -1266,6 +1266,96 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: msw5p7ie
+    color: '#f7e7de'
+    background_image: whatsapp-image-2025-08-21-at-19.53.49.jpeg
+    selected_entries:
+      - 43a1feac-dd38-4b77-953e-2f360bd578d3
+      - 52e534c4-9d02-4560-95ce-3415c02b3518
+      - 3d2ff5ba-82fd-4b7d-a8a6-79b61f475b3f
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
+    id: msw69nfh
+    content:
+      -
+        type: set
+        attrs:
+          id: msw6a2ho
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Soms zie je de verandering ook op plekken waar je het niet verwacht. '
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Het gaat dus niet alleen over wat je lichaam '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: weer
+          -
+            type: text
+            text: ' kan. Het gaat over wie jij onder weg '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: weer
+          -
+            type: text
+            text: ' wordt. '
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
     id: msw35yv0
     color: '#f7e7de'
     phases:
@@ -1983,7 +2073,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786905832
+updated_at: 1786907173
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met bekkenklachten en chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
