@@ -329,6 +329,72 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mikemtis
+    color: '#ffffff'
+    heading_size: XS
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Bekend van onder meer'
+    show_tag: false
+    logos:
+      -
+        id: miken3hj
+        logo_image: media/download-(1).png
+        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
+        type: logo
+        enabled: true
+      -
+        id: mikenzfs
+        logo_image: media/flair-logo.svg
+        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
+        type: logo
+        enabled: true
+      -
+        id: mikeo52h
+        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
+        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
+        type: logo
+        enabled: true
+      -
+        id: mikeofyg
+        logo_image: media/rtl4_2023.svg.png
+        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
+        type: logo
+        enabled: true
+      -
+        id: mikeotwa
+        logo_image: media/metro-logo-zwart.svg
+        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
+        type: logo
+        enabled: true
+      -
+        id: mikep1tx
+        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
+        logo_link: 'https://www.oervrouwmagazine.nl/'
+        type: logo
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: small
+      spacing_mobile: small
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FeaturedMedia
+    enabled: true
+  -
     id: msvxw7tf
     full_height: true
     layout_setting: media
@@ -394,7 +460,98 @@ page_builder:
         content:
           -
             type: text
-            text: 'Ondertussen werd je wereld stukje bij beetje kleiner. Zo langzaam dat je het soms pas ziet wanneer je terugkijkt.'
+            text: 'Ondertussen werd je wereld stukje bij beetje kleiner. Zo langzaam dat je het soms pas ziet wanneer je terugkijkt. '
+      -
+        type: bulletList
+        content:
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Je gebruikt het boodschappenkarretje om op te leunen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Gezellige bistrostoeltjes zijn voor jou niet te doen.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Stilstaan bij kassa is funest. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Op een hard bankje kijken naar de zwemles is onmogelijk. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Reizen met de auto of het vliegtuig kosten vooraf al zoveel stress en hoe zal het bed ter plekke zijn. '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Kan ik tussendoor ergens rusten of liggen.   '
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: 'Je kindje verzorgen, tillen en troosten gaat gepaard met pijn.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    text: .............
       -
         type: paragraph
         attrs:
@@ -438,7 +595,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - 01_alternatieve_hero_fietsen_naar_zee.png
+            - community/dorienhennink1.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -608,7 +765,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - weer/06_jaarroute_zelfstandig_reizen.png
+            - community/f2c7d38d-2abc-4a63-b782-07136329df29.jpg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -966,7 +1123,7 @@ page_builder:
           video: false
           autoplay_video: false
           images:
-            - weer/06_jaarroute_integratie_1080x1080_website.jpg
+            - community/image00060.jpeg
           show_swiper_controls: false
           autoplay: true
           swiper_bullets: true
@@ -1249,72 +1406,6 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
-    enabled: true
-  -
-    id: mikemtis
-    color: '#ffffff'
-    heading_size: XS
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Bekend van onder meer'
-    show_tag: false
-    logos:
-      -
-        id: miken3hj
-        logo_image: media/download-(1).png
-        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
-        type: logo
-        enabled: true
-      -
-        id: mikenzfs
-        logo_image: media/flair-logo.svg
-        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
-        type: logo
-        enabled: true
-      -
-        id: mikeo52h
-        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
-        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
-        type: logo
-        enabled: true
-      -
-        id: mikeofyg
-        logo_image: media/rtl4_2023.svg.png
-        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
-        type: logo
-        enabled: true
-      -
-        id: mikeotwa
-        logo_image: media/metro-logo-zwart.svg
-        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
-        type: logo
-        enabled: true
-      -
-        id: mikep1tx
-        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        logo_link: 'https://www.oervrouwmagazine.nl/'
-        type: logo
-        enabled: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: small
-      spacing_mobile: small
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: FeaturedMedia
     enabled: true
   -
     id: msw5p7ie
@@ -4802,7 +4893,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786956870
+updated_at: 1786958182
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
