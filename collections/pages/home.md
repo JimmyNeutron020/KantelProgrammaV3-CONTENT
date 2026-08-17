@@ -881,6 +881,20 @@ page_builder:
               -
                 type: text
                 text: 'Er kan heel veel veranderen wanneer je lichaam, je belastbaarheid en de manier waarop je door je dagen beweegt eindelijk als één geheel worden bekeken.'
+          -
+            type: set
+            attrs:
+              id: msx6kn53
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: M8NeA5vs
+                    label: 'JE HOEFT ER NIET MEE TE LEREN LEVEN'
+                    link_type: link
+                    target_blank: false
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
       -
@@ -2806,7 +2820,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'De onderwerpen hieronder zijn daarom geen losse lessen. Ze geven iedere module de verdieping die je op dat moment nodig hebt.'
+            text: 'De onderwerpen hierna zijn daarom geen losse lessen. Ze geven iedere module de verdieping die je op dat moment nodig hebt. '
       -
         type: paragraph
         attrs:
@@ -2814,97 +2828,7 @@ page_builder:
         content:
           -
             type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 0 '
-          -
-            type: text
-            text: '| Zien waar je nu werkelijk staat | Zelfanalyse '
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 1'
-          -
-            type: text
-            text: ' |Je lichaam weer durven vertrouwen | Angst en vertrouwen'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 2 '
-          -
-            type: text
-            text: '| Je systeem leren omgaan met gezonde prikkels | Zenuwstelsel'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 3'
-          -
-            type: text
-            text: ' | Voeden voor energie en herstel | Voeding'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Modules 4'
-          -
-            type: text
-            text: ' | Rust brengen in een lichaam dat te lang alert stond | Klachtenspecifiek'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 5'
-          -
-            type: text
-            text: ' | Je herstel ook tijdens de nacht ondersteunen | Slaap'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 6 '
-          -
-            type: text
-            text: '|'
+            text: 'Zien waar je nu werkelijk staat | Zelfanalyse | Je lichaam weer durven vertrouwen | Angst en vertrouwen | Je systeem leren omgaan met gezonde prikkels | Zenuwstelsel | Voeden voor energie en herstel | Voeding | Rust brengen in een lichaam dat te lang alert stond | Klachtenspecifiek | Je herstel ook tijdens de nacht ondersteunen | Slaap |'
           -
             type: text
             marks:
@@ -2913,21 +2837,7 @@ page_builder:
             text: ' '
           -
             type: text
-            text: 'Herkennen waarom je jezelf soms tegenhoudt |Zelfsabotage'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 7 '
-          -
-            type: text
-            text: '|'
+            text: 'Herkennen waarom je jezelf soms tegenhoudt |Zelfsabotage |'
           -
             type: text
             marks:
@@ -2936,21 +2846,7 @@ page_builder:
             text: ' '
           -
             type: text
-            text: 'Jezelf niet kwijtraken in alles wat van je gevraagd wordt |Zorg, rollen en ouderschap'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 8'
-          -
-            type: text
-            text: ' |'
+            text: 'Jezelf niet kwijtraken in alles wat van je gevraagd wordt |Zorg, rollen en ouderschap |'
           -
             type: text
             marks:
@@ -2959,21 +2855,7 @@ page_builder:
             text: ' '
           -
             type: text
-            text: 'Voelen wat er speelt zonder dat pijn de leiding neemt | Emotioneel evenwicht en pijn'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 9'
-          -
-            type: text
-            text: ' |'
+            text: 'Voelen wat er speelt zonder dat pijn de leiding neemt | Emotioneel evenwicht en pijn |'
           -
             type: text
             marks:
@@ -2982,21 +2864,7 @@ page_builder:
             text: ' '
           -
             type: text
-            text: 'Je herstel ondersteunen in de andere 167 uur | Herstelbevordering'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 10 '
-          -
-            type: text
-            text: '|'
+            text: 'Je herstel ondersteunen in de andere 167 uur | Herstelbevordering |'
           -
             type: text
             marks:
@@ -3005,21 +2873,7 @@ page_builder:
             text: ' '
           -
             type: text
-            text: 'Weer ruimte maken voor een groter leven | Groots dromen'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 11 '
-          -
-            type: text
-            text: '|'
+            text: 'Weer ruimte maken voor een groter leven | Groots dromen |'
           -
             type: text
             marks:
@@ -3028,35 +2882,7 @@ page_builder:
             text: ' '
           -
             type: text
-            text: 'Je lichaam opnieuw verbinden met nabijheid en verlangen | Seksualiteit en intimiteit'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Module 12 '
-          -
-            type: text
-            text: '|Vertrouwen op wat je zelf hebt opgebouwd | Een blik vooruit'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Bonus Module '
-          -
-            type: text
-            text: 'Alles wat je hebt geleerd verder verankeren'
+            text: 'Je lichaam opnieuw verbinden met nabijheid en verlangen | Seksualiteit en intimiteit |Vertrouwen op wat je zelf hebt opgebouwd | Een blik vooruit | Alles wat je hebt geleerd verder verankeren'
       -
         type: paragraph
         attrs:
@@ -5023,7 +4849,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786961662
+updated_at: 1786970763
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
