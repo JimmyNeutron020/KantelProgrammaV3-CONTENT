@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je hoeft het niet langer zelf uit te zoeken'
+                    text: 'Je bent een vrouw met chronische pijn en je hoeft het niet langer zelf uit te zoeken.'
             show_tag: false
       -
         type: paragraph
@@ -44,7 +44,7 @@ page_builder:
                 type: btsSpan
                 attrs:
                   class: text-white
-            text: 'Eén uur per week keek er iemand naar de plek waar het pijn deed. Wij kijken ook naar de andere 167.'
+            text: 'Eén uur per week keek er iemand naar de plek waar het pijn doet. Wij begeleiden je ook in de andere 167 uren van jouw week.'
       -
         type: set
         attrs:
@@ -134,71 +134,56 @@ page_builder:
     type: IntoSection
     enabled: true
   -
-    id: mikemtis
-    color: '#ffffff'
-    heading_size: XS
-    heading:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Bekend van onder meer'
-    show_tag: false
-    logos:
-      -
-        id: miken3hj
-        logo_image: media/download-(1).png
-        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
-        type: logo
-        enabled: true
-      -
-        id: mikenzfs
-        logo_image: media/flair-logo.svg
-        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
-        type: logo
-        enabled: true
-      -
-        id: mikeo52h
-        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
-        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
-        type: logo
-        enabled: true
-      -
-        id: mikeofyg
-        logo_image: media/rtl4_2023.svg.png
-        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
-        type: logo
-        enabled: true
-      -
-        id: mikeotwa
-        logo_image: media/metro-logo-zwart.svg
-        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
-        type: logo
-        enabled: true
-      -
-        id: mikep1tx
-        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
-        logo_link: 'https://www.oervrouwmagazine.nl/'
-        type: logo
-        enabled: true
+    id: m9fijq9w
     show_settings: true
     inner_spacing_top:
-      spacing_desktop: small
-      spacing_mobile: small
+      spacing_desktop: standard
+      spacing_mobile: standard
     inner_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
     outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
     outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: FeaturedMedia
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    type: ResultsSlider
     enabled: true
+    color: '#f7e7de'
+    heading_size: S
+    use_first_eight: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mhgb18je
+          values:
+            type: buttons
+            buttons:
+              -
+                id: P0yr2uOG
+                label: 'Bekijk alle verhalen'
+                link_type: link
+                target_blank: false
+                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
+                button_layout: standard
+                button_colour: orange
+    show_tag: false
+    heading:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: btsSpan
+                attrs:
+                  class: text-orange
+            text: '"Had ik dit maar jaren eerder ontdekt." '
   -
     id: msvx04zu
     items:
@@ -1264,6 +1249,72 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: mikemtis
+    color: '#ffffff'
+    heading_size: XS
+    heading:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'Bekend van onder meer'
+    show_tag: false
+    logos:
+      -
+        id: miken3hj
+        logo_image: media/download-(1).png
+        logo_link: 'https://www.ad.nl/geld/luxe-is-niet-besteed-aan-chantal-en-paul-ik-heb-nooit-nieuwe-kleren-aan~aeb5d271/'
+        type: logo
+        enabled: true
+      -
+        id: mikenzfs
+        logo_image: media/flair-logo.svg
+        logo_link: 'https://www.flair.nl/mijn-leven/shirley-na-bevalling-vijf-jaar-pijnklachten-bekkeninstabiliteit~bd4981b9/'
+        type: logo
+        enabled: true
+      -
+        id: mikeo52h
+        logo_image: media/screenshot-2025-11-23-at-14.45.09.png
+        logo_link: 'https://www.jmouders.nl/anneclaire-bekkeninstabiliteit-bevalling/'
+        type: logo
+        enabled: true
+      -
+        id: mikeofyg
+        logo_image: media/rtl4_2023.svg.png
+        logo_link: 'https://v2.videoland.com/het-italiaanse-dorp-ollolai-p_1657'
+        type: logo
+        enabled: true
+      -
+        id: mikeotwa
+        logo_image: media/metro-logo-zwart.svg
+        logo_link: 'https://www.metronieuws.nl/lifestyle/opvoeding/2022/10/anneclaire-bekkeninstabiliteit/'
+        type: logo
+        enabled: true
+      -
+        id: mikep1tx
+        logo_image: media/oervrouw-secundair-logo-reseda-green-rgb-500px-w-72ppi.png
+        logo_link: 'https://www.oervrouwmagazine.nl/'
+        type: logo
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: small
+      spacing_mobile: small
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: FeaturedMedia
     enabled: true
   -
     id: msw5p7ie
@@ -4531,85 +4582,6 @@ page_builder:
       -
         type: set
         attrs:
-          id: m7ylj64g
-          values:
-            type: heading
-            heading_size: L
-            heading:
-              -
-                type: heading
-                attrs:
-                  level: 1
-                content:
-                  -
-                    type: text
-                    marks:
-                      -
-                        type: btsSpan
-                        attrs:
-                          class: text-white
-                    text: 'Je hebt twee keuzes'
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Je kunt blijven aanpassen. Je dagen plannen rondom je pijn . Altijd aanpassen.  Blijven hopen dat er een diagnose komt of dat het vanzelf verbetert.'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Of je kiest voor een andere aanpak. Niet harder werken. Niet nóg een behandeling. Maar fundamenteel anders kijken naar herstel.'
-      -
-        type: paragraph
-        attrs:
-          class: text-base
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: btsSpan
-                attrs:
-                  class: text-grey
-              -
-                type: btsSpan
-                attrs:
-                  class: text-white
-            text: 'Deze vrouwen hadden ook al zóveel geprobeerd. Hun verhaal bewijst dat je ook na jarenlang chronische pijn weer vertrouwen in je lichaam kunt krijgen.'
-      -
-        type: set
-        attrs:
           id: m7yljr8q
           values:
             type: buttons
@@ -4636,7 +4608,7 @@ page_builder:
       spacing_desktop: no_spacing
       spacing_mobile: no_spacing
     type: ResultsCtaSection
-    enabled: false
+    enabled: true
   -
     id: msvv0oje
     color: '#f7e7de'
@@ -4659,57 +4631,6 @@ page_builder:
       - 474d9ca3-9a8c-4f54-9041-15b5362216c9
       - 21c6737d-f5a9-4ddc-9370-b92ea5780408
     background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-  -
-    id: m9fijq9w
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    type: ResultsSlider
-    enabled: true
-    color: '#f7e7de'
-    heading_size: S
-    use_first_eight: true
-    content:
-      -
-        type: set
-        attrs:
-          id: mhgb18je
-          values:
-            type: buttons
-            buttons:
-              -
-                id: P0yr2uOG
-                label: 'Bekijk alle verhalen'
-                link_type: link
-                target_blank: false
-                link: 'entry::68797ced-cb1f-465e-a198-2d8378434cb3'
-                button_layout: standard
-                button_colour: orange
-    show_tag: false
-    heading:
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: btsSpan
-                attrs:
-                  class: text-orange
-            text: '"Had ik dit maar jaren eerder ontdekt." '
   -
     id: msvv1mf6
     color: '#f7e7de'
@@ -4881,7 +4802,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786922497
+updated_at: 1786956870
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
