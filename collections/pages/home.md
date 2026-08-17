@@ -2282,6 +2282,28 @@ page_builder:
           -
             type: set
             attrs:
+              id: msxhod5i
+              values:
+                type: heading
+                heading_size: L
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'WEER mezelf '
+                show_tag: false
+          -
+            type: set
+            attrs:
               id: msxhae9j
               values:
                 type: heading
@@ -2294,7 +2316,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'En je lichaam? Dat pakken we heel specifiek en gericht aan.'
+                        text: 'Je lichaam? Dat pakken we heel specifiek en gericht aan.'
                 show_tag: false
           -
             type: paragraph
@@ -2390,6 +2412,305 @@ page_builder:
                 text: 'Tijdens het traject stuur je videobeelden in. Paul bekijkt die persoonlijk en geeft richting aan jouw lichamelijke opbouw. In de modules en groepssessies ga je daar verder mee werken.'
         type: new_set
         enabled: true
+      -
+        id: msxhlsvd
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/kleurvlak_zonbeeld_creme_met_blauw_1080.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msxhae9j
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Wat je al terugkrijgt terwijl je onderweg bent.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Je hoeft geen halfjaar te wachten voordat er iets verandert.'
+              -
+                type: text
+                text: ' Vanaf de eerste weken ga je anders kijken naar je lichaam, je energie en de keuzes die je iedere dag maakt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je krijgt iedere week één volgende stap. Zo hoef je het hele traject niet te overzien en voelt het programma als een pad dat je kunt volgen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'De eerste twee weken: er is eindelijk een pad'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Veel vrouwen beginnen moe. Ze hebben al lange tijd geprobeerd hun gewone leven vol te houden en zijn verder onder hun eigen basisniveau terechtgekomen dan ze zelf beseften.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In de eerste twee weken leer je hoe de Kantelmethode werkt. We brengen in beeld waar je nu staat en hoe de verschillende delen van jouw systeem met elkaar samenwerken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat kan confronterend zijn. Tegelijkertijd ontstaat er opluchting. Eindelijk kijkt iemand naar het geheel. Je voelt je gehoord en begrijpt dat er een pad is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft nog niet te weten wanneer je jouw einddoel bereikt of hoe iedere volgende stap eruitziet. Eerst wordt helder wat jij terug wilt en waarom dat zoveel voor je betekent.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je gaat direct anders eten en veel kleiner en specifieker bewegen. Veel vrouwen merken in deze eerste weken al kleine veranderingen in hun energie, buik of slaap. De grootste verandering is vaak hoop. Je begint te begrijpen dat jouw situatie niet vaststaat.'
+        type: new_set
+        enabled: true
+      -
+        id: msxhv6b0
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/kleurvlak_zonbeeld_licht_salie_met_salie_1080.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msxhae9j
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Binnen een maand; je lichaam reageert'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vanaf week twee of drie merken veel vrouwen dat er iets meer energie beschikbaar komt. De een wordt uitgeruster wakker, bij een ander worden de darmen rustiger. Soms is er voor het eerst een kort moment waarop iets minder pijn doet dan normaal.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je gaat ook zien welke patronen jou jarenlang hebben geholpen, maar jouw herstel nu in de weg zitten. Doorgaan terwijl je lichaam vraagt om te stoppen. Alles zelf willen oplossen. Geen hulp vragen en verantwoordelijkheid blijven dragen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je leert de belastbaarheid van je lichaam respecteren en spreekt thuis duidelijker uit wat je nodig hebt. Ook op je werk en in sociale situaties begin je grenzen te herkennen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je omgeving ziet misschien nog geen grote lichamelijke verandering. Ze merkt wel dat je weer hoop hebt en serieus met jezelf bezig bent.'
+        type: new_set
+        enabled: true
+      -
+        id: msxhwmum
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/kleurvlak_zonbeeld_taupe_met_creme_1080.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msxhae9j
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Rond dertien weken: je bereikt de echte startlijn'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Bij de start staan veel vrouwen op meerdere lichamelijke pijlers onder hun persoonlijke nullijn. Kracht, stabiliteit, coördinatie en conditie zijn niet voldoende met elkaar in balans om gericht verder te kunnen bouwen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Rond dertien weken hebben veel vrouwen die nullijn bereikt. Dat betekent dat de basis er weer staat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je kunt op dat moment vaak vrijwel alles weer, alleen nog niet langdurig.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Kon je helemaal niet zitten, dan begin je misschien met één minuut. Daarna worden het drie minuten en vervolgens zes. Zo leert jouw lichaam stap voor stap dat het een activiteit weer aankan.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hebt inmiddels ervaren dat jouw lichaam kan herstellen. De gedachte dat het bij jou toch niet gaat lukken, verliest haar grip.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ook een slechte dag betekent niet meer dat jouw hele leven opnieuw slecht wordt. Je weet dat je kunt bijsturen. Soms heb je daarbij nog bevestiging nodig en daarvoor is de begeleiding er.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Na zes maanden: het gewone leven is weer van jou'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Na zes maanden kunnen veel vrouwen de gewone dingen weer doen. Boodschappen halen, voor de kinderen zorgen, werken, reizen en opnieuw sporten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De dagelijkse keuzes rondom voeding, bewegen en herstel voelen steeds vertrouwder. Je hoeft daar niet meer voortdurend bewust over na te denken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ook wanneer je lichaam onverwacht reageert, raak je minder snel in paniek. Je kunt onderzoeken wat er gebeurd is, je belasting aanpassen en doen wat jouw lichaam nodig heeft.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat betekent niet dat ieder groot doel al volledig bereikt is. Wanneer je vooraf nauwelijks kon lopen, loop je na zes maanden nog niet vanzelfsprekend een marathon. Je bent wel gericht aan het opbouwen en weet inmiddels dat jouw lichaam vooruit kan.'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -2406,21 +2727,142 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
-    id: msw923go
-    full_height: true
-    layout_setting: media
-    media:
-      video: false
-      autoplay_video: false
-      images:
-        - weer/kleurvlak_volledig_met_payoff_blauw_met_creme_1080.png
-      show_swiper_controls: false
-      autoplay: true
-      swiper_bullets: true
-      play_pause_control: true
-      sound_control: true
-      fullscreen_control: true
-    type: HeroSection
+    id: msxi0p2v
+    content:
+      -
+        type: set
+        attrs:
+          id: msxi15jy
+          values:
+            type: heading
+            heading_size: M
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'WEER mezelf | JAAR'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Van zes tot twaalf maanden: van weer kunnen naar voluit kunnen leven'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In deze periode bouw je verder aan hoelang en hoe vaak je iets kunt doen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wil je terug naar de tennisbaan? Dat kan, in het klein al in de eerste zes maanden. In deze fase speel je langer, train je vaker en werk je toe naar betere prestaties in een wedstrijd of een toernooi van een hele dag.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Zo werkt het ook met een lange reis, een volledige werkweek of meerdere actieve dagen achter elkaar. In de eerste zes maanden krijg je de activiteit terug. Daarna groeit je belastbaarheid verder.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Juist wanneer je meer energie krijgt, wordt het verleidelijk om iedere vrijgekomen ruimte onmiddellijk te vullen. Daarom blijft persoonlijke begeleiding in deze periode zo waardevol.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Na twaalf maanden'
+          -
+            type: text
+            text: ': voor anderen een andere vrouw, voor jezelf eindelijk weer jij'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Na twaalf maanden is jouw leefwijze geen herstelprogramma meer. Het is hoe je leeft.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je vertrouwt jouw lichaam en weet hoe je kunt bijsturen wanneer een dag anders loopt dan verwacht. Een tijdelijke reactie bepaalt niet meer onmiddellijk wat je morgen wel of niet durft.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je beweegt vrijer, maakt opnieuw plannen en bent oprecht aanwezig bij je gezin. Je ogen twinkelen weer.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Voor anderen kan het lijken alsof er een compleet nieuwe vrouw staat.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Voor jou voelt het alsof je eindelijk weer jezelf bent.'
+    color: '#f5f5f7'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
     enabled: true
   -
     id: msw9kyri
@@ -4683,7 +5125,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786986135
+updated_at: 1786987485
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
