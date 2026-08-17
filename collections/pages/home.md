@@ -1825,7 +1825,21 @@ page_builder:
             content:
               -
                 type: text
-                text: 'De Bewezen Beter Kantelmethode brengt het lichamelijke, mentale en dagelijkse deel van herstel bij elkaar. Je hoeft niet vooraf te weten welk stukje bij jou het meeste verschil zal maken. Daar kom je tijdens het pad achter.'
+                marks:
+                  -
+                    type: bold
+                text: 'De Bewezen Beter Kantelmethode brengt het lichamelijke, mentale en dagelijkse deel van herstel bij elkaar.'
+              -
+                type: text
+                text: ' '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft niet vooraf te weten welk stukje bij jou het meeste verschil zal maken. Daar kom je tijdens het pad achter.'
         type: phase
         enabled: true
     show_settings: false
@@ -1842,135 +1856,6 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: ProgressSection
-    enabled: true
-  -
-    id: msw6g2uk
-    color: '#f7e7de'
-    content:
-      -
-        type: set
-        attrs:
-          id: msw6j6u4
-          values:
-            type: heading
-            heading_size: M
-            heading:
-              -
-                type: paragraph
-                attrs:
-                  class: null
-                content:
-                  -
-                    type: text
-                    text: 'En je lichaam dan? Dat pakken we juist heel specifiek en gericht aan. '
-            show_tag: false
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'In iedere module bouw je je bewegen heel spcifiek en op maat verder op vanuit wat jouw lichaam op dat moment aankan. De opbouw volgt vier vaste stappen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "1.\_\_ "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: Bewegen.
-          -
-            type: text
-            text: ' Weer vertrouwen dat een beweging geen aanval is.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "2.\_\_ "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: Oefenen.
-          -
-            type: text
-            text: ' Gericht herhalen en leren doseren.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "3.\_\_ "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: Sporten.
-          -
-            type: text
-            text: ' Ervaren dat je lichaam weer mee kan doen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: "4.\_\_ "
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: Trainen.
-          -
-            type: text
-            text: ' Je belastbaarheid gericht verder uitbouwen.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'We noemen dit een topsportbenadering vanwege de aandacht voor dosering, trainingsleer, herstel en een opbouw die past bij jouw startpunt. De intensiteit wordt afgestemd op jou.'
-      -
-        type: paragraph
-        attrs:
-          class: null
-        content:
-          -
-            type: text
-            text: 'Tijdens het traject stuur je videobeelden in. Paul bekijkt die persoonlijk en geeft richting aan jouw lichamelijke opbouw. In de modules en groepssessies ga je daar verder mee werken.'
-    show_callout: false
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: UspSection
     enabled: true
   -
     id: msw7451o
@@ -2359,6 +2244,150 @@ page_builder:
               -
                 type: text
                 text: ' is de volgende stap in hetzelfde levensverhaal.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
+    id: msxh8t4f
+    items:
+      -
+        id: msxh8z2w
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/kleurvlak_zonbeeld_blauw_met_creme_1080.png
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msxhae9j
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'En je lichaam? Dat pakken we heel specifiek en gericht aan.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In iedere module bouw je je bewegen heel spcifiek en op maat verder op vanuit wat jouw lichaam op dat moment aankan. De opbouw volgt vier vaste stappen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "1.\_\_ "
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Bewegen.
+              -
+                type: text
+                text: ' Weer vertrouwen dat een beweging geen aanval is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "2.\_\_ "
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Oefenen.
+              -
+                type: text
+                text: ' Gericht herhalen en leren doseren.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "3.\_\_ "
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Sporten.
+              -
+                type: text
+                text: ' Ervaren dat je lichaam weer mee kan doen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: "4.\_\_ "
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: Trainen.
+              -
+                type: text
+                text: ' Je belastbaarheid gericht verder uitbouwen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'We noemen dit een topsportbenadering vanwege de aandacht voor dosering, trainingsleer, herstel en een opbouw die past bij jouw startpunt. De intensiteit wordt afgestemd op jou.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Tijdens het traject stuur je videobeelden in. Paul bekijkt die persoonlijk en geeft richting aan jouw lichamelijke opbouw. In de modules en groepssessies ga je daar verder mee werken.'
         type: new_set
         enabled: true
     show_settings: false
@@ -4654,7 +4683,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786985213
+updated_at: 1786986135
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
