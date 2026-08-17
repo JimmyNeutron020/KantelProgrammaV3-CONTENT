@@ -855,7 +855,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Chronische pijn hoort erbij. Je moet ermee leren leven'
+                        text: 'Je moet ermee leren leven ..'
                 show_tag: false
           -
             type: paragraph
@@ -872,7 +872,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wij beloven niet dat ieder lichaam hetzelfde reageert of dat iedere klacht verdwijnt. We geloven wel dat je leven niet vanzelf klein hoeft te blijven omdat pijn al lang aanwezig is.'
+                text: 'Wij beloven niet dat ieder lichaam hetzelfde reageert of dat iedere klacht binnen een paar weken verdwijnt. We geloven wel dat je leven niet vanzelf klein hoeft te blijven omdat pijn al lang aanwezig is.'
           -
             type: paragraph
             attrs:
@@ -881,6 +881,69 @@ page_builder:
               -
                 type: text
                 text: 'Er kan heel veel veranderen wanneer je lichaam, je belastbaarheid en de manier waarop je door je dagen beweegt eindelijk als één geheel worden bekeken.'
+        type: new_set
+        enabled: true
+      -
+        id: msx2l229
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1218857889?share=copy&fl=sv&fe=ci'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: msx2og8y
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Opnieuw zwanger'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Monica, gezinsbehandelaar in de GGZ en mama van een dochtertje had jarenlange chronische pijn. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hier vertelt ze, vol vertrouwen in haar eigen lichaam, over haar proces terwijl ze zwanger 28 weken zwanger is van haar tweede kindje.'
+          -
+            type: set
+            attrs:
+              id: msx2r6v4
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 6Feoi3ZQ
+                    label: 'IK WIL HET BOEK LEZEN'
+                    link_type: link
+                    target_blank: false
+                    link: 'entry::5f59df21-1327-438b-ab5e-0dcce9d694fa'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
     show_settings: false
@@ -4960,7 +5023,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786960344
+updated_at: 1786961662
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
