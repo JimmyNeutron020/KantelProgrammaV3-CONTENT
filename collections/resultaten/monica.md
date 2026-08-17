@@ -13,7 +13,7 @@ media:
   video: true
   autoplay_video: false
   video_link: 'https://vimeo.com/953970495?share=copy'
-  preview_image: monica-struiksma.png
+  preview_image: members/monicastruiksma2.jpg
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
@@ -24,7 +24,7 @@ klachten:
   - vermoeidheid
   - bekken
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1772828994
+updated_at: 1786957022
 content:
   -
     type: paragraph
