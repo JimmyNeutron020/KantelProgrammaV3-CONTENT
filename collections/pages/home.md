@@ -55,11 +55,12 @@ page_builder:
               -
                 id: m7xw13ou
                 label: 'JA, IK KIES MIJN ROUTE'
-                link_type: email
+                link_type: link
                 target_blank: false
                 button_layout: solid
                 button_colour: orange
                 email: contact@kantelprogramma.nl
+                link: 'https://tally.so/r/dWzYMN'
     type: HeroSection
     enabled: true
     media:
@@ -621,6 +622,21 @@ page_builder:
           -
             type: text
             text: '?'
+      -
+        type: set
+        attrs:
+          id: msxfmlh2
+          values:
+            type: buttons
+            buttons:
+              -
+                id: GEVxM2az
+                label: 'ZET MIJ VRIJBLIJVEND OP DE WACHTLIJST'
+                link_type: link
+                target_blank: false
+                link: 'https://tally.so/r/dWzYMN'
+                button_layout: solid
+                button_colour: orange
     color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
@@ -4637,7 +4653,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786971440
+updated_at: 1786983186
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
