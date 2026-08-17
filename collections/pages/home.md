@@ -474,6 +474,9 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Je gebruikt het boodschappenkarretje om op te leunen.'
           -
             type: listItem
@@ -485,6 +488,9 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Gezellige bistrostoeltjes zijn voor jou niet te doen.'
           -
             type: listItem
@@ -496,6 +502,9 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Stilstaan bij kassa is funest. '
           -
             type: listItem
@@ -507,6 +516,9 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Op een hard bankje kijken naar de zwemles is onmogelijk. '
           -
             type: listItem
@@ -518,6 +530,23 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
+                    text: 'Een dagje Efteling of dierentuin is een aanslag op je lichaam of gaat helemaal niet meer.'
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Reizen met de auto of het vliegtuig kosten vooraf al zoveel stress en hoe zal het bed ter plekke zijn. '
           -
             type: listItem
@@ -529,6 +558,9 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Kan ik tussendoor ergens rusten of liggen.   '
           -
             type: listItem
@@ -540,6 +572,9 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
                     text: 'Je kindje verzorgen, tillen en troosten gaat gepaard met pijn.'
           -
             type: listItem
@@ -551,6 +586,23 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: bold
+                    text: .............
+          -
+            type: listItem
+            content:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: bold
                     text: .............
       -
         type: paragraph
@@ -635,7 +687,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Vrouwen die bij ons begonnen, schreven hun verlangen niet op als een lager pijncijfer. Zij schreven dit:'
+                text: 'Vrouwen met chronische pijn zijn vaak helemaal niet bezig met een lager pijncijfer. Zij verlangen naar:'
           -
             type: set
             attrs:
@@ -4893,7 +4945,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786958182
+updated_at: 1786959644
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
