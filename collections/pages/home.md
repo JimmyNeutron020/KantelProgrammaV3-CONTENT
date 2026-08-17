@@ -808,6 +808,21 @@ page_builder:
               -
                 type: text
                 text: 'Dit zijn geen kleine wensen. Dit is het leven waar jij weer bij wilt horen.'
+          -
+            type: set
+            attrs:
+              id: msx1volt
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: lTLIuOPI
+                    label: 'MEER VERHALEN VAN ONZE DEELNEEMSTERS'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://kantelprogramma.nl/ambassadeurs'
+                    button_layout: solid
+                    button_colour: orange
         type: new_set
         enabled: true
       -
@@ -4945,7 +4960,7 @@ page_builder:
             text: 'Kennis & nieuws'
     show_tag: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786959644
+updated_at: 1786960344
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
