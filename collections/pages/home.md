@@ -3853,6 +3853,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        link: 'https://tally.so/r/dWzYMN'
       -
         id: mswdwol1
         heading_size: M
@@ -4011,6 +4012,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        link: 'https://tally.so/r/dWzYMN'
       -
         id: msweaz0e
         heading_size: M
@@ -4171,6 +4173,7 @@ page_builder:
         button_colour: orange
         type: package
         enabled: true
+        link: 'https://tally.so/r/dWzYMN'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -4726,170 +4729,6 @@ page_builder:
     type: IntoSection
     enabled: true
   -
-    id: m7xyj4a9
-    items:
-      -
-        id: m7xyj7r3
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: m7xyjiab
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 3
-                    content:
-                      -
-                        type: text
-                        text: Chantal
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Misschien herken je het wel: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Chantal begrijpt dat als geen ander. Tijdens haar tweede zwangerschap ervaarde ze zelf ernstige bekkeninstabiliteit. Maar ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn, herstel is écht mogelijk.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Chantal is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. Ze is al bijna 20 jaar ondernemer: in 2006 won ze de Venlose Start ondernemersprijs en bouwde een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Chantal ziet met haar ‘laserogen’ snel waar je écht vastloopt en wat nodig is om weer vrij en pijnvrij te kunnen bewegen. Ze raakt de juiste snaar op het juiste moment.'
-          -
-            type: set
-            attrs:
-              id: m7xyk3eh
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: mAwoKjJD
-                    label: 'Meer over Chantal'
-                    link_type: link
-                    target_blank: false
-                    link: '/over-chantal-paul#chantal'
-                    button_layout: standard
-                    button_colour: orange
-        type: new_set
-        enabled: true
-      -
-        id: m7xyl6gh
-        swap: true
-        media:
-          video: false
-          autoplay_video: false
-          images:
-            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: m7xyjiab
-              values:
-                type: heading
-                heading_size: S
-                heading:
-                  -
-                    type: heading
-                    attrs:
-                      level: 3
-                    content:
-                      -
-                        type: text
-                        text: Paul
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Paul heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Al in 2009 zette hij met veel passie een eigen paramedisch instituut op (met NOC-NSF-status), samen met fysiotherapeuten en een bewegingswetenschapper. Binnen no-time bouwde hij, samen met zijn compagnon, een succesvol bedrijf op.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme, meedoen in de ratrace en werken zonder grenzen, werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven zónder chronische pijn.'
-          -
-            type: set
-            attrs:
-              id: m7xyk3eh
-              values:
-                type: buttons
-                buttons:
-                  -
-                    id: mAwoKjJD
-                    label: 'Meer over Paul'
-                    link_type: link
-                    target_blank: false
-                    link: '/over-chantal-paul#paul'
-                    button_layout: standard
-                    button_colour: orange
-        type: new_set
-        enabled: true
-    show_settings: true
-    inner_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    inner_spacing_bottom:
-      spacing_desktop: small
-      spacing_mobile: small
-    outer_spacing_top:
-      spacing_desktop: no_spacing
-      spacing_mobile: no_spacing
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: false
-  -
     id: m7ylis1b
     media:
       video: true
@@ -5124,8 +4963,172 @@ page_builder:
             type: text
             text: 'Kennis & nieuws'
     show_tag: false
+  -
+    id: m7xyj4a9
+    items:
+      -
+        id: m7xyj7r3
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-75.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: m7xyjiab
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: Chantal
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien herken je het wel: je wilt fit, energiek en pijnvrij leven, maar iets houdt je tegen. Chantal begrijpt dat als geen ander. Tijdens haar tweede zwangerschap ervaarde ze zelf ernstige bekkeninstabiliteit. Maar ze is het levende bewijs dat chronische pijn niet levenslang hoeft te zijn, herstel is écht mogelijk.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Chantal is avontuurlijk en een ervaren leider met lef en doorzettingsvermogen. Ze is al bijna 20 jaar ondernemer: in 2006 won ze de Venlose Start ondernemersprijs en bouwde een kinderopvangorganisatie en een Jeugd GGZ-praktijk op, die ze begin 2019 verkocht.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Chantal ziet met haar ‘laserogen’ snel waar je écht vastloopt en wat nodig is om weer vrij en pijnvrij te kunnen bewegen. Ze raakt de juiste snaar op het juiste moment.'
+          -
+            type: set
+            attrs:
+              id: m7xyk3eh
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: mAwoKjJD
+                    label: 'Meer over Chantal'
+                    link_type: link
+                    target_blank: false
+                    link: '/over-chantal-paul#chantal'
+                    button_layout: standard
+                    button_colour: orange
+        type: new_set
+        enabled: true
+      -
+        id: m7xyl6gh
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - brand/fotofolies-x-kantelprogramma-paul-en-chantal-61.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: m7xyjiab
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 3
+                    content:
+                      -
+                        type: text
+                        text: Paul
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Paul heeft het talent om mogelijkheden en oplossingen te zien waar anderen niet verder komen. Al in 2009 zette hij met veel passie een eigen paramedisch instituut op (met NOC-NSF-status), samen met fysiotherapeuten en een bewegingswetenschapper. Binnen no-time bouwde hij, samen met zijn compagnon, een succesvol bedrijf op.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hij weet ook hoe het voelt om jezelf voorbij te rennen. Jarenlang enthousiasme, meedoen in de ratrace en werken zonder grenzen, werd zijn valkuil. In 2015 dwong een burn-out hem om zijn leven anders in te richten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Die ervaring gebruikt hij nu om jou te helpen op een manier die écht werkt. Hij vernieuwt een niet werkende aanpak uit de gezondheidszorg en creëert daarmee een geheel nieuwe, effectieve methode. Het resultaat? Geen overleven, maar stralend leven zónder chronische pijn.'
+          -
+            type: set
+            attrs:
+              id: m7xyk3eh
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: mAwoKjJD
+                    label: 'Meer over Paul'
+                    link_type: link
+                    target_blank: false
+                    link: '/over-chantal-paul#paul'
+                    button_layout: standard
+                    button_colour: orange
+        type: new_set
+        enabled: true
+    show_settings: true
+    inner_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    inner_spacing_bottom:
+      spacing_desktop: small
+      spacing_mobile: small
+    outer_spacing_top:
+      spacing_desktop: no_spacing
+      spacing_mobile: no_spacing
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786987485
+updated_at: 1787043709
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
