@@ -3634,6 +3634,27 @@ page_builder:
     type: bootstrapComponent
     enabled: true
   -
+    id: mt0mkyek
+    color: '#f5f5f7'
+    background_image: weer/05_resultaat_weer_meedoen_1080x1080_website.jpg
+    selected_entries:
+      - 644fcfa2-a3f4-4c60-8fc0-d17013a2e758
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+  -
     id: mswcdiw5
     items:
       -
@@ -6610,7 +6631,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787175711
+updated_at: 1787176317
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
