@@ -1442,6 +1442,23 @@ page_builder:
               -
                 type: text
                 text: 'En zodra het leven drukker wordt, val je terug op wat je kent: doorgaan, afremmen, opnieuw zoeken en hopen dat het deze keer wel blijft staan.'
+        type: new_set
+        enabled: true
+      -
+        id: mt0eki9l
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - community/joycemolenhuis-3.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
           -
             type: set
             attrs:
@@ -2913,7 +2930,7 @@ page_builder:
           id: mt0d1dz8
           values:
             type: heading
-            heading_size: M
+            heading_size: XS
             heading:
               -
                 type: paragraph
@@ -2922,6 +2939,11 @@ page_builder:
                 content:
                   -
                     type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
                     text: 'Wanneer jouw leven jarenlang om pijn, energie en volhouden draait, raak je ongemerkt delen van jezelf kwijt.'
             show_tag: false
       -
@@ -3145,23 +3167,40 @@ page_builder:
               -
                 type: text
                 text: 'Wanneer jouw leven drukker wordt, er iets onverwachts gebeurt of je veel nieuwe energie krijgt, kun je ongemerkt opnieuw hetzelfde pad kiezen. Je gaat toch weer over jouw grenzen, neemt te veel verantwoordelijkheid of vult iedere vrije ruimte met nieuwe verplichtingen.'
+        type: new_set
+        enabled: true
+      -
+        id: mt0fr9wv
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - 'chantal/foto-18-01-2026,-11-40-47_1080x1080_website.jpg'
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
           -
-            type: paragraph
+            type: set
             attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Vanaf week veertien stap je daarom in '
-              -
-                type: text
-                marks:
+              id: mt0e0c0e
+              values:
+                type: heading
+                heading_size: S
+                heading:
                   -
-                    type: bold
-                text: 'WEER VERDER'
-              -
-                type: text
-                text: .
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Vanaf week veertien stap je daarom in WEER VERDER.'
+                show_tag: false
           -
             type: paragraph
             attrs:
@@ -5531,7 +5570,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787161887
+updated_at: 1787165091
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
