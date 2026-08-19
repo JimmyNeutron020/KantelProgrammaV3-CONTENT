@@ -2865,6 +2865,179 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mt0cipfo
+    items:
+      -
+        id: mt0cirrx
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - community/community-group.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0ckf8s
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Het gaat over veel meer dan wat jouw lichaam weer kan'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wanneer jouw leven jarenlang om pijn, energie en volhouden draait, raak je ongemerkt delen van jezelf kwijt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                text: ' krijg je niet alleen lichamelijke mogelijkheden terug. Je gaat ook zien hoe jij met jezelf en jouw leven omgaat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien heb je geleerd altijd door te gaan. Je wilt niemand teleurstellen, lost problemen zelf op en voelt je verantwoordelijk voor alles wat thuis of op je werk gebeurt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Die eigenschappen hebben je ver gebracht. Ze kunnen er ook voor zorgen dat je voortdurend over jouw eigen grenzen gaat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Onderweg leer je eerder voelen wat jij nodig hebt. Je vraagt hulp en spreekt duidelijker uit wat wel en niet bij je past. Je hoeft jezelf niet meer eindeloos uit te leggen voordat jouw grens geldig is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat kan grote keuzes in beweging zetten.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vrouwen gaan werken op voorwaarden die beter bij hen passen. Ze nemen afscheid van vriendschappen waarin ze zichzelf steeds verliezen. Ze durven opnieuw na te denken over intimiteit, seksualiteit of een volgende zwangerschap.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ze worden geen hardere vrouwen. Ze worden steviger.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ze weten beter wat ze willen en hoeven hun keuzes niet meer voortdurend te laten bepalen door angst, schuldgevoel of de verwachtingen van anderen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De vraag verandert langzaam van:'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Wat als het misgaat?”'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'naar:'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: '“Wat zou er mogelijk zijn als ik mezelf weer vertrouw?”'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: msw9kyri
     content:
       -
@@ -5160,7 +5333,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787044841
+updated_at: 1787159444
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
