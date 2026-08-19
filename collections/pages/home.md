@@ -5654,13 +5654,14 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787166824
+updated_at: 1787167145
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
 seo_og_image: weer/kleurvlak_volledig_met_payoff_blauw_met_creme_1080.png
-seo_og_title: 'WEER mezelf'
-seo_twitter_summary_image: 'brand/foto-18-01-2026,-12-10-39-(1).jpg'
-seo_twitter_title: 'Weer mezelf'
+seo_twitter_summary_image: 'chantal/foto-18-01-2026,-11-40-29_1080x1080_website.jpg'
 seo_noindex: false
+seo_site_name_position: end
+seo_twitter_description: '@null'
+seo_canonical_type: current
 ---
