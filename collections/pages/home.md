@@ -28,7 +28,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Je bent een vrouw met chronische pijn en je hoeft het niet langer zelf uit te zoeken.'
+                    text: 'Lieve vrouw met chronische pijn, je hoeft het niet langer zelf uit te zoeken.'
             show_tag: false
       -
         type: paragraph
@@ -5654,7 +5654,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787166017
+updated_at: 1787166483
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
