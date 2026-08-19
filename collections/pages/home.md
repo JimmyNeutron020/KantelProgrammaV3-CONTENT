@@ -14,7 +14,7 @@ page_builder:
           id: mmfa4s89
           values:
             type: heading
-            heading_size: L
+            heading_size: S
             heading:
               -
                 type: paragraph
@@ -54,7 +54,7 @@ page_builder:
             buttons:
               -
                 id: m7xw13ou
-                label: 'JA, IK KIES MIJN ROUTE'
+                label: 'JA, IK KIES MIJN PAD'
                 link_type: link
                 target_blank: false
                 button_layout: solid
@@ -67,7 +67,7 @@ page_builder:
       video: false
       autoplay_video: false
       images:
-        - 01_hero_weer_mezelf.png
+        - 'chantal/foto-18-01-2026,-11-40-30_1080x1080_website.jpg'
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -5654,7 +5654,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787166483
+updated_at: 1787166824
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
