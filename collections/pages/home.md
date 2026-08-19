@@ -4768,325 +4768,6 @@ page_builder:
             attrs:
               class: null
           -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: '31 aug. t/m 6 sept. 2026'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                text: ' €2.499'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' | JAAR'
-              -
-                type: text
-                text: ' €4.499'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' | VIP'
-              -
-                type: text
-                text: ' €8.999'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: '7 t/m 19 sept. 2026'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                text: ' €2.799'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' | JAAR'
-              -
-                type: text
-                text: ' €4.799'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' | VIP'
-              -
-                type: text
-                text: ' €9.499'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: '20 t/m 30 sept. 2026'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                text: ' €2.999'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: 'mezelf '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: '| JAAR'
-              -
-                type: text
-                text: ' €4.999'
-          -
-            type: paragraph
-            attrs:
-              class: text-base
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: 'WEER '
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                  -
-                    type: italic
-                text: mezelf
-              -
-                type: text
-                marks:
-                  -
-                    type: bold
-                text: ' | VIP'
-              -
-                type: text
-                text: ' €9.99'
-          -
-            type: paragraph
-            attrs:
-              class: null
-          -
-            type: paragraph
-            attrs:
-              class: text-xs
-            content:
-              -
-                type: text
-                text: 'Gespreid betalen'
-          -
-            type: paragraph
-            attrs:
-              class: text-xs
-            content:
-              -
-                type: text
-                text: 'WEER mezelf: 6 x €549, totaal €3.294'
-          -
-            type: paragraph
-            attrs:
-              class: text-xs
-            content:
-              -
-                type: text
-                text: 'WEER mezelf | JAAR: 12 x €449, totaal €5.388'
-          -
-            type: paragraph
-            attrs:
-              class: text-xs
-            content:
-              -
-                type: text
-                text: 'WEER mezelf | VIP: 12 x €899, totaal €10.788'
-          -
-            type: paragraph
-            attrs:
-              class: text-xs
-            content:
-              -
-                type: text
-                text: 'In de termijnbedragen zit een opslag. Betaling verloopt via automatische incasso.'
-          -
             type: set
             attrs:
               id: mswfi3xy
@@ -5116,6 +4797,344 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: AlternatingBlocks
+    enabled: true
+  -
+    id: mt0jzb2s
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '31 aug. t/m 6 sept. 2026'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: ' €2.499'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' | JAAR'
+          -
+            type: text
+            text: ' €4.499'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' | VIP'
+          -
+            type: text
+            text: ' €8.999'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '7 t/m 19 sept. 2026'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: ' €2.799'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' | JAAR'
+          -
+            type: text
+            text: ' €4.799'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' | VIP'
+          -
+            type: text
+            text: ' €9.499'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+      -
+        type: paragraph
+        attrs:
+          class: text-md
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '20 t/m 30 sept. 2026'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: ' €2.999'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'mezelf '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '| JAAR'
+          -
+            type: text
+            text: ' €4.999'
+      -
+        type: paragraph
+        attrs:
+          class: text-base
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' | VIP'
+          -
+            type: text
+            text: ' €9.99'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: text-xs
+        content:
+          -
+            type: text
+            text: 'Gespreid betalen'
+      -
+        type: paragraph
+        attrs:
+          class: text-xs
+        content:
+          -
+            type: text
+            text: 'WEER mezelf: 6 x €549, totaal €3.294'
+      -
+        type: paragraph
+        attrs:
+          class: text-xs
+        content:
+          -
+            type: text
+            text: 'WEER mezelf | JAAR: 12 x €449, totaal €5.388'
+      -
+        type: paragraph
+        attrs:
+          class: text-xs
+        content:
+          -
+            type: text
+            text: 'WEER mezelf | VIP: 12 x €899, totaal €10.788'
+      -
+        type: paragraph
+        attrs:
+          class: text-xs
+        content:
+          -
+            type: text
+            text: 'In de termijnbedragen zit een opslag. Betaling verloopt via automatische incasso.'
+    color: '#eb8d7a'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
     enabled: true
   -
     id: mswf2erx
@@ -5329,8 +5348,93 @@ page_builder:
       - f2876e03-63ff-4a35-a9fa-6153e63f3e3a
     background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
-    id: msvv1mf6
-    color: '#f7e7de'
+    id: mt0jrt6s
+    items:
+      -
+        id: mt0jrved
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/08_kickoff_buiten_groepsbegeleiding_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0jsmzq
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Tot en met 6 september geldt de laagste prijs van deze ronde.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je mag jouw pad tijdens de Early Bird (vanaf 31 augustus t/m 6 september) direct kiezen en betalen. Je hoeft daarvoor nog geen Doorbraaksessie te hebben gehad.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Op 7 september veranderen de prijzen. Vanaf 20 september geldt de volledige prijs. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De Doorbraaksessie en de Kick-offgarantie blijven ook gelden wanneer je tijdens de Early Bird koopt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Early Bird = Tot en met 6 september 2026'
+          -
+            type: set
+            attrs:
+              id: mt0jutuj
+              values:
+                type: buttons
+                buttons:
+                  -
+                    id: 52AbWer4
+                    label: 'JA, IK LEG MIJN EARLY BIRD PRIJS VAST'
+                    link_type: link
+                    target_blank: false
+                    link: 'https://tally.so/r/dWzYMN'
+                    button_layout: solid
+                    button_colour: orange
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -5344,13 +5448,8 @@ page_builder:
     outer_spacing_bottom:
       spacing_desktop: standard
       spacing_mobile: standard
-    type: TestimonialBubbles
+    type: AlternatingBlocks
     enabled: true
-    selected_entries:
-      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
-      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
-      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: mmaownhy
     items:
@@ -5446,6 +5545,29 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+  -
+    id: msvv1mf6
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+    selected_entries:
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
+      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: mmfcat34
     color: '#f7e7de'
@@ -5663,7 +5785,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787171216
+updated_at: 1787171913
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
