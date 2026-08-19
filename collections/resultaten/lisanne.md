@@ -4,18 +4,18 @@ blueprint: resultaten
 title: Lisanne
 naam: Lisanne
 media:
-  video: false
+  video: true
   autoplay_video: false
+  preview_image: community/lisanne4.jpg
   images:
     - members/lisanne4.jpg
-  show_swiper_controls: false
   autoplay: true
   swiper_bullets: true
   play_pause_control: true
   sound_control: true
   fullscreen_control: true
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787170221
+updated_at: 1787171322
 content:
   -
     type: paragraph
