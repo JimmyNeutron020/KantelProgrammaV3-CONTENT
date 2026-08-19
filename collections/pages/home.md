@@ -4120,6 +4120,45 @@ page_builder:
           -
             type: text
             text: 'kost. De vraag is ook wat het jou kost wanneer je leven er over een jaar nog precies zo uitziet.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Misschien voelt het alsof jouw klachten al genoeg ruimte hebben ingenomen'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Alsof er al genoeg tijd, geld en aandacht naartoe is gegaan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Maar kiezen voor WEER mezelf betekent niet dat jouw klachten opnieuw centraal komen te staan.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dit keer kies jij voor het leven dat je terug wilt.'
     color: '#ffffff'
     show_settings: false
     inner_spacing_top:
@@ -5860,7 +5899,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Wat als mijn partner niet begrijpt waarom ik dit wil doen?'
+            text: 'Mijn partner en ik durven bijna niet opnieuw te hopen. Hoe nemen we deze beslissing?'
       -
         type: paragraph
         attrs:
@@ -5868,7 +5907,163 @@ page_builder:
         content:
           -
             type: text
-            text: 'Je partner hoeft niet hetzelfde te voelen om jouw keuze te respecteren. Tijdens WEER mezelf krijg je woorden voor wat er in jouw herstel verandert en waarom je bepaalde keuzes maakt. De begeleiding en groep zijn er voor jou, zodat je thuis niet steeds alles hoeft uit te leggen.'
+            text: 'Jouw partner leeft al lange tijd met je mee. Die ziet jouw pijn, de behandelingen en de teleurstellingen. Ook het leven van je partner en gezin is daardoor kleiner geworden.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Twijfel betekent daarom niet automatisch dat je partner jou niet steunt. Soms probeert iemand jullie allebei te beschermen tegen opnieuw hoop krijgen en opnieuw teleurgesteld raken.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Bekijk de verhalen van oud-deelnemers daarom samen. Bespreek wat jouw huidige situatie jullie als gezin kost en welk leven jullie terug zouden willen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'En stel elkaar ook die andere, eerlijke vraag: '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Wat als het deze keer wél lukt?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Mijn klachten hebben al zoveel tijd en geld gekost. Hoe kan ik nóg een investering in mezelf verantwoorden?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat schuldgevoel horen we vaker.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Misschien heb je het gevoel dat jouw klachten al jarenlang veel ruimte innemen. Afspraken moeten worden aangepast, jouw partner neemt dingen over en plannen gaan soms niet door. En dan vraag jij opnieuw tijd, geld en aandacht voor jezelf.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Deze investering geeft jouw klachten geen extra plek. Jij geeft jezelf een plek.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je kiest voor de mogelijkheid dat jouw leven in de toekomst juist minder om pijn, energie en beperkingen hoeft te draaien.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Kijk daarom niet alleen naar wat het programma kost. Kijk ook naar wat de huidige situatie jou en jouw gezin iedere maand kost. In gemiste werkdagen, hulp, behandelingen en momenten waarop je niet mee kunt doen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft jezelf niet eerst te bewijzen voordat je deze ruimte mag innemen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Jij bent het waard om weer jezelf te kunnen zijn.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Dit klinkt bijna te mooi om waar te zijn. Hoe weet ik dat deze verhalen echt zijn?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat begrijpen we. Zeker wanneer je al vaker hoop hebt gehad en opnieuw teleurgesteld bent geraakt.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De vrouwen die hun verhaal delen, geven geen algemene review. Zij kunnen zeggen: “Ik zat waar jij nu zit.”'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Sommigen konden nauwelijks zitten of lopen. Een aantal vrouwen was afhankelijk van een rolstoel of hulp van anderen. Zij vertellen zelf wat er tijdens en na het programma in hun leven veranderde.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Hun verhaal is geen garantie voor jouw persoonlijke resultaat. Het laat wel zien dat jouw situatie van vandaag niet automatisch jouw toekomst hoeft te zijn.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Daarom laten we je zoveel mogelijk echte vrouwen zien en horen. Met hun eigen gezicht, hun eigen vertrekpunt en hun eigen woorden.'
+      -
+        type: paragraph
+        attrs:
+          class: null
       -
         type: paragraph
         attrs:
@@ -5907,6 +6102,96 @@ page_builder:
           -
             type: text
             text: 'Nee. Het programma vervangt geen medische diagnostiek of behandeling. Bij nieuwe, onverklaarde of veranderende klachten bespreek je die eerst met je huisarts of behandelaar.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ik ben al zo moe en mijn leven is al vol. Hoe moet ik dit programma er ook nog bij doen?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Veel vrouwen beginnen moe. Daardoor kan het programma in de eerste weken best veel voelen. Alles is nieuw en je wordt direct uitgenodigd om eerlijk naar jouw situatie te kijken.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft het programma niet perfect te doen. Je hoeft ook niet alle volgende stappen nu al te overzien.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je richt je op wat deze week belangrijk is. Je coach helpt je bepalen waar jouw aandacht naartoe mag en wat kan wachten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ook wanneer je een jong gezin hebt, werkt of tijdelijk in een ingewikkelde periode zit, kun je het programma volgen. Het wordt geen nieuwe prestatie waaraan je moet voldoen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je leert juist stoppen met alles tegelijk willen oplossen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kan ik iemand spreken die het programma zelf heeft doorlopen?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ja. Tijdens de inschrijfperiode organiseren we op verzoek een online gesprek met een of enkele oud-deelnemers.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Zij vertellen eerlijk waar ze begonnen, wat zij lastig vonden en wat er onderweg in hun leven veranderde. Je kunt zelf vragen stellen en jouw partner mag aansluiten.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoort het verhaal dan rechtstreeks van vrouwen die niet alleen zeggen dat ze begrijpen wat jij doormaakt, maar die zelf op een vergelijkbare plek hebben gestaan.'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -5921,6 +6206,74 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: QuestionsCtaSection
+    enabled: true
+  -
+    id: mt0lhx2k
+    items:
+      -
+        id: mt0licng
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - members/paula-6.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0lihje
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 1
+                    content:
+                      -
+                        type: text
+                        text: 'Wat je kinderen straks van je zien.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Niet dat je altijd alles kunt. Wel dat je jezelf weer serieus neemt. Dat je hulp mag aannemen zonder je regie weg te geven. En dat jouw leven niet kleiner hoeft te blijven omdat je lichaam lange tijd om aandacht vroeg.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft vandaag nog niet te weten hoe het hele jaar eruitziet. Je kiest nu hoeveel begeleiding past bij waar jij naartoe wilt.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
     enabled: true
   -
     id: msvv1mf6
@@ -6257,7 +6610,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787173701
+updated_at: 1787175711
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
