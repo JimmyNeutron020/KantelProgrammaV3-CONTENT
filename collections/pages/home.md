@@ -5638,6 +5638,291 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mt0kywac
+    color: '#f5f5f7'
+    swap_layout: false
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/09_weer_verder_online_groepssessie_1080x1080_website.jpg
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: set
+        attrs:
+          id: mt0l02ng
+          values:
+            type: heading
+            heading_size: XS
+            heading:
+              -
+                type: paragraph
+                attrs:
+                  class: null
+                content:
+                  -
+                    type: text
+                    marks:
+                      -
+                        type: btsSpan
+                        attrs:
+                          class: text-orange
+                    text: 'Dit wil je waarschijnlijk nog weten.'
+            show_tag: false
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Moet ik eerst een Doorbraaksessie hebben gehad voordat ik koop?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Nee. Je mag tijdens de verkoopperiode direct jouw route en prijs vastleggen. De Doorbraaksessies vinden op 3 oktober plaats. Kun je die dag niet, dan zoeken we een ander moment.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ik kan niet bij de live kick-off zijn. Kan ik dan wel deelnemen?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ja. De kick-off is inbegrepen en niet verplicht. Wil je gebruikmaken van de Kick-offgarantie na die dag, dan moet je de volledige kick-off hebben bijgewoond.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Ik heb al zoveel geprobeerd. Waarom zou dit anders zijn?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: ' kijkt niet alleen naar de pijnplek. Je werkt met de samenhang tussen je lichamelijke opbouw en de andere uren van je week. Je krijgt een vaste route en begeleiding bij het toepassen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Wat als ik bang ben dat ik het niet volhoud?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je hoeft nu nog niet te kunnen overzien hoe ieder onderdeel gaat verlopen. Je volgt de modules in een vaste volgorde en kunt in de groepscalls bespreken waar je vastloopt. Wel vragen we dat je verantwoordelijkheid neemt voor het toepassen. Wij lopen met je mee, maar kunnen het niet van je overnemen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kan dit ook passen als mijn klachten al jaren bestaan?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Dat kan. De duur van je klachten zegt niet automatisch of het programma bij je past. Tijdens de Doorbraaksessie kijken we naar jouw situatie. Recente of nog niet onderzochte klachten horen eerst bij een arts.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Wat is het verschil tussen WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'mezelf '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'en WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: ' | JAAR?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'In zes maanden doorloop je de volledige methode en bouw je je dagelijks leven gericht op. In het jaartraject heb je extra tijd voor verdere belastbaarheid en integratie. Vanaf week veertien krijg je iedere twee weken groepscoaching met Paul of Chantal binnen WEER VERDER.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Hoe persoonlijk kijkt Paul mee?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Paul en Chantal begeleiden je via de lessen in je account. Tijdens het traject bekijkt Paul in een vaste module persoonlijk jouw beelden. De wekelijkse groepscalls en Q&A worden begeleid door je Kantel Coaches. Binnen JAAR en VIP krijg je vanaf week veertien iedere twee weken live groepscoaching met Paul of Chantal.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Wat als mijn partner niet begrijpt waarom ik dit wil doen?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Je partner hoeft niet hetzelfde te voelen om jouw keuze te respecteren. Tijdens WEER mezelf krijg je woorden voor wat er in jouw herstel verandert en waarom je bepaalde keuzes maakt. De begeleiding en groep zijn er voor jou, zodat je thuis niet steeds alles hoeft uit te leggen.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Kan ik in termijnen betalen?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Ja. Betalen in termijnen kan via automatische incasso. In het totaalbedrag van de termijnen zit een opslag.'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Is WEER mezelf medische behandeling?'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Nee. Het programma vervangt geen medische diagnostiek of behandeling. Bij nieuwe, onverklaarde of veranderende klachten bespreek je die eerst met je huisarts of behandelaar.'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: QuestionsCtaSection
+    enabled: true
+  -
     id: msvv1mf6
     color: '#f7e7de'
     show_settings: false
@@ -5972,7 +6257,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787173284
+updated_at: 1787173701
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
