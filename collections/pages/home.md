@@ -2917,7 +2917,7 @@ page_builder:
                         type: btsSpan
                         attrs:
                           class: text-white
-                    text: 'Het gaat over veel meer dan wat jouw lichaam weer kan'
+                    text: 'WEER mezelf gaat over veel meer dan wat jouw lichaam weer kan'
             show_tag: false
     type: HeroSection
     enabled: true
@@ -3106,12 +3106,13 @@ page_builder:
                     content:
                       -
                         type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
                         text: 'Waarom een jaar, als je na zes maanden al zoveel kunt?'
                 show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
           -
             type: paragraph
             attrs:
@@ -3199,6 +3200,11 @@ page_builder:
                     content:
                       -
                         type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
                         text: 'Vanaf week veertien stap je daarom in WEER VERDER.'
                 show_tag: false
           -
@@ -3208,7 +3214,30 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Iedere twee weken kom je online samen met Paul of Chantal en de andere vrouwen uit het jaartraject. Je kunt een situatie uit jouw eigen leven inbrengen.'
+                text: 'Kies je voor '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Weer '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | JAAR '
+              -
+                type: text
+                text: 'dan kom je iedere twee weken online samen met Paul of Chantal en de andere vrouwen uit het jaartraject. Je kunt een situatie uit jouw eigen leven inbrengen.'
           -
             type: paragraph
             attrs:
@@ -3257,6 +3286,61 @@ page_builder:
               -
                 type: text
                 text: 'Het jaar geeft je de tijd om jouw nieuwe manier van leven toe te passen wanneer het leven rustig is én wanneer het ingewikkeld wordt. Zo wordt het nieuwe pad steeds vertrouwder.'
+        type: new_set
+        enabled: true
+      -
+        id: mt0gdfgf
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - 'chantal/foto-18-01-2026,-11-40-30_1080x1080_website.jpg'
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0e0c0e
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'Je kiest niet voor een jaar omdat je een jaar lang lessen moet volgen'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je kiest voor een jaar omdat jouw leven in dat jaar ook gewoon doorgaat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Er komen drukke weken, vakanties en onverwachte situaties. Juist dan is het fijn als iemand met je meekijkt, je herinnert aan wat je inmiddels weet en je helpt om verder te bouwen vanuit de vrouw die je aan het worden bent.'
         type: new_set
         enabled: true
     show_settings: false
@@ -5570,7 +5654,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787165091
+updated_at: 1787166017
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
