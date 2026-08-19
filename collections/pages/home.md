@@ -3298,7 +3298,7 @@ page_builder:
         enabled: true
       -
         id: mt0gdfgf
-        swap: true
+        swap: false
         media:
           video: false
           autoplay_video: false
@@ -3606,61 +3606,12 @@ page_builder:
         content:
           -
             type: text
-            text: 'Zien waar je nu werkelijk staat | Zelfanalyse | Je lichaam weer durven vertrouwen | Angst en vertrouwen | Je systeem leren omgaan met gezonde prikkels | Zenuwstelsel | Voeden voor energie en herstel | Voeding | Rust brengen in een lichaam dat te lang alert stond | Klachtenspecifiek | Je herstel ook tijdens de nacht ondersteunen | Slaap |'
-          -
-            type: text
             marks:
               -
                 type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Herkennen waarom je jezelf soms tegenhoudt |Zelfsabotage |'
-          -
-            type: text
-            marks:
               -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Jezelf niet kwijtraken in alles wat van je gevraagd wordt |Zorg, rollen en ouderschap |'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Voelen wat er speelt zonder dat pijn de leiding neemt | Emotioneel evenwicht en pijn |'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Je herstel ondersteunen in de andere 167 uur | Herstelbevordering |'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Weer ruimte maken voor een groter leven | Groots dromen |'
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: ' '
-          -
-            type: text
-            text: 'Je lichaam opnieuw verbinden met nabijheid en verlangen | Seksualiteit en intimiteit |Vertrouwen op wat je zelf hebt opgebouwd | Een blik vooruit | Alles wat je hebt geleerd verder verankeren'
+                type: italic
+            text: 'Zien waar je nu werkelijk staat | Zelfanalyse | Je lichaam weer durven vertrouwen | Angst en vertrouwen | Je systeem leren omgaan met gezonde prikkels | Zenuwstelsel | Voeden voor energie en herstel | Voeding | Rust brengen in een lichaam dat te lang alert stond | Klachtenspecifiek | Je herstel ook tijdens de nacht ondersteunen | Slaap | Herkennen waarom je jezelf soms tegenhoudt |Zelfsabotage | Jezelf niet kwijtraken in alles wat van je gevraagd wordt |Zorg, rollen en ouderschap | Voelen wat er speelt zonder dat pijn de leiding neemt | Emotioneel evenwicht en pijn | Je herstel ondersteunen in de andere 167 uur | Herstelbevordering | Weer ruimte maken voor een groter leven | Groots dromen | Je lichaam opnieuw verbinden met nabijheid en verlangen | Seksualiteit en intimiteit |Vertrouwen op wat je zelf hebt opgebouwd | Een blik vooruit | Alles wat je hebt geleerd verder verankeren'
       -
         type: paragraph
         attrs:
@@ -3672,6 +3623,8 @@ page_builder:
     media:
       video: false
       autoplay_video: false
+      images:
+        - weer/transparant_volledig_met_payoff_taupe_1080.png
       show_swiper_controls: false
       autoplay: true
       swiper_bullets: true
@@ -3685,7 +3638,7 @@ page_builder:
     items:
       -
         id: mswcdli6
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -3793,7 +3746,7 @@ page_builder:
         enabled: true
       -
         id: mswclfq5
-        swap: false
+        swap: true
         media:
           video: false
           autoplay_video: false
@@ -4799,6 +4752,23 @@ page_builder:
     type: AlternatingBlocks
     enabled: true
   -
+    id: mt0kre64
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/transparant_volledig_met_payoff_taupe_1080.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    type: HeroSection
+    enabled: true
+  -
     id: mt0jzb2s
     content:
       -
@@ -5120,7 +5090,7 @@ page_builder:
           -
             type: text
             text: 'In de termijnbedragen zit een opslag. Betaling verloopt via automatische incasso.'
-    color: '#eb8d7a'
+    color: '#f7e7de'
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -5207,38 +5177,6 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: IntoSection
-    enabled: true
-  -
-    id: msyfvtn3
-    items:
-      -
-        id: msyfw1jy
-        swap: false
-        media:
-          video: false
-          autoplay_video: false
-          show_swiper_controls: false
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        type: new_set
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
     enabled: true
   -
     id: mswf46l1
@@ -5435,6 +5373,162 @@ page_builder:
                     button_colour: orange
         type: new_set
         enabled: true
+      -
+        id: mt0k5tf0
+        swap: true
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/04_methode_opbouw_dorpsstraat_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0k7cek
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Je mag beslissen nadat je het hebt ervaren.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je legt nu je plek en prijs vast. Daarna heb je je Doorbraaksessie, naar keuze live of online. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'En op 17 oktober ben je welkom bij de volledige live kick-offdag bij Kaldenbroek in Lottum. Bij de prijs inbegrepen, niet verplicht.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Voelt WEER mezelf na die dag toch niet als de juiste plek? Laat het ons uiterlijk 18 oktober 2026 om 18.00 uur weten. Je ontvangt je investering terug, met uitzondering van €159 voor deelname aan de kick-offdag.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'De garantie geldt wanneer je de volledige kick-off hebt bijgewoond. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Blijkt tijdens de Doorbraaksessie al dat het programma niet passend is, dan ontvang je het volledige bedrag terug.'
+        type: new_set
+        enabled: true
+      -
+        id: mt0k9wec
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - weer/07_vip_sardinie_blue_zone_1080x1080_website.jpg
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0k7cek
+              values:
+                type: heading
+                heading_size: XS
+                heading:
+                  -
+                    type: heading
+                    attrs:
+                      level: 1
+                    content:
+                      -
+                        type: text
+                        text: 'Van keuze naar start.'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je kiest nu jouw pad en legt de prijs van dit moment vast.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Op 3 oktober heb je jouw Doorbraaksessie, naar keuze live bij Kaldenbroek in Lottum of online. Kun je die dag niet, dan plannen we een ander moment.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Op zaterdag 17 oktober ben je welkom bij de live kick-off van 11.00 tot 15.00 uur. De dag is inbegrepen en niet verplicht.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Daarna ga je in jouw account aan de slag met de modules. Je neemt deel aan groepscalls en ontvangt persoonlijke feedback die bij jouw pad hoort.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hoeft vóór je aankoop geen Doorbraaksessie te hebben gehad. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat geldt ook tijdens de Early Bird.'
+        type: new_set
+        enabled: true
     show_settings: false
     inner_spacing_top:
       spacing_desktop: standard
@@ -5450,6 +5544,146 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
+  -
+    id: mt0kfee4
+    full_height: true
+    layout_setting: media
+    media:
+      video: false
+      autoplay_video: false
+      images:
+        - weer/transparant_woordmerk_met_payoff_blauw_1080.png
+      show_swiper_controls: false
+      autoplay: true
+      swiper_bullets: true
+      play_pause_control: true
+      sound_control: true
+      fullscreen_control: true
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'Wat er nu vast staat.'
+    type: HeroSection
+    enabled: true
+  -
+    id: mt0kgiev
+    content:
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '31 augustus t/m 6 september: Early Bird'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '7 t/m 19 september: tweede prijsperiode'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '20 t/m 30 september: laatste inschrijfperiode'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '3 oktober: Doorbraaksessies, live of online'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: '17 oktober: live kick-off bij Kaldenbroek in Lottum, van 11.00 tot 15.00 uur'
+      -
+        type: paragraph
+        attrs:
+          class: null
+        content:
+          -
+            type: text
+            text: 'De online groepssessies tijdens de 6 en 12 maanden worden op wisselende dagen en tijden gepland. Ze worden opgenomen en zijn terug te kijken wanneer je er een keer niet bij kunt zijn.'
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: IntoSection
+    enabled: true
+  -
+    id: msvv1mf6
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+    selected_entries:
+      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
+      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
+      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
+  -
+    id: mmfcat34
+    color: '#f7e7de'
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: TestimonialBubbles
+    enabled: true
+    selected_entries:
+      - 5ac75b9c-d535-47cf-9c4d-faaf8670629f
+      - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
+      - ef496077-0ae2-4572-b93e-430b6ac53df0
+      - 13e97665-901d-4b8b-9d4a-97fd8c1dcf5c
+    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: mmaownhy
     items:
@@ -5545,53 +5779,6 @@ page_builder:
       spacing_mobile: standard
     type: AlternatingBlocks
     enabled: true
-  -
-    id: msvv1mf6
-    color: '#f7e7de'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-    selected_entries:
-      - fb14e84b-e6c1-427a-8f56-643318cd3cb3
-      - 4de64ef2-3154-4fa4-969c-93fb0c32b443
-      - ed7aa87e-3cbe-4714-bb8e-8103d410a283
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
-  -
-    id: mmfcat34
-    color: '#f7e7de'
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: TestimonialBubbles
-    enabled: true
-    selected_entries:
-      - 5ac75b9c-d535-47cf-9c4d-faaf8670629f
-      - 2d4c9b7d-8c30-426c-b237-eb59731b7c6a
-      - ef496077-0ae2-4572-b93e-430b6ac53df0
-      - 13e97665-901d-4b8b-9d4a-97fd8c1dcf5c
-    background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: m7yosbje
     show_settings: false
@@ -5785,7 +5972,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787171913
+updated_at: 1787173284
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
