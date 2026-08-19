@@ -3052,6 +3052,190 @@ page_builder:
     type: IntoSection
     enabled: true
   -
+    id: mt0dwoq9
+    items:
+      -
+        id: mt0dwt34
+        swap: false
+        media:
+          video: false
+          autoplay_video: false
+          images:
+            - 'weer/foto-18-01-2026,-11-40-49_1080x1080_website.jpg'
+          show_swiper_controls: false
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0e0c0e
+              values:
+                type: heading
+                heading_size: S
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Waarom een jaar, als je na zes maanden al zoveel kunt?'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Na zes maanden is het gewone leven voor veel vrouwen grotendeels terug. Je kunt er dan voor kiezen om zelfstandig verder te bouwen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Kies je voor '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                  -
+                    type: italic
+                text: mezelf
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: ' | JAAR of VIP'
+              -
+                type: text
+                text: ', dan blijf je ook in de volgende fase verbonden met Paul, Chantal en de andere vrouwen uit het jaartraject.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Dat is waardevol omdat oud gedrag een goed belopen olifantenpad is.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wanneer jouw leven drukker wordt, er iets onverwachts gebeurt of je veel nieuwe energie krijgt, kun je ongemerkt opnieuw hetzelfde pad kiezen. Je gaat toch weer over jouw grenzen, neemt te veel verantwoordelijkheid of vult iedere vrije ruimte met nieuwe verplichtingen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Vanaf week veertien stap je daarom in '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'WEER VERDER'
+              -
+                type: text
+                text: .
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Iedere twee weken kom je online samen met Paul of Chantal en de andere vrouwen uit het jaartraject. Je kunt een situatie uit jouw eigen leven inbrengen.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Misschien voel je opnieuw iets in jouw lichaam en vraag je je af hoe je verder kunt opbouwen. Misschien weet je precies waar jouw grens ligt, maar lukt het niet om die thuis of op je werk uit te spreken.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het kan ook gaan over jouw relatie, overtuigingen of een keuze die je al lange tijd uitstelt.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hoewel het groepssessies zijn, wordt er heel precies gekeken naar wat jij op dat moment nodig hebt en wat jouw verdere groei in de weg staat.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Ook de coaching van een andere vrouw kan jou veel brengen. Soms herken je jouw eigen patroon eerder in haar verhaal dan in dat van jezelf.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je ziet welke keuzes andere vrouwen inmiddels maken, wat zij hebben losgelaten en wat ze weer durven. Daardoor gaat ook jouw beeld van wat mogelijk is verder open.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Het jaar geeft je de tijd om jouw nieuwe manier van leven toe te passen wanneer het leven rustig is én wanneer het ingewikkeld wordt. Zo wordt het nieuwe pad steeds vertrouwder.'
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
+    enabled: true
+  -
     id: msw9kyri
     content:
       -
@@ -5347,7 +5531,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787160309
+updated_at: 1787161887
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
