@@ -942,7 +942,7 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Opnieuw zwanger'
+                        text: 'Herken je dit?'
                 show_tag: false
           -
             type: paragraph
@@ -951,7 +951,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Monica, gezinsbehandelaar in de GGZ en mama van een dochtertje had jarenlange chronische pijn. '
+                text: 'Veel vrouwen durven niet meer groots te dromen omdat ze het vertrouwen in hun lichaam zijn verloren. '
           -
             type: paragraph
             attrs:
@@ -959,7 +959,15 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Hier vertelt ze, vol vertrouwen in haar eigen lichaam, over haar proces terwijl ze zwanger 28 weken zwanger is van haar tweede kindje.'
+                text: 'Zo was het ook bij Monica, gezinsbehandelaar in de GGZ en mama van een dochtertje. Ze had jarenlang chronische pijn. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Hier vertelt ze, vol vertrouwen in haar eigen lichaam, terwijl ze zwanger 28 weken zwanger is van haar tweede kindje!'
           -
             type: set
             attrs:
@@ -5318,6 +5326,7 @@ page_builder:
     selected_entries:
       - 474d9ca3-9a8c-4f54-9041-15b5362216c9
       - 21c6737d-f5a9-4ddc-9370-b92ea5780408
+      - f2876e03-63ff-4a35-a9fa-6153e63f3e3a
     background_image: weer/kleurvlak_volledig_met_payoff_taupe_met_creme_1080.png
   -
     id: msvv1mf6
@@ -5654,7 +5663,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787169724
+updated_at: 1787171216
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
