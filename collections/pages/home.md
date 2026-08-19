@@ -1617,64 +1617,6 @@ page_builder:
     type: TestimonialBubbles
     enabled: true
   -
-    id: mt0muxer
-    items:
-      -
-        id: mt0mv5od
-        swap: false
-        media:
-          video: true
-          autoplay_video: false
-          video_link: 'https://vimeo.com/1219684405?fl=ip&fe=ec'
-          autoplay: true
-          swiper_bullets: true
-          play_pause_control: true
-          sound_control: true
-          fullscreen_control: true
-        content:
-          -
-            type: set
-            attrs:
-              id: mt0mw90k
-              values:
-                type: heading
-                heading_size: M
-                heading:
-                  -
-                    type: paragraph
-                    attrs:
-                      class: null
-                    content:
-                      -
-                        type: text
-                        text: 'Pijnvrij na ruim 3 jaar klachten'
-                show_tag: false
-          -
-            type: paragraph
-            attrs:
-              class: null
-            content:
-              -
-                type: text
-                text: 'Wienke kampte sinds 2022 met heup/, bekken en uiteindelijk ook rugklachten. Ze had last van vermoeidheid en weinig energie. Dit vertelt ze na het volgen van het Kantel Programma in juli 2026 ....'
-        type: new_set
-        enabled: true
-    show_settings: false
-    inner_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    inner_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_top:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    outer_spacing_bottom:
-      spacing_desktop: standard
-      spacing_mobile: standard
-    type: AlternatingBlocks
-    enabled: true
-  -
     id: msw69nfh
     content:
       -
@@ -1740,6 +1682,72 @@ page_builder:
       spacing_desktop: standard
       spacing_mobile: standard
     type: IntoSection
+    enabled: true
+  -
+    id: mt0muxer
+    items:
+      -
+        id: mt0mv5od
+        swap: false
+        media:
+          video: true
+          autoplay_video: false
+          video_link: 'https://vimeo.com/1219684405?fl=ip&fe=ec'
+          autoplay: true
+          swiper_bullets: true
+          play_pause_control: true
+          sound_control: true
+          fullscreen_control: true
+        content:
+          -
+            type: set
+            attrs:
+              id: mt0mw90k
+              values:
+                type: heading
+                heading_size: M
+                heading:
+                  -
+                    type: paragraph
+                    attrs:
+                      class: null
+                    content:
+                      -
+                        type: text
+                        text: 'Pijnvrij na ruim 3 jaar klachten'
+                show_tag: false
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Wienke kampte sinds 2022 met heup/, bekken en uiteindelijk ook rugklachten. Ze had last van vermoeidheid en weinig energie. '
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'In deze korte video vertelt ze hoe ze voelt, nu in juli 2026, na het volgen van het Kantel Programma '
+        type: new_set
+        enabled: true
+    show_settings: false
+    inner_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    inner_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_top:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    outer_spacing_bottom:
+      spacing_desktop: standard
+      spacing_mobile: standard
+    type: AlternatingBlocks
     enabled: true
   -
     id: msw35yv0
@@ -6689,7 +6697,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787176875
+updated_at: 1787177302
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
