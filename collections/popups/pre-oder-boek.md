@@ -126,6 +126,7 @@ target_pages:
   - a932636a-55fe-4d95-8489-dbbc91f1cf66
   - 78ef22f5-be55-47cf-9d14-17a61cd06e01
   - 5f59df21-1327-438b-ab5e-0dcce9d694fa
+  - ee0042c5-3c18-4d61-91a5-85c4de943d0e
 trigger_type: exit_intent
 frequency: once_per_session
 min_page_views: 0
@@ -134,5 +135,5 @@ seo_title: 'Chronische pijn is niet normaal'
 seo_description: '@null'
 seo_og_image: boekomslag-3d-klein-1781529845.png
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1786891855
+updated_at: 1787166893
 ---
