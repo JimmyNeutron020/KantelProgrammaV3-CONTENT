@@ -2706,12 +2706,24 @@ page_builder:
                     content:
                       -
                         type: text
-                        text: 'Rond dertien weken: je bereikt de echte startlijn'
+                        marks:
+                          -
+                            type: btsSpan
+                            attrs:
+                              class: text-orange
+                        text: 'WEER mezelf | 6 MAANDEN'
                 show_tag: false
           -
             type: paragraph
             attrs:
               class: null
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Rond dertien weken: je voelt dat je boven de´nullijn´staat. '
           -
             type: paragraph
             attrs:
@@ -2735,7 +2747,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je kunt op dat moment vaak vrijwel alles weer, alleen nog niet langdurig.'
+                text: 'Je kunt op dat moment vaak vrijwel alles weer, alleen nog niet altijd langdurig.'
           -
             type: paragraph
             attrs:
@@ -2743,7 +2755,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Kon je helemaal niet zitten, dan begin je misschien met één minuut. Daarna worden het drie minuten en vervolgens zes. Zo leert jouw lichaam stap voor stap dat het een activiteit weer aankan.'
+                text: 'Kon je helemaal niet zitten, dan begin je misschien met één minuut. Daarna worden het snel drie minuten en vervolgens binnen 13 weken kun je 12 of 24 minuten pijnvrij zitten. '
           -
             type: paragraph
             attrs:
@@ -2751,7 +2763,21 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Je hebt inmiddels ervaren dat jouw lichaam kan herstellen. De gedachte dat het bij jou toch niet gaat lukken, verliest haar grip.'
+                text: 'Zo leert jouw lichaam stap voor stap dat het een activiteit weer aankan.'
+          -
+            type: paragraph
+            attrs:
+              class: null
+            content:
+              -
+                type: text
+                text: 'Je hebt inmiddels ervaren dat jouw lichaam kan herstellen. '
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'De gedachte dat het bij jou toch niet gaat lukken, verliest haar grip.'
           -
             type: paragraph
             attrs:
@@ -2767,7 +2793,10 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Na zes maanden: het gewone leven is weer van jou'
+                marks:
+                  -
+                    type: bold
+                text: 'Bij de zes maanden is het gewone leven weer helemaal van jou.'
           -
             type: paragraph
             attrs:
@@ -2775,7 +2804,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Na zes maanden kunnen veel vrouwen de gewone dingen weer doen. Boodschappen halen, voor de kinderen zorgen, werken, reizen en opnieuw sporten.'
+                text: "Na zes maanden kunnen veel vrouwen de gewone dingen weer 'onbeperkt' doen. Boodschappen halen, voor de kinderen zorgen, werken, reizen en opnieuw sporten."
           -
             type: paragraph
             attrs:
@@ -2799,7 +2828,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Dat betekent niet dat ieder groot doel al volledig bereikt is. Wanneer je vooraf nauwelijks kon lopen, loop je na zes maanden nog niet vanzelfsprekend een marathon. Je bent wel gericht aan het opbouwen en weet inmiddels dat jouw lichaam vooruit kan.'
+                text: 'Dat betekent niet dat ieder groot persoonlijk doel al volledig bereikt is. Wanneer je vooraf nauwelijks kon lopen, loop je na zes maanden nog niet vanzelfsprekend een marathon. Je bent wel gericht aan het opbouwen en weet inmiddels dat jouw lichaam vooruit kan.'
         type: new_set
         enabled: true
     show_settings: false
@@ -2852,7 +2881,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Van zes tot twaalf maanden: van weer kunnen naar voluit kunnen leven'
+            text: 'Van zes tot twaalf maanden: van WEER alles kunnen naar voluit kunnen leven waarin je grootste dromen een echte plek hebben.'
       -
         type: paragraph
         attrs:
@@ -2898,7 +2927,21 @@ page_builder:
             text: 'Na twaalf maanden'
           -
             type: text
-            text: ': voor anderen een andere vrouw, voor jezelf eindelijk weer jij'
+            text: ': voor anderen een andere vrouw, voor jezelf eindelijk '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
       -
         type: paragraph
         attrs:
@@ -2906,7 +2949,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Na twaalf maanden is jouw leefwijze geen herstelprogramma meer. Het is hoe je leeft.'
+            text: 'Vanaf zes maanden is jouw leefwijze geen herstelprogramma meer. Het is hoe je leeft.'
       -
         type: paragraph
         attrs:
@@ -2938,7 +2981,24 @@ page_builder:
         content:
           -
             type: text
-            text: 'Voor jou voelt het alsof je eindelijk weer jezelf bent.'
+            text: 'Voor jou voelt het als eindelijk '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'WEER '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: mezelf
+          -
+            type: text
+            text: .
     color: '#f5f5f7'
     show_settings: false
     inner_spacing_top:
@@ -6697,7 +6757,7 @@ page_builder:
     type: AlternatingBlocks
     enabled: false
 updated_by: 4efb356c-dad7-4c3e-a74e-91de07ce53bd
-updated_at: 1787177302
+updated_at: 1787226936
 use_white_header: false
 seo_title: 'Kantel Programma'
 seo_description: 'Vrouwen met chronische pijn worden te vaak niet serieus genomen. Wij brengen hier verandering in en laten zien dat herstel wél mogelijk is.'
